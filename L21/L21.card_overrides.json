@@ -1,0 +1,112 @@
+{
+  "travel-to-country prepositions use en or au from country gender": {
+    "front": "「我去了日本」je suis allé(e) ___ Japon（填 介词+国名）",
+    "answer": "au Japon",
+    "back": "去国家：阴性国名用 en（en France/en Chine/en Argentine）；阳性国名用 au（au Japon/au Mexique/au Portugal）。"
+  },
+  "répondre is built with à for people and questions": {
+    "front": "「回答某人」répondre ___ quelqu'un（填介词）",
+    "answer": "à",
+    "back": "répondre à qqn / répondre à une question。"
+  },
+  "des becomes de before a preposed plural adjective": {
+    "front": "「一些好文章」(形容词 bon 前置)：___ bons articles（填 des / de）",
+    "answer": "de",
+    "back": "复数形容词放名词前时 des→de：de bons articles、de bonnes choses。"
+  },
+  "quartier as neighborhood/community word with daily-life collocations": {
+    "front": "de + le = ?（如 le quartier → ___ quartier）",
+    "answer": "du",
+    "back": "du = de + le。le quartier → du quartier。"
+  },
+  "gare recognized as train station and separated from guerre": {
+    "front": "「火车站」(带冠词)，别和 guerre(战争) 混",
+    "answer": "la gare",
+    "back": "la gare=火车站；la guerre=战争。两个都阴性。"
+  },
+  "mieux versus meilleur as adverb versus adjective": {
+    "front": "「他工作得更好」Il travaille ___（更好地）",
+    "answer": "mieux",
+    "back": "mieux=更好地(副词,修饰动词)；meilleur(e)=更好的(形容词,修饰名词)。"
+  },
+  "parler plus language has no article": {
+    "front": "「我说法语」je parle ___（填语言）",
+    "answer": "français",
+    "back": "parler+语言不加冠词：je parle français / anglais。"
+  },
+  "téléphoner à takes lui not le or la": {
+    "front": "「给他打电话」je ___ téléphone（lui / le / la）",
+    "answer": "lui",
+    "back": "téléphoner à qqn 是间接宾语 → 用 lui，不是 le/la。"
+  },
+  "aller simple future flagged as irregular root memorization": {
+    "front": "aller 的简单将来时「我将去」je ___",
+    "answer": "j'irai",
+    "back": "aller 将来时词根不规则：j'irai, tu iras, il ira…"
+  },
+  "à plus vowel-initial place noun elides to à l'": {
+    "front": "「在大学」(à + université，元音开头)",
+    "answer": "à l'université",
+    "back": "元音开头的地点名词用 à l'：à l'université、à l'école。"
+  },
+  "second-group-verb-conjugation-pattern-finir": {
+    "front": "finir 现在时「nous ___」",
+    "answer": "finissons",
+    "back": "第二组 -ir：finis/finis/finit/finissons/finissez/finissent。"
+  },
+  "-dre verbs form past participles in -du in this taught pattern": {
+    "front": "perdre 的过去分词",
+    "answer": "perdu",
+    "back": "-dre 动词过去分词多为 -du：perdre→perdu、attendre→attendu、répondre→répondu。"
+  },
+  "second-group-past-participle-in-i": {
+    "front": "finir 的过去分词",
+    "answer": "fini",
+    "back": "第二组 -ir 过去分词为 -i：finir→fini、choisir→choisi。"
+  },
+  "se perdre means to get lost; perdre remains ordinary lose": {
+    "front": "「我迷路了」je suis ___",
+    "answer": "perdu",
+    "back": "se perdre=迷路（je suis perdu(e)）；perdre=丢失。"
+  },
+  "efficace means efficient": {
+    "front": "「高效的」(形容词)",
+    "answer": "efficace",
+    "back": "efficace=高效的（阴阳同形）。"
+  },
+  "ça dépend taught as it depends": {
+    "front": "「看情况 / 视情况而定」",
+    "answer": "ça dépend",
+    "back": "ça dépend = 看情况。"
+  },
+  "tout le temps means all the time": {
+    "front": "「一直、总是」(3 个词)",
+    "answer": "tout le temps",
+    "back": "tout le temps = 一直/总是。"
+  },
+  "éteindre and allumer as a paired off/on control set": {
+    "front": "「关灯」(动词 + 灯)",
+    "answer": "éteindre la lumière",
+    "back": "éteindre=关、allumer=开：éteindre/allumer la lumière(la radio)。"
+  },
+  "passé composé versus imparfait framed as single completed versus state habit or duration": {
+    "front": "复合过去时 vs 未完成过去时 怎么选？",
+    "answer": null,
+    "back": "passé composé=单次、已完成的动作；imparfait=状态/持续/习惯/反复。Hier il a plu(PC) / Avant j'habitais à la campagne(imparfait)。"
+  },
+  "depuis with present tense for actions still ongoing": {
+    "front": "depuis（自……以来）配什么时态？",
+    "answer": null,
+    "back": "depuis + 现在时（动作持续到现在）：j'attends depuis longtemps / depuis 2000。"
+  },
+  "country gender is often guessed by final e, with Mexique as exception": {
+    "front": "国家的阴阳性怎么猜？",
+    "answer": null,
+    "back": "多数以 -e 结尾的国家是阴性（la France/la Chine/l'Australie），但 le Mexique 例外。"
+  },
+  "movement verbs use être in passé composé and trigger agreement": {
+    "front": "位移动词的复合过去时用哪个助动词？过去分词怎样？",
+    "answer": null,
+    "back": "用 être，且过去分词与主语性数配合：je suis allé(e)、elle est allée。"
+  }
+}

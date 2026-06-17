@@ -1,0 +1,2816 @@
+{
+  "lesson": "L21",
+  "source": "L21_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L21.species.json",
+    "expected_species_count": 73
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L21 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "le quartier",
+          "pos": "noun",
+          "zh": "社区，街区"
+        },
+        {
+          "type": "vocab",
+          "fr": "la gare",
+          "pos": "noun",
+          "zh": "火车站"
+        },
+        {
+          "type": "vocab",
+          "fr": "la guerre",
+          "pos": "noun",
+          "zh": "战争"
+        },
+        {
+          "type": "vocab",
+          "fr": "le développement",
+          "pos": "noun",
+          "zh": "发展"
+        },
+        {
+          "type": "vocab",
+          "fr": "le progrès",
+          "pos": "noun",
+          "zh": "进步，进展"
+        },
+        {
+          "type": "vocab",
+          "fr": "tirer",
+          "pos": "verb",
+          "zh": "拉，拽"
+        },
+        {
+          "type": "vocab",
+          "fr": "se développer",
+          "pos": "verb",
+          "zh": "发展起来"
+        },
+        {
+          "type": "vocab",
+          "fr": "le transport",
+          "pos": "noun",
+          "zh": "交通，运输"
+        },
+        {
+          "type": "vocab",
+          "fr": "autonome",
+          "pos": "adj",
+          "zh": "自主的"
+        },
+        {
+          "type": "vocab",
+          "fr": "volontiers",
+          "pos": "expr",
+          "zh": "乐意地，很愿意"
+        },
+        {
+          "type": "vocab",
+          "fr": "de nos jours",
+          "pos": "expr",
+          "zh": "如今，当今"
+        },
+        {
+          "type": "vocab",
+          "fr": "certes",
+          "pos": "expr",
+          "zh": "当然，确实"
+        },
+        {
+          "type": "vocab",
+          "fr": "une activité",
+          "pos": "noun",
+          "zh": "活动"
+        },
+        {
+          "type": "vocab",
+          "fr": "le monde",
+          "pos": "noun",
+          "zh": "世界"
+        },
+        {
+          "type": "vocab",
+          "fr": "mondial",
+          "pos": "adj",
+          "zh": "世界的，全球的"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir lieu",
+          "pos": "expr",
+          "zh": "举行，发生"
+        },
+        {
+          "type": "vocab",
+          "fr": "opposé",
+          "pos": "adj",
+          "zh": "对立的，相反的"
+        },
+        {
+          "type": "vocab",
+          "fr": "isolément",
+          "pos": "expr",
+          "zh": "孤立地"
+        },
+        {
+          "type": "vocab",
+          "fr": "le milieu",
+          "pos": "noun",
+          "zh": "中间，环境"
+        },
+        {
+          "type": "vocab",
+          "fr": "le paysage",
+          "pos": "noun",
+          "zh": "风景"
+        },
+        {
+          "type": "vocab",
+          "fr": "une autoroute",
+          "pos": "noun",
+          "zh": "高速公路"
+        },
+        {
+          "type": "vocab",
+          "fr": "le pays",
+          "pos": "noun",
+          "zh": "国家"
+        },
+        {
+          "type": "vocab",
+          "fr": "la France",
+          "pos": "noun",
+          "zh": "法国"
+        },
+        {
+          "type": "vocab",
+          "fr": "la Chine",
+          "pos": "noun",
+          "zh": "中国"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'Angleterre",
+          "pos": "noun",
+          "zh": "英国"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'Australie",
+          "pos": "noun",
+          "zh": "澳大利亚"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'Argentine",
+          "pos": "noun",
+          "zh": "阿根廷"
+        },
+        {
+          "type": "vocab",
+          "fr": "le Japon",
+          "pos": "noun",
+          "zh": "日本"
+        },
+        {
+          "type": "vocab",
+          "fr": "le Portugal",
+          "pos": "noun",
+          "zh": "葡萄牙"
+        },
+        {
+          "type": "vocab",
+          "fr": "le Pérou",
+          "pos": "noun",
+          "zh": "秘鲁"
+        },
+        {
+          "type": "vocab",
+          "fr": "le Pakistan",
+          "pos": "noun",
+          "zh": "巴基斯坦"
+        },
+        {
+          "type": "vocab",
+          "fr": "le Singapour",
+          "pos": "noun",
+          "zh": "新加坡"
+        },
+        {
+          "type": "vocab",
+          "fr": "le Mexique",
+          "pos": "noun",
+          "zh": "墨西哥"
+        },
+        {
+          "type": "vocab",
+          "fr": "le chômage",
+          "pos": "noun",
+          "zh": "失业"
+        },
+        {
+          "type": "vocab",
+          "fr": "être au chômage",
+          "pos": "expr",
+          "zh": "处于失业状态"
+        },
+        {
+          "type": "vocab",
+          "fr": "parcourir",
+          "pos": "verb",
+          "zh": "贯穿，走遍"
+        },
+        {
+          "type": "vocab",
+          "fr": "remplir",
+          "pos": "verb",
+          "zh": "填写"
+        },
+        {
+          "type": "vocab",
+          "fr": "une fiche",
+          "pos": "noun",
+          "zh": "表，信息表"
+        },
+        {
+          "type": "vocab",
+          "fr": "un document",
+          "pos": "noun",
+          "zh": "文件"
+        },
+        {
+          "type": "vocab",
+          "fr": "important",
+          "pos": "adj",
+          "zh": "重要的"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'université",
+          "pos": "noun",
+          "zh": "大学"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'école",
+          "pos": "noun",
+          "zh": "学校"
+        },
+        {
+          "type": "vocab",
+          "fr": "le directeur",
+          "pos": "noun",
+          "zh": "领导，主任"
+        },
+        {
+          "type": "vocab",
+          "fr": "souvent",
+          "pos": "expr",
+          "zh": "经常"
+        },
+        {
+          "type": "vocab",
+          "fr": "tous les jours",
+          "pos": "expr",
+          "zh": "每天"
+        },
+        {
+          "type": "vocab",
+          "fr": "la superficie",
+          "pos": "noun",
+          "zh": "面积"
+        },
+        {
+          "type": "vocab",
+          "fr": "la surface",
+          "pos": "noun",
+          "zh": "面积，表面"
+        },
+        {
+          "type": "vocab",
+          "fr": "un kilomètre carré",
+          "pos": "noun",
+          "zh": "平方公里"
+        },
+        {
+          "type": "vocab",
+          "fr": "un mètre carré",
+          "pos": "noun",
+          "zh": "平方米"
+        },
+        {
+          "type": "vocab",
+          "fr": "le loyer",
+          "pos": "noun",
+          "zh": "房租"
+        },
+        {
+          "type": "vocab",
+          "fr": "le prix",
+          "pos": "noun",
+          "zh": "价格"
+        },
+        {
+          "type": "vocab",
+          "fr": "meilleur",
+          "pos": "adj",
+          "zh": "更好的"
+        },
+        {
+          "type": "vocab",
+          "fr": "mieux",
+          "pos": "expr",
+          "zh": "更好地"
+        },
+        {
+          "type": "vocab",
+          "fr": "efficace",
+          "pos": "adj",
+          "zh": "高效的"
+        },
+        {
+          "type": "vocab",
+          "fr": "intéressant",
+          "pos": "adj",
+          "zh": "有趣的"
+        },
+        {
+          "type": "vocab",
+          "fr": "animé",
+          "pos": "adj",
+          "zh": "热闹的"
+        },
+        {
+          "type": "vocab",
+          "fr": "la ville natale",
+          "pos": "noun",
+          "zh": "家乡城市"
+        },
+        {
+          "type": "vocab",
+          "fr": "le pays natal",
+          "pos": "noun",
+          "zh": "祖国，出生国家"
+        },
+        {
+          "type": "vocab",
+          "fr": "la chambre",
+          "pos": "noun",
+          "zh": "房间"
+        },
+        {
+          "type": "vocab",
+          "fr": "les vacances",
+          "pos": "noun",
+          "zh": "假期"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'argent",
+          "pos": "noun",
+          "zh": "钱"
+        },
+        {
+          "type": "vocab",
+          "fr": "un élève",
+          "pos": "noun",
+          "zh": "学生"
+        },
+        {
+          "type": "vocab",
+          "fr": "hier",
+          "pos": "expr",
+          "zh": "昨天"
+        },
+        {
+          "type": "vocab",
+          "fr": "hier soir",
+          "pos": "expr",
+          "zh": "昨晚"
+        },
+        {
+          "type": "vocab",
+          "fr": "la semaine dernière",
+          "pos": "expr",
+          "zh": "上周"
+        },
+        {
+          "type": "vocab",
+          "fr": "le mois dernier",
+          "pos": "expr",
+          "zh": "上个月"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'année dernière",
+          "pos": "expr",
+          "zh": "去年"
+        },
+        {
+          "type": "vocab",
+          "fr": "avant",
+          "pos": "expr",
+          "zh": "以前"
+        },
+        {
+          "type": "vocab",
+          "fr": "plus tôt",
+          "pos": "expr",
+          "zh": "更早"
+        },
+        {
+          "type": "vocab",
+          "fr": "beaucoup de",
+          "pos": "expr",
+          "zh": "很多"
+        },
+        {
+          "type": "vocab",
+          "fr": "autant de",
+          "pos": "expr",
+          "zh": "一样多"
+        },
+        {
+          "type": "vocab",
+          "fr": "plus de",
+          "pos": "expr",
+          "zh": "更多"
+        },
+        {
+          "type": "vocab",
+          "fr": "moins de",
+          "pos": "expr",
+          "zh": "更少"
+        },
+        {
+          "type": "vocab",
+          "fr": "peu de",
+          "pos": "expr",
+          "zh": "一点点"
+        },
+        {
+          "type": "vocab",
+          "fr": "une chanson",
+          "pos": "noun",
+          "zh": "歌"
+        },
+        {
+          "type": "vocab",
+          "fr": "écouter",
+          "pos": "verb",
+          "zh": "听"
+        },
+        {
+          "type": "vocab",
+          "fr": "le magasin",
+          "pos": "noun",
+          "zh": "商店"
+        },
+        {
+          "type": "vocab",
+          "fr": "les vêtements",
+          "pos": "noun",
+          "zh": "衣服"
+        },
+        {
+          "type": "vocab",
+          "fr": "acheter",
+          "pos": "verb",
+          "zh": "买"
+        },
+        {
+          "type": "vocab",
+          "fr": "le professeur",
+          "pos": "noun",
+          "zh": "老师"
+        },
+        {
+          "type": "vocab",
+          "fr": "patient",
+          "pos": "adj",
+          "zh": "有耐心的"
+        },
+        {
+          "type": "vocab",
+          "fr": "la salle",
+          "pos": "noun",
+          "zh": "教室，房间"
+        },
+        {
+          "type": "vocab",
+          "fr": "le cours",
+          "pos": "noun",
+          "zh": "课"
+        },
+        {
+          "type": "vocab",
+          "fr": "téléphoner à",
+          "pos": "verb",
+          "zh": "打电话"
+        },
+        {
+          "type": "vocab",
+          "fr": "écrire à",
+          "pos": "verb",
+          "zh": "写信，写邮件"
+        },
+        {
+          "type": "vocab",
+          "fr": "parler",
+          "pos": "verb",
+          "zh": "说，讲话，谈论"
+        },
+        {
+          "type": "vocab",
+          "fr": "le film",
+          "pos": "noun",
+          "zh": "电影"
+        },
+        {
+          "type": "vocab",
+          "fr": "ici",
+          "pos": "expr",
+          "zh": "这里"
+        },
+        {
+          "type": "vocab",
+          "fr": "là",
+          "pos": "expr",
+          "zh": "那里"
+        },
+        {
+          "type": "vocab",
+          "fr": "le garçon",
+          "pos": "noun",
+          "zh": "男孩"
+        },
+        {
+          "type": "vocab",
+          "fr": "courir",
+          "pos": "verb",
+          "zh": "跑"
+        },
+        {
+          "type": "vocab",
+          "fr": "un enfant",
+          "pos": "noun",
+          "zh": "小孩，孩子"
+        },
+        {
+          "type": "vocab",
+          "fr": "petit",
+          "pos": "adj",
+          "zh": "小的"
+        },
+        {
+          "type": "vocab",
+          "fr": "à après-demain",
+          "pos": "expr",
+          "zh": "后天见"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L21 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L21:species:second-group-verb-conjugation-pattern-finir",
+          "front": "finir 现在时「nous ___」",
+          "back": "第二组 -ir：finis/finis/finit/finissons/finissez/finissent。",
+          "answer": "finissons",
+          "source_species": "second-group-verb-conjugation-pattern-finir",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "conjugation",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "tense_system"
+          ],
+          "french_items": [
+            "finir",
+            "nous finissons"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:1"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:quartier-as-neighborhood-community-word-with-daily-life-collocations",
+          "front": "de + le = ?（如 le quartier → ___ quartier）",
+          "back": "du = de + le。le quartier → du quartier。",
+          "answer": "du",
+          "source_species": "quartier as neighborhood/community word with daily-life collocations",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "core",
+            "listening_keyword",
+            "memory_hook",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "le quartier",
+            "du",
+            "de le",
+            "du quartier",
+            "quartier",
+            "les activités du quartier",
+            "le café du quartier",
+            "les activites du quartier",
+            "le meilleur restaurant du quartier",
+            "cafe du quartier",
+            "le restaurant du quartier",
+            "restaurant du quartier"
+          ],
+          "evidence_refs": [
+            "L21.pass4-correction-error.jsonl:1",
+            "L21.pass1-vocabulary-interface.jsonl:1",
+            "L21.pass1-vocabulary-interface.jsonl:2",
+            "L21.pass3-generalist.jsonl:1",
+            "L21.pass5-micro-correction.jsonl:6",
+            "L21.pass2-grammar-structure.jsonl:2",
+            "L21.pass6-low-frequency-lexical.jsonl:1",
+            "L21.pass6-low-frequency-lexical.jsonl:2",
+            "L21.pass7-form-memory.jsonl:1"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:gare-recognized-as-train-station-and-separated-from-guerre",
+          "front": "「火车站」(带冠词)，别和 guerre(战争) 混",
+          "back": "la gare=火车站；la guerre=战争。两个都阴性。",
+          "answer": "la gare",
+          "source_species": "gare recognized as train station and separated from guerre",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "listening_keyword",
+            "memory_hook",
+            "neutral",
+            "teacher_corrected_error",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "gare",
+            "guerre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:3",
+            "L21.pass3-generalist.jsonl:2",
+            "L21.pass5-micro-correction.jsonl:7",
+            "L21.pass6-low-frequency-lexical.jsonl:3",
+            "L21.pass7-form-memory.jsonl:2"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:avec-plaisir-and-volontiers-as-easy-listening-response-formulas",
+          "front": "【volontiers / avec plaisir / voulez-vous venir a ma fete d'anniversaire / voulez-vous venir à ma fête d'anniversaire ?】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：select and produce a natural acceptance response in simple listening or invitation exchanges",
+          "back": "知识点：avec plaisir and volontiers as easy listening-response formulas\n\n类别：expression\n\n法语项目：volontiers / avec plaisir / voulez-vous venir a ma fete d'anniversaire / voulez-vous venir à ma fête d'anniversaire ?\n\n学习任务：select and produce a natural acceptance response in simple listening or invitation exchanges\n\n规则/用法：Volontiers has a final s and functions like avec plaisir / with pleasure when accepting an invitation; in simple listening MCQs it is the expected positive response.\n\n课堂证据：09:30-11:30 · L21.pass1-vocabulary-interface.jsonl:4；09:30-10:00 · L21.pass5-micro-correction.jsonl:1；09:30-10:30 · L21.pass6-low-frequency-lexical.jsonl:4；09:30-11:30 · L21.pass7-form-memory.jsonl:3；+5 more\n\n标签：A2, core, listening_keyword, memory_hook, neutral, preposition_interface, pronoun, word_family_confusion",
+          "answer": null,
+          "source_species": "avec plaisir and volontiers as easy listening-response formulas",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "core",
+            "listening_keyword",
+            "memory_hook",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "volontiers",
+            "avec plaisir",
+            "voulez-vous venir a ma fete d'anniversaire",
+            "voulez-vous venir à ma fête d'anniversaire ?"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:4",
+            "L21.pass5-micro-correction.jsonl:1",
+            "L21.pass6-low-frequency-lexical.jsonl:4",
+            "L21.pass7-form-memory.jsonl:3",
+            "L21.pass2-grammar-structure.jsonl:3",
+            "L21.pass4-correction-error.jsonl:2",
+            "L21.pass3-generalist.jsonl:3",
+            "L21.pass5-micro-correction.jsonl:2",
+            "L21.pass6-low-frequency-lexical.jsonl:5"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:certes-means-of-course-and-contrasts-with-en-general",
+          "front": "【certes / en general / en général / volontiers】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：interpret and reuse certes as a certainty marker in reading or listening",
+          "back": "知识点：certes means of course and contrasts with en general\n\n类别：lexical_usage\n\n法语项目：certes / en general / en général / volontiers\n\n学习任务：interpret and reuse certes as a certainty marker in reading or listening\n\n规则/用法：Certes expresses of course/certainly and volontiers expresses willing acceptance; usually is en general, which is a different concept.\n\n课堂证据：11:30-15:00 · L21.pass1-vocabulary-interface.jsonl:5；11:30-12:00 · L21.pass3-generalist.jsonl:4；11:30-15:30 · L21.pass7-form-memory.jsonl:4；14:00-15:00 · L21.pass3-generalist.jsonl:6；+5 more\n\n标签：A2, core, neutral, preposition_interface, pronoun, word_family_confusion",
+          "answer": null,
+          "source_species": "certes means of course and contrasts with en general",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "certes",
+            "en general",
+            "en général",
+            "volontiers"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:5",
+            "L21.pass3-generalist.jsonl:4",
+            "L21.pass7-form-memory.jsonl:4",
+            "L21.pass3-generalist.jsonl:6",
+            "L21.pass5-micro-correction.jsonl:3",
+            "L21.pass4-correction-error.jsonl:3",
+            "L21.pass6-low-frequency-lexical.jsonl:6",
+            "L21.pass5-micro-correction.jsonl:4",
+            "L21.pass6-low-frequency-lexical.jsonl:7"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:it-words-mapped-to-english-ty-and-usually-feminine",
+          "front": "【activité / -ité / activite / -te / -ty / une activite】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：infer likely meaning and gender from a common noun ending",
+          "back": "知识点：-ité words mapped to English -ty and usually feminine\n\n类别：grammar_rule\n\n法语项目：activité / -ité / activite / -te / -ty / une activite\n\n学习任务：infer likely meaning and gender from a common noun ending\n\n规则/用法：Many nouns ending in -te line up with English -ty words and are usually feminine; this gives both a meaning clue and a gender default.\n\n课堂证据：12:00-13:00 · L21.pass1-vocabulary-interface.jsonl:6；12:00-13:00 · L21.pass3-generalist.jsonl:5；12:00-13:00 · L21.pass5-micro-correction.jsonl:5；12:00-13:00 · L21.pass6-low-frequency-lexical.jsonl:8；+3 more\n\n标签：A2, agreement, core, foundational, gender_number, neutral, preposition_interface, pronoun, spelling_pronunciation_gap",
+          "answer": null,
+          "source_species": "-ité words mapped to English -ty and usually feminine",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "spelling_pronunciation_gap"
+          ],
+          "french_items": [
+            "activité",
+            "-ité",
+            "activite",
+            "-te",
+            "-ty",
+            "une activite"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:6",
+            "L21.pass3-generalist.jsonl:5",
+            "L21.pass5-micro-correction.jsonl:5",
+            "L21.pass6-low-frequency-lexical.jsonl:8",
+            "L21.pass7-form-memory.jsonl:5",
+            "L21.pass2-grammar-structure.jsonl:4",
+            "L21.pass4-correction-error.jsonl:4"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:oppose-means-set-in-opposition-not-just-be-against",
+          "front": "【oppose】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：capture the more precise action behind oppose/opposition vocabulary",
+          "back": "知识点：oppose means set in opposition not just be against\n\n类别：lexical_usage\n\n法语项目：oppose\n\n学习任务：capture the more precise action behind oppose/opposition vocabulary\n\n规则/用法：The word is not just simple opposition; it can mean placing one thing against another in contrast.\n\n课堂证据：15:30-16:30 · L21.pass1-vocabulary-interface.jsonl:7\n\n标签：A2, core, neutral, pronoun, word_family_confusion",
+          "answer": null,
+          "source_species": "oppose means set in opposition not just be against",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "pronoun",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "oppose"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:7"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:paysage-masculine-article-correction",
+          "front": "【le paysage】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：retrieve the correct article with a memorized noun",
+          "back": "知识点：paysage-masculine-article-correction\n\n类别：grammar_rule\n\n法语项目：le paysage\n\n学习任务：retrieve the correct article with a memorized noun\n\n规则/用法：Paysage is masculine and takes le in the citation form.\n\n课堂证据：16:00-17:00 · L21.pass5-micro-correction.jsonl:8；16:30-17:00 · L21.pass4-correction-error.jsonl:5\n\n标签：A2, agreement, article, core, foundational, gender_number, gender_trap, neutral, teacher_corrected_error",
+          "answer": null,
+          "source_species": "paysage-masculine-article-correction",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "article",
+            "core",
+            "foundational",
+            "gender_number",
+            "gender_trap",
+            "neutral",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "le paysage"
+          ],
+          "evidence_refs": [
+            "L21.pass5-micro-correction.jsonl:8",
+            "L21.pass4-correction-error.jsonl:5"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:autoroute-means-highway",
+          "front": "【autoroute / le paysage】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize a common transport noun in context",
+          "back": "知识点：autoroute means highway\n\n类别：lexical_usage\n\n法语项目：autoroute / le paysage\n\n学习任务：recognize a common transport noun in context\n\n规则/用法：autoroute means highway/freeway.\n\n课堂证据：16:00-17:00 · L21.pass6-low-frequency-lexical.jsonl:9；16:30-17:00 · L21.pass1-vocabulary-interface.jsonl:8\n\n标签：A2, core, neutral, pronoun",
+          "answer": null,
+          "source_species": "autoroute means highway",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "pronoun"
+          ],
+          "french_items": [
+            "autoroute",
+            "le paysage"
+          ],
+          "evidence_refs": [
+            "L21.pass6-low-frequency-lexical.jsonl:9",
+            "L21.pass1-vocabulary-interface.jsonl:8"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:compl-ter-une-feuille-or-un-formulaire-for-filling-out-forms",
+          "front": "【completer une feuille / completer un formulaire / compléter une feuille / compléter un formulaire / completer】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：conjugate a second-group verb and store it with its common object pattern",
+          "back": "知识点：compléter une feuille or un formulaire for filling out forms\n\n类别：expression\n\n法语项目：completer une feuille / completer un formulaire / compléter une feuille / compléter un formulaire / completer\n\n学习任务：conjugate a second-group verb and store it with its common object pattern\n\n规则/用法：Completer is a second-group verb, and the most useful way to keep it is inside collocations like completer une feuille / completer un formulaire.\n\n课堂证据：17:00-18:00 · L21.pass1-vocabulary-interface.jsonl:9；17:00-18:00 · L21.pass3-generalist.jsonl:7；17:00-18:00 · L21.pass5-micro-correction.jsonl:9；17:00-17:30 · L21.pass6-low-frequency-lexical.jsonl:10；+2 more\n\n标签：A2, conjugation, core, neutral, preposition_interface, pronoun",
+          "answer": null,
+          "source_species": "compléter une feuille or un formulaire for filling out forms",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "conjugation",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [
+            "completer une feuille",
+            "completer un formulaire",
+            "compléter une feuille",
+            "compléter un formulaire",
+            "completer"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:9",
+            "L21.pass3-generalist.jsonl:7",
+            "L21.pass5-micro-correction.jsonl:9",
+            "L21.pass6-low-frequency-lexical.jsonl:10",
+            "L21.pass4-correction-error.jsonl:6",
+            "L21.pass6-low-frequency-lexical.jsonl:11"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:se-perdre-means-to-get-lost-perdre-remains-ordinary-lose",
+          "front": "「我迷路了」je suis ___",
+          "back": "se perdre=迷路（je suis perdu(e)）；perdre=丢失。",
+          "answer": "perdu",
+          "source_species": "se perdre means to get lost; perdre remains ordinary lose",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "pronoun"
+          ],
+          "french_items": [
+            "perdre",
+            "se perdre",
+            "je suis perdu"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:10",
+            "L21.pass3-generalist.jsonl:8",
+            "L21.pass4-correction-error.jsonl:7",
+            "L21.pass5-micro-correction.jsonl:10",
+            "L21.pass7-form-memory.jsonl:8",
+            "L21.pass2-grammar-structure.jsonl:5",
+            "L21.pass1-vocabulary-interface.jsonl:11",
+            "L21.pass5-micro-correction.jsonl:11",
+            "L21.pass6-low-frequency-lexical.jsonl:12"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:dre-verbs-form-past-participles-in-du-in-this-taught-pattern",
+          "front": "perdre 的过去分词",
+          "back": "-dre 动词过去分词多为 -du：perdre→perdu、attendre→attendu、répondre→répondu。",
+          "answer": "perdu",
+          "source_species": "-dre verbs form past participles in -du in this taught pattern",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "past_participle_agreement",
+            "pronoun",
+            "tense_system"
+          ],
+          "french_items": [
+            "perdu",
+            "-dre",
+            "-du"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:6",
+            "L21.pass5-micro-correction.jsonl:12",
+            "L21.pass6-low-frequency-lexical.jsonl:13",
+            "L21.pass7-form-memory.jsonl:9",
+            "L21.pass3-generalist.jsonl:9",
+            "L21.pass4-correction-error.jsonl:8"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:attendre-takes-a-direct-object-without-a-preposition",
+          "front": "【attendre quelqu'un / attendre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：attach the right type of complement after attendre",
+          "back": "知识点：attendre takes a direct object without a preposition\n\n类别：grammar_rule\n\n法语项目：attendre quelqu'un / attendre\n\n学习任务：attach the right type of complement after attendre\n\n规则/用法：French attendre takes the waited-for person or thing directly: attendre quelqu'un, with no extra preposition.\n\n课堂证据：20:30-21:00 · L21.pass1-vocabulary-interface.jsonl:12；20:30-21:00 · L21.pass3-generalist.jsonl:10；20:30-21:00 · L21.pass5-micro-correction.jsonl:13；20:30-21:30 · L21.pass7-form-memory.jsonl:10；+2 more\n\n标签：A2, core, neutral, preposition_interface, transitive_direct",
+          "answer": null,
+          "source_species": "attendre takes a direct object without a preposition",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "transitive_direct"
+          ],
+          "french_items": [
+            "attendre quelqu'un",
+            "attendre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:12",
+            "L21.pass3-generalist.jsonl:10",
+            "L21.pass5-micro-correction.jsonl:13",
+            "L21.pass7-form-memory.jsonl:10",
+            "L21.pass2-grammar-structure.jsonl:7",
+            "L21.pass4-correction-error.jsonl:9"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:dre-verbs-share-a-conjugation-family",
+          "front": "【attendre / répondre / descendre / se perdre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：group similar verbs under one conjugation family instead of memorizing them separately",
+          "back": "知识点：-dre verbs share a conjugation family\n\n类别：grammar_rule\n\n法语项目：attendre / répondre / descendre / se perdre\n\n学习任务：group similar verbs under one conjugation family instead of memorizing them separately\n\n规则/用法：Attendre, répondre, descendre, and se perdre are taught as a shared -dre conjugation family.\n\n课堂证据：21:00-22:30 · L21.pass2-grammar-structure.jsonl:8\n\n标签：A2, conjugation, core, foundational, neutral, preposition_interface, pronominal_reflexive, pronoun, requires_a, transitive_direct",
+          "answer": null,
+          "source_species": "-dre verbs share a conjugation family",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "conjugation",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "pronoun",
+            "requires_a",
+            "transitive_direct"
+          ],
+          "french_items": [
+            "attendre",
+            "répondre",
+            "descendre",
+            "se perdre"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:8"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:r-pondre-is-built-with-for-people-and-questions",
+          "front": "「回答某人」répondre ___ quelqu'un（填介词）",
+          "back": "répondre à qqn / répondre à une question。",
+          "answer": "à",
+          "source_species": "répondre is built with à for people and questions",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "requires_a"
+          ],
+          "french_items": [
+            "repondre a quelqu'un",
+            "repondre a une question",
+            "répondre à quelqu'un",
+            "répondre à une question"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:13",
+            "L21.pass3-generalist.jsonl:11",
+            "L21.pass7-form-memory.jsonl:11"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:entendre-contrasted-with-couter-as-hear-versus-listen-to",
+          "front": "【entendre / ecouter / écouter】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：choose the right listening verb based on hear versus listen to",
+          "back": "知识点：entendre contrasted with écouter as hear versus listen to\n\n类别：lexical_usage\n\n法语项目：entendre / ecouter / écouter\n\n学习任务：choose the right listening verb based on hear versus listen to\n\n规则/用法：Entendre matches hear / hear someone, while ecouter is the listen to verb for music, songs, and people speaking.\n\n课堂证据：22:30-23:00 · L21.pass1-vocabulary-interface.jsonl:14；22:30-23:00 · L21.pass3-generalist.jsonl:12；22:30-23:00 · L21.pass5-micro-correction.jsonl:14；22:30-23:00 · L21.pass6-low-frequency-lexical.jsonl:14；+2 more\n\n标签：A2, core, listening_keyword, memory_hook, neutral, transitive_direct, word_family_confusion",
+          "answer": null,
+          "source_species": "entendre contrasted with écouter as hear versus listen to",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "listening_keyword",
+            "memory_hook",
+            "neutral",
+            "transitive_direct",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "entendre",
+            "ecouter",
+            "écouter"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:14",
+            "L21.pass3-generalist.jsonl:12",
+            "L21.pass5-micro-correction.jsonl:14",
+            "L21.pass6-low-frequency-lexical.jsonl:14",
+            "L21.pass7-form-memory.jsonl:12",
+            "L21.pass4-correction-error.jsonl:10"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:d-fendre-inferred-through-form-as-defend",
+          "front": "【defendre / défendre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize the defend family through form similarity",
+          "back": "知识点：défendre inferred through form as defend\n\n类别：lexical_usage\n\n法语项目：defendre / défendre\n\n学习任务：recognize the defend family through form similarity\n\n规则/用法：The teacher asks the student to infer défendre from its shape and confirms the defend meaning.\n\n课堂证据：23:00-24:00 · L21.pass1-vocabulary-interface.jsonl:16；23:00-24:00 · L21.pass3-generalist.jsonl:14\n\n标签：A2, core, neutral, teacher_corrected_error",
+          "answer": null,
+          "source_species": "défendre inferred through form as defend",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "defendre",
+            "défendre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:16",
+            "L21.pass3-generalist.jsonl:14"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:vendre-identified-as-sell",
+          "front": "【vendre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：map a high-frequency commerce verb to its core meaning",
+          "back": "知识点：vendre identified as sell\n\n类别：lexical_usage\n\n法语项目：vendre\n\n学习任务：map a high-frequency commerce verb to its core meaning\n\n规则/用法：Vendre is glossed directly as sell.\n\n课堂证据：23:00-23:30 · L21.pass1-vocabulary-interface.jsonl:15；23:00-23:30 · L21.pass3-generalist.jsonl:13\n\n标签：A2, core, neutral, pronoun",
+          "answer": null,
+          "source_species": "vendre identified as sell",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "pronoun"
+          ],
+          "french_items": [
+            "vendre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:15",
+            "L21.pass3-generalist.jsonl:13"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:se-d-tendre-as-relax-oneself-and-useful-oral-production-verb",
+          "front": "【se detendre / détendre / se détendre / detendre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：describe relaxing oneself in speaking tasks with a natural French verb",
+          "back": "知识点：se détendre as relax oneself and useful oral-production verb\n\n类别：grammar_rule\n\n法语项目：se detendre / détendre / se détendre / detendre\n\n学习任务：describe relaxing oneself in speaking tasks with a natural French verb\n\n规则/用法：se détendre means relax oneself, contrasting with transitive détendre used on something or someone else.\n\n课堂证据：23:30-24:30 · L21.pass1-vocabulary-interface.jsonl:17；23:30-24:30 · L21.pass3-generalist.jsonl:15；23:30-24:30 · L21.pass5-micro-correction.jsonl:15；23:30-24:30 · L21.pass6-low-frequency-lexical.jsonl:16；+1 more\n\n标签：A2, core, neutral, preposition_interface, pronominal_reflexive, word_family_confusion",
+          "answer": null,
+          "source_species": "se détendre as relax oneself and useful oral-production verb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "se detendre",
+            "détendre",
+            "se détendre",
+            "detendre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:17",
+            "L21.pass3-generalist.jsonl:15",
+            "L21.pass5-micro-correction.jsonl:15",
+            "L21.pass6-low-frequency-lexical.jsonl:16",
+            "L21.pass2-grammar-structure.jsonl:9"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:a-d-pend-taught-as-it-depends",
+          "front": "「看情况 / 视情况而定」",
+          "back": "ça dépend = 看情况。",
+          "answer": "ça dépend",
+          "source_species": "ça dépend taught as it depends",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "core",
+            "neutral"
+          ],
+          "french_items": [
+            "ca depend",
+            "ça dépend"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:18",
+            "L21.pass3-generalist.jsonl:16",
+            "L21.pass5-micro-correction.jsonl:16",
+            "L21.pass6-low-frequency-lexical.jsonl:17"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:peindre-means-to-paint-including-house-painting-use",
+          "front": "【peindre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：map the verb onto both art painting and painting walls/house surfaces",
+          "back": "知识点：peindre means to paint, including house-painting use\n\n类别：lexical_usage\n\n法语项目：peindre\n\n学习任务：map the verb onto both art painting and painting walls/house surfaces\n\n规则/用法：Peindre means to paint and can describe painting a house or similar surfaces.\n\n课堂证据：25:00-26:00 · L21.pass1-vocabulary-interface.jsonl:19\n\n标签：A2, core, neutral, preposition_interface, pronominal_reflexive",
+          "answer": null,
+          "source_species": "peindre means to paint, including house-painting use",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive"
+          ],
+          "french_items": [
+            "peindre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:19"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:indre-joindre-family-pronunciation-and-spelling-pattern",
+          "front": "【peindre / atteindre / craindre / se plaindre / rejoindre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：hear and produce the family pattern instead of spelling from isolated sounds",
+          "back": "知识点：-indre / -joindre family pronunciation and spelling pattern\n\n类别：pronunciation_spelling\n\n法语项目：peindre / atteindre / craindre / se plaindre / rejoindre\n\n学习任务：hear and produce the family pattern instead of spelling from isolated sounds\n\n规则/用法：Peindre, atteindre, craindre, se plaindre, and rejoindre are taught as a spelling/pronunciation family that needs special attention.\n\n课堂证据：25:00-26:30 · L21.pass3-generalist.jsonl:17；25:30-26:30 · L21.pass2-grammar-structure.jsonl:10\n\n标签：A2, core, neutral, preposition_interface, pronominal_reflexive, pronoun, spelling_pronunciation_gap",
+          "answer": null,
+          "source_species": "-indre / -joindre family pronunciation and spelling pattern",
+          "primary_class": "pronunciation_spelling",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "pronoun",
+            "spelling_pronunciation_gap"
+          ],
+          "french_items": [
+            "peindre",
+            "atteindre",
+            "craindre",
+            "se plaindre",
+            "rejoindre"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:17",
+            "L21.pass2-grammar-structure.jsonl:10"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:atteindre-as-attain-reach",
+          "front": "【atteindre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize a higher-register reach/attain verb by its English cognate",
+          "back": "知识点：atteindre as attain/reach\n\n类别：lexical_usage\n\n法语项目：atteindre\n\n学习任务：recognize a higher-register reach/attain verb by its English cognate\n\n规则/用法：atteindre corresponds to attain/reach and uses the same idea as English attain.\n\n课堂证据：28:30-29:00 · L21.pass1-vocabulary-interface.jsonl:20；28:30-29:00 · L21.pass6-low-frequency-lexical.jsonl:18\n\n标签：A2, core, neutral",
+          "answer": null,
+          "source_species": "atteindre as attain/reach",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral"
+          ],
+          "french_items": [
+            "atteindre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:20",
+            "L21.pass6-low-frequency-lexical.jsonl:18"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:eteindre-for-turning-things-off",
+          "front": "【eteindre / eteindre la lumiere / eteindre le telephone / eteindre l'ordinateur】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：choose the standard verb for switching off devices and lights",
+          "back": "知识点：eteindre for turning things off\n\n类别：expression\n\n法语项目：eteindre / eteindre la lumiere / eteindre le telephone / eteindre l'ordinateur\n\n学习任务：choose the standard verb for switching off devices and lights\n\n规则/用法：Use eteindre to turn off electrical devices, lights, phones, and computers.\n\n课堂证据：29:00-29:30 · L21.pass1-vocabulary-interface.jsonl:21\n\n标签：A2, core, neutral, preposition_interface",
+          "answer": null,
+          "source_species": "eteindre for turning things off",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface"
+          ],
+          "french_items": [
+            "eteindre",
+            "eteindre la lumiere",
+            "eteindre le telephone",
+            "eteindre l'ordinateur"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:21"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:se-plaindre-optionally-takes-de-for-complaint-content",
+          "front": "【se plaindre / se plaindre de】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：state either that someone complains or what they complain about",
+          "back": "知识点：se plaindre optionally takes de for complaint content\n\n类别：grammar_rule\n\n法语项目：se plaindre / se plaindre de\n\n学习任务：state either that someone complains or what they complain about\n\n规则/用法：se plaindre can stand alone for complain, and se plaindre de introduces the complaint topic.\n\n课堂证据：29:00-30:00 · L21.pass1-vocabulary-interface.jsonl:22；29:00-30:00 · L21.pass6-low-frequency-lexical.jsonl:20\n\n标签：A2, core, neutral, preposition_interface, pronominal_reflexive, pronoun, requires_de",
+          "answer": null,
+          "source_species": "se plaindre optionally takes de for complaint content",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "pronoun",
+            "requires_de"
+          ],
+          "french_items": [
+            "se plaindre",
+            "se plaindre de"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:22",
+            "L21.pass6-low-frequency-lexical.jsonl:20"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:craindre-as-fear",
+          "front": "【craindre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize the basic meaning of a common higher-level reaction verb",
+          "back": "知识点：craindre as fear\n\n类别：lexical_usage\n\n法语项目：craindre\n\n学习任务：recognize the basic meaning of a common higher-level reaction verb\n\n规则/用法：craindre means fear/be afraid.\n\n课堂证据：30:00-30:30 · L21.pass1-vocabulary-interface.jsonl:23；30:00-30:30 · L21.pass6-low-frequency-lexical.jsonl:21\n\n标签：A2, core, neutral",
+          "answer": null,
+          "source_species": "craindre as fear",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral"
+          ],
+          "french_items": [
+            "craindre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:23",
+            "L21.pass6-low-frequency-lexical.jsonl:21"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:rejoindre-for-rejoin-or-come-find-later",
+          "front": "【rejoindre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：use the verb for coming back to join someone later",
+          "back": "知识点：rejoindre for rejoin or come find later\n\n类别：lexical_usage\n\n法语项目：rejoindre\n\n学习任务：use the verb for coming back to join someone later\n\n规则/用法：rejoindre can express rejoin/find you later.\n\n课堂证据：30:30-31:00 · L21.pass1-vocabulary-interface.jsonl:24\n\n标签：A2, core, neutral",
+          "answer": null,
+          "source_species": "rejoindre for rejoin or come find later",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral"
+          ],
+          "french_items": [
+            "rejoindre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:24"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:depuis-with-present-tense-for-actions-still-ongoing",
+          "front": "depuis（自……以来）配什么时态？",
+          "back": "depuis + 现在时（动作持续到现在）：j'attends depuis longtemps / depuis 2000。",
+          "answer": null,
+          "source_species": "depuis with present tense for actions still ongoing",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "requires_de",
+            "tense_system",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "depuis",
+            "depuis longtemps",
+            "depuis 2000",
+            "j'attends depuis ..."
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:18",
+            "L21.pass7-form-memory.jsonl:14",
+            "L21.pass2-grammar-structure.jsonl:11",
+            "L21.pass4-correction-error.jsonl:11"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:bruit-as-high-value-housing-and-listening-vocabulary",
+          "front": "【bruit / du bruit】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize and reuse the noise word in housing rules and oral/listening contexts",
+          "back": "知识点：bruit as high-value housing and listening vocabulary\n\n类别：lexical_usage\n\n法语项目：bruit / du bruit\n\n学习任务：recognize and reuse the noise word in housing rules and oral/listening contexts\n\n规则/用法：Bruit is flagged as a must-know word for building rules, neighborhood questions, and oral-listening tasks.\n\n课堂证据：37:00-38:00 · L21.pass1-vocabulary-interface.jsonl:25；37:00-37:30 · L21.pass3-generalist.jsonl:19；37:00-38:00 · L21.pass6-low-frequency-lexical.jsonl:23\n\n标签：A2, core, listening_keyword, memory_hook, neutral, preposition_interface, pronoun",
+          "answer": null,
+          "source_species": "bruit as high-value housing and listening vocabulary",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "listening_keyword",
+            "memory_hook",
+            "neutral",
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [
+            "bruit",
+            "du bruit"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:25",
+            "L21.pass3-generalist.jsonl:19",
+            "L21.pass6-low-frequency-lexical.jsonl:23"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:se-rejoindre-for-meeting-up-with-each-other",
+          "front": "【se rejoindre / rejoindre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：say that people will meet up at a place after doing separate things",
+          "back": "知识点：se rejoindre for meeting up with each other\n\n类别：grammar_rule\n\n法语项目：se rejoindre / rejoindre\n\n学习任务：say that people will meet up at a place after doing separate things\n\n规则/用法：se rejoindre expresses meeting up / rejoining each other; the reflexive marks a reciprocal action.\n\n课堂证据：37:30-38:00 · L21.pass1-vocabulary-interface.jsonl:26；37:30-38:30 · L21.pass3-generalist.jsonl:20；37:30-38:00 · L21.pass6-low-frequency-lexical.jsonl:22；37:30-38:00 · L21.pass7-form-memory.jsonl:15；+1 more\n\n标签：A2, core, neutral, preposition_interface, pronominal_reflexive",
+          "answer": null,
+          "source_species": "se rejoindre for meeting up with each other",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive"
+          ],
+          "french_items": [
+            "se rejoindre",
+            "rejoindre"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:26",
+            "L21.pass3-generalist.jsonl:20",
+            "L21.pass6-low-frequency-lexical.jsonl:22",
+            "L21.pass7-form-memory.jsonl:15",
+            "L21.pass2-grammar-structure.jsonl:12"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:teindre-and-allumer-as-a-paired-off-on-control-set",
+          "front": "「关灯」(动词 + 灯)",
+          "back": "éteindre=关、allumer=开：éteindre/allumer la lumière(la radio)。",
+          "answer": "éteindre la lumière",
+          "source_species": "éteindre and allumer as a paired off/on control set",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "transitive_direct",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "éteindre la radio",
+            "allumer la radio",
+            "éteindre la télévision",
+            "éteindre",
+            "allumer",
+            "la radio",
+            "la télévision",
+            "eteindre",
+            "eteindre la television"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:21",
+            "L21.pass7-form-memory.jsonl:16",
+            "L21.pass5-micro-correction.jsonl:17",
+            "L21.pass6-low-frequency-lexical.jsonl:19"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:tout-le-temps-means-all-the-time",
+          "front": "「一直、总是」(3 个词)",
+          "back": "tout le temps = 一直/总是。",
+          "answer": "tout le temps",
+          "source_species": "tout le temps means all the time",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "core",
+            "neutral"
+          ],
+          "french_items": [
+            "tout le temps"
+          ],
+          "evidence_refs": [
+            "L21.pass5-micro-correction.jsonl:18",
+            "L21.pass1-vocabulary-interface.jsonl:27",
+            "L21.pass3-generalist.jsonl:22"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:je-me-perds-dans-les-details-as-get-lost-in-the-details",
+          "front": "【je me perds dans les details / les details / dans les détails / détails】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：describe overfocusing on details with a fixed expression",
+          "back": "知识点：je me perds dans les details as get lost in the details\n\n类别：expression\n\n法语项目：je me perds dans les details / les details / dans les détails / détails\n\n学习任务：describe overfocusing on details with a fixed expression\n\n规则/用法：je me perds dans les details means I get lost in the details; details is normally plural here.\n\n课堂证据：40:00-40:30 · L21.pass1-vocabulary-interface.jsonl:28；40:00-41:00 · L21.pass5-micro-correction.jsonl:19\n\n标签：A2, core, neutral, pronoun",
+          "answer": null,
+          "source_species": "je me perds dans les details as get lost in the details",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "pronoun"
+          ],
+          "french_items": [
+            "je me perds dans les details",
+            "les details",
+            "dans les détails",
+            "détails"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:28",
+            "L21.pass5-micro-correction.jsonl:19"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:country-gender-is-often-guessed-by-final-e-with-mexique-as-exception",
+          "front": "国家的阴阳性怎么猜？",
+          "back": "多数以 -e 结尾的国家是阴性（la France/la Chine/l'Australie），但 le Mexique 例外。",
+          "answer": null,
+          "source_species": "country gender is often guessed by final e, with Mexique as exception",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "foundational",
+            "gender_number",
+            "gender_trap",
+            "neutral",
+            "pronoun",
+            "spelling_pronunciation_gap"
+          ],
+          "french_items": [
+            "la France",
+            "la Chine",
+            "l'Australie",
+            "le Mexique",
+            "le Japon",
+            "le Portugal"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:29",
+            "L21.pass3-generalist.jsonl:23",
+            "L21.pass5-micro-correction.jsonl:20",
+            "L21.pass6-low-frequency-lexical.jsonl:24",
+            "L21.pass7-form-memory.jsonl:6",
+            "L21.pass2-grammar-structure.jsonl:13",
+            "L21.pass4-correction-error.jsonl:12"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:travel-to-country-prepositions-use-en-or-au-from-country-gender",
+          "front": "「我去了日本」je suis allé(e) ___ Japon（填 介词+国名）",
+          "back": "去国家：阴性国名用 en（en France/en Chine/en Argentine）；阳性国名用 au（au Japon/au Mexique/au Portugal）。",
+          "answer": "au Japon",
+          "source_species": "travel-to-country prepositions use en or au from country gender",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [
+            "je suis allee en Argentine",
+            "je suis allee au Japon",
+            "je suis allee en France",
+            "en Argentine",
+            "au Japon",
+            "en France",
+            "je suis allée en Argentine",
+            "je suis allée au Japon",
+            "je suis allée en France"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:30",
+            "L21.pass7-form-memory.jsonl:7",
+            "L21.pass2-grammar-structure.jsonl:14",
+            "L21.pass3-generalist.jsonl:24",
+            "L21.pass4-correction-error.jsonl:13",
+            "L21.pass5-micro-correction.jsonl:21",
+            "L21.pass6-low-frequency-lexical.jsonl:25"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:past-participle-not-finite-form-plus-agreement",
+          "front": "【parcourir / parcouru / parcourue / parcourt】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：separate a third-person finite verb form from the past participle and then check agreement",
+          "back": "知识点：past-participle-not-finite-form-plus-agreement\n\n类别：grammar_rule\n\n法语项目：parcourir / parcouru / parcourue / parcourt\n\n学习任务：separate a third-person finite verb form from the past participle and then check agreement\n\n规则/用法：When the slot requires a past participle, do not reuse the third-person present form; after choosing the participle, still verify gender and number agreement.\n\n课堂证据：43:30-44:30 · L21.pass5-micro-correction.jsonl:22；43:30-45:00 · L21.pass4-correction-error.jsonl:14\n\n标签：A2, agreement, comparison, core, foundational, gender_number, neutral, past_participle_agreement, preposition_interface, pronoun, tense_system, word_family_confusion",
+          "answer": null,
+          "source_species": "past-participle-not-finite-form-plus-agreement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "comparison",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "past_participle_agreement",
+            "preposition_interface",
+            "pronoun",
+            "tense_system",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "parcourir",
+            "parcouru",
+            "parcourue",
+            "parcourt"
+          ],
+          "evidence_refs": [
+            "L21.pass5-micro-correction.jsonl:22",
+            "L21.pass4-correction-error.jsonl:14"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:past-participle-gender-number-agreement",
+          "front": "【participe passé】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：check whether a past participle must agree in gender and number",
+          "back": "知识点：past-participle-gender-number-agreement\n\n类别：grammar_rule\n\n法语项目：participe passé\n\n学习任务：check whether a past participle must agree in gender and number\n\n规则/用法：When agreement is triggered, the past participle must match the relevant gender and/or number features.\n\n课堂证据：44:00-45:00 · L21.pass2-grammar-structure.jsonl:15\n\n标签：A2, agreement, core, foundational, gender_number, neutral, past_participle_agreement, tense_system",
+          "answer": null,
+          "source_species": "past-participle-gender-number-agreement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "past_participle_agreement",
+            "tense_system"
+          ],
+          "french_items": [
+            "participe passé"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:15"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:second-group-past-participle-in-i",
+          "front": "finir 的过去分词",
+          "back": "第二组 -ir 过去分词为 -i：finir→fini、choisir→choisi。",
+          "answer": "fini",
+          "source_species": "second-group-past-participle-in-i",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "conjugation",
+            "core",
+            "gender_number",
+            "neutral",
+            "past_participle_agreement",
+            "preposition_interface",
+            "pronoun",
+            "tense_system"
+          ],
+          "french_items": [
+            "-ir",
+            "-i"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:16"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:des-becomes-de-before-a-preposed-plural-adjective",
+          "front": "「一些好文章」(形容词 bon 前置)：___ bons articles（填 des / de）",
+          "back": "复数形容词放名词前时 des→de：de bons articles、de bonnes choses。",
+          "answer": "de",
+          "source_species": "des becomes de before a preposed plural adjective",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "article",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "preposition_interface",
+            "requires_de"
+          ],
+          "french_items": [
+            "des",
+            "de bons articles",
+            "de bonnes choses",
+            "a l'universite",
+            "de"
+          ],
+          "evidence_refs": [
+            "L21.pass6-low-frequency-lexical.jsonl:26",
+            "L21.pass7-form-memory.jsonl:28",
+            "L21.pass2-grammar-structure.jsonl:17",
+            "L21.pass3-generalist.jsonl:25",
+            "L21.pass4-correction-error.jsonl:15"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:plus-vowel-initial-place-noun-elides-to-l",
+          "front": "「在大学」(à + université，元音开头)",
+          "back": "元音开头的地点名词用 à l'：à l'université、à l'école。",
+          "answer": "à l'université",
+          "source_species": "à plus vowel-initial place noun elides to à l'",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "article",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "spelling_pronunciation_gap"
+          ],
+          "french_items": [
+            "de bons articles",
+            "a l'universite",
+            "a l'ecole",
+            "à l'université",
+            "à l'école"
+          ],
+          "evidence_refs": [
+            "L21.pass4-correction-error.jsonl:15",
+            "L21.pass1-vocabulary-interface.jsonl:31",
+            "L21.pass5-micro-correction.jsonl:23",
+            "L21.pass7-form-memory.jsonl:29",
+            "L21.pass2-grammar-structure.jsonl:18",
+            "L21.pass6-low-frequency-lexical.jsonl:27",
+            "L21.pass3-generalist.jsonl:26"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:article-required-in-plural-and-specified-noun-phrases",
+          "front": "【des documents importants】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：choose an article when the noun is plural or already specified by context",
+          "back": "知识点：article-required-in-plural-and-specified-noun-phrases\n\n类别：grammar_rule\n\n法语项目：des documents importants\n\n学习任务：choose an article when the noun is plural or already specified by context\n\n规则/用法：If there is no special context, plural count nouns still need des, and when a noun is specified by a limiter like someone's boss, a definite article is required.\n\n课堂证据：46:30-47:30 · L21.pass2-grammar-structure.jsonl:19；46:30-47:30 · L21.pass5-micro-correction.jsonl:24；47:00-48:00 · L21.pass4-correction-error.jsonl:16\n\n标签：A2, article, core, foundational, neutral, preposition_interface, pronoun",
+          "answer": null,
+          "source_species": "article-required-in-plural-and-specified-noun-phrases",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "article",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [
+            "des documents importants"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:19",
+            "L21.pass5-micro-correction.jsonl:24",
+            "L21.pass4-correction-error.jsonl:16"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:specified-person-relation-nouns-need-a-definite-article",
+          "front": "【le chef de Jacques / imparfait / passe compose】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：choose the article for a specific relationship noun such as someone’s boss",
+          "back": "知识点：specified person-relation nouns need a definite article\n\n类别：grammar_rule\n\n法语项目：le chef de Jacques / imparfait / passe compose\n\n学习任务：choose the article for a specific relationship noun such as someone’s boss\n\n规则/用法：When the noun phrase identifies a specific person relation, French uses the definite article, as in le chef de Jacques.\n\n课堂证据：47:00-48:00 · L21.pass5-micro-correction.jsonl:25；48:30-50:00 · L21.pass7-form-memory.jsonl:17\n\n标签：A2, article, core, foundational, gender_number, neutral, teacher_corrected_error",
+          "answer": null,
+          "source_species": "specified person-relation nouns need a definite article",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "article",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "le chef de Jacques",
+            "imparfait",
+            "passe compose"
+          ],
+          "evidence_refs": [
+            "L21.pass5-micro-correction.jsonl:25",
+            "L21.pass7-form-memory.jsonl:17"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:pass-compos-versus-imparfait-framed-as-single-completed-versus-state-habit-or-duration",
+          "front": "复合过去时 vs 未完成过去时 怎么选？",
+          "back": "passé composé=单次、已完成的动作；imparfait=状态/持续/习惯/反复。Hier il a plu(PC) / Avant j'habitais à la campagne(imparfait)。",
+          "answer": null,
+          "source_species": "passé composé versus imparfait framed as single completed versus state habit or duration",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "sentence_frame",
+            "spelling_pronunciation_gap",
+            "tense_system",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "passé composé",
+            "imparfait"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:27",
+            "L21.pass2-grammar-structure.jsonl:20",
+            "L21.pass4-correction-error.jsonl:17"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:finish-type-verbs-treated-as-punctual-rather-than-durative",
+          "front": "【finir / hier soir】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：test whether a verb can naturally support an ongoing/background reading before choosing the tense",
+          "back": "知识点：finish-type verbs treated as punctual rather than durative\n\n类别：lexical_usage\n\n法语项目：finir / hier soir\n\n学习任务：test whether a verb can naturally support an ongoing/background reading before choosing the tense\n\n规则/用法：Finish is a point-like action, not a durative activity, so it resists an 'was finishing all evening' style reading in the teacher's exercise logic.\n\n课堂证据：51:00-52:00 · L21.pass3-generalist.jsonl:28；51:00-52:00 · L21.pass2-grammar-structure.jsonl:21；51:30-52:00 · L21.pass4-correction-error.jsonl:18\n\n标签：A2, core, neutral, preposition_interface, teacher_corrected_error, word_family_confusion",
+          "answer": null,
+          "source_species": "finish-type verbs treated as punctual rather than durative",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "teacher_corrected_error",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "finir",
+            "hier soir"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:28",
+            "L21.pass2-grammar-structure.jsonl:21",
+            "L21.pass4-correction-error.jsonl:18"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:habitual-past-detected-by-avant-and-daily-markers",
+          "front": "【avant / tous les jours / de / Le loyer est de 500 dollars / La chambre est de vingt metres carres】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：use time markers to detect habitual past meaning",
+          "back": "知识点：habitual-past-detected-by-avant-and-daily-markers\n\n类别：grammar_rule\n\n法语项目：avant / tous les jours / de / Le loyer est de 500 dollars / La chambre est de vingt metres carres\n\n学习任务：use time markers to detect habitual past meaning\n\n规则/用法：Markers like avant plus repeated-time phrases such as every day support a habitual imperfect reading.\n\n课堂证据：52:30-53:30 · L21.pass2-grammar-structure.jsonl:22；59:00-01:00:30 · L21.pass7-form-memory.jsonl:18\n\n标签：A2, comparison, core, neutral, preposition_interface, pronoun, tense_system",
+          "answer": null,
+          "source_species": "habitual-past-detected-by-avant-and-daily-markers",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "tense_system"
+          ],
+          "french_items": [
+            "avant",
+            "tous les jours",
+            "de",
+            "Le loyer est de 500 dollars",
+            "La chambre est de vingt metres carres"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:22",
+            "L21.pass7-form-memory.jsonl:18"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:predicate-units-after-tre-require-de",
+          "front": "【Le loyer est de 500 dollars / La chambre est de vingt mètres carrés / le loyer est de 500 dollars / vingt mètres carrés / être de / le loyer / mètre carré / de / Le loyer est de... / mieux / meilleur】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：state rent, size, or measured values in a copular sentence without dropping the linker",
+          "back": "知识点：predicate units after être require de\n\n类别：grammar_rule\n\n法语项目：Le loyer est de 500 dollars / La chambre est de vingt mètres carrés / le loyer est de 500 dollars / vingt mètres carrés / être de / le loyer / mètre carré / de / Le loyer est de... / mieux / meilleur\n\n学习任务：state rent, size, or measured values in a copular sentence without dropping the linker\n\n规则/用法：When the predicate names a measurement or unit after etre, French inserts de before the amount.\n\n课堂证据：58:00-01:00:30 · L21.pass3-generalist.jsonl:29；58:00-01:00:30 · L21.pass5-micro-correction.jsonl:26；58:00-01:00:30 · L21.pass2-grammar-structure.jsonl:23；58:00-01:00:30 · L21.pass4-correction-error.jsonl:19；+1 more\n\n标签：A2, core, neutral, preposition_interface, pronoun, requires_de, sentence_frame",
+          "answer": null,
+          "source_species": "predicate units after être require de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "requires_de",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "Le loyer est de 500 dollars",
+            "La chambre est de vingt mètres carrés",
+            "le loyer est de 500 dollars",
+            "vingt mètres carrés",
+            "être de",
+            "le loyer",
+            "mètre carré",
+            "de",
+            "Le loyer est de...",
+            "mieux",
+            "meilleur"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:29",
+            "L21.pass5-micro-correction.jsonl:26",
+            "L21.pass2-grammar-structure.jsonl:23",
+            "L21.pass4-correction-error.jsonl:19",
+            "L21.pass6-low-frequency-lexical.jsonl:28"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:mieux-versus-meilleur-as-adverb-versus-adjective",
+          "front": "「他工作得更好」Il travaille ___（更好地）",
+          "back": "mieux=更好地(副词,修饰动词)；meilleur(e)=更好的(形容词,修饰名词)。",
+          "answer": "mieux",
+          "source_species": "mieux versus meilleur as adverb versus adjective",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "comparative",
+            "comparison",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "mieux",
+            "meilleur",
+            "meilleure"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:24",
+            "L21.pass3-generalist.jsonl:30",
+            "L21.pass5-micro-correction.jsonl:27",
+            "L21.pass4-correction-error.jsonl:20"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:votre-is-possessive-adjective-not-yours",
+          "front": "【votre / votre chambre / que votre chambre】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：avoid overextending a possessive adjective into a possessive pronoun role",
+          "back": "知识点：votre-is-possessive-adjective-not-yours\n\n类别：grammar_rule\n\n法语项目：votre / votre chambre / que votre chambre\n\n学习任务：avoid overextending a possessive adjective into a possessive pronoun role\n\n规则/用法：Votre corresponds to your, not yours, so if the pronoun form is not yet available the safe repair is to keep the noun: que votre chambre.\n\n课堂证据：01:03:00-01:04:00 · L21.pass2-grammar-structure.jsonl:25；01:03:00-01:04:00 · L21.pass4-correction-error.jsonl:21\n\n标签：A2, agreement, core, gender_number, neutral, possessive, pronoun, word_family_confusion",
+          "answer": null,
+          "source_species": "votre-is-possessive-adjective-not-yours",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "gender_number",
+            "neutral",
+            "possessive",
+            "pronoun",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "votre",
+            "votre chambre",
+            "que votre chambre"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:25",
+            "L21.pass4-correction-error.jsonl:21"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:ordinary-adjective-comparison-stays-inside-the-copular-frame",
+          "front": "【Le francais est moins facile que l'anglais / beaucoup d'argent / autant d'argent / plus d'argent / moins d'argent / peu d'argent / plus de / moins de / autant de】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：build a declarative comparison without importing an English-like fronted structure",
+          "back": "知识点：ordinary adjective comparison stays inside the copular frame\n\n类别：grammar_rule\n\n法语项目：Le francais est moins facile que l'anglais / beaucoup d'argent / autant d'argent / plus d'argent / moins d'argent / peu d'argent / plus de / moins de / autant de\n\n学习任务：build a declarative comparison without importing an English-like fronted structure\n\n规则/用法：In ordinary declaratives, keep the copular frame: Le français est moins facile que l'anglais.\n\n课堂证据：01:03:30-01:04:30 · L21.pass4-correction-error.jsonl:22；01:06:30-01:10:30 · L21.pass7-form-memory.jsonl:19；01:09:30-01:10:30 · L21.pass6-low-frequency-lexical.jsonl:29\n\n标签：A2, agreement, comparison, core, gender_number, neutral, pronoun, sentence_frame",
+          "answer": null,
+          "source_species": "ordinary adjective comparison stays inside the copular frame",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "comparison",
+            "core",
+            "gender_number",
+            "neutral",
+            "pronoun",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "Le francais est moins facile que l'anglais",
+            "beaucoup d'argent",
+            "autant d'argent",
+            "plus d'argent",
+            "moins d'argent",
+            "peu d'argent",
+            "plus de",
+            "moins de",
+            "autant de"
+          ],
+          "evidence_refs": [
+            "L21.pass4-correction-error.jsonl:22",
+            "L21.pass7-form-memory.jsonl:19",
+            "L21.pass6-low-frequency-lexical.jsonl:29"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:quantity-words-take-de-before-nouns-but-not-before-adjectives-or-adverbs",
+          "front": "【plus d'amis / moins de vacances / moins de café / plus de / moins de / autant de / beaucoup de / peu de / plus de temps / moins de temps / autant de temps / beaucoup d'argent / autant d'argent / peu d'argent / plus d'argent / moins d'argent】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：know when plus/moins require de",
+          "back": "知识点：quantity words take de before nouns but not before adjectives or adverbs\n\n类别：grammar_rule\n\n法语项目：plus d'amis / moins de vacances / moins de café / plus de / moins de / autant de / beaucoup de / peu de / plus de temps / moins de temps / autant de temps / beaucoup d'argent / autant d'argent / peu d'argent / plus d'argent / moins d'argent\n\n学习任务：know when plus/moins require de\n\n规则/用法：Plus, moins, autant, beaucoup, and peu take de before noun complements; this noun pattern does not apply to adjective/adverb complements.\n\n课堂证据：01:04:00-01:05:30 · L21.pass2-grammar-structure.jsonl:26；01:04:30-01:10:30 · L21.pass3-generalist.jsonl:31；01:04:30-01:06:00 · L21.pass5-micro-correction.jsonl:28；01:04:30-01:10:00 · L21.pass4-correction-error.jsonl:23；+4 more\n\n标签：A2, agreement, comparison, core, gender_number, neutral, preposition_interface, pronoun, requires_de, word_family_confusion",
+          "answer": null,
+          "source_species": "quantity words take de before nouns but not before adjectives or adverbs",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "comparison",
+            "core",
+            "gender_number",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "requires_de",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "plus d'amis",
+            "moins de vacances",
+            "moins de café",
+            "plus de",
+            "moins de",
+            "autant de",
+            "beaucoup de",
+            "peu de",
+            "plus de temps",
+            "moins de temps",
+            "autant de temps",
+            "beaucoup d'argent",
+            "autant d'argent",
+            "peu d'argent",
+            "plus d'argent",
+            "moins d'argent"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:26",
+            "L21.pass3-generalist.jsonl:31",
+            "L21.pass5-micro-correction.jsonl:28",
+            "L21.pass4-correction-error.jsonl:23",
+            "L21.pass1-vocabulary-interface.jsonl:32",
+            "L21.pass5-micro-correction.jsonl:29",
+            "L21.pass2-grammar-structure.jsonl:27",
+            "L21.pass2-grammar-structure.jsonl:29"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:efficace-means-efficient",
+          "front": "「高效的」(形容词)",
+          "back": "efficace=高效的（阴阳同形）。",
+          "answer": "efficace",
+          "source_species": "efficace means efficient",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "gender_number",
+            "neutral"
+          ],
+          "french_items": [
+            "efficace"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:33"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:il-y-a-autant-de-is-a-fallback-frame-for-equal-quantity",
+          "front": "【il y a / autant de / il y a autant de / celui-ci / celui-là / hier / la semaine derniere / le mois dernier / l'annee derniere】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：repair a comparison when the needed adjective or headword will not come to mind",
+          "back": "知识点：il y a autant de is a fallback frame for equal quantity\n\n类别：grammar_rule\n\n法语项目：il y a / autant de / il y a autant de / celui-ci / celui-là / hier / la semaine derniere / le mois dernier / l'annee derniere\n\n学习任务：repair a comparison when the needed adjective or headword will not come to mind\n\n规则/用法：When a direct adjective route is awkward, express equal quantity through il y a autant de + noun.\n\n课堂证据：01:07:30-01:09:30 · L21.pass3-generalist.jsonl:32；01:07:30-01:08:30 · L21.pass4-correction-error.jsonl:24；01:07:30-01:08:30 · L21.pass2-grammar-structure.jsonl:28；01:11:00-01:12:30 · L21.pass6-low-frequency-lexical.jsonl:30；+3 more\n\n标签：A2, agreement, comparison, core, gender_number, neutral, preposition_interface, pronoun, requires_de, sentence_frame",
+          "answer": null,
+          "source_species": "il y a autant de is a fallback frame for equal quantity",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "comparison",
+            "core",
+            "gender_number",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "requires_de",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "il y a",
+            "autant de",
+            "il y a autant de",
+            "celui-ci",
+            "celui-là",
+            "hier",
+            "la semaine derniere",
+            "le mois dernier",
+            "l'annee derniere"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:32",
+            "L21.pass4-correction-error.jsonl:24",
+            "L21.pass2-grammar-structure.jsonl:28",
+            "L21.pass6-low-frequency-lexical.jsonl:30",
+            "L21.pass7-form-memory.jsonl:20",
+            "L21.pass6-low-frequency-lexical.jsonl:31",
+            "L21.pass7-form-memory.jsonl:21"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:past-time-adverbs-split-between-bare-hier-and-article-bearing-dernier-phrases",
+          "front": "【hier / la semaine dernière / le mois dernier / l'année dernière / la semaine derniere / l'annee derniere / il y a / il y a deux ans】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：form common past time expressions without copying English last-phrasing blindly",
+          "back": "知识点：past time adverbs split between bare hier and article-bearing dernier phrases\n\n类别：grammar_rule\n\n法语项目：hier / la semaine dernière / le mois dernier / l'année dernière / la semaine derniere / l'annee derniere / il y a / il y a deux ans\n\n学习任务：form common past time expressions without copying English last-phrasing blindly\n\n规则/用法：Yesterday is hier as a single adverb; derniere is for larger period phrases like last week/year, not for the everyday adverb yesterday.\n\n课堂证据：01:11:00-01:12:00 · L21.pass1-vocabulary-interface.jsonl:34；01:11:00-01:14:00 · L21.pass3-generalist.jsonl:33；01:11:00-01:12:30 · L21.pass4-correction-error.jsonl:25；01:11:00-01:11:30 · L21.pass5-micro-correction.jsonl:30；+7 more\n\n标签：A2, article, core, foundational, neutral, preposition_interface, pronoun, tense_system, word_family_confusion",
+          "answer": null,
+          "source_species": "past time adverbs split between bare hier and article-bearing dernier phrases",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "article",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "tense_system",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "hier",
+            "la semaine dernière",
+            "le mois dernier",
+            "l'année dernière",
+            "la semaine derniere",
+            "l'annee derniere",
+            "il y a",
+            "il y a deux ans"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:34",
+            "L21.pass3-generalist.jsonl:33",
+            "L21.pass4-correction-error.jsonl:25",
+            "L21.pass5-micro-correction.jsonl:30",
+            "L21.pass2-grammar-structure.jsonl:30",
+            "L21.pass1-vocabulary-interface.jsonl:35",
+            "L21.pass5-micro-correction.jsonl:31",
+            "L21.pass2-grammar-structure.jsonl:31",
+            "L21.pass4-correction-error.jsonl:26",
+            "L21.pass6-low-frequency-lexical.jsonl:32",
+            "L21.pass7-form-memory.jsonl:22"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:il-y-a-plus-duration-means-ago-for-completed-past-events",
+          "front": "【il y a deux ans / il y a / plus tot / deux ans plus tot】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：say how long ago something happened",
+          "back": "知识点：il y a plus duration means ago for completed past events\n\n类别：expression\n\n法语项目：il y a deux ans / il y a / plus tot / deux ans plus tot\n\n学习任务：say how long ago something happened\n\n规则/用法：Il y a plus a duration means ago when the event is completed in the past.\n\n课堂证据：01:13:30-01:15:00 · L21.pass1-vocabulary-interface.jsonl:36；01:13:30-01:15:00 · L21.pass3-generalist.jsonl:34；01:13:30-01:14:30 · L21.pass5-micro-correction.jsonl:32；01:13:30-01:15:00 · L21.pass2-grammar-structure.jsonl:32；+2 more\n\n标签：A2, comparison, core, neutral, preposition_interface, pronoun, sentence_frame, tense_system",
+          "answer": null,
+          "source_species": "il y a plus duration means ago for completed past events",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "sentence_frame",
+            "tense_system"
+          ],
+          "french_items": [
+            "il y a deux ans",
+            "il y a",
+            "plus tot",
+            "deux ans plus tot"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:36",
+            "L21.pass3-generalist.jsonl:34",
+            "L21.pass5-micro-correction.jsonl:32",
+            "L21.pass2-grammar-structure.jsonl:32",
+            "L21.pass4-correction-error.jsonl:27",
+            "L21.pass7-form-memory.jsonl:23"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:plus-t-t-means-earlier-relative-to-another-reference-point",
+          "front": "【plus tot / plus tôt / deux ans plus tôt / il y a deux ans】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：express an earlier event relative to another past reference point",
+          "back": "知识点：plus tôt means earlier relative to another reference point\n\n类别：grammar_rule\n\n法语项目：plus tot / plus tôt / deux ans plus tôt / il y a deux ans\n\n学习任务：express an earlier event relative to another past reference point\n\n规则/用法：Plus tôt is earlier relative to a stated timeline anchor, not ago from the speaker’s now.\n\n课堂证据：01:15:00-01:17:30 · L21.pass1-vocabulary-interface.jsonl:37；01:15:00-01:19:00 · L21.pass3-generalist.jsonl:35；01:15:00-01:17:30 · L21.pass5-micro-correction.jsonl:33；01:15:00-01:17:30 · L21.pass2-grammar-structure.jsonl:33；+1 more\n\n标签：A2, comparison, core, neutral, preposition_interface, word_family_confusion",
+          "answer": null,
+          "source_species": "plus tôt means earlier relative to another reference point",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "plus tot",
+            "plus tôt",
+            "deux ans plus tôt",
+            "il y a deux ans"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:37",
+            "L21.pass3-generalist.jsonl:35",
+            "L21.pass5-micro-correction.jsonl:33",
+            "L21.pass2-grammar-structure.jsonl:33",
+            "L21.pass4-correction-error.jsonl:28"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:plus-que-parfait-preview-through-j-tais-all",
+          "front": "【j'étais allé au Japon】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：notice the form used for a past event that happened before another past event",
+          "back": "知识点：plus-que-parfait preview through j'étais allé\n\n类别：grammar_rule\n\n法语项目：j'étais allé au Japon\n\n学习任务：notice the form used for a past event that happened before another past event\n\n规则/用法：Teacher names the stricter past-before-past solution and gives j'étais allé as the form, even while simplifying elsewhere.\n\n课堂证据：01:19:30-01:20:30 · L21.pass3-generalist.jsonl:36\n\n标签：A2, B1, comparison, core, neutral, teacher_corrected_error, tense_system",
+          "answer": null,
+          "source_species": "plus-que-parfait preview through j'étais allé",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "comparison",
+            "core",
+            "neutral",
+            "teacher_corrected_error",
+            "tense_system"
+          ],
+          "french_items": [
+            "j'étais allé au Japon"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:36"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:demain-l-avenir-and-au-futur-mark-future-reference",
+          "front": "【demain / a l'avenir / au futur / à l'avenir / la semaine prochaine / le mois prochain / l'année prochaine / l'annee prochaine】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：express simple future reference with either a day adverb or a broader future phrase",
+          "back": "知识点：demain, à l’avenir, and au futur mark future reference\n\n类别：expression\n\n法语项目：demain / a l'avenir / au futur / à l'avenir / la semaine prochaine / le mois prochain / l'année prochaine / l'annee prochaine\n\n学习任务：express simple future reference with either a day adverb or a broader future phrase\n\n规则/用法：Demain can stand alone; broader future reference can be à l’avenir or au futur.\n\n课堂证据：01:22:30-01:23:30 · L21.pass1-vocabulary-interface.jsonl:38；01:22:30-01:24:30 · L21.pass3-generalist.jsonl:37；01:22:30-01:24:00 · L21.pass4-correction-error.jsonl:29；01:22:30-01:24:00 · L21.pass7-form-memory.jsonl:24；+1 more\n\n标签：A2, B1, core, foundational, neutral, preposition_interface, tense_system",
+          "answer": null,
+          "source_species": "demain, à l’avenir, and au futur mark future reference",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "B1",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "tense_system"
+          ],
+          "french_items": [
+            "demain",
+            "a l'avenir",
+            "au futur",
+            "à l'avenir",
+            "la semaine prochaine",
+            "le mois prochain",
+            "l'année prochaine",
+            "l'annee prochaine"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:38",
+            "L21.pass3-generalist.jsonl:37",
+            "L21.pass4-correction-error.jsonl:29",
+            "L21.pass7-form-memory.jsonl:24",
+            "L21.pass2-grammar-structure.jsonl:34"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:prochain-time-expressions-keep-article-and-agreement",
+          "front": "【demain / a l'avenir / la semaine prochaine / le mois prochain / l'annee prochaine / l'année prochaine / à l'avenir / au futur / dans / dans dix minutes / dans deux mois】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize and produce the main future time markers that trigger future interpretation",
+          "back": "知识点：prochain time expressions keep article and agreement\n\n类别：grammar_rule\n\n法语项目：demain / a l'avenir / la semaine prochaine / le mois prochain / l'annee prochaine / l'année prochaine / à l'avenir / au futur / dans / dans dix minutes / dans deux mois\n\n学习任务：recognize and produce the main future time markers that trigger future interpretation\n\n规则/用法：La semaine prochaine, le mois prochain, and l’année prochaine keep their articles and agreement.\n\n课堂证据：01:22:30-01:24:30 · L21.pass3-generalist.jsonl:37；01:22:30-01:24:00 · L21.pass4-correction-error.jsonl:29；01:23:00-01:24:00 · L21.pass2-grammar-structure.jsonl:35；01:23:30-01:24:30 · L21.pass1-vocabulary-interface.jsonl:39；+1 more\n\n标签：A2, B1, agreement, article, core, foundational, gender_number, neutral, tense_system",
+          "answer": null,
+          "source_species": "prochain time expressions keep article and agreement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "agreement",
+            "article",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "tense_system"
+          ],
+          "french_items": [
+            "demain",
+            "a l'avenir",
+            "la semaine prochaine",
+            "le mois prochain",
+            "l'annee prochaine",
+            "l'année prochaine",
+            "à l'avenir",
+            "au futur",
+            "dans",
+            "dans dix minutes",
+            "dans deux mois"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:37",
+            "L21.pass4-correction-error.jsonl:29",
+            "L21.pass2-grammar-structure.jsonl:35",
+            "L21.pass1-vocabulary-interface.jsonl:39",
+            "L21.pass7-form-memory.jsonl:25"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:dans-plus-duration-marks-future-distance-from-now",
+          "front": "【dans dix minutes / dans deux mois】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：pair a future duration phrase with the appropriate future reading",
+          "back": "知识点：dans plus duration marks future distance from now\n\n类别：expression\n\n法语项目：dans dix minutes / dans deux mois\n\n学习任务：pair a future duration phrase with the appropriate future reading\n\n规则/用法：Dans plus a duration means in that amount of time from now for future reference.\n\n课堂证据：01:24:00-01:26:30 · L21.pass2-grammar-structure.jsonl:36；01:24:00-01:26:00 · L21.pass4-correction-error.jsonl:30；01:24:30-01:26:30 · L21.pass1-vocabulary-interface.jsonl:40；01:24:30-01:26:30 · L21.pass3-generalist.jsonl:38\n\n标签：A2, B1, comparison, core, neutral, preposition_interface, tense_system",
+          "answer": null,
+          "source_species": "dans plus duration marks future distance from now",
+          "primary_class": "expression",
+          "tags": [
+            "A2",
+            "B1",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "tense_system"
+          ],
+          "french_items": [
+            "dans dix minutes",
+            "dans deux mois"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:36",
+            "L21.pass4-correction-error.jsonl:30",
+            "L21.pass1-vocabulary-interface.jsonl:40",
+            "L21.pass3-generalist.jsonl:38"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:plus-tard-means-later-from-a-non-present-reference-point",
+          "front": "【dix minutes plus tard / plus tard】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：express later when the timeline is anchored to another event rather than the speaker's present",
+          "back": "知识点：plus tard means later from a non-present reference point\n\n类别：grammar_rule\n\n法语项目：dix minutes plus tard / plus tard\n\n学习任务：express later when the timeline is anchored to another event rather than the speaker's present\n\n规则/用法：If the comparison point is a past narrated event, use plus tard for later instead of the present-anchored dans-duration future pattern.\n\n课堂证据：01:29:00-01:31:00 · L21.pass2-grammar-structure.jsonl:37；01:29:00-01:31:30 · L21.pass3-generalist.jsonl:39；01:29:30-01:31:30 · L21.pass4-correction-error.jsonl:31；01:30:00-01:31:30 · L21.pass1-vocabulary-interface.jsonl:41\n\n标签：A2, B1, comparison, core, neutral, preposition_interface, tense_system",
+          "answer": null,
+          "source_species": "plus tard means later from a non-present reference point",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "comparison",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "tense_system"
+          ],
+          "french_items": [
+            "dix minutes plus tard",
+            "plus tard"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:37",
+            "L21.pass3-generalist.jsonl:39",
+            "L21.pass4-correction-error.jsonl:31",
+            "L21.pass1-vocabulary-interface.jsonl:41"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:written-exercises-prefer-explicit-future",
+          "front": "【demain】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：choose a safer tense in written grammar exercises when a clear future trigger is present",
+          "back": "知识点：written-exercises-prefer-explicit-future\n\n类别：grammar_rule\n\n法语项目：demain\n\n学习任务：choose a safer tense in written grammar exercises when a clear future trigger is present\n\n规则/用法：Although present can express near future in speech, with a future trigger like demain the safer exercise answer is the explicit future tense.\n\n课堂证据：01:31:30-01:33:00 · L21.pass4-correction-error.jsonl:32；01:31:30-01:32:30 · L21.pass5-micro-correction.jsonl:34\n\n标签：A2, B1, core, foundational, neutral, preposition_interface, pronoun, tense_system, written",
+          "answer": null,
+          "source_species": "written-exercises-prefer-explicit-future",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "tense_system",
+            "written"
+          ],
+          "french_items": [
+            "demain"
+          ],
+          "evidence_refs": [
+            "L21.pass4-correction-error.jsonl:32",
+            "L21.pass5-micro-correction.jsonl:34"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:demain-soir-is-tomorrow-evening",
+          "front": "【demain soir / hier soir】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：read a compact time phrase correctly before choosing the tense",
+          "back": "知识点：demain-soir-is-tomorrow-evening\n\n类别：lexical_usage\n\n法语项目：demain soir / hier soir\n\n学习任务：read a compact time phrase correctly before choosing the tense\n\n规则/用法：Demain soir means tomorrow evening and therefore triggers a future reading.\n\n课堂证据：01:33:30-01:34:30 · L21.pass4-correction-error.jsonl:33；01:33:30-01:34:30 · L21.pass5-micro-correction.jsonl:35\n\n标签：A2, B1, core, foundational, neutral, preposition_interface, tense_system",
+          "answer": null,
+          "source_species": "demain-soir-is-tomorrow-evening",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "B1",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "tense_system"
+          ],
+          "french_items": [
+            "demain soir",
+            "hier soir"
+          ],
+          "evidence_refs": [
+            "L21.pass4-correction-error.jsonl:33",
+            "L21.pass5-micro-correction.jsonl:35"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:season-names-keep-article-with-prochain-or-dernier",
+          "front": "【le printemps prochain / l'été prochain / l'automne prochain / l'hiver prochain / l'ete prochain / l'ete dernier / l'été dernier】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：extend the prochain/dernier time-phrase rule from week/month/year to seasons",
+          "back": "知识点：season names keep article with prochain or dernier\n\n类别：grammar_rule\n\n法语项目：le printemps prochain / l'été prochain / l'automne prochain / l'hiver prochain / l'ete prochain / l'ete dernier / l'été dernier\n\n学习任务：extend the prochain/dernier time-phrase rule from week/month/year to seasons\n\n规则/用法：Season phrases also keep the article with prochain or dernier, and the teacher frames the season names here as masculine for agreement purposes.\n\n课堂证据：01:34:30-01:36:00 · L21.pass1-vocabulary-interface.jsonl:42；01:34:30-01:36:00 · L21.pass2-grammar-structure.jsonl:38；01:34:30-01:36:00 · L21.pass4-correction-error.jsonl:34；01:34:30-01:36:00 · L21.pass5-micro-correction.jsonl:36\n\n标签：A2, agreement, article, comparison, core, foundational, gender_number, neutral, sentence_frame, teacher_corrected_error",
+          "answer": null,
+          "source_species": "season names keep article with prochain or dernier",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "article",
+            "comparison",
+            "core",
+            "foundational",
+            "gender_number",
+            "neutral",
+            "sentence_frame",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "le printemps prochain",
+            "l'été prochain",
+            "l'automne prochain",
+            "l'hiver prochain",
+            "l'ete prochain",
+            "l'ete dernier",
+            "l'été dernier"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:42",
+            "L21.pass2-grammar-structure.jsonl:38",
+            "L21.pass4-correction-error.jsonl:34",
+            "L21.pass5-micro-correction.jsonl:36"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:aller-to-a-place-needs-the-place-preposition-rather-than-direct-chinese-style-svo",
+          "front": "【aller au restaurant / au magasin / j'ai achete mes vetements au magasin / aller à / au restaurant / ecouter / ecouter la chanson】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：decide when a place noun is a location complement rather than a direct object",
+          "back": "知识点：aller to a place needs the place preposition rather than direct Chinese-style SVO\n\n类别：grammar_rule\n\n法语项目：aller au restaurant / au magasin / j'ai achete mes vetements au magasin / aller à / au restaurant / ecouter / ecouter la chanson\n\n学习任务：decide when a place noun is a location complement rather than a direct object\n\n规则/用法：In sentences like buy clothes at the shop, the shop phrase is a locative complement with a preposition, not a bare object and not simply the motion verb aller.\n\n课堂证据：01:37:00-01:37:30 · L21.pass1-vocabulary-interface.jsonl:43；01:37:00-01:39:00 · L21.pass2-grammar-structure.jsonl:39；01:37:00-01:38:00 · L21.pass3-generalist.jsonl:40；01:37:00-01:37:30 · L21.pass5-micro-correction.jsonl:37；+4 more\n\n标签：A2, core, neutral, preposition_interface, pronominal_reflexive, pronoun, word_family_confusion",
+          "answer": null,
+          "source_species": "aller to a place needs the place preposition rather than direct Chinese-style SVO",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "pronoun",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "aller au restaurant",
+            "au magasin",
+            "j'ai achete mes vetements au magasin",
+            "aller à",
+            "au restaurant",
+            "ecouter",
+            "ecouter la chanson"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:43",
+            "L21.pass2-grammar-structure.jsonl:39",
+            "L21.pass3-generalist.jsonl:40",
+            "L21.pass5-micro-correction.jsonl:37",
+            "L21.pass6-low-frequency-lexical.jsonl:15",
+            "L21.pass7-form-memory.jsonl:13",
+            "L21.pass1-vocabulary-interface.jsonl:45",
+            "L21.pass4-correction-error.jsonl:35"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:ecouter-takes-a-direct-object-for-songs-music-and-speech",
+          "front": "【ecouter une chanson / ecouter de la musique / écouter / écouter de la musique / écouter une chanson / écouter la chanson / écouter quelque chose】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：build listen-to sentences without inserting an extra preposition",
+          "back": "知识点：ecouter takes a direct object for songs music and speech\n\n类别：lexical_usage\n\n法语项目：ecouter une chanson / ecouter de la musique / écouter / écouter de la musique / écouter une chanson / écouter la chanson / écouter quelque chose\n\n学习任务：build listen-to sentences without inserting an extra preposition\n\n规则/用法：ecouter is the attentive-listening verb and takes a direct object for songs, music, or someone speaking.\n\n课堂证据：01:37:30-01:38:30 · L21.pass1-vocabulary-interface.jsonl:44；01:37:30-01:38:30 · L21.pass5-micro-correction.jsonl:38；01:37:30-01:38:30 · L21.pass3-generalist.jsonl:41\n\n标签：A2, core, listening_keyword, memory_hook, neutral, preposition_interface, transitive_direct",
+          "answer": null,
+          "source_species": "ecouter takes a direct object for songs music and speech",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "A2",
+            "core",
+            "listening_keyword",
+            "memory_hook",
+            "neutral",
+            "preposition_interface",
+            "transitive_direct"
+          ],
+          "french_items": [
+            "ecouter une chanson",
+            "ecouter de la musique",
+            "écouter",
+            "écouter de la musique",
+            "écouter une chanson",
+            "écouter la chanson",
+            "écouter quelque chose"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:44",
+            "L21.pass5-micro-correction.jsonl:38",
+            "L21.pass3-generalist.jsonl:41"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:t-l-phoner-takes-lui-not-le-or-la",
+          "front": "「给他打电话」je ___ téléphone（lui / le / la）",
+          "back": "téléphoner à qqn 是间接宾语 → 用 lui，不是 le/la。",
+          "answer": "lui",
+          "source_species": "téléphoner à takes lui not le or la",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "requires_a",
+            "transitive_direct",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "téléphoner à",
+            "lui téléphoner",
+            "telephoner a",
+            "lui",
+            "Je lui ai téléphoné"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:42",
+            "L21.pass4-correction-error.jsonl:36",
+            "L21.pass5-micro-correction.jsonl:39"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:aller-simple-future-flagged-as-irregular-root-memorization",
+          "front": "aller 的简单将来时「我将去」je ___",
+          "back": "aller 将来时词根不规则：j'irai, tu iras, il ira…",
+          "answer": "j'irai",
+          "source_species": "aller simple future flagged as irregular root memorization",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "core",
+            "irregular",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "tense_system"
+          ],
+          "french_items": [
+            "aller",
+            "j'irai",
+            "parler francais",
+            "parler anglais",
+            "Je parle francais"
+          ],
+          "evidence_refs": [
+            "L21.pass3-generalist.jsonl:43",
+            "L21.pass4-correction-error.jsonl:37",
+            "L21.pass7-form-memory.jsonl:26",
+            "L21.pass6-low-frequency-lexical.jsonl:33"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:parler-plus-language-has-no-article",
+          "front": "「我说法语」je parle ___（填语言）",
+          "back": "parler+语言不加冠词：je parle français / anglais。",
+          "answer": "français",
+          "source_species": "parler plus language has no article",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "article",
+            "comparison",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface"
+          ],
+          "french_items": [
+            "je parle francais",
+            "parler francais",
+            "parler français",
+            "parler anglais",
+            "Je parle francais",
+            "parler a quelqu'un",
+            "parler de quelque chose",
+            "Je parle français",
+            "parler a",
+            "parler de",
+            "parler de quelqu'un"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:46",
+            "L21.pass3-generalist.jsonl:44",
+            "L21.pass5-micro-correction.jsonl:40",
+            "L21.pass4-correction-error.jsonl:38",
+            "L21.pass2-grammar-structure.jsonl:41",
+            "L21.pass6-low-frequency-lexical.jsonl:34",
+            "L21.pass7-form-memory.jsonl:27",
+            "L21.pass6-low-frequency-lexical.jsonl:35"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:parler-marks-addressee-parler-de-marks-topic",
+          "front": "【Je parle francais / parler a quelqu'un / parler de quelque chose / parler de quelqu'un / parler à / parler de / il parle / parler à quelqu'un】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：pick the right frame for parler based on whether the complement is a language, a person addressed, or a topic discussed",
+          "back": "知识点：parler à marks addressee; parler de marks topic\n\n类别：grammar_rule\n\n法语项目：Je parle francais / parler a quelqu'un / parler de quelque chose / parler de quelqu'un / parler à / parler de / il parle / parler à quelqu'un\n\n学习任务：pick the right frame for parler based on whether the complement is a language, a person addressed, or a topic discussed\n\n规则/用法：Parler à is speaking to a person; parler de is talking about a person or thing.\n\n课堂证据：01:43:30-01:45:00 · L21.pass4-correction-error.jsonl:38；01:44:30-01:45:00 · L21.pass1-vocabulary-interface.jsonl:47；01:44:30-01:46:00 · L21.pass1-vocabulary-interface.jsonl:48；01:44:30-01:46:00 · L21.pass2-grammar-structure.jsonl:42；+2 more\n\n标签：A2, core, neutral, preposition_interface, requires_a, requires_de, word_family_confusion",
+          "answer": null,
+          "source_species": "parler à marks addressee; parler de marks topic",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "requires_a",
+            "requires_de",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "Je parle francais",
+            "parler a quelqu'un",
+            "parler de quelque chose",
+            "parler de quelqu'un",
+            "parler à",
+            "parler de",
+            "il parle",
+            "parler à quelqu'un"
+          ],
+          "evidence_refs": [
+            "L21.pass4-correction-error.jsonl:38",
+            "L21.pass1-vocabulary-interface.jsonl:47",
+            "L21.pass1-vocabulary-interface.jsonl:48",
+            "L21.pass2-grammar-structure.jsonl:42",
+            "L21.pass3-generalist.jsonl:45",
+            "L21.pass5-micro-correction.jsonl:41"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:l-means-there-ici-means-here-and-y-can-replace-the-destination",
+          "front": "【la / ici / voila / Je n'y vais pas / je n'y vais pas】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：choose a real there/here expression instead of misusing a discourse-presenter word",
+          "back": "知识点：là means there, ici means here, and y can replace the destination\n\n类别：grammar_rule\n\n法语项目：la / ici / voila / Je n'y vais pas / je n'y vais pas\n\n学习任务：choose a real there/here expression instead of misusing a discourse-presenter word\n\n规则/用法：Use là for there, ici for here, and y in movement expressions such as je n’y vais pas.\n\n课堂证据：01:46:00-01:47:00 · L21.pass1-vocabulary-interface.jsonl:49；01:46:00-01:47:00 · L21.pass4-correction-error.jsonl:39\n\n标签：A2, core, neutral, preposition_interface, pronoun",
+          "answer": null,
+          "source_species": "là means there, ici means here, and y can replace the destination",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "neutral",
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [
+            "la",
+            "ici",
+            "voila",
+            "Je n'y vais pas",
+            "je n'y vais pas"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:49",
+            "L21.pass4-correction-error.jsonl:39"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:movement-verbs-use-tre-in-pass-compos-and-trigger-agreement",
+          "front": "位移动词的复合过去时用哪个助动词？过去分词怎样？",
+          "back": "用 être，且过去分词与主语性数配合：je suis allé(e)、elle est allée。",
+          "answer": null,
+          "source_species": "movement verbs use être in passé composé and trigger agreement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "B1",
+            "agreement",
+            "core",
+            "etre_auxiliary",
+            "gender_number",
+            "neutral",
+            "past_participle_agreement",
+            "tense_system"
+          ],
+          "french_items": [
+            "je suis allee",
+            "je suis allée",
+            "quand j'etais enfant",
+            "quand j'etais petit"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:43",
+            "L21.pass3-generalist.jsonl:46",
+            "L21.pass4-correction-error.jsonl:40",
+            "L21.pass7-form-memory.jsonl:30"
+          ],
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:quand-j-tais-enfant-or-petit-as-article-free-childhood-frame",
+          "front": "【quand j'etais enfant / quand j'etais petit / Quand j'étais enfant / Quand j'étais petit / quand j'étais enfant / quand j'étais petit / Quand j'etais enfant / Quand j'etais petit】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：state a childhood-time background clause without importing the English article",
+          "back": "知识点：quand j'étais enfant or petit as article-free childhood frame\n\n类别：grammar_rule\n\n法语项目：quand j'etais enfant / quand j'etais petit / Quand j'étais enfant / Quand j'étais petit / quand j'étais enfant / quand j'étais petit / Quand j'etais enfant / Quand j'etais petit\n\n学习任务：state a childhood-time background clause without importing the English article\n\n规则/用法：quand j'etais enfant and quand j'etais petit both mean when I was young/as a child, with no article inserted.\n\n课堂证据：01:47:30-01:48:30 · L21.pass1-vocabulary-interface.jsonl:50；01:48:00-01:48:30 · L21.pass2-grammar-structure.jsonl:44；01:48:00-01:48:30 · L21.pass3-generalist.jsonl:47；01:48:00-01:48:30 · L21.pass4-correction-error.jsonl:41\n\n标签：A2, article, core, foundational, neutral, preposition_interface, sentence_frame",
+          "answer": null,
+          "source_species": "quand j'étais enfant or petit as article-free childhood frame",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "article",
+            "core",
+            "foundational",
+            "neutral",
+            "preposition_interface",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "quand j'etais enfant",
+            "quand j'etais petit",
+            "Quand j'étais enfant",
+            "Quand j'étais petit",
+            "quand j'étais enfant",
+            "quand j'étais petit",
+            "Quand j'etais enfant",
+            "Quand j'etais petit"
+          ],
+          "evidence_refs": [
+            "L21.pass1-vocabulary-interface.jsonl:50",
+            "L21.pass2-grammar-structure.jsonl:44",
+            "L21.pass3-generalist.jsonl:47",
+            "L21.pass4-correction-error.jsonl:41"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:species:qui-is-a-subject-relative-pronoun-with-subject-linked-verb-agreement",
+          "front": "【qui / c'est le garçon qui court】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：build a relative clause where the noun is the subject of the relative clause",
+          "back": "知识点：qui is a subject relative pronoun with subject-linked verb agreement\n\n类别：grammar_rule\n\n法语项目：qui / c'est le garçon qui court\n\n学习任务：build a relative clause where the noun is the subject of the relative clause\n\n规则/用法：Qui functions as the subject relative pronoun, and the following verb agrees with the relative-clause subject.\n\n课堂证据：01:47:30-01:48:00 · L21.pass2-grammar-structure.jsonl:40\n\n标签：A2, agreement, core, gender_number, neutral, preposition_interface, pronoun, relative_pronoun",
+          "answer": null,
+          "source_species": "qui is a subject relative pronoun with subject-linked verb agreement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "agreement",
+            "core",
+            "gender_number",
+            "neutral",
+            "preposition_interface",
+            "pronoun",
+            "relative_pronoun"
+          ],
+          "french_items": [
+            "qui",
+            "c'est le garçon qui court"
+          ],
+          "evidence_refs": [
+            "L21.pass2-grammar-structure.jsonl:40"
+          ]
+        }
+      ]
+    }
+  ]
+}

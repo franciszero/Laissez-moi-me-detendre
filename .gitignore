@@ -1,0 +1,17 @@
+# 「听写」app 是独立仓库（Laissez-moi-vous-dire），不在本数据仓库里
+听写/
+
+# 大媒体：课程录音/录像，别进 git
+*.mp4
+*.mp3
+*.mov
+*.wav
+*.m4a
+*.mkv
+*.avi
+*.webm
+
+# 杂项
+.DS_Store
+__pycache__/
+*.pyc
