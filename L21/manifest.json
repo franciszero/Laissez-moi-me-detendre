@@ -579,6 +579,200 @@
       ]
     },
     {
+      "id": "pronoun-review-assignment",
+      "title": "混合代词复习：不透原题答案",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:diagnosis-first",
+          "front": "混合代词填空第一步：看到空格前，先不要猜 le/la/les/lui/y/en。你应该先问哪四个问题？",
+          "back": "先诊断，不先猜答案：\n\n1. 原句里要被替换的是人、物、地点，还是数量/部分？\n2. 这个成分跟动词之间有没有介词？是直接宾语、à + 人/地点/事，还是 de + 名词/数量？\n3. 法语动词本身怎么搭配？例如 parler à/de、répondre à、téléphoner à、écouter quelqu'un/quelque chose。\n4. 代词要放在哪里？一般放在变位动词前；有不定式结构时常放在不定式前。\n\nL21 末尾老师说这张代词题没有讲，让你翻笔记重做；这张卡只复习方法，不给原题答案。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "method",
+            "homework"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1453",
+            "L21_final_working.md:1564-1572"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:direct-object",
+          "front": "什么时候考虑 le / la / les？请说出判断规则，不要套中文。",
+          "back": "当被替换的是直接宾语 COD，也就是动词直接接的人或物，不经过 à/de 等介词时，考虑 le/la/les。\n\n判断顺序：先看动词接口，再看被替换名词的性数。\n- 阳性单数名词：le\n- 阴性单数名词：la\n- 复数名词：les\n\n注意：人也可能是直接宾语，物也可能是直接宾语；关键不是人/物，而是动词是否直接接它。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "direct-object",
+            "le-la-les"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1459"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:indirect-person",
+          "front": "什么时候考虑 lui / leur？它跟 le / la / les 的核心区别是什么？",
+          "back": "当被替换的是 à + 人，即间接宾语 COI，考虑 lui/leur。\n\n核心区别：\n- le/la/les：直接宾语，动词直接接。\n- lui/leur：à + 人。\n\nL21 老师实际点过 téléphoner à：这个结构不能按 le/la 走，因为它是 à quelqu'un。类似 répondre à quelqu'un、écrire à quelqu'un、donner quelque chose à quelqu'un 都要先看到 à + 人这个接口。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "indirect-object",
+            "lui-leur"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1452-1463"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:y-place-thing",
+          "front": "什么时候考虑 y？请把“地点”和“à + 事情/概念”分开说。",
+          "back": "y 常替代两类东西：\n\n1. 地点状语：à / dans / chez / sur 等引出的地点，意思接近 there。\n2. à + 事情/概念：penser à quelque chose、réfléchir à une question 这类不是人的对象。\n\n重要边界：à + 人通常不要用 y，常走 lui/leur 或重读代词结构。做题时先判断 à 后面是不是人。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "y",
+            "place",
+            "a-interface"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1521-1536"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:en-de-interface",
+          "front": "什么时候考虑 en？不要只记成“some”，请说出 de 接口和数量两条线。",
+          "back": "en 主要有两条线：\n\n1. de + 名词/事情/来源：parler de quelque chose、venir de quelque part 等。\n2. 数量或部分：du / de la / des / un / une / 数字 / beaucoup de + 名词。\n\n做题时问：原句里有没有 de 或者数量词？如果有，被替换的名词通常可以进 en；数量词本身常常保留。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "en",
+            "de-interface",
+            "quantity"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1507-1515"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:person-thing-boundary",
+          "front": "同样是 à 或 de，为什么“人/物”会影响代词选择？",
+          "back": "混合代词最容易错在：只看到 à/de，却没看后面是人还是物。\n\n- à + 人：多考虑 lui/leur 或重读代词结构。\n- à + 地点/事情：多考虑 y。\n- de + 事情/数量/来源：多考虑 en。\n- de + 人：很多情况下不能机械用 en，要看具体结构。\n\n所以每题都先标：介词是什么？介词后面是人、物、地点还是数量？",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "boundary",
+            "person-vs-thing"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1459",
+            "L21_final_working.md:1500-1515"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:verb-interface",
+          "front": "为什么老师总让你“看动词”？混合代词题里看动词具体看什么？",
+          "back": "看动词，就是看动词的接口：\n\n- écouter / regarder / voir / connaître：通常直接接宾语。\n- téléphoner / répondre / écrire à：后面接 à + 人/对象。\n- parler à / parler de：两个接口意思不同，代词也不同。\n- aller / habiter / être 等后面常出现地点状语。\n\n不要从中文“给、对、把、从”硬翻，要回到法语动词本身怎么接。L21 老师在结尾也说你这里“不太习惯法语的这种表达方式”。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "verb-interface",
+            "strategy"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1453",
+            "L21_final_working.md:1493-1515"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:position",
+          "front": "代词一般放在哪里？否定句和不定式结构要注意什么？",
+          "back": "基础位置：宾语代词一般放在相关动词前。\n\n- 普通变位动词：主语 + 代词 + 动词。\n- 否定：ne + 代词 + 动词 + pas。\n- 有不定式时：代词常放在不定式前，而不是随便放在第一个动词前。\n\n做题时不要只选代词，还要检查它是不是放在支配它的动词前。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "position",
+            "negation",
+            "infinitive"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1453"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:two-pronoun-order",
+          "front": "如果一个句子里出现两个代词，常用顺序怎么记？",
+          "back": "常用顺序先背成队列：\n\nme / te / se / nous / vous → le / la / les → lui / leur → y → en\n\n这不是为了立刻解每一道复杂题，而是防止你知道代词却放错顺序。先把单代词判断做稳，再用这个队列检查双代词句。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "order",
+            "two-pronouns"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1453",
+            "L21_final_working.md:1564-1572"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:quantity-retention",
+          "front": "en 替代数量结构时，数量词怎么办？",
+          "back": "en 替代的是 de + 名词或数量后面的名词部分；数量词本身常常保留。\n\n比如“很多、三个、一些”这类数量信息，做题时不要一起扔掉。先圈出数量词，再圈出被替换的名词。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "en",
+            "quantity"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1445-1453"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:homework-protocol",
+          "front": "重新做这张混合代词题时，每一题旁边应该写哪三样标记？",
+          "back": "为了不靠猜，每一题旁边写三样东西：\n\n1. 被替换的原词组：人/物/地点/数量。\n2. 跟动词的接口：直接、à + 人、à + 地点/事、de + 名词/数量。\n3. 你选择的代词类型：COD / COI / y / en。\n\n先写理由，再填空。这样你是在复习系统，不是在背 30 个孤立答案。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "homework",
+            "method"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1564-1572"
+          ]
+        },
+        {
+          "type": "checkpoint",
+          "id": "L21:pronoun-review:l21-assignment-boundary",
+          "front": "L21 里老师对这张代词题的处理边界是什么？",
+          "back": "L21 末尾老师明确说：这个代词的题没有讲，让你先复习，翻出笔记，重新做这个题。\n\n所以这组卡不是在批改 30 题，也不提供逐题答案；它只帮你恢复做题所需的代词选择系统。",
+          "answer": null,
+          "tags": [
+            "mixed-pronoun-review",
+            "assignment-boundary",
+            "evidence"
+          ],
+          "evidence_refs": [
+            "L21_final_working.md:1564-1572"
+          ]
+        }
+      ]
+    },
+    {
       "id": "species-checkpoints",
       "title": "L21 reviewed species checkpoints",
       "bucket": "checkpoint",
