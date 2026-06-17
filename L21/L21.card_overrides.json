@@ -108,5 +108,260 @@
     "front": "位移动词的复合过去时用哪个助动词？过去分词怎样？",
     "answer": null,
     "back": "用 être，且过去分词与主语性数配合：je suis allé(e)、elle est allée。"
+  },
+  "avec plaisir and volontiers as easy listening-response formulas": {
+    "front": "「我很乐意」(回应邀请)",
+    "answer": "volontiers",
+    "back": "volontiers=乐意地(有尾 s)=avec plaisir，接受邀请用。"
+  },
+  "certes means of course and contrasts with en general": {
+    "front": "「当然、的确」(让步语)",
+    "answer": "certes",
+    "back": "certes=当然/的确，≠ en général(通常)。"
+  },
+  "-ité words mapped to English -ty and usually feminine": {
+    "front": "以 -té 结尾的名词，性别+词义有什么规律？",
+    "answer": null,
+    "back": "多对应英语 -ty(activité=activity)，且通常阴性。"
+  },
+  "oppose means set in opposition not just be against": {
+    "front": "「对立的/相反的」(形容词)",
+    "answer": "opposé",
+    "back": "opposé=相反/对立的，不只是'反对'；opposer=使对立。"
+  },
+  "paysage-masculine-article-correction": {
+    "front": "「风景」(带冠词，注意阴阳性)",
+    "answer": "le paysage",
+    "back": "paysage 阳性：le paysage。"
+  },
+  "autoroute means highway": {
+    "front": "「高速公路」(带冠词)",
+    "answer": "une autoroute",
+    "back": "autoroute 阴性：une/l'autoroute=高速公路。"
+  },
+  "compléter une feuille or un formulaire for filling out forms": {
+    "front": "「填表」(compléter + 表格)",
+    "answer": "compléter une feuille",
+    "back": "compléter une feuille / un formulaire=填表(≈remplir)。"
+  },
+  "attendre takes a direct object without a preposition": {
+    "front": "attendre 后面要不要介词？",
+    "answer": null,
+    "back": "不要介词，直接接宾语：attendre quelqu'un / le bus。"
+  },
+  "-dre verbs share a conjugation family": {
+    "front": "attendre/répondre/descendre/perdre 属同一变位族吗？",
+    "answer": null,
+    "back": "是，-dre 动词家族，变位相同。"
+  },
+  "entendre contrasted with écouter as hear versus listen to": {
+    "front": "「听见(不经意)」对比 écouter(主动听)",
+    "answer": "entendre",
+    "back": "entendre=听见(无意)；écouter=听(主动:音乐/人说话)。"
+  },
+  "défendre inferred through form as defend": {
+    "front": "「保卫/防御」(动词)",
+    "answer": "défendre",
+    "back": "défendre=保卫/防御。"
+  },
+  "vendre identified as sell": {
+    "front": "「卖」(动词)",
+    "answer": "vendre",
+    "back": "vendre=卖。"
+  },
+  "se détendre as relax oneself and useful oral-production verb": {
+    "front": "「放松(自己)」(反身动词)",
+    "answer": "se détendre",
+    "back": "se détendre=放松自己；détendre=使…放松(及物)。"
+  },
+  "peindre means to paint, including house-painting use": {
+    "front": "「画/刷漆」(动词)",
+    "answer": "peindre",
+    "back": "peindre=画/刷漆。"
+  },
+  "-indre / -joindre family pronunciation and spelling pattern": {
+    "front": "peindre/atteindre/craindre/se plaindre/rejoindre 这组要注意啥？",
+    "answer": null,
+    "back": "-indre 动词：拼写/发音特殊的一族，需专门记。"
+  },
+  "atteindre as attain/reach": {
+    "front": "「达到/抵达」(动词)",
+    "answer": "atteindre",
+    "back": "atteindre=达到/抵达(≈attain)。"
+  },
+  "eteindre for turning things off": {
+    "front": "「关闭(电器/灯)」(动词)",
+    "answer": "éteindre",
+    "back": "éteindre=关掉灯/电话/电脑。"
+  },
+  "se plaindre optionally takes de for complaint content": {
+    "front": "「抱怨某事」se plaindre ___ qqch(填介词)",
+    "answer": "de",
+    "back": "se plaindre=抱怨；se plaindre de qqch=抱怨某事。"
+  },
+  "craindre as fear": {
+    "front": "「害怕」(动词)",
+    "answer": "craindre",
+    "back": "craindre=害怕。"
+  },
+  "rejoindre for rejoin or come find later": {
+    "front": "「去与…会合/随后赶来」(动词)",
+    "answer": "rejoindre",
+    "back": "rejoindre=会合/重新加入/随后找你。"
+  },
+  "bruit as high-value housing and listening vocabulary": {
+    "front": "「噪音」(带冠词)",
+    "answer": "le bruit",
+    "back": "le bruit=噪音；du bruit=一些噪音。"
+  },
+  "se rejoindre for meeting up with each other": {
+    "front": "se rejoindre 与 rejoindre 区别？",
+    "answer": null,
+    "back": "se rejoindre=互相会合(相互)；rejoindre=去与某人会合。"
+  },
+  "je me perds dans les details as get lost in the details": {
+    "front": "「我钻进细节出不来」je me perds dans ___ détails(填冠词)",
+    "answer": "les",
+    "back": "je me perds dans les détails=陷在细节里(détails 常复数)。"
+  },
+  "past-participle-not-finite-form-plus-agreement": {
+    "front": "需要过去分词的空，别填什么？还要查什么？",
+    "answer": null,
+    "back": "别用第三人称现在时(parcourt)，要用过去分词(parcouru)，再查性数配合。"
+  },
+  "past-participle-gender-number-agreement": {
+    "front": "过去分词什么时候要性数配合？",
+    "answer": null,
+    "back": "être 助动词 / 前置直接宾语 / 反身动词 触发时，过去分词随性数变化。"
+  },
+  "article-required-in-plural-and-specified-noun-phrases": {
+    "front": "复数可数名词无特殊语境要不要冠词？",
+    "answer": null,
+    "back": "要：des documents importants；被特指时用定冠词(le chef de Jacques)。"
+  },
+  "specified person-relation nouns need a definite article": {
+    "front": "「Jacques 的老板」le chef ___ Jacques(填介词)",
+    "answer": "de",
+    "back": "特指人际关系名词用 定冠词 + de：le chef de Jacques。"
+  },
+  "finish-type verbs treated as punctual rather than durative": {
+    "front": "finir 这类'完成'是点动作还是持续动作？影响时态？",
+    "answer": null,
+    "back": "点动作(瞬间完成)，倾向复合过去时，不用'整晚一直在完成'的未完成体。"
+  },
+  "habitual-past-detected-by-avant-and-daily-markers": {
+    "front": "avant、tous les jours 这些标记提示用哪个过去时？",
+    "answer": null,
+    "back": "提示习惯性过去 → 未完成过去时(imparfait)。"
+  },
+  "predicate units after être require de": {
+    "front": "「房租是500美元」Le loyer est ___ 500 dollars(填介词)",
+    "answer": "de",
+    "back": "être + 数量/单位 要加 de：Le loyer est de 500 dollars / La chambre est de 20 m²。"
+  },
+  "votre-is-possessive-adjective-not-yours": {
+    "front": "votre = 'your' 还是 'yours'？",
+    "answer": null,
+    "back": "votre=your(物主形容词，后接名词)，不是 yours；不会代词就保留名词：que votre chambre。"
+  },
+  "ordinary adjective comparison stays inside the copular frame": {
+    "front": "「法语没英语难」Le français est ___ facile que l'anglais(填比较词)",
+    "answer": "moins",
+    "back": "普通比较保持主系表：Le français est moins facile que l'anglais。"
+  },
+  "quantity words take de before nouns but not before adjectives or adverbs": {
+    "front": "「更多朋友」plus ___ amis(填)",
+    "answer": "d'",
+    "back": "plus/moins/autant/beaucoup/peu + de + 名词(元音前 d')：plus d'amis, moins de café。"
+  },
+  "il y a autant de is a fallback frame for equal quantity": {
+    "front": "表达'数量一样多'的备用句式？",
+    "answer": null,
+    "back": "il y a autant de + 名词。"
+  },
+  "past time adverbs split between bare hier and article-bearing dernier phrases": {
+    "front": "'昨天' vs '上周/上月/去年' 形式上有何不同？",
+    "answer": null,
+    "back": "昨天=hier(单个副词，不带冠词)；上周/月/年=la semaine/le mois/l'année dernière(带冠词)。"
+  },
+  "il y a plus duration means ago for completed past events": {
+    "front": "「两年前」(用 il y a)",
+    "answer": "il y a deux ans",
+    "back": "il y a + 时间段=……以前(动作已完成)。"
+  },
+  "plus tôt means earlier relative to another reference point": {
+    "front": "plus tôt 和 il y a 区别？",
+    "answer": null,
+    "back": "plus tôt=相对某时间点'更早'(deux ans plus tôt)；il y a=相对'现在'的'……前'。"
+  },
+  "plus-que-parfait preview through j'étais allé": {
+    "front": "「(那之前)我已经去过日本」j'___ allé au Japon",
+    "answer": "j'étais",
+    "back": "愈过去时(plus-que-parfait)=过去的过去：j'étais allé。"
+  },
+  "demain, à l’avenir, and au futur mark future reference": {
+    "front": "表'将来'的几个说法？",
+    "answer": null,
+    "back": "demain(明天，可单用)、à l'avenir / au futur(将来、今后)。"
+  },
+  "prochain time expressions keep article and agreement": {
+    "front": "「下周」(la semaine + prochain)",
+    "answer": "la semaine prochaine",
+    "back": "下周/月/年保留冠词+配合：la semaine prochaine, le mois prochain, l'année prochaine。"
+  },
+  "dans plus duration marks future distance from now": {
+    "front": "「(从现在起)十分钟后」(用 dans)",
+    "answer": "dans dix minutes",
+    "back": "dans + 时间段=(从现在起)……之后：dans dix minutes, dans deux mois。"
+  },
+  "plus tard means later from a non-present reference point": {
+    "front": "叙述过去时'稍后/……之后'用什么？(不是 dans)",
+    "answer": null,
+    "back": "以过去事件为参照用 plus tard：dix minutes plus tard。"
+  },
+  "written-exercises-prefer-explicit-future": {
+    "front": "书面练习遇 demain 这种将来标记，谓语用什么时态最稳？",
+    "answer": null,
+    "back": "用明确的将来时(futur)，别用现在时代替。"
+  },
+  "demain-soir-is-tomorrow-evening": {
+    "front": "「明晚」(2 个词)",
+    "answer": "demain soir",
+    "back": "demain soir=明晚(触发将来)；hier soir=昨晚。"
+  },
+  "season names keep article with prochain or dernier": {
+    "front": "「下个春天」(le printemps + prochain)",
+    "answer": "le printemps prochain",
+    "back": "季节+prochain/dernier 保留冠词：le printemps prochain；季节名按阳性配合。"
+  },
+  "aller to a place needs the place preposition rather than direct Chinese-style SVO": {
+    "front": "'在商店买衣服'里'商店'是直接宾语吗？",
+    "answer": null,
+    "back": "不是，是地点状语要介词：acheter ... au magasin(au=à+le)。"
+  },
+  "ecouter takes a direct object for songs music and speech": {
+    "front": "「听一首歌」écouter ___ chanson(填冠词)",
+    "answer": "une",
+    "back": "écouter 直接接宾语(无介词)：écouter une chanson / de la musique。"
+  },
+  "parler à marks addressee; parler de marks topic": {
+    "front": "parler à 和 parler de 区别？",
+    "answer": null,
+    "back": "parler à qqn=对某人说(对象)；parler de qqch=谈论某事(话题)。"
+  },
+  "là means there, ici means here, and y can replace the destination": {
+    "front": "là / ici / y 分别表示？",
+    "answer": null,
+    "back": "là=那里；ici=这里；y 代替地点(je n'y vais pas=我不去那儿)。"
+  },
+  "quand j'étais enfant or petit as article-free childhood frame": {
+    "front": "「我小时候」(quand + …，不加冠词)",
+    "answer": "quand j'étais enfant",
+    "back": "quand j'étais enfant / petit=我小时候(不加冠词)。"
+  },
+  "qui is a subject relative pronoun with subject-linked verb agreement": {
+    "front": "「那个奔跑的男孩」c'est le garçon ___ court(填关系代词)",
+    "answer": "qui",
+    "back": "qui=主语关系代词，后面动词与从句主语一致。"
   }
 }
