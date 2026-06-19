@@ -10,6 +10,7 @@
 *.mkv
 *.avi
 *.webm
+~$*.docx
 
 # 杂项
 .DS_Store

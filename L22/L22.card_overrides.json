@@ -1,0 +1,517 @@
+{
+  "dictation review of avec plaisir, certes, and volontiers": {
+    "front": "听写复盘：avec plaisir、certes、volontiers 分别怎样拼写、怎样理解？",
+    "back": "- **avec plaisir**：乐意；很愿意\n- **certes**：确实、当然、固然\n- **volontiers**：乐意地、欣然\n\n三项都要整块听写，不要用英语拼写直觉反推。",
+    "answer": null
+  },
+  "dictation review of short lexical forms and phrases": {
+    "front": "短词听写时，听到一个似曾相识的音，应该按什么顺序恢复法语形式？",
+    "back": "先判断是否为固定表达，再辨认鼻化音和法语字母组合，最后核对词性、搭配与重音。**不能把整串声音按英语拼法硬猜。**",
+    "answer": null
+  },
+  "use French sound-to-spelling patterns instead of English spelling reflexes": {
+    "front": "听到法语鼻化音时，为什么应先联想 pain / sans / loin，而不是英语字母读法？",
+    "back": "这些熟词是法语的**音形模板**：pain/sain 帮助回忆 ain，sans 帮助回忆 an，loin 帮助回忆 oin。先找法语音形家族，再恢复 peindre、atteindre、rejoindre、se plaindre 等拼写。",
+    "answer": null
+  },
+  "efficace keeps initial e without an acute accent": {
+    "front": "“有效的、高效的”：___（不要多写重音）",
+    "back": "正确拼写是 **efficace**，开头是 e + ff，不是 *éfficace*。可和 **effet / en effet** 一组记忆。",
+    "answer": "efficace"
+  },
+  "run an ordered full-list recall after correcting dictation": {
+    "front": "老师改完一组听写后，为什么还要求从头按顺序再说一遍？",
+    "back": "逐项改对不等于真正记住。按原顺序完整回忆一次，才能暴露仍会卡住的项目，避免被刚看过的答案制造“我会了”的错觉。",
+    "answer": null
+  },
+  "meaning recall for certes and volontiers": {
+    "front": "certes 和 volontiers 的语气、词性和常见用途有什么不同？",
+    "back": "**certes** 表示“确实、当然、固然”，偏书面，也可先承认再转折。**volontiers** 是副词，表示“乐意地、欣然”，常用于回应邀请或请求。",
+    "answer": null
+  },
+  "mieux versus meilleur comparative bases": {
+    "front": "Il parle ___ français.（填 mieux / meilleur）",
+    "back": "**mieux** 是 bien 的比较级，修饰动作：Il parle mieux。**meilleur / meilleure** 是 bon 的比较级，修饰名词：un meilleur choix / une meilleure idée。",
+    "answer": "mieux"
+  },
+  "tout le temps means all the time": {
+    "front": "法语“一直、总是”：___",
+    "back": "固定表达 **tout le temps** = all the time / 一直。整块记，不要逐字翻成“全部时间”。",
+    "answer": "tout le temps"
+  },
+  "pays natal means homeland or native country": {
+    "front": "“故乡、祖国、出生地”：le ___ natal",
+    "back": "**le pays natal** 指故乡、祖国或出生地。pays 是阳性，所以用 natal。",
+    "answer": "pays"
+  },
+  "meaning recall for collègue, efficace, and mari": {
+    "front": "collègue、efficace、mari 三个词分别是什么意思？冠词或词性是什么？",
+    "back": "- **un/une collègue**：同事，阴阳同形\n- **efficace**：有效的、高效的，形容词\n- **un mari**：丈夫，阳性名词",
+    "answer": null
+  },
+  "use en for an indefinite quantity and le for a specific object": {
+    "front": "Nous avons acheté des fruits. Nous ___ avons acheté.（表示“买了一些”）",
+    "back": "不定数量或“一些/其中一部分”用 **en**：Nous en avons acheté。明确指定“那些水果”才用 les。",
+    "answer": "en"
+  },
+  "a plus person takes lui or leur": {
+    "front": "Je téléphone à Paul. Je ___ téléphone.",
+    "back": "动词接口是 **téléphoner à quelqu’un**。à + 单数人用 **lui**；à + 复数人用 **leur**。",
+    "answer": "lui"
+  },
+  "direct objects take le la or les": {
+    "front": "Nous invitons nos amis. Nous ___ invitons.",
+    "back": "inviter quelqu’un 直接接宾语，没有 à/de。复数直接宾语用 **les**；不要因为对象是人就误写 leur。",
+    "answer": "les"
+  },
+  "build pronoun automaticity through repeated exercises": {
+    "front": "代词规则已经背过，做题仍反应慢。老师认为缺的是什么，应该怎样练？",
+    "back": "“知道规则”和“自动调用”是两阶段。反复做不同动词接口的替换题，才会把 le/la/les、lui/leur、y、en 从陈述性知识变成快速语感。",
+    "answer": null
+  },
+  "choose object pronouns from the verb's complement type": {
+    "front": "混合代词题为什么必须先看动词接口？请说出四条路由。",
+    "back": "先还原动词怎样接宾语：\n- 直接宾语 → **le / la / les**\n- à + 人 → **lui / leur**\n- à + 地点/非人事物 → **y**\n- de + 事物/数量 → **en**\n\n不能从中文“给、对、把”直接猜代词。",
+    "answer": null
+  },
+  "a plus place or non-person is replaced by y": {
+    "front": "Je vais au magasin. J’___ vais.",
+    "back": "à + 地点通常用 **y** 替换：aller au magasin → y aller。à + 人则走 lui/leur，不走 y。",
+    "answer": "y"
+  },
+  "de plus thing is replaced by en": {
+    "front": "Il parle de ce livre. Il ___ parle.",
+    "back": "de + 非人事物用 **en**：parler de ce livre → en parler。不要和 à + 地点的 y 混。",
+    "answer": "en"
+  },
+  "envoyer une lettre means send not write": {
+    "front": "“寄一封信”：___ une lettre（填 envoyer / écrire）",
+    "back": "**envoyer** = 寄、发送；**écrire** = 写。envoyer une lettre 是寄信，écrire une lettre 是写信。",
+    "answer": "envoyer"
+  },
+  "celui replaces a masculine singular noun": {
+    "front": "要替代 un timbre（阳性单数），用指示代词 ___",
+    "back": "阳性单数名词用 **celui**。完整形式还需识别信息，例如 celui de Paul、celui-là。",
+    "answer": "celui"
+  },
+  "timbre is a masculine word for stamp": {
+    "front": "“一张邮票”（带冠词）：___",
+    "back": "**un timbre** = 一张邮票，是阳性名词；因此替代它时用 celui。",
+    "answer": "un timbre"
+  },
+  "celui or celle can replace a noun before a de complement": {
+    "front": "un film → “Jean-Pierre Jeunet 的那一部”：___ de Jean-Pierre Jeunet",
+    "back": "被替代名词是阳性单数 film，所以用 **celui de...**。阴性单数如 proposition 则用 celle d’Amélie。",
+    "answer": "celui"
+  },
+  "insert the supplied demonstrative into the exercise frame before reading it aloud": {
+    "front": "指示代词替换题拿到 celui / celle 后，为什么要先放回完整句框再朗读？",
+    "back": "先把代词放回原句，恢复主语、动词和补足语，再整句朗读。这样能同时检查性数、代词后面的补足，以及句子意思是否完整。",
+    "answer": null
+  },
+  "feminine plural referents require jolies": {
+    "front": "celles（指 les lunettes）sont ___（填 joli 的正确形式）",
+    "back": "lunettes 是阴性复数，指示代词、动词和形容词都要配合：**celles sont jolies**。",
+    "answer": "jolies"
+  },
+  "demonstrative pronouns can take complements other than de": {
+    "front": "celui / celle 后面除了 de，还能用哪些结构识别“哪一个”？",
+    "back": "它们需要识别信息，但不只限于 de：可以接 **à + 价格**、**avec + 特征**、或 **qui/que + 从句**。例如 celle à 150 euros、celle avec les manches longues。",
+    "answer": null
+  },
+  "a plus price identifies the item at that price": {
+    "front": "“150 欧元的那一件”：celle ___ 150 euros",
+    "back": "价格直接用 **à + 金额** 作补足：celle à 150 euros。这里不是 de，也不是 coûter 的完整句。",
+    "answer": "à"
+  },
+  "aller bien a quelqu'un means something suits someone": {
+    "front": "Ces lunettes vous ___ bien.（表示“很适合您”）",
+    "back": "固定接口 **aller bien à quelqu’un** 表示某物适合某人。主语 lunettes 为复数，所以用 **vont**。",
+    "answer": "vont"
+  },
+  "lunettes is ordinarily used in the plural": {
+    "front": "“眼镜”通常使用哪个法语复数名词？",
+    "back": "通常说 **les lunettes**。后续代词、动词、形容词都按复数：elles vous vont bien、de jolies lunettes。",
+    "answer": "les lunettes"
+  },
+  "celui or celle need an identifying continuation": {
+    "front": "为什么 bare celui / celle 往往不能单独结束表达？后面可怎样补足？",
+    "back": "它们表示“那个/那一个”，通常需要说明是哪一个：**celui de... / celle à... / celle avec... / celle qui...**。已有补足时不要机械改成 celle-là。",
+    "answer": null
+  },
+  "gagner takes the winner as subject and the prize as object": {
+    "front": "用 gagner 写“37 号的人赢得一部手机”时，谁是主语，谁是宾语？",
+    "back": "获胜者作主语，奖品作直接宾语：**Celui qui a le numéro 37 gagne un téléphone portable.** 不要写成“号码赢了人”。",
+    "answer": null
+  },
+  "notice missing discourse context without rewriting a grammatical sentence": {
+    "front": "Celles de mes parents sont très vieilles. 语法完整但前文缺失时，应该改写句子吗？",
+    "back": "不一定。句子本身可完全正确，只是 celle(s) 的先行词依赖上文。要区分**语法错误**和**话语上下文缺失**，不要为了补背景乱改结构。",
+    "answer": null
+  },
+  "check sentence meaning after the word order is grammatical": {
+    "front": "一个句子词序和变位都对，为什么还必须再做一次“角色检查”？",
+    "back": "语法位置正确不保证语义正确。最后要问：谁做动作、动作作用于谁/什么？尤其 gagner、envoyer 等动词，主宾角色写反会产生完全不同的意思。",
+    "answer": null
+  },
+  "je voudrais is the polite request form of vouloir": {
+    "front": "礼貌表达“我想看看……”：___ voir...",
+    "back": "请求时用 **je voudrais + infinitif**，比 je veux 更礼貌，相当于 “I would like”。",
+    "answer": "je voudrais"
+  },
+  "celle qui after visiter to identify the object": {
+    "front": "On va visiter ___ qui est près de l’église.（指阴性单数地点）",
+    "back": "visiter 直接接宾语；用 **celle** 替代阴性单数名词，再用 qui 从句识别是哪一个。",
+    "answer": "celle"
+  },
+  "say the main clause first, then complete the relative clause": {
+    "front": "关系从句句子卡住时，老师建议怎样分两步说出来？",
+    "back": "先说完整主句骨架，如 **On va visiter celle...**，再补识别从句 **qui est près de l’église**。先保证主句成立，再延长句子。",
+    "answer": null
+  },
+  "distrait/distraite means absent-minded not near-sighted": {
+    "front": "Ma mère est ___ ; elle perd toujours ses lunettes.（填“心不在焉的”阴性）",
+    "back": "**distrait / distraite** = 心不在焉、分心，不是“近视”。主语 ma mère 为阴性，所以填 distraite。",
+    "answer": "distraite"
+  },
+  "Dépêche-toi versus Dépêchez-vous for tu and vous commands": {
+    "front": "对 vous 说“快点！”：___",
+    "back": "tu：**Dépêche-toi !**；vous/复数/正式称呼：**Dépêchez-vous !**。反身代词和命令式都随称呼变化。",
+    "answer": "Dépêchez-vous !"
+  },
+  "infer a word from sentence context, then confirm it with a cognate": {
+    "front": "遇到 distrait 这类生词，怎样使用上下文和英语 cognate，而不被它们误导？",
+    "back": "先从完整句子推测：总丢眼镜说明“心不在焉”。再用 distracted 等同源词核验。**上下文先给假设，cognate 只负责确认，不负责拍脑袋。**",
+    "answer": null
+  },
+  "replace the synonym first, then inflect it for the sentence": {
+    "front": "同义替换题为什么不能只找出替换词就结束？",
+    "back": "必须做两步：1）确定同义表达；2）按原句主语、时态和性数变形。例如 avoir peur de X → craindre X 后，还要正确变位 craindre。",
+    "answer": null
+  },
+  "éteindre la radio not fermer la radio": {
+    "front": "“关掉收音机”：___ la radio（填动词）",
+    "back": "设备、电器、灯火用 **éteindre**；门窗、商店等“合上/关闭”用 fermer。",
+    "answer": "éteindre"
+  },
+  "fill the easy cloze gaps first and leave the hardest gap for last": {
+    "front": "阅读填空有多个空格时，为什么先做最容易的两端空格？",
+    "back": "先填确定项会恢复文章主线，并给难空增加上下文约束。不要按顺序在最难处死磕；把最模糊的空留到最后。",
+    "answer": null
+  },
+  "de plus en plus de before a noun": {
+    "front": "“越来越多的小汽车”：de plus en plus ___ petites voitures",
+    "back": "后面接名词时结构是 **de plus en plus de + nom**。若后面接形容词，则没有最后的 de：de plus en plus grand。",
+    "answer": "de"
+  },
+  "coûter cher as a verb-plus-adverb price frame": {
+    "front": "Cette voiture coûte ___.（表示“很贵”）",
+    "back": "在 **coûter cher** 中，cher 修饰动词 coûter，按副词功能使用，不随 voiture 写成 chère。",
+    "answer": "cher"
+  },
+  "bank parking and city-life vocabulary for later production": {
+    "front": "关于城市停车问题，课堂要求积累哪些可直接用于口语/写作的表达？",
+    "back": "可复用词块包括 **se garer / stationner / une place de stationnement / circuler en ville / coûter moins cher / rendre des services**。积累时要带搭配，不只背中文词义。",
+    "answer": null
+  },
+  "se garer for parking rather than merely stopping": {
+    "front": "“把车停进车位”：___（填日常动词）",
+    "back": "**se garer** 表示停车入位；s’arrêter 只是停止移动。较正式也可用 stationner。",
+    "answer": "se garer"
+  },
+  "autant de plus noun for equal quantity": {
+    "front": "“和大车一样多的服务”：autant ___ services que les grandes voitures",
+    "back": "等量结构为 **autant de + nom + que**。名词前的 de 不能省。",
+    "answer": "de"
+  },
+  "futur simple uses a future stem plus endings": {
+    "front": "vouloir 的简单将来时：je ___（填完整形式）",
+    "back": "简单将来时 = 将来词根 + 词尾。vouloir 的词根是 **voudr-**，je 的词尾是 -ai，所以是 je voudrai。",
+    "answer": "voudrai"
+  },
+  "review futur simple stems before learning futur antérieur": {
+    "front": "为什么学 futur antérieur 前必须先复习 futur simple 的词根？",
+    "back": "先将来时把助动词 avoir/être 放在简单将来时；如果 aur-/ser- 等将来词根不稳，新复合时态会从底层出错。先补前置知识，再叠新结构。",
+    "answer": null
+  },
+  "futur proche and futur simple overlap without a fixed cutoff": {
+    "front": "futur proche 和 futur simple 能否按“三天内/一个月后”硬分？应该怎样理解？",
+    "back": "不能设固定天数。**aller + infinitif** 更像 be going to，常带眼前计划感；**futur simple** 是较宽泛的未来表达。两者有重叠，选择还受视角和语感影响。",
+    "answer": null
+  },
+  "futur simple expresses broad future or will-do meaning": {
+    "front": "简单将来时最基本表达什么时间意义？与 futur proche 的形式差别是什么？",
+    "back": "**futur simple** 表达宽泛的未来、“will do”。它直接在动词词根上加将来词尾，不使用 aller + infinitif。",
+    "answer": null
+  },
+  "choose futur antérieur from event order when one future action finishes first": {
+    "front": "两个动作都在未来时，怎样决定哪个用 futur antérieur？",
+    "back": "先按现实意义排顺序：**先完成**且需要强调完成的动作使用 futur antérieur；后发生的动作使用 futur simple。例如 Quand il aura fini, il sortira。",
+    "answer": null
+  },
+  "futur antérieur adds precision and supports exam comprehension": {
+    "front": "老师说日常交流不用 futur antérieur 也能活，为什么仍值得学？",
+    "back": "它能精确标记“未来中的先完成”，并会出现在较正式表达、阅读和听力考试中。学习目标不是炫技，而是理解事件顺序和提高输入理解。",
+    "answer": null
+  },
+  "futur antérieur equals future auxiliary plus past participle": {
+    "front": "请说出 futur antérieur 的构成公式，以及它和 passé composé 共用的规则。",
+    "back": "公式：**avoir / être 的 futur simple + participe passé**。助动词选择与过去分词配合沿用 passé composé；改变的是助动词的时态。",
+    "answer": null
+  },
+  "dès que and aussitôt que trigger ordered future clauses": {
+    "front": "Dès que nous ___ à Paris, nous vous écrirons.（用 arriver 的先将来时）",
+    "back": "dès que / aussitôt que 引出先完成的未来动作：**nous serons arrivés**；后一句保持 futur simple：nous vous écrirons。",
+    "answer": "serons arrivés"
+  },
+  "memorize future-sequence triggers and drill representative forms": {
+    "front": "先将来时练习不应暴力刷完所有动词。老师建议优先记什么、练什么？",
+    "back": "先记 **dès que / aussitôt que / quand** 等顺序触发线索，再练少量代表形式：aura fini、auront trouvé、seras parti。用样例覆盖规则。",
+    "answer": null
+  },
+  "correct futur antérieur exercises in two passes": {
+    "front": "批改先将来时题为什么要分“形式”和“意义”两遍？",
+    "back": "第一遍检查助动词、词根、词尾和过去分词；第二遍重读事件顺序，确认究竟哪个动作先完成。只改形式可能留下时态选择错误。",
+    "answer": null
+  },
+  "future stems take future endings, not imperfect endings": {
+    "front": "为什么“将来词根 + 未完成过去时词尾”会把目标时态变错？",
+    "back": "简单将来时必须接自己的词尾。将来词根若接 imparfait 词尾，会形成 conditionnel 一类形式。要把**词根**和**词尾系统**成套检查。",
+    "answer": null
+  },
+  "future auxiliary marks futurity and the participle marks completion": {
+    "front": "先将来时中，“未来”和“完成”分别由哪一部分表达？",
+    "back": "助动词的 futur simple 表达**未来时间**，过去分词表达**动作完成**。因此不要保留原句 aller + infinitif 的表面形式，而要重建“未来助动词 + 过去分词”。",
+    "answer": null
+  },
+  "do not call futur anterieur passe simple": {
+    "front": "为什么句中出现过去分词，futur antérieur 仍不是过去时？",
+    "back": "时态由变位的助动词承载；助动词在将来时，所以整体仍在未来。过去分词只表示完成性。不要把 participe passé 误当成“整个句子是过去”。",
+    "answer": null
+  },
+  "partir takes etre in futur anterieur": {
+    "front": "Dès que tu ___, je leur téléphonerai.（partir，阳性 tu，先将来时）",
+    "back": "partir 的复合时态用 **être**：tu seras parti。若 tu 指女性，则是 seras partie。",
+    "answer": "seras parti"
+  },
+  "use a will-have-done mnemonic without calling futur anterieur a past tense": {
+    "front": "怎样正确使用英语 “will have done” 帮记 futur antérieur，又不把它误判成过去时？",
+    "back": "把 will 对应将来助动词，把 have done 对应完成。这个类比只帮助记“未来时点前已完成”，不能据此称它为 simple past。",
+    "answer": null
+  },
+  "memorize irregular future stems and past participles by repeated retrieval": {
+    "front": "哪些先将来时基础形式不能只靠临场推导，老师要求怎样掌握？",
+    "back": "不规则将来词根和过去分词需要反复提取记忆，例如 saur-/voudr-、écrit/parti/fait。用听写和短间隔复现，比只看表格有效。",
+    "answer": null
+  },
+  "spell ont correctly and keep required compound-tense agreement": {
+    "front": "ils 的 avoir 现在时第三人称复数：___（注意拼写）",
+    "back": "写作 **ont**，不是 on。完成复合时态后还要单独检查使用 être 或前置直接宾语时的过去分词配合。",
+    "answer": "ont"
+  },
+  "recognize est-il as inversion rather than est-ce que": {
+    "front": "Paris ___ toute la France ?（用正式倒装“是……吗”）",
+    "back": "正式疑问可用 **est-il** 倒装，不能把它读成 est-ce que。原结构是 il est → est-il。",
+    "answer": "est-il"
+  },
+  "normalize the literary-looking c-est question before interpreting it": {
+    "front": "长句或书面问句看起来陌生时，为什么应先把它还原成普通句式再解释？",
+    "back": "先找熟悉的主干，如把倒装或强调结构还原到 **c'est / il est** 一类基线，再处理固定表达和修饰语。这样是在降低句法噪声，不是逐词硬译。",
+    "answer": null
+  },
+  "de nos jours means nowadays": {
+    "front": "“如今、当今”：___",
+    "back": "固定表达是 **de nos jours**，整体表示“如今、在我们这个时代”，不要逐词理解成“我们的日子”。",
+    "answer": "de nos jours"
+  },
+  "le reste de la France means the rest of France": {
+    "front": "“法国的其余部分”：___",
+    "back": "用 **le reste de la France**。结构 **le reste de + 整体** 表示“这个整体剩下的部分”。",
+    "answer": "le reste de la France"
+  },
+  "find subject, verb, and complements before guessing whole-sentence meaning": {
+    "front": "遇到信息密集的法语长句，解释整句前先恢复哪三个骨架成分？",
+    "back": "先找 **主语 + 动词 + 补语**，再把副词、介词短语和其他修饰语挂回骨架。不要从某个眼熟的词直接猜整句。",
+    "answer": null
+  },
+  "opposer X a Y with celle de la capitale as the second term": {
+    "front": "“把外省生活与首都生活相对照”：opposer la vie de province ___ celle de la capitale",
+    "back": "结构是 **opposer X à Y**。第二项用 **à** 引出；celle 代替前面阴性单数名词 vie，避免重复。",
+    "answer": "à"
+  },
+  "volontiers is an adverb in the opposition sentence": {
+    "front": "On opposait encore volontiers la vie de province à celle de la capitale. 句中的 volontiers 是什么词性，修饰什么？",
+    "back": "**volontiers 是副词**，表示“乐意地、惯常愿意地”，修饰动词 opposait。先找 On opposait 的主干，就不会把它误认成名词或动词。",
+    "answer": null
+  },
+  "tirer X de Y means pull X out of Y": {
+    "front": "“使外省摆脱孤立”：tirer la province ___ son isolement",
+    "back": "结构是 **tirer X de Y**：X 是被拉出的对象，de Y 是来源或原先状态。因此写 tirer la province **de** son isolement。",
+    "answer": "de"
+  },
+  "politique means political in sur le plan politique": {
+    "front": "sur le plan politique 中 politique 是名词还是形容词？这里怎样理解？",
+    "back": "它是修饰阳性名词 **plan** 的形容词，意为“政治方面的”。整个短语 **sur le plan politique** 表示“在政治层面”。",
+    "answer": null
+  },
+  "disposer de means possess or have and requires de": {
+    "front": "“拥有某种权力”：disposer ___ pouvoirs",
+    "back": "固定搭配 **disposer de** 表示“拥有、可支配”。复数不定冠词 des 在 de 后按句法形成 **de pouvoirs**。",
+    "answer": "de"
+  },
+  "resolve elles to les activites culturelles by gender and number": {
+    "front": "Les activités culturelles, elles aussi, se sont développées en province. elles 指代什么？如何判断？",
+    "back": "elles 回指 **les activités culturelles**：两者都是阴性复数，而且语篇位置相邻。la province 是阴性单数，不能与 elles 匹配。",
+    "answer": null
+  },
+  "la province is the collective singular for France outside Paris": {
+    "front": "Paris 与 la province 对照时，la province 在法国文化语境里指什么？",
+    "back": "这里 **la province** 是集合性的单数概念，指巴黎以外的法国地区；不是多个行政省，也不是专名 **la Provence**。",
+    "answer": null
+  },
+  "actuellement means currently or at present": {
+    "front": "“目前、现在”：___（注意英语假朋友）",
+    "back": "法语 **actuellement** 表示“目前、现在”，不是英语 actually 的“其实”。",
+    "answer": "actuellement"
+  },
+  "festival can name music, film, and theatre festivals": {
+    "front": "festival 在本课文化语境中可以指哪些类型的活动？",
+    "back": "它是文化活动的总称，可具体说 **festival de musique、festival de cinéma、festival de théâtre**，并不只指泛泛的庆祝活动。",
+    "answer": null
+  },
+  "avoir l'occasion de + infinitive for having the opportunity to do something": {
+    "front": "“有机会来法国”：avoir l'occasion ___ venir en France",
+    "back": "结构是 **avoir l'occasion de + infinitif**，所以写 de venir。occasion 与后面的动作由 de 连接。",
+    "answer": "de"
+  },
+  "N'oubliez pas la province, not la France": {
+    "front": "Quand vous aurez l'occasion de venir en France, n'oubliez pas ___.（按课文对比填写）",
+    "back": "课文提醒不要只看巴黎，所以宾语是 **la province**，不是 la France。法国是到访范围，外省才是别忘记的对象。",
+    "answer": "la province"
+  },
+  "French regional names with their conventional articles": {
+    "front": "为什么 l'Alsace、la Bretagne、les Alpes、le Massif central 应连同冠词一起记？",
+    "back": "地名的冠词不是可随意替换的装饰，而是词条的一部分：**l'Alsace / la Bretagne / les Alpes / le Massif central**。冠词还会影响后续介词和缩合。",
+    "answer": null
+  },
+  "il faut plus infinitive with il faudra as the future form": {
+    "front": "“将需要旅行”：il ___ voyager（把 il faut 变为简单将来时）",
+    "back": "**il faudra + infinitif** 表示将来的必要性。falloir 是无人称动词，后面的 voyager 保持不定式。",
+    "answer": "faudra"
+  },
+  "jusqu'à vs depuis for endpoint versus starting point": {
+    "front": "表示“直到上世纪中叶”应选 jusqu'à 还是 depuis？为什么？",
+    "back": "选 **jusqu'à**，因为它标记时间段的终点；**depuis** 标记起点，并暗示状态从该点延续到参照时刻。",
+    "answer": null
+  },
+  "memorize and read fixed expressions as whole chunks": {
+    "front": "de nos jours、le reste de、un peu partout 为什么应当整块记忆？",
+    "back": "它们是可直接提取的**固定表达块**。整块识别能保留真实语义和搭配，避免每次逐词重算而得到生硬或错误解释。",
+    "answer": null
+  },
+  "de-complements name the domain in development/progress noun phrases": {
+    "front": "le développement accéléré des médias 中 des médias 在语义上说明什么？",
+    "back": "de 补语说明“发展的是哪个领域”：这里是**媒体的发展**。同理 le progrès des transports 是交通领域的进步。",
+    "answer": null
+  },
+  "aller-retour means a round trip": {
+    "front": "“当天往返”：un ___ dans la même journée",
+    "back": "用 **aller-retour** 表示往返、来回行程；它与 aller simple（单程）相对。",
+    "answer": "aller-retour"
+  },
+  "liaison means connection or link": {
+    "front": "交通语境中的 des liaisons 指什么？",
+    "back": "这里 **liaison** 指地点之间的连接、交通联系或线路，不是只按“联络”这一抽象义理解。",
+    "answer": null
+  },
+  "sur le plan + masculine adjective for “in ... terms”": {
+    "front": "“在经济层面”：sur le plan ___",
+    "back": "写 **sur le plan économique**。形容词修饰阳性名词 plan，因此使用阳性形式；同类还有 politique、culturel。",
+    "answer": "économique"
+  },
+  "s'installer means settle for people and establish itself for organizations": {
+    "front": "s'installer 的核心意义不变，但主语是人和机构时中文通常怎样分别表达？",
+    "back": "核心都是“在某地固定下来”。人作主语常译为**定居、安顿**；企业或产业作主语常译为**落户、设立、进驻**。",
+    "answer": null
+  },
+  "en Provence uses en with the feminine region name": {
+    "front": "“在普罗旺斯”：___ Provence",
+    "back": "写 **en Provence**，因为 Provence 是阴性地区名。注意专名 Provence 与集合表达 province 不是同一个词条。",
+    "answer": "en"
+  },
+  "en province is the fixed location phrase for outside Paris": {
+    "front": "“在法国巴黎以外地区”：___ province",
+    "back": "固定地点表达是 **en province**，对应集合性的 la province。不要与 en Provence（在普罗旺斯）混淆。",
+    "answer": "en"
+  },
+  "stressed-pronoun repetition adds emphasis to the subject": {
+    "front": "Les activités culturelles, elles aussi, se sont développées. 中 elles aussi 是必需主语吗？",
+    "back": "不是。真正的主语已经是 **les activités culturelles**；**elles aussi** 是重读代词重复，用来强调“它们也……”。",
+    "answer": null
+  },
+  "un peu partout as a chunk meaning almost everywhere": {
+    "front": "“几乎到处、许多地方都有”：___",
+    "back": "固定副词短语 **un peu partout** 表示“几乎到处、各处都有”，应整块提取。",
+    "answer": "un peu partout"
+  },
+  "même as an adverb meaning even": {
+    "front": "on dit même que 中 même 的意思和词性是什么？",
+    "back": "这里 **même** 是副词，表示“甚至、还说……”。它不是形容词“相同的”。",
+    "answer": null
+  },
+  "connaître means know/get to know not comprendre": {
+    "front": "“了解法国、认识法国”：___ la France",
+    "back": "用 **connaître la France**，表示认识、了解或亲身熟悉。comprendre 是理解一个意思、机制或说法。",
+    "answer": "connaître"
+  },
+  "reuse nearby sentence frames without copying them": {
+    "front": "借用课文里的相似句型完成造句时，怎样避免变成机械抄写？",
+    "back": "把原句当**句法脚手架**，但逐项确认新句的动词搭配、介词、指代和时态是否符合新意思。能解释每个词为何在这里，才算迁移。",
+    "answer": null
+  },
+  "pouvoir takes an infinitive after it": {
+    "front": "Vous pourrez ___ un courriel.（envoyer）",
+    "back": "pouvoir 已经承担变位，后面的实义动词保持不定式：**vous pourrez envoyer**。不能把两个动词都变成将来时。",
+    "answer": "envoyer"
+  },
+  "write a clear correct sentence before adding tense or clause complexity": {
+    "front": "造句时为什么应先写清楚正确的主句，再考虑 futur antérieur、où 从句等复杂结构？",
+    "back": "复杂度必须服务于语义。先保证核心意思、动词搭配和介词正确；只有确实需要表达先后关系或补充地点信息时，才加入复合时态或从句。",
+    "answer": null
+  },
+  "send to me uses an indirect-object pronoun not avec moi": {
+    "front": "“给我发一封邮件”：___ un courriel（命令式 envoyer）",
+    "back": "写 **envoyez-moi un courriel**。接收者是 envoyer 的间接宾语，用 à quelqu'un 或代词 me/moi；avec moi 表示“和我一起”。",
+    "answer": "envoyez-moi"
+  },
+  "en before feminine countries and à before cities": {
+    "front": "去中国用 ___ Chine；去波尔多用 ___ Bordeaux。",
+    "back": "阴性国家名前用 **en**：en Chine、en France；城市名前通常用 **à**：à Bordeaux。",
+    "answer": "en; à"
+  },
+  "n'oubliez pas de plus infinitive": {
+    "front": "“别忘了去南方”：N'oubliez pas ___ aller dans le Sud.",
+    "back": "结构是 **oublier de + infinitif**；否定命令式为 **n'oubliez pas de + infinitif**。元音前 de 省音为 d'。",
+    "answer": "d'"
+  },
+  "prefer dans le sud when a simpler destination phrase is enough": {
+    "front": "表达“去南方”时，本课为什么优先用 dans le Sud，而不硬塞 province？",
+    "back": "**dans le Sud** 直接、清楚地表达目的地。province 带有特定文化或行政义，若句意只需“南方”，强行使用反而增加歧义。",
+    "answer": null
+  },
+  "province in the administrative sense": {
+    "front": "une province chinoise 与法国语境的 la province 有什么区别？",
+    "back": "**une province** 可指一个行政区；法国文化语境中的 **la province** 是集合性说法，指巴黎以外地区。相同表面词形不代表同一语义接口。",
+    "answer": null
+  },
+  "les paysages sont différents de ceux du Nord; le climat y est meilleur": {
+    "front": "“那里的风景不同于北方，气候更好”：Les paysages sont différents ___ ceux du Nord ; le climat y est meilleur.",
+    "back": "结构是 **être différent de**，所以填 de。ceux 代替复数阳性名词 paysages，y 回指该地点。",
+    "answer": "de"
+  },
+  "review futur simple stems, past participles, and basic vocabulary after class": {
+    "front": "L22 课后，老师点名要求优先复习哪三类基础资产？",
+    "back": "优先复习 **简单将来时词根、过去分词、基础词汇**，再完成布置的练习。它们是后续 futur antérieur 与阅读造句的底座。",
+    "answer": null
+  }
+}
