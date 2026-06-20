@@ -1,98 +1,18 @@
 {
-  "economie-means-economy": {
-    "front": "「经济」用法语怎么说？",
-    "answer": "économie",
-    "back": "économie 是 economy/经济，法国地理课文里用于讲国家经济结构。"
-  },
-  "domaine-means-field": {
-    "front": "「领域；范围；界域」用法语怎么说？",
-    "answer": "domaine",
-    "back": "domaine 可按 domain/field 理解，表示某一领域或范围。"
-  },
-  "construction-means-construction-industry": {
-    "front": "「建筑；建筑业」用法语怎么说？",
-    "answer": "construction",
-    "back": "construction 在课文经济领域里指建筑/建筑业。"
-  },
-  "varier-vs-varie-verb-adjective": {
-    "front": "「变化；多样的」用法语怎么说？",
-    "answer": "varier",
-    "back": "varier 是动词“变化”；varié/variée 是形容词“多样的”，课堂里更常用的是形容词义。"
-  },
   "varie-means-diverse-not-many": {
     "front": "varié 和 nombreux 都能译成“多”，区别是什么？",
     "answer": null,
     "back": "varié 强调种类多样；nombreux 强调数量很多：des activités variées / de nombreuses activités。"
   },
-  "predominer-means-predominate": {
-    "front": "「占据主导；占优势」用法语怎么说？",
-    "answer": "prédominer",
-    "back": "prédominer 表“占据主导地位/占优势”。"
-  },
-  "principal-means-main": {
-    "front": "「主要的」用法语怎么说？",
-    "answer": "principal",
-    "back": "principal/principale 表“主要的”。"
-  },
   "occidental-not-accident": {
-    "front": "「西方的；西部的」用法语怎么说？",
-    "answer": "occidental",
-    "back": "occidental 是 western/西方的，不要听成或联想到 accident。"
-  },
-  "agricole-means-agricultural": {
-    "front": "「农业的」用法语怎么说？",
-    "answer": "agricole",
-    "back": "agricole 表“农业的”，与 France as an agricultural country 的课文语境连用。"
+    "front": "occidental 和 accident 有关系吗？阴性形式是什么？",
+    "answer": null,
+    "back": "没有。occidental/occidentale=西方的，是易混词形；不要按 accident 理解。"
   },
   "environ-means-about": {
-    "front": "「大约；约」用法语怎么说？",
-    "answer": "environ",
-    "back": "environ 表 about/approximately，用于数字或数量前后。"
-  },
-  "occuper-means-occupy": {
-    "front": "「占据；占有」用法语怎么说？",
-    "answer": "occuper",
-    "back": "occuper 表 occupy/占据，可用于面积、地位或空间。"
-  },
-  "vaste-means-vast": {
-    "front": "「广阔的；辽阔的」用法语怎么说？",
-    "answer": "vaste",
-    "back": "vaste 表 vast/广阔的，用于面积、空间、范围。"
-  },
-  "industriel-pronunciation": {
-    "front": "「工业的」用法语怎么说？",
-    "answer": "industriel",
-    "back": "industriel/industrielle 要保留完整词形与读音，不要漏掉中间音节。"
-  },
-  "industriel-agricole-listening-words": {
-    "front": "工业的 / 农业的，这对听力关键词分别是什么？",
+    "front": "environ 修饰近似数字时怎样放置？",
     "answer": null,
-    "back": "industriel(le)=工业的；agricole=农业的。两者常用于国家经济结构。"
-  },
-  "a-la-fois-means-at-the-same-time": {
-    "front": "「同时；兼具」用法语怎么说？",
-    "answer": "à la fois",
-    "back": "à la fois 表“同时/兼具”，可连接两个身份、性质或动作。"
-  },
-  "automobile-industry": {
-    "front": "「汽车；汽车业」用法语怎么说？",
-    "answer": "automobile",
-    "back": "automobile 在产业语境里可指汽车/汽车制造业。"
-  },
-  "quartier-means-neighborhood": {
-    "front": "「区；街区；社区」用法语怎么说？",
-    "answer": "quartier",
-    "back": "quartier 表 neighborhood/district。"
-  },
-  "voisin-means-neighbor": {
-    "front": "「邻居；相邻的」用法语怎么说？",
-    "answer": "voisin",
-    "back": "voisin 可作名词“邻居”，也会在后文扩展为形容词“相邻的”。"
-  },
-  "voisin-noun-or-adjective": {
-    "front": "「邻居；相邻的国家」用法语怎么说？",
-    "answer": "un voisin",
-    "back": "voisin 作名词时需要冠词，作形容词时直接修饰名词并配合，如 pays voisins。"
+    "back": "environ=大约，用于数字或数量。它是副词，位置有弹性，不必机械固定在数字一侧。"
   },
   "courir-present-conjugation": {
     "front": "courir 现在时「nous ___」",
@@ -119,11 +39,6 @@
     "answer": null,
     "back": "nager 偏运动意义的游泳；se baigner 偏下水、戏水、泡在水里。"
   },
-  "salle-de-bains-bain": {
-    "front": "「浴室」（固定搭配，bains 用复数）",
-    "answer": "salle de bains",
-    "back": "la salle de bains=浴室；bain=洗澡/泡澡。固定搭配中 bains 用复数。"
-  },
   "baigner-geography-coast": {
     "front": "地理中 baigner 如何表达“濒临/被水域环抱”？",
     "answer": null,
@@ -144,16 +59,6 @@
     "answer": null,
     "back": "把“动词/核心词 + 介词 + 补语”当整体判断；介词可能改变整块表达的意义。"
   },
-  "cours-d-eau-watercourse": {
-    "front": "「河流；水道」用法语怎么说？",
-    "answer": "cours d'eau",
-    "back": "cours d'eau 指河流/水道，是地理描述里的固定名词块。"
-  },
-  "allemagne-masculine-vowel-country": {
-    "front": "「德国」（带冠词）",
-    "answer": "l'Allemagne",
-    "back": "Allemagne 是阳性国家名，但以元音开头，定冠词省音为 l'Allemagne。"
-  },
   "avoir-pour-voisins": {
     "front": "「法国有……作为邻国」La France a ___（填固定块）",
     "answer": "pour voisins",
@@ -169,35 +74,10 @@
     "answer": "de nombreuses",
     "back": "de nombreux/nombreuses + 名词 = 许多；可与 beaucoup de 对应。"
   },
-  "pomme-de-terre-potato": {
-    "front": "「土豆」用法语怎么说？",
-    "answer": "pomme de terre",
-    "back": "pomme de terre 表土豆，是听力购物语境里的常见实物词。"
-  },
-  "betterave-means-beet": {
-    "front": "「甜菜」用法语怎么说？",
-    "answer": "betterave",
-    "back": "betterave 表甜菜，属于法国农业/作物词汇。"
-  },
-  "tabac-means-tobacco": {
-    "front": "「烟草」用法语怎么说？",
-    "answer": "tabac",
-    "back": "tabac 表烟草。"
-  },
-  "elevage-livestock-farming": {
-    "front": "「畜牧业；养殖」用法语怎么说？",
-    "answer": "élevage",
-    "back": "élevage 表畜牧业/养殖。"
-  },
   "assez-quite-enough": {
     "front": "assez 修饰形容词/副词时，除“足够”还常表示什么？",
     "answer": null,
     "back": "常表示“相当、挺、很”：assez important 可理解为“相当重要”。"
-  },
-  "les-immigres-immigrants": {
-    "front": "「移民；移居者」用法语怎么说？",
-    "answer": "les immigrés",
-    "back": "les immigrés 指移到国外生活/工作的人，在法国移民话题里是核心词。"
   },
   "poser-des-problemes-vs-poser-une-question": {
     "front": "「带来一些问题」poser ___ problèmes",
@@ -209,30 +89,10 @@
     "answer": "à",
     "back": "donner lieu à = 引发/导致，较书面；可和 causer 对应。"
   },
-  "travailleur-immigre-immigrant-worker": {
-    "front": "「移民劳动者」用法语怎么说？",
-    "answer": "travailleur immigré",
-    "back": "travailleur immigré 可理解为 immigrant worker。"
-  },
-  "dur-hard-difficult-work": {
-    "front": "「艰苦的；困难的；硬的」用法语怎么说？",
-    "answer": "dur",
-    "back": "dur/dure 作形容词可表示工作艰苦、困难。"
-  },
   "mal-paye-poorly-paid": {
-    "front": "「工资低的；报酬差的」用法语怎么说？",
-    "answer": "mal payé",
-    "back": "mal payé 是 well-paid 的反义，用副词 mal + 过去分词 payé 构成，形容工作工资不高。"
-  },
-  "main-d-oeuvre-workforce": {
-    "front": "「劳动力」用法语怎么说？",
-    "answer": "main-d'œuvre",
-    "back": "main-d'œuvre 表 workforce/劳动力。"
-  },
-  "patron-boss-employer": {
-    "front": "「老板；雇主」用法语怎么说？",
-    "answer": "patron",
-    "back": "patron 表老板/雇主。"
+    "front": "mal payé 的构词和两种常见用法是什么？",
+    "answer": null,
+    "back": "mal + 过去分词 payé 表“报酬差/低薪”：un travail mal payé；也可作表语 C’est mal payé。"
   },
   "qui-que-ou-relative-pronoun-recap": {
     "front": "qui / que / où 在关系从句里分别替代什么？",
@@ -295,9 +155,9 @@
     "back": "ce qui 在从句中作主语；ce que 作直接宾语：Je ne sais pas ce que tu aimes。"
   },
   "faire-plaisir-a-qqn": {
-    "front": "「让某人开心」用法语怎么说？",
-    "answer": "faire plaisir à quelqu'un",
-    "back": "X fait plaisir à Y 表 X makes Y happy。"
+    "front": "X 让某人开心：X fait plaisir ___ quelqu'un（填介词）",
+    "answer": "à",
+    "back": "faire plaisir à quelqu'un = 使某人开心；某事作主语，开心的人由 à 引出。前文无先行词时可说 ce qui te fait plaisir。"
   },
   "decide-ce-que-ce-qui-by-conjugation": {
     "front": "做 ce que/ce qui 填空时，怎样用动词变位判断？",
@@ -313,16 +173,6 @@
     "front": "「我玩得很开心」je ___",
     "answer": "m'amuse",
     "back": "X amuse Y=逗乐 Y；s’amuser=玩得开心。"
-  },
-  "revolter-outrage": {
-    "front": "「使愤慨；激怒」用法语怎么说？",
-    "answer": "révolter",
-    "back": "ce qui me révolte le plus 表“最让我愤慨的东西”。"
-  },
-  "injustice-unfairness": {
-    "front": "「不公；不公平」用法语怎么说？",
-    "answer": "injustice",
-    "back": "injustice 表“不公/不公平”。"
   },
   "ce-qui-ce-que-cest-cleft": {
     "front": "“最让我害怕的是战争”可用哪个 ce qui... c’est... 句框？",
@@ -389,76 +239,6 @@
     "answer": null,
     "back": "il faudra / il pleuvra；这两个无人称动词只用第三人称单数。"
   },
-  "guerre-war": {
-    "front": "「战争」用法语怎么说？",
-    "answer": "la guerre",
-    "back": "la guerre 表 war/战争。"
-  },
-  "developpement-development": {
-    "front": "「发展」用法语怎么说？",
-    "answer": "le développement",
-    "back": "développement 表 development/发展，是社会经济话题高频名词。"
-  },
-  "medias-media": {
-    "front": "「媒体」用法语怎么说？",
-    "answer": "les médias",
-    "back": "les médias 表 media/媒体，通常以复数出现。"
-  },
-  "isolement-isolation": {
-    "front": "「隔离；孤立」用法语怎么说？",
-    "answer": "isolement",
-    "back": "isolement 表 isolation/隔离、孤立。"
-  },
-  "progres-progress": {
-    "front": "「进步；进展」用法语怎么说？",
-    "answer": "le progrès",
-    "back": "progrès 表 progress/进步。"
-  },
-  "transport-autoroute": {
-    "front": "「交通；高速公路」用法语怎么说？",
-    "answer": "le transport",
-    "back": "transport 表交通/运输；autoroute 表高速公路。"
-  },
-  "eau-douce-fresh-water": {
-    "front": "「淡水」用法语怎么说？",
-    "answer": "une eau douce",
-    "back": "eau douce 表 fresh water/淡水。"
-  },
-  "liaison-connection": {
-    "front": "「连接；联系；联络」用法语怎么说？",
-    "answer": "la liaison",
-    "back": "liaison 表 connection/link，也可指语言里的连诵，但此处是一般连接义。"
-  },
-  "reseau-network": {
-    "front": "「网络；网状系统」用法语怎么说？",
-    "answer": "le réseau",
-    "back": "réseau 表 network/网络。"
-  },
-  "decentralisation-decentralization": {
-    "front": "「去中心化；地方分权」用法语怎么说？",
-    "answer": "la décentralisation",
-    "back": "décentralisation 表 decentralization/地方分权或去中心化。"
-  },
-  "ordre-du-jour-agenda": {
-    "front": "「议事日程；日程」用法语怎么说？",
-    "answer": "l'ordre du jour",
-    "back": "ordre du jour 表 agenda/议事日程。"
-  },
-  "pouvoir-noun-power": {
-    "front": "「权力；能力」用法语怎么说？",
-    "answer": "le pouvoir",
-    "back": "pouvoir 作名词 le pouvoir 表 power/权力；也可和动词 pouvoir 区分。"
-  },
-  "activite-festival": {
-    "front": "「活动；节日/艺术节」用法语怎么说？",
-    "answer": "une activité",
-    "back": "activité 表活动；festival 表节庆/艺术节，老师明确说 festival 之类要背。"
-  },
-  "theatre-theater": {
-    "front": "「剧院；戏剧」用法语怎么说？",
-    "answer": "le théâtre",
-    "back": "théâtre 表 theater/剧院或戏剧，复数 les théâtres。"
-  },
   "pays-paysage-paysan-contrast": {
     "front": "pays / paysage / paysan 分别是什么意思？",
     "answer": null,
@@ -474,30 +254,10 @@
     "answer": "du",
     "back": "au milieu de=在……中间；de + le → du：au milieu du vingtième siècle。"
   },
-  "actuellement-currently": {
-    "front": "「目前；现在」用法语怎么说？",
-    "answer": "actuellement",
-    "back": "actuellement 表 currently/目前。"
-  },
   "certes-admittedly": {
-    "front": "「诚然；固然；当然」用法语怎么说？",
-    "answer": "certes",
-    "back": "certes 可作让步/确认连接词，表示 certainly/admittedly。"
-  },
-  "a-cote-de-next-to": {
-    "front": "「在……旁边」用法语怎么说？",
-    "answer": "à côté de",
-    "back": "à côté de 表 next to/beside。"
-  },
-  "aller-et-retour-round-trip": {
-    "front": "「往返」用法语怎么说？",
-    "answer": "aller et retour",
-    "back": "aller et retour 表 round trip/往返。"
-  },
-  "volontiers-gladly": {
-    "front": "「乐意地；欣然」用法语怎么说？",
-    "answer": "volontiers",
-    "back": "volontiers 表 gladly/willingly，常用于礼貌回答。"
+    "front": "certes 在论证里表达什么语气？它等于“通常”吗？",
+    "answer": null,
+    "back": "certes 表“诚然、的确”，常用于确认或让步；不等于 en général（通常）。"
   },
   "opposer-x-a-y-s-opposer-a": {
     "front": "「反对这项政策」je m'oppose ___ cette politique",
@@ -508,11 +268,6 @@
     "front": "「摆脱困境」se tirer ___ une difficulté",
     "answer": "de",
     "back": "tirer X de Y=把 X 从 Y 中拉出；se tirer de=摆脱。"
-  },
-  "pauvrete-poverty": {
-    "front": "「贫困；贫穷」用法语怎么说？",
-    "answer": "pauvreté",
-    "back": "pauvreté 表 poverty/贫困。"
   },
   "permettre-make-possible": {
     "front": "permettre 除“允许”外，在“通信促进经济发展”中表示什么？",
@@ -573,11 +328,6 @@
     "front": "遇到复杂比较句时，老师建议怎样分步产出？",
     "answer": null,
     "back": "先说清主干（如 Il fait froid à Pékin），再加 aussi/plus/moins...que 和第二个比较项。"
-  },
-  "europe-occidentale-fixed-geographic-concept": {
-    "front": "「西欧」",
-    "answer": "Europe occidentale",
-    "back": "Europe occidentale=西欧；Europe 阴性，所以 occidental 配合为 occidentale。"
   },
   "prioritize-reusable-structures-over-geography-trivia": {
     "front": "密集课文里，复习优先级应放在什么内容上？",

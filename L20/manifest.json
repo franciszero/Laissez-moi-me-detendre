@@ -4,7 +4,7 @@
   "coverage": {
     "source_type": "within_region_species",
     "source_path": "/Users/francis/Documents/法语/本地录屏课/reconciled/L20.species.json",
-    "expected_species_count": 118
+    "expected_species_count": 68
   },
   "chunks": [
     {
@@ -62,7 +62,7 @@
         },
         {
           "type": "vocab",
-          "fr": "les medias",
+          "fr": "les médias",
           "pos": "noun",
           "zh": "宣传媒介"
         },
@@ -304,7 +304,7 @@
           "type": "vocab",
           "fr": "volontiers",
           "pos": "adverb",
-          "zh": "宁愿，通常"
+          "zh": "乐意地，很愿意"
         },
         {
           "type": "vocab",
@@ -731,6 +731,24 @@
           "fr": "pleuvoir",
           "pos": "verb",
           "zh": "下雨（无人称）"
+        },
+        {
+          "type": "vocab",
+          "fr": "voisin",
+          "pos": "adj",
+          "zh": "相邻的"
+        },
+        {
+          "type": "vocab",
+          "fr": "une eau douce",
+          "pos": "noun",
+          "zh": "淡水"
+        },
+        {
+          "type": "vocab",
+          "fr": "le réseau",
+          "pos": "noun",
+          "zh": "网络"
         }
       ]
     },
@@ -739,92 +757,6 @@
       "title": "L20 reviewed species checkpoints",
       "bucket": "checkpoint",
       "items": [
-        {
-          "type": "checkpoint",
-          "id": "L20:species:economie-means-economy",
-          "front": "「经济」用法语怎么说？",
-          "back": "économie 是 economy/经济，法国地理课文里用于讲国家经济结构。",
-          "answer": "économie",
-          "source_species": "economie-means-economy",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "économie"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:1"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:domaine-means-field",
-          "front": "「领域；范围；界域」用法语怎么说？",
-          "back": "domaine 可按 domain/field 理解，表示某一领域或范围。",
-          "answer": "domaine",
-          "source_species": "domaine-means-field",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "domaine"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:2"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:construction-means-construction-industry",
-          "front": "「建筑；建筑业」用法语怎么说？",
-          "back": "construction 在课文经济领域里指建筑/建筑业。",
-          "answer": "construction",
-          "source_species": "construction-means-construction-industry",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "construction"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:3"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:varier-vs-varie-verb-adjective",
-          "front": "「变化；多样的」用法语怎么说？",
-          "back": "varier 是动词“变化”；varié/variée 是形容词“多样的”，课堂里更常用的是形容词义。",
-          "answer": "varier",
-          "source_species": "varier-vs-varie-verb-adjective",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "varier",
-            "varié",
-            "variée"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:4"
-          ],
-          "curated": true
-        },
         {
           "type": "checkpoint",
           "id": "L20:species:varie-means-diverse-not-many",
@@ -851,53 +783,10 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:predominer-means-predominate",
-          "front": "「占据主导；占优势」用法语怎么说？",
-          "back": "prédominer 表“占据主导地位/占优势”。",
-          "answer": "prédominer",
-          "source_species": "predominer-means-predominate",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "prédominer"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:6"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:principal-means-main",
-          "front": "「主要的」用法语怎么说？",
-          "back": "principal/principale 表“主要的”。",
-          "answer": "principal",
-          "source_species": "principal-means-main",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "principal",
-            "principale"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:7"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:occidental-not-accident",
-          "front": "「西方的；西部的」用法语怎么说？",
-          "back": "occidental 是 western/西方的，不要听成或联想到 accident。",
-          "answer": "occidental",
+          "front": "occidental 和 accident 有关系吗？阴性形式是什么？",
+          "back": "没有。occidental/occidentale=西方的，是易混词形；不要按 accident 理解。",
+          "answer": null,
           "source_species": "occidental-not-accident",
           "primary_class": "lexical_usage",
           "tags": [
@@ -917,31 +806,10 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:agricole-means-agricultural",
-          "front": "「农业的」用法语怎么说？",
-          "back": "agricole 表“农业的”，与 France as an agricultural country 的课文语境连用。",
-          "answer": "agricole",
-          "source_species": "agricole-means-agricultural",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "agricole"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:9"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:environ-means-about",
-          "front": "「大约；约」用法语怎么说？",
-          "back": "environ 表 about/approximately，用于数字或数量前后。",
-          "answer": "environ",
+          "front": "environ 修饰近似数字时怎样放置？",
+          "back": "environ=大约，用于数字或数量。它是副词，位置有弹性，不必机械固定在数字一侧。",
+          "answer": null,
           "source_species": "environ-means-about",
           "primary_class": "lexical_usage",
           "tags": [
@@ -954,202 +822,6 @@
           ],
           "evidence_refs": [
             "L20.jsonl:10"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:occuper-means-occupy",
-          "front": "「占据；占有」用法语怎么说？",
-          "back": "occuper 表 occupy/占据，可用于面积、地位或空间。",
-          "answer": "occuper",
-          "source_species": "occuper-means-occupy",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "occuper"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:11"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:vaste-means-vast",
-          "front": "「广阔的；辽阔的」用法语怎么说？",
-          "back": "vaste 表 vast/广阔的，用于面积、空间、范围。",
-          "answer": "vaste",
-          "source_species": "vaste-means-vast",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "vaste"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:12"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:industriel-pronunciation",
-          "front": "「工业的」用法语怎么说？",
-          "back": "industriel/industrielle 要保留完整词形与读音，不要漏掉中间音节。",
-          "answer": "industriel",
-          "source_species": "industriel-pronunciation",
-          "primary_class": "pronunciation_spelling",
-          "tags": [
-            "A2",
-            "core",
-            "neutral",
-            "teacher_corrected_error"
-          ],
-          "french_items": [
-            "industriel",
-            "industrielle"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:13"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:industriel-agricole-listening-words",
-          "front": "工业的 / 农业的，这对听力关键词分别是什么？",
-          "back": "industriel(le)=工业的；agricole=农业的。两者常用于国家经济结构。",
-          "answer": null,
-          "source_species": "industriel-agricole-listening-words",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "industriel",
-            "agricole"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:14"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:a-la-fois-means-at-the-same-time",
-          "front": "「同时；兼具」用法语怎么说？",
-          "back": "à la fois 表“同时/兼具”，可连接两个身份、性质或动作。",
-          "answer": "à la fois",
-          "source_species": "a-la-fois-means-at-the-same-time",
-          "primary_class": "expression",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "à la fois"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:15"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:automobile-industry",
-          "front": "「汽车；汽车业」用法语怎么说？",
-          "back": "automobile 在产业语境里可指汽车/汽车制造业。",
-          "answer": "automobile",
-          "source_species": "automobile-industry",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "automobile"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:16"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:quartier-means-neighborhood",
-          "front": "「区；街区；社区」用法语怎么说？",
-          "back": "quartier 表 neighborhood/district。",
-          "answer": "quartier",
-          "source_species": "quartier-means-neighborhood",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "quartier"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:17"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:voisin-means-neighbor",
-          "front": "「邻居；相邻的」用法语怎么说？",
-          "back": "voisin 可作名词“邻居”，也会在后文扩展为形容词“相邻的”。",
-          "answer": "voisin",
-          "source_species": "voisin-means-neighbor",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "voisin",
-            "voisine",
-            "voisins",
-            "voisines"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:18"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:voisin-noun-or-adjective",
-          "front": "「邻居；相邻的国家」用法语怎么说？",
-          "back": "voisin 作名词时需要冠词，作形容词时直接修饰名词并配合，如 pays voisins。",
-          "answer": "un voisin",
-          "source_species": "voisin-noun-or-adjective",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "un voisin",
-            "pays voisins"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:19"
           ],
           "curated": true
         },
@@ -1277,28 +949,6 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:salle-de-bains-bain",
-          "front": "「浴室」（固定搭配，bains 用复数）",
-          "back": "la salle de bains=浴室；bain=洗澡/泡澡。固定搭配中 bains 用复数。",
-          "answer": "salle de bains",
-          "source_species": "salle-de-bains-bain",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "salle de bains",
-            "bain"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:25"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:baigner-geography-coast",
           "front": "地理中 baigner 如何表达“濒临/被水域环抱”？",
           "back": "可把海岸/国家描写为被某片水域“浸泡”；这是形象用法，不等于所有语境的“围绕”。",
@@ -1387,49 +1037,6 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:cours-d-eau-watercourse",
-          "front": "「河流；水道」用法语怎么说？",
-          "back": "cours d'eau 指河流/水道，是地理描述里的固定名词块。",
-          "answer": "cours d'eau",
-          "source_species": "cours-d-eau-watercourse",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "cours d'eau"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:30"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:allemagne-masculine-vowel-country",
-          "front": "「德国」（带冠词）",
-          "back": "Allemagne 是阳性国家名，但以元音开头，定冠词省音为 l'Allemagne。",
-          "answer": "l'Allemagne",
-          "source_species": "allemagne-masculine-vowel-country",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "l'Allemagne",
-            "Allemagne"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:31"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:avoir-pour-voisins",
           "front": "「法国有……作为邻国」La France a ___（填固定块）",
           "back": "avoir pour voisins + 名单 = 有……作为邻国；长名单常后置，避免句子头重脚轻。",
@@ -1499,90 +1106,6 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:pomme-de-terre-potato",
-          "front": "「土豆」用法语怎么说？",
-          "back": "pomme de terre 表土豆，是听力购物语境里的常见实物词。",
-          "answer": "pomme de terre",
-          "source_species": "pomme-de-terre-potato",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "pomme de terre"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:36"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:betterave-means-beet",
-          "front": "「甜菜」用法语怎么说？",
-          "back": "betterave 表甜菜，属于法国农业/作物词汇。",
-          "answer": "betterave",
-          "source_species": "betterave-means-beet",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "betterave"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:37"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:tabac-means-tobacco",
-          "front": "「烟草」用法语怎么说？",
-          "back": "tabac 表烟草。",
-          "answer": "tabac",
-          "source_species": "tabac-means-tobacco",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "tabac"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:38"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:elevage-livestock-farming",
-          "front": "「畜牧业；养殖」用法语怎么说？",
-          "back": "élevage 表畜牧业/养殖。",
-          "answer": "élevage",
-          "source_species": "elevage-livestock-farming",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "élevage"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:39"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:assez-quite-enough",
           "front": "assez 修饰形容词/副词时，除“足够”还常表示什么？",
           "back": "常表示“相当、挺、很”：assez important 可理解为“相当重要”。",
@@ -1599,28 +1122,6 @@
           ],
           "evidence_refs": [
             "L20.jsonl:40"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:les-immigres-immigrants",
-          "front": "「移民；移居者」用法语怎么说？",
-          "back": "les immigrés 指移到国外生活/工作的人，在法国移民话题里是核心词。",
-          "answer": "les immigrés",
-          "source_species": "les-immigres-immigrants",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "les immigrés",
-            "immigré"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:41"
           ],
           "curated": true
         },
@@ -1670,53 +1171,10 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:travailleur-immigre-immigrant-worker",
-          "front": "「移民劳动者」用法语怎么说？",
-          "back": "travailleur immigré 可理解为 immigrant worker。",
-          "answer": "travailleur immigré",
-          "source_species": "travailleur-immigre-immigrant-worker",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "travailleur immigré"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:44"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:dur-hard-difficult-work",
-          "front": "「艰苦的；困难的；硬的」用法语怎么说？",
-          "back": "dur/dure 作形容词可表示工作艰苦、困难。",
-          "answer": "dur",
-          "source_species": "dur-hard-difficult-work",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "dur",
-            "dure"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:45"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:mal-paye-poorly-paid",
-          "front": "「工资低的；报酬差的」用法语怎么说？",
-          "back": "mal payé 是 well-paid 的反义，用副词 mal + 过去分词 payé 构成，形容工作工资不高。",
-          "answer": "mal payé",
+          "front": "mal payé 的构词和两种常见用法是什么？",
+          "back": "mal + 过去分词 payé 表“报酬差/低薪”：un travail mal payé；也可作表语 C’est mal payé。",
+          "answer": null,
           "source_species": "mal-paye-poorly-paid",
           "primary_class": "expression",
           "tags": [
@@ -1730,50 +1188,6 @@
           ],
           "evidence_refs": [
             "L20.jsonl:46"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:main-d-oeuvre-workforce",
-          "front": "「劳动力」用法语怎么说？",
-          "back": "main-d'œuvre 表 workforce/劳动力。",
-          "answer": "main-d'œuvre",
-          "source_species": "main-d-oeuvre-workforce",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "main-d'œuvre",
-            "main d'œuvre"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:47"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:patron-boss-employer",
-          "front": "「老板；雇主」用法语怎么说？",
-          "back": "patron 表老板/雇主。",
-          "answer": "patron",
-          "source_species": "patron-boss-employer",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "patron",
-            "le patron"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:48"
           ],
           "curated": true
         },
@@ -2090,9 +1504,9 @@
         {
           "type": "checkpoint",
           "id": "L20:species:faire-plaisir-a-qqn",
-          "front": "「让某人开心」用法语怎么说？",
-          "back": "X fait plaisir à Y 表 X makes Y happy。",
-          "answer": "faire plaisir à quelqu'un",
+          "front": "X 让某人开心：X fait plaisir ___ quelqu'un（填介词）",
+          "back": "faire plaisir à quelqu'un = 使某人开心；某事作主语，开心的人由 à 引出。前文无先行词时可说 ce qui te fait plaisir。",
+          "answer": "à",
           "source_species": "faire-plaisir-a-qqn",
           "primary_class": "expression",
           "tags": [
@@ -2176,50 +1590,6 @@
           ],
           "evidence_refs": [
             "L20.jsonl:65"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:revolter-outrage",
-          "front": "「使愤慨；激怒」用法语怎么说？",
-          "back": "ce qui me révolte le plus 表“最让我愤慨的东西”。",
-          "answer": "révolter",
-          "source_species": "revolter-outrage",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "révolter",
-            "ce qui me révolte"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:66"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:injustice-unfairness",
-          "front": "「不公；不公平」用法语怎么说？",
-          "back": "injustice 表“不公/不公平”。",
-          "answer": "injustice",
-          "source_species": "injustice-unfairness",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "injustice",
-            "l'injustice"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:67"
           ],
           "curated": true
         },
@@ -2567,304 +1937,6 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:guerre-war",
-          "front": "「战争」用法语怎么说？",
-          "back": "la guerre 表 war/战争。",
-          "answer": "la guerre",
-          "source_species": "guerre-war",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "la guerre"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:81"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:developpement-development",
-          "front": "「发展」用法语怎么说？",
-          "back": "développement 表 development/发展，是社会经济话题高频名词。",
-          "answer": "le développement",
-          "source_species": "developpement-development",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "le développement"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:82"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:medias-media",
-          "front": "「媒体」用法语怎么说？",
-          "back": "les médias 表 media/媒体，通常以复数出现。",
-          "answer": "les médias",
-          "source_species": "medias-media",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "les médias"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:83"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:isolement-isolation",
-          "front": "「隔离；孤立」用法语怎么说？",
-          "back": "isolement 表 isolation/隔离、孤立。",
-          "answer": "isolement",
-          "source_species": "isolement-isolation",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "isolement"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:84"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:progres-progress",
-          "front": "「进步；进展」用法语怎么说？",
-          "back": "progrès 表 progress/进步。",
-          "answer": "le progrès",
-          "source_species": "progres-progress",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "le progrès"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:85"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:transport-autoroute",
-          "front": "「交通；高速公路」用法语怎么说？",
-          "back": "transport 表交通/运输；autoroute 表高速公路。",
-          "answer": "le transport",
-          "source_species": "transport-autoroute",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "le transport",
-            "une autoroute"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:86"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:eau-douce-fresh-water",
-          "front": "「淡水」用法语怎么说？",
-          "back": "eau douce 表 fresh water/淡水。",
-          "answer": "une eau douce",
-          "source_species": "eau-douce-fresh-water",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "une eau douce",
-            "eau douce"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:87"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:liaison-connection",
-          "front": "「连接；联系；联络」用法语怎么说？",
-          "back": "liaison 表 connection/link，也可指语言里的连诵，但此处是一般连接义。",
-          "answer": "la liaison",
-          "source_species": "liaison-connection",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "la liaison"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:88"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:reseau-network",
-          "front": "「网络；网状系统」用法语怎么说？",
-          "back": "réseau 表 network/网络。",
-          "answer": "le réseau",
-          "source_species": "reseau-network",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "le réseau"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:89"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:decentralisation-decentralization",
-          "front": "「去中心化；地方分权」用法语怎么说？",
-          "back": "décentralisation 表 decentralization/地方分权或去中心化。",
-          "answer": "la décentralisation",
-          "source_species": "decentralisation-decentralization",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "la décentralisation"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:90"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:ordre-du-jour-agenda",
-          "front": "「议事日程；日程」用法语怎么说？",
-          "back": "ordre du jour 表 agenda/议事日程。",
-          "answer": "l'ordre du jour",
-          "source_species": "ordre-du-jour-agenda",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "l'ordre du jour"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:91"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:pouvoir-noun-power",
-          "front": "「权力；能力」用法语怎么说？",
-          "back": "pouvoir 作名词 le pouvoir 表 power/权力；也可和动词 pouvoir 区分。",
-          "answer": "le pouvoir",
-          "source_species": "pouvoir-noun-power",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "le pouvoir"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:92"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:activite-festival",
-          "front": "「活动；节日/艺术节」用法语怎么说？",
-          "back": "activité 表活动；festival 表节庆/艺术节，老师明确说 festival 之类要背。",
-          "answer": "une activité",
-          "source_species": "activite-festival",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "une activité",
-            "le festival"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:93"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:theatre-theater",
-          "front": "「剧院；戏剧」用法语怎么说？",
-          "back": "théâtre 表 theater/剧院或戏剧，复数 les théâtres。",
-          "answer": "le théâtre",
-          "source_species": "theatre-theater",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "le théâtre",
-            "les théâtres"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:94"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:pays-paysage-paysan-contrast",
           "front": "pays / paysage / paysan 分别是什么意思？",
           "back": "le pays=国家；le paysage=风景；le paysan=农民。词形相近，需对比记忆。",
@@ -2933,31 +2005,10 @@
         },
         {
           "type": "checkpoint",
-          "id": "L20:species:actuellement-currently",
-          "front": "「目前；现在」用法语怎么说？",
-          "back": "actuellement 表 currently/目前。",
-          "answer": "actuellement",
-          "source_species": "actuellement-currently",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "actuellement"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:98"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L20:species:certes-admittedly",
-          "front": "「诚然；固然；当然」用法语怎么说？",
-          "back": "certes 可作让步/确认连接词，表示 certainly/admittedly。",
-          "answer": "certes",
+          "front": "certes 在论证里表达什么语气？它等于“通常”吗？",
+          "back": "certes 表“诚然、的确”，常用于确认或让步；不等于 en général（通常）。",
+          "answer": null,
           "source_species": "certes-admittedly",
           "primary_class": "expression",
           "tags": [
@@ -2970,69 +2021,6 @@
           ],
           "evidence_refs": [
             "L20.jsonl:99"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:a-cote-de-next-to",
-          "front": "「在……旁边」用法语怎么说？",
-          "back": "à côté de 表 next to/beside。",
-          "answer": "à côté de",
-          "source_species": "a-cote-de-next-to",
-          "primary_class": "expression",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "à côté de"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:100"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:aller-et-retour-round-trip",
-          "front": "「往返」用法语怎么说？",
-          "back": "aller et retour 表 round trip/往返。",
-          "answer": "aller et retour",
-          "source_species": "aller-et-retour-round-trip",
-          "primary_class": "expression",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "aller et retour"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:101"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:volontiers-gladly",
-          "front": "「乐意地；欣然」用法语怎么说？",
-          "back": "volontiers 表 gladly/willingly，常用于礼貌回答。",
-          "answer": "volontiers",
-          "source_species": "volontiers-gladly",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "volontiers"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:102"
           ],
           "curated": true
         },
@@ -3080,28 +2068,6 @@
           ],
           "evidence_refs": [
             "L20.jsonl:104"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:pauvrete-poverty",
-          "front": "「贫困；贫穷」用法语怎么说？",
-          "back": "pauvreté 表 poverty/贫困。",
-          "answer": "pauvreté",
-          "source_species": "pauvrete-poverty",
-          "primary_class": "lexical_usage",
-          "tags": [
-            "A2",
-            "core",
-            "neutral"
-          ],
-          "french_items": [
-            "pauvreté",
-            "la pauvreté"
-          ],
-          "evidence_refs": [
-            "L20.jsonl:105"
           ],
           "curated": true
         },
@@ -3388,32 +2354,6 @@
           ],
           "evidence_refs": [
             "L20.chosen-transcript:34:00-35:30"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L20:species:europe-occidentale-fixed-geographic-concept",
-          "front": "「西欧」",
-          "back": "Europe occidentale=西欧；Europe 阴性，所以 occidental 配合为 occidentale。",
-          "answer": "Europe occidentale",
-          "source_species": "europe-occidentale-fixed-geographic-concept",
-          "primary_class": "expression",
-          "tags": [
-            "A2",
-            "core",
-            "neutral",
-            "agreement",
-            "gender_number",
-            "listening_keyword"
-          ],
-          "french_items": [
-            "Europe occidentale",
-            "occidental",
-            "occidentale"
-          ],
-          "evidence_refs": [
-            "L20.chosen-transcript:36:00-37:00"
           ],
           "curated": true
         },
