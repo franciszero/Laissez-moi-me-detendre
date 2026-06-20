@@ -1,0 +1,4142 @@
+[
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "économie"
+    ],
+    "genus": "economie-means-economy",
+    "learner_task": "économie means economy",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 107,
+        "line_start": 36,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 1,
+        "ref": "L20.jsonl:1",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "07:00",
+        "time_start": "02:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "économie 是 economy/经济，法国地理课文里用于讲国家经济结构。",
+    "species_label": "economie-means-economy",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "domaine"
+    ],
+    "genus": "domaine-means-field",
+    "learner_task": "domaine means domain or field",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 107,
+        "line_start": 36,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 2,
+        "ref": "L20.jsonl:2",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "07:00",
+        "time_start": "02:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "domaine 可按 domain/field 理解，表示某一领域或范围。",
+    "species_label": "domaine-means-field",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "construction"
+    ],
+    "genus": "construction-means-construction-industry",
+    "learner_task": "construction means construction industry",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 237,
+        "line_start": 229,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 3,
+        "ref": "L20.jsonl:3",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "15:30",
+        "time_start": "15:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "construction 在课文经济领域里指建筑/建筑业。",
+    "species_label": "construction-means-construction-industry",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "varier",
+      "varié",
+      "variée"
+    ],
+    "genus": "varier-vs-varie-verb-adjective",
+    "learner_task": "varier is the verb and varié is the adjective",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 216,
+        "line_start": 208,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 4,
+        "ref": "L20.jsonl:4",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "14:30",
+        "time_start": "13:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "varier 是动词“变化”；varié/variée 是形容词“多样的”，课堂里更常用的是形容词义。",
+    "species_label": "varier-vs-varie-verb-adjective",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "varié",
+      "variée",
+      "variés",
+      "variées"
+    ],
+    "genus": "varie-means-diverse-not-many",
+    "learner_task": "varié means varied not numerous",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 640,
+        "line_start": 603,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 5,
+        "ref": "L20.jsonl:5",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "44:00",
+        "time_start": "41:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "varié 强调种类多样，不等于数量很多；数量很多要另用 nombreux/beaucoup de。",
+    "species_label": "varie-means-diverse-not-many",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "prédominer"
+    ],
+    "genus": "predominer-means-predominate",
+    "learner_task": "prédominer means predominate",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 237,
+        "line_start": 229,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 6,
+        "ref": "L20.jsonl:6",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "15:30",
+        "time_start": "15:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "prédominer 表“占据主导地位/占优势”。",
+    "species_label": "predominer-means-predominate",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "principal",
+      "principale"
+    ],
+    "genus": "principal-means-main",
+    "learner_task": "principal means main",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 237,
+        "line_start": 229,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 7,
+        "ref": "L20.jsonl:7",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "15:30",
+        "time_start": "15:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "principal/principale 表“主要的”。",
+    "species_label": "principal-means-main",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "occidental",
+      "occidentale"
+    ],
+    "genus": "occidental-not-accident",
+    "learner_task": "occidental means western not accident",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 244,
+        "line_start": 237,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 8,
+        "ref": "L20.jsonl:8",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "16:00",
+        "time_start": "15:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "occidental 是 western/西方的，不要听成或联想到 accident。",
+    "species_label": "occidental-not-accident",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "teacher_corrected_error"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "agricole"
+    ],
+    "genus": "agricole-means-agricultural",
+    "learner_task": "agricole means agricultural",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 248,
+        "line_start": 237,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 9,
+        "ref": "L20.jsonl:9",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "16:30",
+        "time_start": "15:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "agricole 表“农业的”，与 France as an agricultural country 的课文语境连用。",
+    "species_label": "agricole-means-agricultural",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "environ"
+    ],
+    "genus": "environ-means-about",
+    "learner_task": "environ means about",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 251,
+        "line_start": 244,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 10,
+        "ref": "L20.jsonl:10",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "16:30",
+        "time_start": "16:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "environ 表 about/approximately，用于数字或数量前后。",
+    "species_label": "environ-means-about",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "occuper"
+    ],
+    "genus": "occuper-means-occupy",
+    "learner_task": "occuper means occupy",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 255,
+        "line_start": 250,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 11,
+        "ref": "L20.jsonl:11",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "17:00",
+        "time_start": "16:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "occuper 表 occupy/占据，可用于面积、地位或空间。",
+    "species_label": "occuper-means-occupy",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "vaste"
+    ],
+    "genus": "vaste-means-vast",
+    "learner_task": "vaste means vast",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 255,
+        "line_start": 250,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 12,
+        "ref": "L20.jsonl:12",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "17:00",
+        "time_start": "16:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "vaste 表 vast/广阔的，用于面积、空间、范围。",
+    "species_label": "vaste-means-vast",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "form-pronunciation",
+    "french_items": [
+      "industriel",
+      "industrielle"
+    ],
+    "genus": "industriel-pronunciation",
+    "learner_task": "industriel needs its full word shape and sound",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 224,
+        "line_start": 216,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 13,
+        "ref": "L20.jsonl:13",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "15:00",
+        "time_start": "14:30"
+      }
+    ],
+    "primary_class": "pronunciation_spelling",
+    "rule_or_usage": "industriel/industrielle 要保留完整词形与读音，不要漏掉中间音节。",
+    "species_label": "industriel-pronunciation",
+    "system": "pronunciation_spelling",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "teacher_corrected_error"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "industriel",
+      "agricole"
+    ],
+    "genus": "industriel-agricole-listening-words",
+    "learner_task": "industriel and agricole are key listening words",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 651,
+        "line_start": 646,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 14,
+        "ref": "L20.jsonl:14",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "44:30",
+        "time_start": "44:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "industriel/agricole 是描述国家经济结构的核心词，老师要求背下并能在听力里识别。",
+    "species_label": "industriel-agricole-listening-words",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "à la fois"
+    ],
+    "genus": "a-la-fois-means-at-the-same-time",
+    "learner_task": "à la fois means at the same time",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 258,
+        "line_start": 250,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 15,
+        "ref": "L20.jsonl:15",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "17:30",
+        "time_start": "16:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "à la fois 表“同时/兼具”，可连接两个身份、性质或动作。",
+    "species_label": "a-la-fois-means-at-the-same-time",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "automobile"
+    ],
+    "genus": "automobile-industry",
+    "learner_task": "automobile as automobile industry",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 265,
+        "line_start": 258,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 16,
+        "ref": "L20.jsonl:16",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "18:00",
+        "time_start": "17:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "automobile 在产业语境里可指汽车/汽车制造业。",
+    "species_label": "automobile-industry",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "quartier"
+    ],
+    "genus": "quartier-means-neighborhood",
+    "learner_task": "quartier means neighborhood",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 268,
+        "line_start": 264,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 17,
+        "ref": "L20.jsonl:17",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "18:30",
+        "time_start": "18:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "quartier 表 neighborhood/district。",
+    "species_label": "quartier-means-neighborhood",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "voisin",
+      "voisine",
+      "voisins",
+      "voisines"
+    ],
+    "genus": "voisin-means-neighbor",
+    "learner_task": "voisin means neighbor",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 268,
+        "line_start": 264,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 18,
+        "ref": "L20.jsonl:18",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "18:30",
+        "time_start": "18:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "voisin 可作名词“邻居”，也会在后文扩展为形容词“相邻的”。",
+    "species_label": "voisin-means-neighbor",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "un voisin",
+      "pays voisins"
+    ],
+    "genus": "voisin-noun-or-adjective",
+    "learner_task": "voisin can be noun or adjective",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 481,
+        "line_start": 459,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 19,
+        "ref": "L20.jsonl:19",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "33:00",
+        "time_start": "31:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "voisin 作名词时需要冠词，作形容词时直接修饰名词并配合，如 pays voisins。",
+    "species_label": "voisin-noun-or-adjective",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "courir",
+      "je cours",
+      "tu cours",
+      "il court",
+      "nous courons",
+      "vous courez",
+      "ils courent"
+    ],
+    "genus": "courir-present-conjugation",
+    "learner_task": "courir present conjugation",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 284,
+        "line_start": 264,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 20,
+        "ref": "L20.jsonl:20",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "19:30",
+        "time_start": "18:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "courir 现在时要按第三组变位记，单数 cours/cours/court，复数 courons/courez/courent。",
+    "species_label": "courir-present-conjugation",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "s'enrichir",
+      "enrichir"
+    ],
+    "genus": "s-enrichir-means-enrich-oneself",
+    "learner_task": "s'enrichir means enrich oneself",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 188,
+        "line_start": 157,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 21,
+        "ref": "L20.jsonl:21",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "12:30",
+        "time_start": "10:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "enrichir 是让某物/某人变富或丰富；主语让自己富起来时用代词式 s'enrichir。",
+    "species_label": "s-enrichir-means-enrich-oneself",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "s'enrichir"
+    ],
+    "genus": "s-enrichir-literal-figurative",
+    "learner_task": "s'enrichir can be literal or figurative",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 748,
+        "line_start": 740,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 22,
+        "ref": "L20.jsonl:22",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "51:30",
+        "time_start": "50:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "s'enrichir 可以指钱上变富，也可引申为精神上更富足。",
+    "species_label": "s-enrichir-literal-figurative",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "ouvrir",
+      "offrir",
+      "couvrir"
+    ],
+    "genus": "ouvrir-offrir-couvrir-present-er-like",
+    "learner_task": "ouvrir/offrir/couvrir present uses first-group-like endings",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 188,
+        "line_start": 180,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 23,
+        "ref": "L20.jsonl:23",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "12:30",
+        "time_start": "12:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "ouvrir/offrir/couvrir 一类虽然不是第一组，但现在时词尾像第一组一样处理。",
+    "species_label": "ouvrir-offrir-couvrir-present-er-like",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "se baigner",
+      "baigner",
+      "nager"
+    ],
+    "genus": "se-baigner-vs-nager",
+    "learner_task": "se baigner is being in water while nager is swimming as a sport",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 338,
+        "line_start": 295,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 24,
+        "ref": "L20.jsonl:24",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "23:00",
+        "time_start": "20:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "nager 更像运动意义的游泳；se baigner 更像下水玩、泡在水里、洗海水浴。",
+    "species_label": "se-baigner-vs-nager",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "salle de bains",
+      "bain"
+    ],
+    "genus": "salle-de-bains-bain",
+    "learner_task": "salle de bains is bathroom built from bath room",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 338,
+        "line_start": 321,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 25,
+        "ref": "L20.jsonl:25",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "23:00",
+        "time_start": "22:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "salle de bains 字面是 bath room，bain 和洗澡/泡澡相关。",
+    "species_label": "salle-de-bains-bain",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "baigner"
+    ],
+    "genus": "baigner-geography-coast",
+    "learner_task": "baigner can describe a coast bathed by water",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 352,
+        "line_start": 333,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 26,
+        "ref": "L20.jsonl:26",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "24:00",
+        "time_start": "23:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "baigner 可用于地理表达“被某片水域环抱/濒临”，但不是所有“围绕”都能用。",
+    "species_label": "baigner-geography-coast",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "entourer",
+      "être entouré de"
+    ],
+    "genus": "entourer-true-surround",
+    "learner_task": "entourer is true surround",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 366,
+        "line_start": 354,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 27,
+        "ref": "L20.jsonl:27",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "25:00",
+        "time_start": "24:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "真正表达被树、警察等围住时用 entourer/être entouré de，而不是 baigner。",
+    "species_label": "entourer-true-surround",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "baigner dans la joie",
+      "joie"
+    ],
+    "genus": "baigner-dans-la-joie",
+    "learner_task": "baigner dans la joie means be immersed in joy",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 373,
+        "line_start": 361,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 28,
+        "ref": "L20.jsonl:28",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "25:30",
+        "time_start": "24:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "baigner dans 可抽象表达“沉浸在某种氛围/情绪中”。",
+    "species_label": "baigner-dans-la-joie",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "strategy",
+    "french_items": [
+      "préposition"
+    ],
+    "genus": "preposition-changes-phrase-meaning",
+    "learner_task": "prepositions can change a phrase's meaning",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 387,
+        "line_start": 375,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 29,
+        "ref": "L20.jsonl:29",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "26:30",
+        "time_start": "25:30"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "看短语不能只看核心词，后面接的介词会改变整块表达的意思。",
+    "species_label": "preposition-changes-phrase-meaning",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "memory_hook"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "cours d'eau"
+    ],
+    "genus": "cours-d-eau-watercourse",
+    "learner_task": "cours d'eau means watercourse or river",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 431,
+        "line_start": 424,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 30,
+        "ref": "L20.jsonl:30",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "29:30",
+        "time_start": "28:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "cours d'eau 指河流/水道，是地理描述里的固定名词块。",
+    "species_label": "cours-d-eau-watercourse",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "article-usage",
+    "french_items": [
+      "l'Allemagne",
+      "Allemagne"
+    ],
+    "genus": "allemagne-masculine-vowel-country",
+    "learner_task": "Allemagne is masculine but starts with a vowel",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 454,
+        "line_start": 438,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 31,
+        "ref": "L20.jsonl:31",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "31:00",
+        "time_start": "30:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "Allemagne 是国家名，阳性但以元音开头，实际出现时常写 l'Allemagne。",
+    "species_label": "allemagne-masculine-vowel-country",
+    "system": "articles",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed and merged with a true duplicate from the same single-pass inventory.",
+    "adjudication_status": "reviewed",
+    "family": "sentence-frame",
+    "french_items": [
+      "avoir pour voisins",
+      "La France a pour voisins"
+    ],
+    "genus": "avoir-pour-voisins",
+    "learner_task": "avoir pour voisins means have as neighbors",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 552,
+        "line_start": 480,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 32,
+        "ref": "L20.jsonl:32",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "37:30",
+        "time_start": "33:00"
+      },
+      {
+        "line_end": 552,
+        "line_start": 533,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 33,
+        "ref": "L20.jsonl:33",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "37:30",
+        "time_start": "36:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "avoir pour voisins 是“有……作为邻居/邻国”的句型，常把 pour voisins 放在长名单前。",
+    "species_label": "avoir-pour-voisins",
+    "system": "sentence_frames",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "nombre",
+      "numéro"
+    ],
+    "genus": "nombre-vs-numero",
+    "learner_task": "nombre and numéro are different number words",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 577,
+        "line_start": 558,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 34,
+        "ref": "L20.jsonl:34",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "39:30",
+        "time_start": "38:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "English number 可对应 nombre 或 numéro；nombre 是数量，numéro 是编号。",
+    "species_label": "nombre-vs-numero",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "de nombreux",
+      "de nombreuses",
+      "nombreux",
+      "nombreuse"
+    ],
+    "genus": "de-nombreux-means-many",
+    "learner_task": "de nombreux means many",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 577,
+        "line_start": 558,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 35,
+        "ref": "L20.jsonl:35",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "39:30",
+        "time_start": "38:00"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "de nombreux/nombreuses + 名词 表“许多”，更书面，可和 beaucoup de 对应。",
+    "species_label": "de-nombreux-means-many",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "pomme de terre"
+    ],
+    "genus": "pomme-de-terre-potato",
+    "learner_task": "pomme de terre is potato",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 651,
+        "line_start": 646,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 36,
+        "ref": "L20.jsonl:36",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "44:30",
+        "time_start": "44:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "pomme de terre 表土豆，是听力购物语境里的常见实物词。",
+    "species_label": "pomme-de-terre-potato",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "betterave"
+    ],
+    "genus": "betterave-means-beet",
+    "learner_task": "betterave means beet",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 651,
+        "line_start": 646,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 37,
+        "ref": "L20.jsonl:37",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "44:30",
+        "time_start": "44:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "betterave 表甜菜，属于法国农业/作物词汇。",
+    "species_label": "betterave-means-beet",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "tabac"
+    ],
+    "genus": "tabac-means-tobacco",
+    "learner_task": "tabac means tobacco",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 651,
+        "line_start": 646,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 38,
+        "ref": "L20.jsonl:38",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "44:30",
+        "time_start": "44:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "tabac 表烟草。",
+    "species_label": "tabac-means-tobacco",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "élevage"
+    ],
+    "genus": "elevage-livestock-farming",
+    "learner_task": "élevage means livestock farming",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 651,
+        "line_start": 646,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 39,
+        "ref": "L20.jsonl:39",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "44:30",
+        "time_start": "44:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "élevage 表畜牧业/养殖。",
+    "species_label": "elevage-livestock-farming",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "assez"
+    ],
+    "genus": "assez-quite-enough",
+    "learner_task": "assez can mean quite when modifying adjectives or adverbs",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 665,
+        "line_start": 653,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 40,
+        "ref": "L20.jsonl:40",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "45:30",
+        "time_start": "44:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "assez 本义是 enough，但修饰形容词/副词时常可理解成“相当/挺/很”。",
+    "species_label": "assez-quite-enough",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "les immigrés",
+      "immigré"
+    ],
+    "genus": "les-immigres-immigrants",
+    "learner_task": "les immigrés means immigrants",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 710,
+        "line_start": 667,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 41,
+        "ref": "L20.jsonl:41",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "49:00",
+        "time_start": "45:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "les immigrés 指移到国外生活/工作的人，在法国移民话题里是核心词。",
+    "species_label": "les-immigres-immigrants",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "sentence-frame",
+    "french_items": [
+      "poser des problèmes",
+      "poser une question"
+    ],
+    "genus": "poser-des-problemes-vs-poser-une-question",
+    "learner_task": "poser des problèmes is cause problems not ask a question",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 689,
+        "line_start": 674,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 42,
+        "ref": "L20.jsonl:42",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "47:30",
+        "time_start": "46:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "poser une question 是向人提问；poser des problèmes 是造成/带来问题，problem 是难题不是 question。",
+    "species_label": "poser-des-problemes-vs-poser-une-question",
+    "system": "sentence_frames",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "donner lieu à",
+      "causer"
+    ],
+    "genus": "donner-lieu-a-causer",
+    "learner_task": "donner lieu à means give rise to",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 700,
+        "line_start": 688,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 43,
+        "ref": "L20.jsonl:43",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "48:00",
+        "time_start": "47:00"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "donner lieu à 是较高级的“引发/导致”，可和 causer 对应。",
+    "species_label": "donner-lieu-a-causer",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "travailleur immigré"
+    ],
+    "genus": "travailleur-immigre-immigrant-worker",
+    "learner_task": "travailleur immigré means immigrant worker",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 717,
+        "line_start": 709,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 44,
+        "ref": "L20.jsonl:44",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "49:30",
+        "time_start": "48:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "travailleur immigré 可理解为 immigrant worker。",
+    "species_label": "travailleur-immigre-immigrant-worker",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "dur",
+      "dure"
+    ],
+    "genus": "dur-hard-difficult-work",
+    "learner_task": "dur can describe hard or difficult work",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 728,
+        "line_start": 716,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 45,
+        "ref": "L20.jsonl:45",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "50:00",
+        "time_start": "49:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "dur/dure 作形容词可表示工作艰苦、困难。",
+    "species_label": "dur-hard-difficult-work",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "mal payé",
+      "un travail mal payé"
+    ],
+    "genus": "mal-paye-poorly-paid",
+    "learner_task": "mal payé means poorly paid",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 738,
+        "line_start": 723,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 46,
+        "ref": "L20.jsonl:46",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "50:30",
+        "time_start": "49:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "mal payé 是 well-paid 的反义，用副词 mal + 过去分词 payé 构成，形容工作工资不高。",
+    "species_label": "mal-paye-poorly-paid",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "main-d'œuvre",
+      "main d'œuvre"
+    ],
+    "genus": "main-d-oeuvre-workforce",
+    "learner_task": "main-d'œuvre means workforce",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 741,
+        "line_start": 733,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 47,
+        "ref": "L20.jsonl:47",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "51:00",
+        "time_start": "50:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "main-d'œuvre 表 workforce/劳动力。",
+    "species_label": "main-d-oeuvre-workforce",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "patron",
+      "le patron"
+    ],
+    "genus": "patron-boss-employer",
+    "learner_task": "patron means boss or employer",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 745,
+        "line_start": 740,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 48,
+        "ref": "L20.jsonl:48",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "51:00",
+        "time_start": "50:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "patron 表老板/雇主。",
+    "species_label": "patron-boss-employer",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "qui",
+      "que",
+      "où"
+    ],
+    "genus": "qui-que-ou-relative-pronoun-recap",
+    "learner_task": "qui que où relative pronoun recap",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 766,
+        "line_start": 754,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 49,
+        "ref": "L20.jsonl:49",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "52:30",
+        "time_start": "51:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "qui 代替从句主语，que 代替直接宾语，où 引导地点或时间。",
+    "species_label": "qui-que-ou-relative-pronoun-recap",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "celui",
+      "celle",
+      "ceux",
+      "celles"
+    ],
+    "genus": "demonstrative-pronoun-agreement",
+    "learner_task": "demonstrative pronouns agree with the replaced noun",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 780,
+        "line_start": 768,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 50,
+        "ref": "L20.jsonl:50",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "53:30",
+        "time_start": "52:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "指示代词按被替代名词的阴阳性和单复数选择 celui/celle/ceux/celles。",
+    "species_label": "demonstrative-pronoun-agreement",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "celui",
+      "celle",
+      "ceux",
+      "celles"
+    ],
+    "genus": "demonstrative-pronoun-needs-tail",
+    "learner_task": "celui celle ceux celles cannot stand bare",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 797,
+        "line_start": 775,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 51,
+        "ref": "L20.jsonl:51",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "55:00",
+        "time_start": "53:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "celui/celle/ceux/celles 后面必须有一个限定尾巴，不能光秃秃地单独成分使用。",
+    "species_label": "demonstrative-pronoun-needs-tail",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "celui de",
+      "celle de"
+    ],
+    "genus": "celui-de-celle-de-repeated-noun",
+    "learner_task": "celui de and celle de replace repeated nouns",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 805,
+        "line_start": 789,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 52,
+        "ref": "L20.jsonl:52",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "55:30",
+        "time_start": "54:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "用 celui de/celle de 可以替代重复名词，如 mon vélo -> celui de Pascal，ma voiture -> celle de Pascal。",
+    "species_label": "celui-de-celle-de-repeated-noun",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "celui que",
+      "celle qu'",
+      "ceux qui"
+    ],
+    "genus": "demonstrative-pronoun-relative-clause-tail",
+    "learner_task": "demonstrative pronouns can be limited by a relative clause",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 815,
+        "line_start": 803,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 53,
+        "ref": "L20.jsonl:53",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "56:00",
+        "time_start": "55:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "除了 de/介词短语，celui/celle/ceux/celles 后也可以跟 qui/que/où 等关系从句做限定。",
+    "species_label": "demonstrative-pronoun-relative-clause-tail",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "strategy",
+    "french_items": [
+      "mon",
+      "ma",
+      "ta",
+      "celui",
+      "celle"
+    ],
+    "genus": "infer-gender-from-exercise-clues",
+    "learner_task": "infer noun gender from exercise clues",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 851,
+        "line_start": 831,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 54,
+        "ref": "L20.jsonl:54",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "58:30",
+        "time_start": "57:00"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "练习时不一定每次查字典，可以利用 mon/ma/ta 等题目提示判断名词性别，从而选 celui/celle。",
+    "species_label": "infer-gender-from-exercise-clues",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "memory_hook"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "ceux qui",
+      "celui qui"
+    ],
+    "genus": "ceux-qui-people-who-no-antecedent",
+    "learner_task": "ceux qui can mean people who without antecedent",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 923,
+        "line_start": 890,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 55,
+        "ref": "L20.jsonl:55",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:03:30",
+        "time_start": "01:01:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "ceux qui/celui qui 可不替代前文名词，直接指“某一类人”，但不能指物；单复数都可泛指一类人，动词变位要配清楚。",
+    "species_label": "ceux-qui-people-who-no-antecedent",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed and merged with a true duplicate from the same single-pass inventory.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "celui-ci",
+      "celui-là",
+      "celle-ci",
+      "celle-là"
+    ],
+    "genus": "celui-ci-celui-la-the-one",
+    "learner_task": "celui-ci and celui-là are like the one here and the one there",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 958,
+        "line_start": 925,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 56,
+        "ref": "L20.jsonl:56",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:06:00",
+        "time_start": "01:03:30"
+      },
+      {
+        "line_end": 979,
+        "line_start": 953,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 57,
+        "ref": "L20.jsonl:57",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:07:30",
+        "time_start": "01:05:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "celui-ci/celle-ci 表近指“这一个”，celui-là/celle-là 表远指“那一个”，很像英文 the one here/there。",
+    "species_label": "celui-ci-celui-la-the-one",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "celui",
+      "celle"
+    ],
+    "genus": "bare-celui-is-wrong",
+    "learner_task": "do not use celui alone after a which-one question",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 979,
+        "line_start": 966,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 58,
+        "ref": "L20.jsonl:58",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:07:30",
+        "time_start": "01:06:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "别人问“哪一个”时，不能只答 Je veux celui/celle；后面必须补 celui-ci/celui-là 或其他限定。",
+    "species_label": "bare-celui-is-wrong",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "teacher_corrected_error",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "ce",
+      "c'est",
+      "ce sont"
+    ],
+    "genus": "neutral-ce-invariable",
+    "learner_task": "neutral ce has no gender or number",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 999,
+        "line_start": 981,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 59,
+        "ref": "L20.jsonl:59",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:09:00",
+        "time_start": "01:07:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "中性 ce 不随后面名词阴阳性或单复数变化；作主语时常见 c'est/ce sont。",
+    "species_label": "neutral-ce-invariable",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "ce que",
+      "que"
+    ],
+    "genus": "ce-que-vs-que",
+    "learner_task": "ce que includes a special antecedent plus que",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1036,
+        "line_start": 1001,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 60,
+        "ref": "L20.jsonl:60",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:11:30",
+        "time_start": "01:09:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "que 只是关系代词，需要已有先行词；ce que 是特殊先行词 ce 加 que，用来表达“什么/所……的东西”。",
+    "species_label": "ce-que-vs-que",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "pronoun-reference",
+    "french_items": [
+      "ce que",
+      "ce qui"
+    ],
+    "genus": "ce-que-object-ce-qui-subject",
+    "learner_task": "ce que is object what and ce qui is subject what",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1066,
+        "line_start": 1039,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 61,
+        "ref": "L20.jsonl:61",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:13:30",
+        "time_start": "01:11:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "ce que 中 ce 在从句里作直宾；ce qui 中 ce 在从句里作主语。法语必须分清 what 是主语还是宾语。",
+    "species_label": "ce-que-object-ce-qui-subject",
+    "system": "pronoun_reference",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "pronoun",
+      "pronoun_reference",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "faire plaisir à quelqu'un"
+    ],
+    "genus": "faire-plaisir-a-qqn",
+    "learner_task": "faire plaisir à quelqu'un means make someone happy",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1055,
+        "line_start": 1047,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 62,
+        "ref": "L20.jsonl:62",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:13:00",
+        "time_start": "01:12:00"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "X fait plaisir à Y 表 X makes Y happy。",
+    "species_label": "faire-plaisir-a-qqn",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "strategy",
+    "french_items": [
+      "ce que",
+      "ce qui"
+    ],
+    "genus": "decide-ce-que-ce-qui-by-conjugation",
+    "learner_task": "use verb conjugation to decide ce que versus ce qui",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1114,
+        "line_start": 1081,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 63,
+        "ref": "L20.jsonl:63",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:17:00",
+        "time_start": "01:14:30"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "做 ce que/ce qui 填空时，看从句动词变位：如果后面动词把 ce 当主语，就用 ce qui；如果已有主语而缺宾语，就用 ce que。",
+    "species_label": "decide-ce-que-ce-qui-by-conjugation",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "memory_hook",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "énerver",
+      "s'énerver",
+      "Je m'énerve"
+    ],
+    "genus": "enerver-annoy-pronominal",
+    "learner_task": "énerver means annoy and can be pronominal",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1124,
+        "line_start": 1102,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 64,
+        "ref": "L20.jsonl:64",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:18:00",
+        "time_start": "01:16:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "X énerve Y 表 X 让 Y 烦；自己烦躁可用 s'énerver/Je m'énerve。",
+    "species_label": "enerver-annoy-pronominal",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "amuser",
+      "s'amuser",
+      "Je m'amuse"
+    ],
+    "genus": "amuser-s-amuser-have-fun",
+    "learner_task": "amuser means amuse and s'amuser means have fun",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1124,
+        "line_start": 1110,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 65,
+        "ref": "L20.jsonl:65",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:18:00",
+        "time_start": "01:16:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "X amuse Y 表 X 逗乐 Y；Je m'amuse 表我玩得开心。",
+    "species_label": "amuser-s-amuser-have-fun",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "révolter",
+      "ce qui me révolte"
+    ],
+    "genus": "revolter-outrage",
+    "learner_task": "révolter means outrage or revolt",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1138,
+        "line_start": 1130,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 66,
+        "ref": "L20.jsonl:66",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:19:00",
+        "time_start": "01:18:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "ce qui me révolte le plus 表“最让我愤慨的东西”。",
+    "species_label": "revolter-outrage",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "injustice",
+      "l'injustice"
+    ],
+    "genus": "injustice-unfairness",
+    "learner_task": "injustice means unfairness",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1145,
+        "line_start": 1130,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 67,
+        "ref": "L20.jsonl:67",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:19:30",
+        "time_start": "01:18:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "injustice 表“不公/不公平”。",
+    "species_label": "injustice-unfairness",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "sentence-frame",
+    "french_items": [
+      "ce qui me fait peur, c'est",
+      "ce que j'aime le plus, c'est",
+      "ce que j'attends, c'est"
+    ],
+    "genus": "ce-qui-ce-que-cest-cleft",
+    "learner_task": "ce qui ce que can form what-cleft sentences",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1153,
+        "line_start": 1137,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 68,
+        "ref": "L20.jsonl:68",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:20:00",
+        "time_start": "01:18:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "ce qui/ce que ... c'est ... 可以表达“……的是……”，功能接近英文 what makes me... is...。",
+    "species_label": "ce-qui-ce-que-cest-cleft",
+    "system": "sentence_frames",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "tense-system",
+    "french_items": [
+      "futur simple"
+    ],
+    "genus": "futur-simple-no-auxiliary",
+    "learner_task": "future simple is a simple tense without auxiliary",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1177,
+        "line_start": 1161,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 69,
+        "ref": "L20.jsonl:69",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:21:30",
+        "time_start": "01:20:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "futur simple 里的 simple 指“简单时态”，动词自己变，不像复合过去时那样需要助动词。",
+    "species_label": "futur-simple-no-auxiliary",
+    "system": "tense_aspect",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "tense-system",
+    "french_items": [
+      "radical",
+      "terminaison",
+      "futur simple"
+    ],
+    "genus": "futur-simple-stem-plus-ending",
+    "learner_task": "future simple is stem plus ending",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1183,
+        "line_start": 1175,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 70,
+        "ref": "L20.jsonl:70",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:22:00",
+        "time_start": "01:21:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "简单将来时按“词根 + 词尾”掌握：前半是固定词根，后半是固定词尾。",
+    "species_label": "futur-simple-stem-plus-ending",
+    "system": "tense_aspect",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "parler",
+      "je parlerai"
+    ],
+    "genus": "first-group-future-infinitive-stem",
+    "learner_task": "first-group future stem is the infinitive",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1208,
+        "line_start": 1182,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 71,
+        "ref": "L20.jsonl:71",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:24:00",
+        "time_start": "01:21:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "第一组动词 futur simple 的词根就是动词不定式，再接将来时词尾。",
+    "species_label": "first-group-future-infinitive-stem",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "-ai",
+      "-as",
+      "-a",
+      "-ons",
+      "-ez",
+      "-ont",
+      "avoir"
+    ],
+    "genus": "future-endings-from-avoir",
+    "learner_task": "future endings come from avoir forms",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1205,
+        "line_start": 1189,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 72,
+        "ref": "L20.jsonl:72",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:23:30",
+        "time_start": "01:22:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "futur simple 的词尾可按 avoir 的一组变位来记，尤其 -ai 发 /e/ 或 a 类尾音，不要按字母乱读。",
+    "species_label": "future-endings-from-avoir",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "form-pronunciation",
+    "french_items": [
+      "je parlerai",
+      "vous parlerez",
+      "vous parlez"
+    ],
+    "genus": "parlerai-pronunciation-future-vs-present",
+    "learner_task": "parlerai weakens the internal er sound",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1225,
+        "line_start": 1210,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 73,
+        "ref": "L20.jsonl:73",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:25:00",
+        "time_start": "01:23:30"
+      }
+    ],
+    "primary_class": "pronunciation_spelling",
+    "rule_or_usage": "第一组动词加将来时词尾后，原来词尾的 -er 进入中间位置，读音要弱化带过；vous parlerez 和 vous parlez 要读出区别。",
+    "species_label": "parlerai-pronunciation-future-vs-present",
+    "system": "pronunciation_spelling",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "teacher_corrected_error"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "finir",
+      "je finirai",
+      "tu finiras",
+      "nous finirons",
+      "vous finirez"
+    ],
+    "genus": "second-group-future-infinitive-stem",
+    "learner_task": "second-group future stem is also infinitive",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1254,
+        "line_start": 1231,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 74,
+        "ref": "L20.jsonl:74",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:27:00",
+        "time_start": "01:25:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "第二组动词 futur simple 也用不定式作词根，再加将来时词尾。",
+    "species_label": "second-group-future-infinitive-stem",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "lire",
+      "dire",
+      "prendre"
+    ],
+    "genus": "third-group-re-future-drop-e",
+    "learner_task": "third-group -re future drops final e",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1271,
+        "line_start": 1252,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 75,
+        "ref": "L20.jsonl:75",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:28:00",
+        "time_start": "01:26:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "第三组中以 -re 结尾且不属于极特殊词根的动词，futur simple 常去掉最后 e 再加词尾。",
+    "species_label": "third-group-re-future-drop-e",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "avoir",
+      "être",
+      "aller",
+      "faire",
+      "devoir",
+      "savoir",
+      "venir",
+      "voir",
+      "vouloir",
+      "falloir",
+      "pleuvoir"
+    ],
+    "genus": "irregular-future-stems-memorize",
+    "learner_task": "irregular future stems must be memorized",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1292,
+        "line_start": 1273,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 76,
+        "ref": "L20.jsonl:76",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:29:30",
+        "time_start": "01:28:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "一些常用第三组动词的 futur simple 词根是规定好的，只能背；记一个人称即可推全套词尾。",
+    "species_label": "irregular-future-stems-memorize",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "tense-system",
+    "french_items": [
+      "radical du futur",
+      "conditionnel"
+    ],
+    "genus": "future-stems-reused-in-conditionnel",
+    "learner_task": "future stems matter beyond futur simple",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1292,
+        "line_start": 1281,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 77,
+        "ref": "L20.jsonl:77",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:29:30",
+        "time_start": "01:28:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "不规则将来时词根不只用于 futur simple，后面至少还会用于条件式等时态，所以要提前背熟。",
+    "species_label": "future-stems-reused-in-conditionnel",
+    "system": "tense_aspect",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "ça ira",
+      "ça va",
+      "aller"
+    ],
+    "genus": "ca-ira-future-of-ca-va",
+    "learner_task": "ça ira is ça va in future simple",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1323,
+        "line_start": 1294,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 78,
+        "ref": "L20.jsonl:78",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:31:30",
+        "time_start": "01:29:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "ça ira 可理解为 ça va 的 futur simple：it will be OK / it will work。",
+    "species_label": "ca-ira-future-of-ca-va",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "tense-system",
+    "french_items": [
+      "futur simple",
+      "futur proche",
+      "aller + infinitif"
+    ],
+    "genus": "futur-simple-vs-futur-proche",
+    "learner_task": "futur simple maps to will do and futur proche maps to be going to do",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1337,
+        "line_start": 1318,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 79,
+        "ref": "L20.jsonl:79",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:33:00",
+        "time_start": "01:31:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "futur simple 大致对应 will do；aller + infinitif/futur proche 大致对应 be going to do，二者差别更多是语感。",
+    "species_label": "futur-simple-vs-futur-proche",
+    "system": "tense_aspect",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "conjugation",
+    "french_items": [
+      "falloir",
+      "pleuvoir",
+      "il faudra",
+      "il pleuvra"
+    ],
+    "genus": "falloir-pleuvoir-only-il",
+    "learner_task": "falloir and pleuvoir only use third person singular",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1357,
+        "line_start": 1346,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 80,
+        "ref": "L20.jsonl:80",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:34:00",
+        "time_start": "01:33:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "falloir 和 pleuvoir 这类无人称动词只用第三人称单数，所以将来时也写 il faudra / il pleuvra。",
+    "species_label": "falloir-pleuvoir-only-il",
+    "system": "conjugation",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "conjugation",
+      "tense_system",
+      "teacher_corrected_error"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "la guerre"
+    ],
+    "genus": "guerre-war",
+    "learner_task": "la guerre means war",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1372,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 81,
+        "ref": "L20.jsonl:81",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:00",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "la guerre 表 war/战争。",
+    "species_label": "guerre-war",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "le développement"
+    ],
+    "genus": "developpement-development",
+    "learner_task": "le développement means development",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1372,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 82,
+        "ref": "L20.jsonl:82",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:00",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "développement 表 development/发展，是社会经济话题高频名词。",
+    "species_label": "developpement-development",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "les médias"
+    ],
+    "genus": "medias-media",
+    "learner_task": "les médias means media",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1372,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 83,
+        "ref": "L20.jsonl:83",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:00",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "les médias 表 media/媒体，通常以复数出现。",
+    "species_label": "medias-media",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "isolement"
+    ],
+    "genus": "isolement-isolation",
+    "learner_task": "isolement means isolation",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1372,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 84,
+        "ref": "L20.jsonl:84",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:00",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "isolement 表 isolation/隔离、孤立。",
+    "species_label": "isolement-isolation",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "le progrès"
+    ],
+    "genus": "progres-progress",
+    "learner_task": "le progrès means progress",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1372,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 85,
+        "ref": "L20.jsonl:85",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:00",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "progrès 表 progress/进步。",
+    "species_label": "progres-progress",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "le transport",
+      "une autoroute"
+    ],
+    "genus": "transport-autoroute",
+    "learner_task": "le transport and une autoroute are transport vocabulary",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1379,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 86,
+        "ref": "L20.jsonl:86",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:30",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "transport 表交通/运输；autoroute 表高速公路。",
+    "species_label": "transport-autoroute",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "une eau douce",
+      "eau douce"
+    ],
+    "genus": "eau-douce-fresh-water",
+    "learner_task": "une eau douce means fresh water",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1375,
+        "line_start": 1366,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 87,
+        "ref": "L20.jsonl:87",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:30",
+        "time_start": "01:34:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "eau douce 表 fresh water/淡水。",
+    "species_label": "eau-douce-fresh-water",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "la liaison"
+    ],
+    "genus": "liaison-connection",
+    "learner_task": "la liaison means connection or link",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1379,
+        "line_start": 1374,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 88,
+        "ref": "L20.jsonl:88",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:30",
+        "time_start": "01:35:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "liaison 表 connection/link，也可指语言里的连诵，但此处是一般连接义。",
+    "species_label": "liaison-connection",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "le réseau"
+    ],
+    "genus": "reseau-network",
+    "learner_task": "le réseau means network",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1379,
+        "line_start": 1374,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 89,
+        "ref": "L20.jsonl:89",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:30",
+        "time_start": "01:35:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "réseau 表 network/网络。",
+    "species_label": "reseau-network",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "la décentralisation"
+    ],
+    "genus": "decentralisation-decentralization",
+    "learner_task": "la décentralisation means decentralization",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1379,
+        "line_start": 1374,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 90,
+        "ref": "L20.jsonl:90",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:30",
+        "time_start": "01:35:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "décentralisation 表 decentralization/地方分权或去中心化。",
+    "species_label": "decentralisation-decentralization",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "l'ordre du jour"
+    ],
+    "genus": "ordre-du-jour-agenda",
+    "learner_task": "l'ordre du jour means agenda",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1379,
+        "line_start": 1374,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 91,
+        "ref": "L20.jsonl:91",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:35:30",
+        "time_start": "01:35:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "ordre du jour 表 agenda/议事日程。",
+    "species_label": "ordre-du-jour-agenda",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "le pouvoir"
+    ],
+    "genus": "pouvoir-noun-power",
+    "learner_task": "le pouvoir means power",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1382,
+        "line_start": 1374,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 92,
+        "ref": "L20.jsonl:92",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:36:00",
+        "time_start": "01:35:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "pouvoir 作名词 le pouvoir 表 power/权力；也可和动词 pouvoir 区分。",
+    "species_label": "pouvoir-noun-power",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "une activité",
+      "le festival"
+    ],
+    "genus": "activite-festival",
+    "learner_task": "une activité and le festival are activity/event words",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1382,
+        "line_start": 1374,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 93,
+        "ref": "L20.jsonl:93",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:36:00",
+        "time_start": "01:35:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "activité 表活动；festival 表节庆/艺术节，老师明确说 festival 之类要背。",
+    "species_label": "activite-festival",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "le théâtre",
+      "les théâtres"
+    ],
+    "genus": "theatre-theater",
+    "learner_task": "le théâtre means theater",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1386,
+        "line_start": 1381,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 94,
+        "ref": "L20.jsonl:94",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:36:00",
+        "time_start": "01:35:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "théâtre 表 theater/剧院或戏剧，复数 les théâtres。",
+    "species_label": "theatre-theater",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "pays",
+      "paysage",
+      "paysan"
+    ],
+    "genus": "pays-paysage-paysan-contrast",
+    "learner_task": "pays paysage paysan look similar but mean different things",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1400,
+        "line_start": 1388,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 95,
+        "ref": "L20.jsonl:95",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:37:00",
+        "time_start": "01:36:00"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "pays, paysage, paysan 词形相近、发音特殊，但意思分别是国家、风景、农民，需要一起对比记。",
+    "species_label": "pays-paysage-paysan-contrast",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "sentence-frame",
+    "french_items": [
+      "Il y a de très beaux paysages",
+      "le paysage est très beau"
+    ],
+    "genus": "il-y-a-de-tres-beaux-paysages",
+    "learner_task": "il y a de très beaux paysages",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1448,
+        "line_start": 1437,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 96,
+        "ref": "L20.jsonl:96",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:40:30",
+        "time_start": "01:39:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "描述加拿大等地方吸引人的风景时，可用 Il y a de très beaux paysages 或 Le paysage est très beau。",
+    "species_label": "il-y-a-de-tres-beaux-paysages",
+    "system": "sentence_frames",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "preposition-interface",
+    "french_items": [
+      "au milieu de",
+      "le milieu de"
+    ],
+    "genus": "au-milieu-de-in-the-middle-of",
+    "learner_task": "au milieu de means in the middle of",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1435,
+        "line_start": 1416,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 97,
+        "ref": "L20.jsonl:97",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:39:30",
+        "time_start": "01:38:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "表达“在……中间”用 au milieu de；de 后若接 le 要缩合成 du。",
+    "species_label": "au-milieu-de-in-the-middle-of",
+    "system": "preposition_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "actuellement"
+    ],
+    "genus": "actuellement-currently",
+    "learner_task": "actuellement means currently",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1418,
+        "line_start": 1409,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 98,
+        "ref": "L20.jsonl:98",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:38:30",
+        "time_start": "01:37:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "actuellement 表 currently/目前。",
+    "species_label": "actuellement-currently",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "logic-connection",
+    "french_items": [
+      "certes"
+    ],
+    "genus": "certes-admittedly",
+    "learner_task": "certes means certainly or admittedly",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1418,
+        "line_start": 1409,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 99,
+        "ref": "L20.jsonl:99",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:38:30",
+        "time_start": "01:37:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "certes 可作让步/确认连接词，表示 certainly/admittedly。",
+    "species_label": "certes-admittedly",
+    "system": "discourse_markers",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "à côté de"
+    ],
+    "genus": "a-cote-de-next-to",
+    "learner_task": "à côté de means next to",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1418,
+        "line_start": 1409,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 100,
+        "ref": "L20.jsonl:100",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:38:30",
+        "time_start": "01:37:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "à côté de 表 next to/beside。",
+    "species_label": "a-cote-de-next-to",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "aller et retour"
+    ],
+    "genus": "aller-et-retour-round-trip",
+    "learner_task": "aller et retour means round trip",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1418,
+        "line_start": 1409,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 101,
+        "ref": "L20.jsonl:101",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:38:30",
+        "time_start": "01:37:30"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "aller et retour 表 round trip/往返。",
+    "species_label": "aller-et-retour-round-trip",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "volontiers"
+    ],
+    "genus": "volontiers-gladly",
+    "learner_task": "volontiers means gladly",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1418,
+        "line_start": 1409,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 102,
+        "ref": "L20.jsonl:102",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:38:30",
+        "time_start": "01:37:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "volontiers 表 gladly/willingly，常用于礼貌回答。",
+    "species_label": "volontiers-gladly",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "opposer X à Y",
+      "s'opposer à"
+    ],
+    "genus": "opposer-x-a-y-s-opposer-a",
+    "learner_task": "opposer X à Y means oppose or set X against Y",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1459,
+        "line_start": 1447,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 103,
+        "ref": "L20.jsonl:103",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:41:00",
+        "time_start": "01:40:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "opposer X à Y 是把 X 和 Y 对立起来；反对某事可理解为把自己和它对立起来，所以用 s'opposer à。",
+    "species_label": "opposer-x-a-y-s-opposer-a",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "tirer X de Y",
+      "se tirer de",
+      "tirer les paysans de la pauvreté"
+    ],
+    "genus": "tirer-x-de-y-se-tirer-de",
+    "learner_task": "tirer X de Y and se tirer de mean pull out or get out of",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1474,
+        "line_start": 1461,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 104,
+        "ref": "L20.jsonl:104",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:42:00",
+        "time_start": "01:41:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "tirer X de Y 字面像 pull something from something；se tirer de 表把自己从困境中摆脱出来。",
+    "species_label": "tirer-x-de-y-se-tirer-de",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "vocabulary-usage",
+    "french_items": [
+      "pauvreté",
+      "la pauvreté"
+    ],
+    "genus": "pauvrete-poverty",
+    "learner_task": "pauvreté means poverty",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1474,
+        "line_start": 1468,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 105,
+        "ref": "L20.jsonl:105",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:42:00",
+        "time_start": "01:41:30"
+      }
+    ],
+    "primary_class": "lexical_usage",
+    "rule_or_usage": "pauvreté 表 poverty/贫困。",
+    "species_label": "pauvrete-poverty",
+    "system": "lexical_semantics",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "permettre",
+      "permettre le développement"
+    ],
+    "genus": "permettre-make-possible",
+    "learner_task": "permettre can mean make possible",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1489,
+        "line_start": 1476,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 106,
+        "ref": "L20.jsonl:106",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:43:00",
+        "time_start": "01:42:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "permettre 不只表示允许，也可表示“使……成为可能”，如 la communication permet le développement de l'économie。",
+    "species_label": "permettre-make-possible",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "permettre à quelqu'un de faire quelque chose",
+      "permettre aux enfants de rentrer"
+    ],
+    "genus": "permettre-a-qqn-de-faire",
+    "learner_task": "permettre à quelqu'un de faire quelque chose",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1511,
+        "line_start": 1483,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 107,
+        "ref": "L20.jsonl:107",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:44:30",
+        "time_start": "01:42:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "允许某人做某事用 permettre à quelqu'un de faire quelque chose；à les 要缩合成 aux。",
+    "species_label": "permettre-a-qqn-de-faire",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "expression-block",
+    "french_items": [
+      "rentrer à la maison"
+    ],
+    "genus": "rentrer-a-la-maison-go-home",
+    "learner_task": "rentrer à la maison means go home",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1514,
+        "line_start": 1505,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 108,
+        "ref": "L20.jsonl:108",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:45:00",
+        "time_start": "01:44:00"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "rentrer à la maison 表回家。",
+    "species_label": "rentrer-a-la-maison-go-home",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "preposition-interface",
+    "french_items": [
+      "avant",
+      "après",
+      "avant dix heures",
+      "après dix heures"
+    ],
+    "genus": "avant-apres-before-after",
+    "learner_task": "avant and après mark before and after",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1532,
+        "line_start": 1528,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 109,
+        "ref": "L20.jsonl:109",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:46:00",
+        "time_start": "01:45:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "avant dix heures 表十点之前，après dix heures 表十点之后。",
+    "species_label": "avant-apres-before-after",
+    "system": "preposition_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "disposer de"
+    ],
+    "genus": "disposer-de-equals-avoir",
+    "learner_task": "disposer de equals avoir and needs de",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1539,
+        "line_start": 1534,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 110,
+        "ref": "L20.jsonl:110",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:46:30",
+        "time_start": "01:46:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "disposer de 等于 avoir/拥有，但必须带 de。",
+    "species_label": "disposer-de-equals-avoir",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "verb-cluster",
+    "french_items": [
+      "avoir lieu",
+      "Le festival a lieu"
+    ],
+    "genus": "avoir-lieu-take-place-event-subject",
+    "learner_task": "avoir lieu means take place and uses event subject",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1549,
+        "line_start": 1534,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 111,
+        "ref": "L20.jsonl:111",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:47:30",
+        "time_start": "01:46:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "avoir lieu 表举行/发生，主语应是事件/活动本身，不能用 on 来说“我们举行”。",
+    "species_label": "avoir-lieu-take-place-event-subject",
+    "system": "verb_interface",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface"
+    ]
+  },
+  {
+    "adjudication_note": "Reviewed against the single comprehensive L20 source pass; retained for pedagogical value.",
+    "adjudication_status": "reviewed",
+    "family": "strategy",
+    "french_items": [
+      "futur simple",
+      "pronoms démonstratifs"
+    ],
+    "genus": "l20-homework-future-demonstrative-vocab",
+    "learner_task": "L20 homework is future tense and demonstrative pronoun exercises plus vocabulary",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "line_end": 1556,
+        "line_start": 1548,
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.jsonl",
+        "raw_line": 112,
+        "ref": "L20.jsonl:112",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_end": "01:48:00",
+        "time_start": "01:47:00"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "课后作业是完成今天的将来时和指示代词语法练习，并背单词。",
+    "species_label": "l20-homework-future-demonstrative-vocab",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "memory_hook",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "measurement-description",
+    "french_items": [
+      "s'étendre sur",
+      "La France s'étend sur environ 551 000 kilomètres carrés"
+    ],
+    "genus": "setendre-sur",
+    "learner_task": "state the area covered by a country or region",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:31:30-32:30",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "31:30",
+        "time_end": "32:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "s'étendre sur + surface/area expresses that a place covers a stated area, followed directly by the measurement.",
+    "species_label": "setendre-sur-area-measurement",
+    "system": "sentence_frames",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "preposition_interface",
+      "sentence_frame"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "measurement-units",
+    "french_items": [
+      "un kilomètre carré",
+      "des kilomètres carrés",
+      "km²"
+    ],
+    "genus": "kilometre-carre",
+    "learner_task": "read and form square-metre or square-kilometre measurements",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:31:30-32:30",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "31:30",
+        "time_end": "32:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "Area units use carré after the unit noun and agree in number: un kilomètre carré, des kilomètres carrés; km² is read kilomètres carrés.",
+    "species_label": "square-units-use-carre-and-agreement",
+    "system": "measurement-expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "agreement",
+      "gender_number"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "comparative-degree",
+    "french_items": [
+      "un peu plus vaste",
+      "beaucoup plus vaste",
+      "un peu moins vaste"
+    ],
+    "genus": "un-peu-beaucoup-plus-moins",
+    "learner_task": "say a little or much more or less",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:32:30-34:00",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "32:30",
+        "time_end": "34:00"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "Place un peu or beaucoup before plus/moins + adjective to scale a comparison: un peu plus vaste, beaucoup plus vaste, un peu moins vaste.",
+    "species_label": "un-peu-beaucoup-modify-comparative-degree",
+    "system": "comparison",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "comparison",
+      "comparative",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "weather-comparison",
+    "french_items": [
+      "Il fait aussi froid à Pékin qu'à Shanghai"
+    ],
+    "genus": "il-fait-location-comparison",
+    "learner_task": "compare weather conditions in two places",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:34:00-35:30",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "34:00",
+        "time_end": "35:30"
+      }
+    ],
+    "primary_class": "grammar_rule",
+    "rule_or_usage": "Build the weather clause with il fait, then compare locations: Il fait aussi froid à Pékin qu'à Shanghai.",
+    "species_label": "weather-location-comparison-il-fait",
+    "system": "sentence_frames",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "comparison",
+      "sentence_frame",
+      "foundational"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "sentence-building",
+    "french_items": [
+      "il fait froid à Pékin",
+      "aussi ... que"
+    ],
+    "genus": "core-clause-first",
+    "learner_task": "reduce complex production by building the sentence core first",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:34:00-35:30",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "34:00",
+        "time_end": "35:30"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "For a difficult comparison, first produce the core clause (for example il fait froid à Pékin), then add the comparison marker and second location.",
+    "species_label": "build-core-clause-before-adding-comparison",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "production_strategy",
+      "memory_hook"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "geographic-concepts",
+    "french_items": [
+      "Europe occidentale",
+      "occidental",
+      "occidentale"
+    ],
+    "genus": "europe-occidentale",
+    "learner_task": "recognize and produce the fixed concept Western Europe",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:36:00-37:00",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "36:00",
+        "time_end": "37:00"
+      }
+    ],
+    "primary_class": "expression",
+    "rule_or_usage": "Europe occidentale is the established expression for Western Europe; occidentale is the feminine form agreeing with Europe.",
+    "species_label": "europe-occidentale-fixed-geographic-concept",
+    "system": "fixed_expressions",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "agreement",
+      "gender_number",
+      "listening_keyword"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "review-prioritization",
+    "french_items": [
+      "structures réutilisables"
+    ],
+    "genus": "reusable-structures-first",
+    "learner_task": "prioritize reusable language from a dense reading",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:45:00-46:00",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "45:00",
+        "time_end": "46:00"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "The teacher explicitly deprioritized isolated geography trivia and asked the learner to retain reusable sentence frames, listening keywords, and productive expressions.",
+    "species_label": "prioritize-reusable-structures-over-geography-trivia",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "review_strategy",
+      "teacher_action"
+    ]
+  },
+  {
+    "adjudication_note": "Added during rubric reconciliation after the single comprehensive source pass.",
+    "adjudication_status": "reviewed",
+    "family": "oral-drill",
+    "french_items": [
+      "celui de Marie",
+      "celle de Nicolas"
+    ],
+    "genus": "complete-phrase-practice",
+    "learner_task": "practice the complete demonstrative-pronoun phrase",
+    "lesson": "L20",
+    "occurrences": [
+      {
+        "pass_id": "single-comprehensive-pass",
+        "raw_file": "L20.chosen-transcript.txt",
+        "ref": "L20.chosen-transcript:58:00-59:30",
+        "source": "docker-data/outputs/L20/L20_final_working.md",
+        "time_start": "58:00",
+        "time_end": "59:30"
+      }
+    ],
+    "primary_class": "learning_strategy",
+    "rule_or_usage": "Say the full phrase, including the required complement, so partial muscle memory does not produce bare celui/celle.",
+    "species_label": "practice-complete-pronoun-phrases-to-avoid-partial-muscle-memory",
+    "system": "learning_strategy",
+    "tags": [
+      "A2",
+      "core",
+      "neutral",
+      "learning_strategy",
+      "pronoun",
+      "production_strategy",
+      "teacher_action"
+    ]
+  }
+]
