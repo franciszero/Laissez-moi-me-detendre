@@ -1,0 +1,171 @@
+{
+  "groups": [
+    {
+      "id": "future-tense-system",
+      "label": "将来时系统",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "futur simple expresses broad future or will-do meaning",
+          "order": 10
+        },
+        {
+          "source_species": "futur proche and futur simple overlap without a fixed cutoff",
+          "order": 20
+        },
+        {
+          "source_species": "futur simple uses a future stem plus endings",
+          "order": 30
+        },
+        {
+          "source_species": "review futur simple stems before learning futur antérieur",
+          "order": 40
+        },
+        {
+          "source_species": "future stems take future endings, not imperfect endings",
+          "order": 50
+        },
+        {
+          "source_species": "choose futur antérieur from event order when one future action finishes first",
+          "order": 100
+        },
+        {
+          "source_species": "futur antérieur adds precision and supports exam comprehension",
+          "order": 110
+        },
+        {
+          "source_species": "futur antérieur equals future auxiliary plus past participle",
+          "order": 120
+        },
+        {
+          "source_species": "dès que and aussitôt que trigger ordered future clauses",
+          "order": 130
+        },
+        {
+          "source_species": "memorize future-sequence triggers and drill representative forms",
+          "order": 140
+        },
+        {
+          "source_species": "future auxiliary marks futurity and the participle marks completion",
+          "order": 150
+        },
+        {
+          "source_species": "do not call futur anterieur passe simple",
+          "order": 160
+        },
+        {
+          "source_species": "partir takes etre in futur anterieur",
+          "order": 170
+        },
+        {
+          "source_species": "use a will-have-done mnemonic without calling futur anterieur a past tense",
+          "order": 200
+        },
+        {
+          "source_species": "correct futur antérieur exercises in two passes",
+          "order": 210
+        },
+        {
+          "source_species": "memorize irregular future stems and past participles by repeated retrieval",
+          "order": 220
+        },
+        {
+          "source_species": "spell ont correctly and keep required compound-tense agreement",
+          "order": 230
+        },
+        {
+          "source_species": "il faut plus infinitive with il faudra as the future form",
+          "order": 240
+        },
+        {
+          "source_species": "review futur simple stems, past participles, and basic vocabulary after class",
+          "order": 250
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "future-voudrai",
+          "order": 60,
+          "front": "Demain, je ___ partir plus tôt.（vouloir，futur simple）",
+          "back": "明确的未来计划用 **futur simple**：将来词根 **voudr-** 加 je 的词尾 **-ai**，得到 **voudrai**。",
+          "answer": "voudrai",
+          "french_items": [
+            "voudrai",
+            "voudr- + -ai"
+          ],
+          "evidence_refs": [
+            "L22.pass4-correction-error.jsonl:18"
+          ]
+        },
+        {
+          "id": "conditional-voudrais",
+          "order": 70,
+          "front": "À ta place, je ___ partir plus tôt.（vouloir，conditionnel présent）",
+          "back": "假设性的建议用 **conditionnel présent**：将来词根 **voudr-** 加 imparfait 系列词尾 **-ais**，得到 **voudrais**。",
+          "answer": "voudrais",
+          "french_items": [
+            "voudrais",
+            "voudr- + -ais"
+          ],
+          "evidence_refs": [
+            "L22.pass4-correction-error.jsonl:18"
+          ]
+        },
+        {
+          "id": "future-finirons",
+          "order": 80,
+          "front": "Demain, nous ___ ce travail.（finir，futur simple）",
+          "back": "真实的未来动作使用 **futur simple**：finir + **-ons** → **finirons**。",
+          "answer": "finirons",
+          "french_items": [
+            "finirons",
+            "finir- + -ons"
+          ],
+          "evidence_refs": [
+            "L22.pass9-tense-morphology-form.jsonl:8"
+          ]
+        },
+        {
+          "id": "conditional-finirions",
+          "order": 90,
+          "front": "Avec plus de temps, nous ___ ce travail.（finir，conditionnel présent）",
+          "back": "假设条件下的结果使用 **conditionnel présent**：finir + imparfait 系列词尾 **-ions** → **finirions**。",
+          "answer": "finirions",
+          "french_items": [
+            "finirions",
+            "finir- + -ions"
+          ],
+          "evidence_refs": [
+            "L22.pass9-tense-morphology-form.jsonl:8"
+          ]
+        },
+        {
+          "id": "future-anterior-aura-fini",
+          "order": 180,
+          "front": "Quand il ___ son travail, il ira se promener.（finir，futur antérieur）",
+          "back": "先完成工作，再去散步：先发生的未来动作使用 **futur antérieur**，即 **aura fini**。",
+          "answer": "aura fini",
+          "french_items": [
+            "aura fini"
+          ],
+          "evidence_refs": [
+            "L22.pass10-example-to-rule.jsonl:19"
+          ]
+        },
+        {
+          "id": "future-anterior-auront-trouve",
+          "order": 190,
+          "front": "Quand ils ___ un travail, ils s'installeront à Paris.（trouver，futur antérieur）",
+          "back": "先找到工作，再在巴黎定居：先发生的动作写成 **auront trouvé**，后发生的动作使用 futur simple。",
+          "answer": "auront trouvé",
+          "french_items": [
+            "auront trouvé"
+          ],
+          "evidence_refs": [
+            "L22.pass10-example-to-rule.jsonl:19"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -963,6 +963,818 @@
       "items": [
         {
           "type": "checkpoint",
+          "id": "L22:species:futur-simple-expresses-broad-future-or-will-do-meaning",
+          "front": "简单将来时最基本表达什么时间意义？与 futur proche 的形式差别是什么？",
+          "back": "**futur simple** 表达宽泛的未来、“will do”。它直接在动词词根上加将来词尾，不使用 aller + infinitif。",
+          "answer": null,
+          "source_species": "futur simple expresses broad future or will-do meaning",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "futur_simple",
+            "A2"
+          ],
+          "french_items": [
+            "futur simple"
+          ],
+          "evidence_refs": [
+            "L22.pass8-teacher-action-evidence.jsonl:22"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:futur-proche-and-futur-simple-overlap-without-a-fixed-cutoff",
+          "front": "futur proche 和 futur simple 能否按“三天内/一个月后”硬分？应该怎样理解？",
+          "back": "不能设固定天数。**aller + infinitif** 更像 be going to，常带眼前计划感；**futur simple** 是较宽泛的未来表达。两者有重叠，选择还受视角和语感影响。",
+          "answer": null,
+          "source_species": "futur proche and futur simple overlap without a fixed cutoff",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "futur_proche",
+            "futur_simple",
+            "neutral"
+          ],
+          "french_items": [
+            "futur proche",
+            "aller + infinitif",
+            "futur simple"
+          ],
+          "evidence_refs": [
+            "L22.pass11-reverse-generalist.jsonl:22",
+            "L22.pass3-generalist.jsonl:30",
+            "L22.pass2-grammar-structure.jsonl:17",
+            "L22.pass8-teacher-action-evidence.jsonl:23",
+            "L22.pass9-tense-morphology-form.jsonl:4",
+            "L22.pass11-reverse-generalist.jsonl:23"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:futur-simple-uses-a-future-stem-plus-endings",
+          "front": "vouloir 的简单将来时：je ___（填完整形式）",
+          "back": "简单将来时 = 将来词根 + 词尾。vouloir 的词根是 **voudr-**，je 的词尾是 -ai，所以是 je voudrai。",
+          "answer": "voudrai",
+          "source_species": "futur simple uses a future stem plus endings",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "conjugation",
+            "core",
+            "futur_simple",
+            "neutral"
+          ],
+          "french_items": [
+            "futur simple",
+            "infinitif",
+            "terminaisons du futur simple",
+            "savoir",
+            "vouloir"
+          ],
+          "evidence_refs": [
+            "L22.pass9-tense-morphology-form.jsonl:3",
+            "L22.pass2-grammar-structure.jsonl:16",
+            "L22.pass3-generalist.jsonl:29"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:review-futur-simple-stems-before-learning-futur-ant-rieur",
+          "front": "为什么学 futur antérieur 前必须先复习 futur simple 的词根？",
+          "back": "先将来时把助动词 avoir/être 放在简单将来时；如果 aur-/ser- 等将来词根不稳，新复合时态会从底层出错。先补前置知识，再叠新结构。",
+          "answer": null,
+          "source_species": "review futur simple stems before learning futur antérieur",
+          "primary_class": "strategy",
+          "tags": [
+            "A2",
+            "core",
+            "memory_hook"
+          ],
+          "french_items": [
+            "futur simple",
+            "savoir : saur-",
+            "vouloir : voudr-"
+          ],
+          "evidence_refs": [
+            "L22.pass6-strategy-production.jsonl:13"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:future-stems-take-future-endings-not-imperfect-endings",
+          "front": "为什么“将来词根 + 未完成过去时词尾”会把目标时态变错？",
+          "back": "简单将来时必须接自己的词尾。将来词根若接 imparfait 词尾，会形成 conditionnel 一类形式。要把**词根**和**词尾系统**成套检查。",
+          "answer": null,
+          "source_species": "future stems take future endings, not imperfect endings",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "conditionnel",
+            "conjugation",
+            "core",
+            "futur_simple",
+            "teacher_corrected_error",
+            "written"
+          ],
+          "french_items": [
+            "futur simple",
+            "conditionnel",
+            "imparfait",
+            "simple futur"
+          ],
+          "evidence_refs": [
+            "L22.pass10-example-to-rule.jsonl:22",
+            "L22.pass11-reverse-generalist.jsonl:29",
+            "L22.pass3-generalist.jsonl:34",
+            "L22.pass4-correction-error.jsonl:18",
+            "L22.pass8-teacher-action-evidence.jsonl:28",
+            "L22.pass9-tense-morphology-form.jsonl:8",
+            "L22.pass2-grammar-structure.jsonl:21"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:future-voudrai",
+          "front": "Demain, je ___ partir plus tôt.（vouloir，futur simple）",
+          "back": "明确的未来计划用 **futur simple**：将来词根 **voudr-** 加 je 的词尾 **-ai**，得到 **voudrai**。",
+          "answer": "voudrai",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "voudrai",
+            "voudr- + -ai"
+          ],
+          "evidence_refs": [
+            "L22.pass4-correction-error.jsonl:18"
+          ],
+          "parent_group": "future-tense-system",
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 60,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:conditional-voudrais",
+          "front": "À ta place, je ___ partir plus tôt.（vouloir，conditionnel présent）",
+          "back": "假设性的建议用 **conditionnel présent**：将来词根 **voudr-** 加 imparfait 系列词尾 **-ais**，得到 **voudrais**。",
+          "answer": "voudrais",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "voudrais",
+            "voudr- + -ais"
+          ],
+          "evidence_refs": [
+            "L22.pass4-correction-error.jsonl:18"
+          ],
+          "parent_group": "future-tense-system",
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 70,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:future-finirons",
+          "front": "Demain, nous ___ ce travail.（finir，futur simple）",
+          "back": "真实的未来动作使用 **futur simple**：finir + **-ons** → **finirons**。",
+          "answer": "finirons",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "finirons",
+            "finir- + -ons"
+          ],
+          "evidence_refs": [
+            "L22.pass9-tense-morphology-form.jsonl:8"
+          ],
+          "parent_group": "future-tense-system",
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 80,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:conditional-finirions",
+          "front": "Avec plus de temps, nous ___ ce travail.（finir，conditionnel présent）",
+          "back": "假设条件下的结果使用 **conditionnel présent**：finir + imparfait 系列词尾 **-ions** → **finirions**。",
+          "answer": "finirions",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "finirions",
+            "finir- + -ions"
+          ],
+          "evidence_refs": [
+            "L22.pass9-tense-morphology-form.jsonl:8"
+          ],
+          "parent_group": "future-tense-system",
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 90,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:choose-futur-ant-rieur-from-event-order-when-one-future-action-finishes-first",
+          "front": "两个动作都在未来时，怎样决定哪个用 futur antérieur？",
+          "back": "先按现实意义排顺序：**先完成**且需要强调完成的动作使用 futur antérieur；后发生的动作使用 futur simple。例如 Quand il aura fini, il sortira。",
+          "answer": null,
+          "source_species": "choose futur antérieur from event order when one future action finishes first",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "avoir_auxiliary",
+            "core",
+            "futur_simple",
+            "neutral",
+            "teacher_corrected_error",
+            "tense_system",
+            "written"
+          ],
+          "french_items": [
+            "futur antérieur",
+            "futur simple",
+            "Quand il nous aura écrit, nous irons le voir.",
+            "Quand il aura fini son travail, il ira se promener.",
+            "je prendrai",
+            "je verrai",
+            "quand",
+            "aura fini",
+            "auront trouve",
+            "Quand il aura fini son travail, il ira se promener",
+            "Quand ils auront trouve du travail, ils s'installeront a Paris"
+          ],
+          "evidence_refs": [
+            "L22.pass3-generalist.jsonl:31",
+            "L22.pass6-strategy-production.jsonl:14",
+            "L22.pass2-grammar-structure.jsonl:18",
+            "L22.pass9-tense-morphology-form.jsonl:5",
+            "L22.pass8-teacher-action-evidence.jsonl:24",
+            "L22.pass11-reverse-generalist.jsonl:25",
+            "L22.pass10-example-to-rule.jsonl:20",
+            "L22.pass10-example-to-rule.jsonl:23",
+            "L22.pass11-reverse-generalist.jsonl:30",
+            "L22.pass2-grammar-structure.jsonl:22",
+            "L22.pass3-generalist.jsonl:35",
+            "L22.pass4-correction-error.jsonl:19",
+            "L22.pass8-teacher-action-evidence.jsonl:29",
+            "L22.pass9-tense-morphology-form.jsonl:9",
+            "L22.pass4-correction-error.jsonl:21"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:futur-ant-rieur-adds-precision-and-supports-exam-comprehension",
+          "front": "老师说日常交流不用 futur antérieur 也能活，为什么仍值得学？",
+          "back": "它能精确标记“未来中的先完成”，并会出现在较正式表达、阅读和听力考试中。学习目标不是炫技，而是理解事件顺序和提高输入理解。",
+          "answer": null,
+          "source_species": "futur antérieur adds precision and supports exam comprehension",
+          "primary_class": "strategy",
+          "tags": [
+            "mastery",
+            "tense_system",
+            "B1",
+            "listening_keyword"
+          ],
+          "french_items": [
+            "futur antérieur"
+          ],
+          "evidence_refs": [
+            "L22.pass11-reverse-generalist.jsonl:24"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 110
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:futur-ant-rieur-equals-future-auxiliary-plus-past-participle",
+          "front": "请说出 futur antérieur 的构成公式，以及它和 passé composé 共用的规则。",
+          "back": "公式：**avoir / être 的 futur simple + participe passé**。助动词选择与过去分词配合沿用 passé composé；改变的是助动词的时态。",
+          "answer": null,
+          "source_species": "futur antérieur equals future auxiliary plus past participle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "conjugation",
+            "core",
+            "past_participle_agreement",
+            "written"
+          ],
+          "french_items": [
+            "futur antérieur",
+            "avoir",
+            "être",
+            "participe passé",
+            "passé composé",
+            "arriver",
+            "accord du participe passé"
+          ],
+          "evidence_refs": [
+            "L22.pass3-generalist.jsonl:32",
+            "L22.pass10-example-to-rule.jsonl:19",
+            "L22.pass11-reverse-generalist.jsonl:26",
+            "L22.pass2-grammar-structure.jsonl:19",
+            "L22.pass8-teacher-action-evidence.jsonl:25",
+            "L22.pass9-tense-morphology-form.jsonl:6",
+            "L22.pass11-reverse-generalist.jsonl:27",
+            "L22.pass8-teacher-action-evidence.jsonl:26",
+            "L22.pass9-tense-morphology-form.jsonl:7"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 120
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:d-s-que-and-aussit-t-que-trigger-ordered-future-clauses",
+          "front": "Dès que nous ___ à Paris, nous vous écrirons.（用 arriver 的先将来时）",
+          "back": "dès que / aussitôt que 引出先完成的未来动作：**nous serons arrivés**；后一句保持 futur simple：nous vous écrirons。",
+          "answer": "serons arrivés",
+          "source_species": "dès que and aussitôt que trigger ordered future clauses",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "core",
+            "neutral",
+            "sentence_frame",
+            "written"
+          ],
+          "french_items": [
+            "dès que",
+            "aussitôt que",
+            "Dès que nous serons arrivés à Paris, nous vous écrirons.",
+            "futur antérieur",
+            "futur simple"
+          ],
+          "evidence_refs": [
+            "L22.pass1-vocabulary-interface.jsonl:29",
+            "L22.pass3-generalist.jsonl:33",
+            "L22.pass5-low-frequency-lexical-form.jsonl:22",
+            "L22.pass11-reverse-generalist.jsonl:28",
+            "L22.pass2-grammar-structure.jsonl:20",
+            "L22.pass8-teacher-action-evidence.jsonl:27",
+            "L22.pass10-example-to-rule.jsonl:21"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 130
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:memorize-future-sequence-triggers-and-drill-representative-forms",
+          "front": "先将来时练习不应暴力刷完所有动词。老师建议优先记什么、练什么？",
+          "back": "先记 **dès que / aussitôt que / quand** 等顺序触发线索，再练少量代表形式：aura fini、auront trouvé、seras parti。用样例覆盖规则。",
+          "answer": null,
+          "source_species": "memorize future-sequence triggers and drill representative forms",
+          "primary_class": "strategy",
+          "tags": [
+            "B1",
+            "core",
+            "memory_hook",
+            "written"
+          ],
+          "french_items": [
+            "dès que",
+            "aussitôt que",
+            "Dès que nous serons arrivés à Paris, nous vous écrirons."
+          ],
+          "evidence_refs": [
+            "L22.pass6-strategy-production.jsonl:15"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 140
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:future-auxiliary-marks-futurity-and-the-participle-marks-completion",
+          "front": "先将来时中，“未来”和“完成”分别由哪一部分表达？",
+          "back": "助动词的 futur simple 表达**未来时间**，过去分词表达**动作完成**。因此不要保留原句 aller + infinitif 的表面形式，而要重建“未来助动词 + 过去分词”。",
+          "answer": null,
+          "source_species": "future auxiliary marks futurity and the participle marks completion",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "conjugation",
+            "core",
+            "futur_simple",
+            "teacher_corrected_error",
+            "written"
+          ],
+          "french_items": [
+            "Quand il nous aura écrit, nous irons le voir.",
+            "avoir / être au futur simple + participe passé",
+            "finir : fini",
+            "trouvé",
+            "aller",
+            "futur simple",
+            "aller + infinitif",
+            "futur antérieur",
+            "participe passé",
+            "auxiliaire",
+            "fini",
+            "avoir"
+          ],
+          "evidence_refs": [
+            "L22.pass3-generalist.jsonl:36",
+            "L22.pass4-correction-error.jsonl:20",
+            "L22.pass9-tense-morphology-form.jsonl:10",
+            "L22.pass11-reverse-generalist.jsonl:31",
+            "L22.pass2-grammar-structure.jsonl:23",
+            "L22.pass6-strategy-production.jsonl:17",
+            "L22.pass10-example-to-rule.jsonl:24",
+            "L22.pass9-tense-morphology-form.jsonl:11"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 150
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:do-not-call-futur-anterieur-passe-simple",
+          "front": "为什么句中出现过去分词，futur antérieur 仍不是过去时？",
+          "back": "时态由变位的助动词承载；助动词在将来时，所以整体仍在未来。过去分词只表示完成性。不要把 participe passé 误当成“整个句子是过去”。",
+          "answer": null,
+          "source_species": "do not call futur anterieur passe simple",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "core",
+            "futur_simple",
+            "same_surface_diff_meaning",
+            "teacher_corrected_error",
+            "tense_system"
+          ],
+          "french_items": [
+            "futur anterieur",
+            "passe simple",
+            "participe passe",
+            "sera parti",
+            "aura ecrit",
+            "futur antérieur",
+            "participe passé"
+          ],
+          "evidence_refs": [
+            "L22.pass8-teacher-action-evidence.jsonl:30",
+            "L22.pass3-generalist.jsonl:38",
+            "L22.pass4-correction-error.jsonl:23",
+            "L22.pass2-grammar-structure.jsonl:25",
+            "L22.pass9-tense-morphology-form.jsonl:13"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 160
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:partir-takes-etre-in-futur-anterieur",
+          "front": "Dès que tu ___, je leur téléphonerai.（partir，阳性 tu，先将来时）",
+          "back": "partir 的复合时态用 **être**：tu seras parti。若 tu 指女性，则是 seras partie。",
+          "answer": "seras parti",
+          "source_species": "partir takes etre in futur anterieur",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "B1",
+            "core",
+            "etre_auxiliary",
+            "futur_simple",
+            "teacher_corrected_error",
+            "tense_system"
+          ],
+          "french_items": [
+            "partir",
+            "sera parti",
+            "seras parti",
+            "telephonerai",
+            "Dès que tu seras parti, je leur telephonerai",
+            "être",
+            "futur antérieur"
+          ],
+          "evidence_refs": [
+            "L22.pass2-grammar-structure.jsonl:24",
+            "L22.pass3-generalist.jsonl:37",
+            "L22.pass4-correction-error.jsonl:22",
+            "L22.pass9-tense-morphology-form.jsonl:12"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 170
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:future-anterior-aura-fini",
+          "front": "Quand il ___ son travail, il ira se promener.（finir，futur antérieur）",
+          "back": "先完成工作，再去散步：先发生的未来动作使用 **futur antérieur**，即 **aura fini**。",
+          "answer": "aura fini",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "aura fini"
+          ],
+          "evidence_refs": [
+            "L22.pass10-example-to-rule.jsonl:19"
+          ],
+          "parent_group": "future-tense-system",
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:future-anterior-auront-trouve",
+          "front": "Quand ils ___ un travail, ils s'installeront à Paris.（trouver，futur antérieur）",
+          "back": "先找到工作，再在巴黎定居：先发生的动作写成 **auront trouvé**，后发生的动作使用 futur simple。",
+          "answer": "auront trouvé",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "auront trouvé"
+          ],
+          "evidence_refs": [
+            "L22.pass10-example-to-rule.jsonl:19"
+          ],
+          "parent_group": "future-tense-system",
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:use-a-will-have-done-mnemonic-without-calling-futur-anterieur-a-past-tense",
+          "front": "怎样正确使用英语 “will have done” 帮记 futur antérieur，又不把它误判成过去时？",
+          "back": "把 will 对应将来助动词，把 have done 对应完成。这个类比只帮助记“未来时点前已完成”，不能据此称它为 simple past。",
+          "answer": null,
+          "source_species": "use a will-have-done mnemonic without calling futur anterieur a past tense",
+          "primary_class": "strategy",
+          "tags": [
+            "B1",
+            "core",
+            "futur_simple",
+            "memory_hook",
+            "teacher_corrected_error",
+            "tense_system"
+          ],
+          "french_items": [
+            "Dès que tu seras parti, je leur telephonerai.",
+            "partir : parti",
+            "etre : seras",
+            "will have done",
+            "futur antérieur"
+          ],
+          "evidence_refs": [
+            "L22.pass6-strategy-production.jsonl:18",
+            "L22.pass11-reverse-generalist.jsonl:32"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 200
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:correct-futur-ant-rieur-exercises-in-two-passes",
+          "front": "批改先将来时题为什么要分“形式”和“意义”两遍？",
+          "back": "第一遍检查助动词、词根、词尾和过去分词；第二遍重读事件顺序，确认究竟哪个动作先完成。只改形式可能留下时态选择错误。",
+          "answer": null,
+          "source_species": "correct futur antérieur exercises in two passes",
+          "primary_class": "strategy",
+          "tags": [
+            "B1",
+            "core",
+            "teacher_corrected_error",
+            "written"
+          ],
+          "french_items": [
+            "Quand il nous aura écrit, nous irons le voir.",
+            "Quand il aura fini son travail, il ira se promener."
+          ],
+          "evidence_refs": [
+            "L22.pass6-strategy-production.jsonl:16"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 210
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:memorize-irregular-future-stems-and-past-participles-by-repeated-retrieval",
+          "front": "哪些先将来时基础形式不能只靠临场推导，老师要求怎样掌握？",
+          "back": "不规则将来词根和过去分词需要反复提取记忆，例如 saur-/voudr-、écrit/parti/fait。用听写和短间隔复现，比只看表格有效。",
+          "answer": null,
+          "source_species": "memorize irregular future stems and past participles by repeated retrieval",
+          "primary_class": "strategy",
+          "tags": [
+            "B1",
+            "conjugation",
+            "irregular",
+            "mastery",
+            "memory_hook",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "radicaux du futur simple",
+            "participes passes irreguliers",
+            "futur simple",
+            "participe passe",
+            "ont",
+            "participe passé",
+            "participes passés"
+          ],
+          "evidence_refs": [
+            "L22.pass3-generalist.jsonl:39",
+            "L22.pass6-strategy-production.jsonl:19",
+            "L22.pass9-tense-morphology-form.jsonl:14",
+            "L22.pass11-reverse-generalist.jsonl:33",
+            "L22.pass8-teacher-action-evidence.jsonl:31"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 220
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:spell-ont-correctly-and-keep-required-compound-tense-agreement",
+          "front": "ils 的 avoir 现在时第三人称复数：___（注意拼写）",
+          "back": "写作 **ont**，不是 on。完成复合时态后还要单独检查使用 être 或前置直接宾语时的过去分词配合。",
+          "answer": "ont",
+          "source_species": "spell ont correctly and keep required compound-tense agreement",
+          "primary_class": "pronunciation_spelling",
+          "tags": [
+            "B1",
+            "agreement",
+            "avoir_auxiliary",
+            "past_participle_agreement",
+            "spelling_pronunciation_gap",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "ont",
+            "participe passe",
+            "participes passes"
+          ],
+          "evidence_refs": [
+            "L22.pass4-correction-error.jsonl:24",
+            "L22.pass2-grammar-structure.jsonl:26"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 230
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:il-faut-plus-infinitive-with-il-faudra-as-the-future-form",
+          "front": "“将需要旅行”：il ___ voyager（把 il faut 变为简单将来时）",
+          "back": "**il faudra + infinitif** 表示将来的必要性。falloir 是无人称动词，后面的 voyager 保持不定式。",
+          "answer": "faudra",
+          "source_species": "il faut plus infinitive with il faudra as the future form",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "A2",
+            "core",
+            "conjugation",
+            "futur_simple",
+            "sentence_frame",
+            "neutral",
+            "B1",
+            "tense_system",
+            "irregular"
+          ],
+          "french_items": [
+            "il faut",
+            "il faut + infinitif",
+            "il faudra"
+          ],
+          "evidence_refs": [
+            "L22.pass3-generalist.jsonl:51",
+            "L22.pass4-correction-error.jsonl:37",
+            "L22.pass2-grammar-structure.jsonl:34",
+            "L22.pass1-vocabulary-interface.jsonl:54",
+            "L22.pass11-reverse-generalist.jsonl:50",
+            "L22.pass9-tense-morphology-form.jsonl:17",
+            "L22.pass2-grammar-structure.jsonl:42"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 240
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:species:review-futur-simple-stems-past-participles-and-basic-vocabulary-after-class",
+          "front": "L22 课后，老师点名要求优先复习哪三类基础资产？",
+          "back": "优先复习 **简单将来时词根、过去分词、基础词汇**，再完成布置的练习。它们是后续 futur antérieur 与阅读造句的底座。",
+          "answer": null,
+          "source_species": "review futur simple stems, past participles, and basic vocabulary after class",
+          "primary_class": "strategy",
+          "tags": [
+            "A2",
+            "core",
+            "memory_hook"
+          ],
+          "french_items": [
+            "radicaux du futur simple",
+            "participes passés",
+            "vocabulaire de base",
+            "futur simple",
+            "participe passé"
+          ],
+          "evidence_refs": [
+            "L22.pass11-reverse-generalist.jsonl:56",
+            "L22.pass6-strategy-production.jsonl:30",
+            "L22.pass8-teacher-action-evidence.jsonl:53"
+          ],
+          "curated": true,
+          "study_group": "future-tense-system",
+          "study_group_label": "将来时系统",
+          "study_group_order": 10,
+          "study_order": 250
+        },
+        {
+          "type": "checkpoint",
           "id": "L22:species:dictation-review-of-avec-plaisir-certes-and-volontiers",
           "front": "听写复盘：avec plaisir、certes、volontiers 分别怎样拼写、怎样理解？",
           "back": "- **avec plaisir**：乐意；很愿意\n- **certes**：确实、当然、固然\n- **volontiers**：乐意地、欣然\n\n三项都要整块听写，不要用英语拼写直觉反推。",
@@ -2250,532 +3062,6 @@
         },
         {
           "type": "checkpoint",
-          "id": "L22:species:futur-simple-uses-a-future-stem-plus-endings",
-          "front": "vouloir 的简单将来时：je ___（填完整形式）",
-          "back": "简单将来时 = 将来词根 + 词尾。vouloir 的词根是 **voudr-**，je 的词尾是 -ai，所以是 je voudrai。",
-          "answer": "voudrai",
-          "source_species": "futur simple uses a future stem plus endings",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "A2",
-            "conjugation",
-            "core",
-            "futur_simple",
-            "neutral"
-          ],
-          "french_items": [
-            "futur simple",
-            "infinitif",
-            "terminaisons du futur simple",
-            "savoir",
-            "vouloir"
-          ],
-          "evidence_refs": [
-            "L22.pass9-tense-morphology-form.jsonl:3",
-            "L22.pass2-grammar-structure.jsonl:16",
-            "L22.pass3-generalist.jsonl:29"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:review-futur-simple-stems-before-learning-futur-ant-rieur",
-          "front": "为什么学 futur antérieur 前必须先复习 futur simple 的词根？",
-          "back": "先将来时把助动词 avoir/être 放在简单将来时；如果 aur-/ser- 等将来词根不稳，新复合时态会从底层出错。先补前置知识，再叠新结构。",
-          "answer": null,
-          "source_species": "review futur simple stems before learning futur antérieur",
-          "primary_class": "strategy",
-          "tags": [
-            "A2",
-            "core",
-            "memory_hook"
-          ],
-          "french_items": [
-            "futur simple",
-            "savoir : saur-",
-            "vouloir : voudr-"
-          ],
-          "evidence_refs": [
-            "L22.pass6-strategy-production.jsonl:13"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:futur-proche-and-futur-simple-overlap-without-a-fixed-cutoff",
-          "front": "futur proche 和 futur simple 能否按“三天内/一个月后”硬分？应该怎样理解？",
-          "back": "不能设固定天数。**aller + infinitif** 更像 be going to，常带眼前计划感；**futur simple** 是较宽泛的未来表达。两者有重叠，选择还受视角和语感影响。",
-          "answer": null,
-          "source_species": "futur proche and futur simple overlap without a fixed cutoff",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "A2",
-            "core",
-            "futur_proche",
-            "futur_simple",
-            "neutral"
-          ],
-          "french_items": [
-            "futur proche",
-            "aller + infinitif",
-            "futur simple"
-          ],
-          "evidence_refs": [
-            "L22.pass11-reverse-generalist.jsonl:22",
-            "L22.pass3-generalist.jsonl:30",
-            "L22.pass2-grammar-structure.jsonl:17",
-            "L22.pass8-teacher-action-evidence.jsonl:23",
-            "L22.pass9-tense-morphology-form.jsonl:4",
-            "L22.pass11-reverse-generalist.jsonl:23"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:futur-simple-expresses-broad-future-or-will-do-meaning",
-          "front": "简单将来时最基本表达什么时间意义？与 futur proche 的形式差别是什么？",
-          "back": "**futur simple** 表达宽泛的未来、“will do”。它直接在动词词根上加将来词尾，不使用 aller + infinitif。",
-          "answer": null,
-          "source_species": "futur simple expresses broad future or will-do meaning",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "core",
-            "tense_system",
-            "futur_simple",
-            "A2"
-          ],
-          "french_items": [
-            "futur simple"
-          ],
-          "evidence_refs": [
-            "L22.pass8-teacher-action-evidence.jsonl:22"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:choose-futur-ant-rieur-from-event-order-when-one-future-action-finishes-first",
-          "front": "两个动作都在未来时，怎样决定哪个用 futur antérieur？",
-          "back": "先按现实意义排顺序：**先完成**且需要强调完成的动作使用 futur antérieur；后发生的动作使用 futur simple。例如 Quand il aura fini, il sortira。",
-          "answer": null,
-          "source_species": "choose futur antérieur from event order when one future action finishes first",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "avoir_auxiliary",
-            "core",
-            "futur_simple",
-            "neutral",
-            "teacher_corrected_error",
-            "tense_system",
-            "written"
-          ],
-          "french_items": [
-            "futur antérieur",
-            "futur simple",
-            "Quand il nous aura écrit, nous irons le voir.",
-            "Quand il aura fini son travail, il ira se promener.",
-            "je prendrai",
-            "je verrai",
-            "quand",
-            "aura fini",
-            "auront trouve",
-            "Quand il aura fini son travail, il ira se promener",
-            "Quand ils auront trouve du travail, ils s'installeront a Paris"
-          ],
-          "evidence_refs": [
-            "L22.pass3-generalist.jsonl:31",
-            "L22.pass6-strategy-production.jsonl:14",
-            "L22.pass2-grammar-structure.jsonl:18",
-            "L22.pass9-tense-morphology-form.jsonl:5",
-            "L22.pass8-teacher-action-evidence.jsonl:24",
-            "L22.pass11-reverse-generalist.jsonl:25",
-            "L22.pass10-example-to-rule.jsonl:20",
-            "L22.pass10-example-to-rule.jsonl:23",
-            "L22.pass11-reverse-generalist.jsonl:30",
-            "L22.pass2-grammar-structure.jsonl:22",
-            "L22.pass3-generalist.jsonl:35",
-            "L22.pass4-correction-error.jsonl:19",
-            "L22.pass8-teacher-action-evidence.jsonl:29",
-            "L22.pass9-tense-morphology-form.jsonl:9",
-            "L22.pass4-correction-error.jsonl:21"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:futur-ant-rieur-adds-precision-and-supports-exam-comprehension",
-          "front": "老师说日常交流不用 futur antérieur 也能活，为什么仍值得学？",
-          "back": "它能精确标记“未来中的先完成”，并会出现在较正式表达、阅读和听力考试中。学习目标不是炫技，而是理解事件顺序和提高输入理解。",
-          "answer": null,
-          "source_species": "futur antérieur adds precision and supports exam comprehension",
-          "primary_class": "strategy",
-          "tags": [
-            "mastery",
-            "tense_system",
-            "B1",
-            "listening_keyword"
-          ],
-          "french_items": [
-            "futur antérieur"
-          ],
-          "evidence_refs": [
-            "L22.pass11-reverse-generalist.jsonl:24"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:futur-ant-rieur-equals-future-auxiliary-plus-past-participle",
-          "front": "请说出 futur antérieur 的构成公式，以及它和 passé composé 共用的规则。",
-          "back": "公式：**avoir / être 的 futur simple + participe passé**。助动词选择与过去分词配合沿用 passé composé；改变的是助动词的时态。",
-          "answer": null,
-          "source_species": "futur antérieur equals future auxiliary plus past participle",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "conjugation",
-            "core",
-            "past_participle_agreement",
-            "written"
-          ],
-          "french_items": [
-            "futur antérieur",
-            "avoir",
-            "être",
-            "participe passé",
-            "passé composé",
-            "arriver",
-            "accord du participe passé"
-          ],
-          "evidence_refs": [
-            "L22.pass3-generalist.jsonl:32",
-            "L22.pass10-example-to-rule.jsonl:19",
-            "L22.pass11-reverse-generalist.jsonl:26",
-            "L22.pass2-grammar-structure.jsonl:19",
-            "L22.pass8-teacher-action-evidence.jsonl:25",
-            "L22.pass9-tense-morphology-form.jsonl:6",
-            "L22.pass11-reverse-generalist.jsonl:27",
-            "L22.pass8-teacher-action-evidence.jsonl:26",
-            "L22.pass9-tense-morphology-form.jsonl:7"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:d-s-que-and-aussit-t-que-trigger-ordered-future-clauses",
-          "front": "Dès que nous ___ à Paris, nous vous écrirons.（用 arriver 的先将来时）",
-          "back": "dès que / aussitôt que 引出先完成的未来动作：**nous serons arrivés**；后一句保持 futur simple：nous vous écrirons。",
-          "answer": "serons arrivés",
-          "source_species": "dès que and aussitôt que trigger ordered future clauses",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "core",
-            "neutral",
-            "sentence_frame",
-            "written"
-          ],
-          "french_items": [
-            "dès que",
-            "aussitôt que",
-            "Dès que nous serons arrivés à Paris, nous vous écrirons.",
-            "futur antérieur",
-            "futur simple"
-          ],
-          "evidence_refs": [
-            "L22.pass1-vocabulary-interface.jsonl:29",
-            "L22.pass3-generalist.jsonl:33",
-            "L22.pass5-low-frequency-lexical-form.jsonl:22",
-            "L22.pass11-reverse-generalist.jsonl:28",
-            "L22.pass2-grammar-structure.jsonl:20",
-            "L22.pass8-teacher-action-evidence.jsonl:27",
-            "L22.pass10-example-to-rule.jsonl:21"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:memorize-future-sequence-triggers-and-drill-representative-forms",
-          "front": "先将来时练习不应暴力刷完所有动词。老师建议优先记什么、练什么？",
-          "back": "先记 **dès que / aussitôt que / quand** 等顺序触发线索，再练少量代表形式：aura fini、auront trouvé、seras parti。用样例覆盖规则。",
-          "answer": null,
-          "source_species": "memorize future-sequence triggers and drill representative forms",
-          "primary_class": "strategy",
-          "tags": [
-            "B1",
-            "core",
-            "memory_hook",
-            "written"
-          ],
-          "french_items": [
-            "dès que",
-            "aussitôt que",
-            "Dès que nous serons arrivés à Paris, nous vous écrirons."
-          ],
-          "evidence_refs": [
-            "L22.pass6-strategy-production.jsonl:15"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:correct-futur-ant-rieur-exercises-in-two-passes",
-          "front": "批改先将来时题为什么要分“形式”和“意义”两遍？",
-          "back": "第一遍检查助动词、词根、词尾和过去分词；第二遍重读事件顺序，确认究竟哪个动作先完成。只改形式可能留下时态选择错误。",
-          "answer": null,
-          "source_species": "correct futur antérieur exercises in two passes",
-          "primary_class": "strategy",
-          "tags": [
-            "B1",
-            "core",
-            "teacher_corrected_error",
-            "written"
-          ],
-          "french_items": [
-            "Quand il nous aura écrit, nous irons le voir.",
-            "Quand il aura fini son travail, il ira se promener."
-          ],
-          "evidence_refs": [
-            "L22.pass6-strategy-production.jsonl:16"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:future-stems-take-future-endings-not-imperfect-endings",
-          "front": "为什么“将来词根 + 未完成过去时词尾”会把目标时态变错？",
-          "back": "简单将来时必须接自己的词尾。将来词根若接 imparfait 词尾，会形成 conditionnel 一类形式。要把**词根**和**词尾系统**成套检查。",
-          "answer": null,
-          "source_species": "future stems take future endings, not imperfect endings",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "conditionnel",
-            "conjugation",
-            "core",
-            "futur_simple",
-            "teacher_corrected_error",
-            "written"
-          ],
-          "french_items": [
-            "futur simple",
-            "conditionnel",
-            "imparfait",
-            "simple futur"
-          ],
-          "evidence_refs": [
-            "L22.pass10-example-to-rule.jsonl:22",
-            "L22.pass11-reverse-generalist.jsonl:29",
-            "L22.pass3-generalist.jsonl:34",
-            "L22.pass4-correction-error.jsonl:18",
-            "L22.pass8-teacher-action-evidence.jsonl:28",
-            "L22.pass9-tense-morphology-form.jsonl:8",
-            "L22.pass2-grammar-structure.jsonl:21"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:future-auxiliary-marks-futurity-and-the-participle-marks-completion",
-          "front": "先将来时中，“未来”和“完成”分别由哪一部分表达？",
-          "back": "助动词的 futur simple 表达**未来时间**，过去分词表达**动作完成**。因此不要保留原句 aller + infinitif 的表面形式，而要重建“未来助动词 + 过去分词”。",
-          "answer": null,
-          "source_species": "future auxiliary marks futurity and the participle marks completion",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "conjugation",
-            "core",
-            "futur_simple",
-            "teacher_corrected_error",
-            "written"
-          ],
-          "french_items": [
-            "Quand il nous aura écrit, nous irons le voir.",
-            "avoir / être au futur simple + participe passé",
-            "finir : fini",
-            "trouvé",
-            "aller",
-            "futur simple",
-            "aller + infinitif",
-            "futur antérieur",
-            "participe passé",
-            "auxiliaire",
-            "fini",
-            "avoir"
-          ],
-          "evidence_refs": [
-            "L22.pass3-generalist.jsonl:36",
-            "L22.pass4-correction-error.jsonl:20",
-            "L22.pass9-tense-morphology-form.jsonl:10",
-            "L22.pass11-reverse-generalist.jsonl:31",
-            "L22.pass2-grammar-structure.jsonl:23",
-            "L22.pass6-strategy-production.jsonl:17",
-            "L22.pass10-example-to-rule.jsonl:24",
-            "L22.pass9-tense-morphology-form.jsonl:11"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:do-not-call-futur-anterieur-passe-simple",
-          "front": "为什么句中出现过去分词，futur antérieur 仍不是过去时？",
-          "back": "时态由变位的助动词承载；助动词在将来时，所以整体仍在未来。过去分词只表示完成性。不要把 participe passé 误当成“整个句子是过去”。",
-          "answer": null,
-          "source_species": "do not call futur anterieur passe simple",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "core",
-            "futur_simple",
-            "same_surface_diff_meaning",
-            "teacher_corrected_error",
-            "tense_system"
-          ],
-          "french_items": [
-            "futur anterieur",
-            "passe simple",
-            "participe passe",
-            "sera parti",
-            "aura ecrit",
-            "futur antérieur",
-            "participe passé"
-          ],
-          "evidence_refs": [
-            "L22.pass8-teacher-action-evidence.jsonl:30",
-            "L22.pass3-generalist.jsonl:38",
-            "L22.pass4-correction-error.jsonl:23",
-            "L22.pass2-grammar-structure.jsonl:25",
-            "L22.pass9-tense-morphology-form.jsonl:13"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:partir-takes-etre-in-futur-anterieur",
-          "front": "Dès que tu ___, je leur téléphonerai.（partir，阳性 tu，先将来时）",
-          "back": "partir 的复合时态用 **être**：tu seras parti。若 tu 指女性，则是 seras partie。",
-          "answer": "seras parti",
-          "source_species": "partir takes etre in futur anterieur",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "B1",
-            "core",
-            "etre_auxiliary",
-            "futur_simple",
-            "teacher_corrected_error",
-            "tense_system"
-          ],
-          "french_items": [
-            "partir",
-            "sera parti",
-            "seras parti",
-            "telephonerai",
-            "Dès que tu seras parti, je leur telephonerai",
-            "être",
-            "futur antérieur"
-          ],
-          "evidence_refs": [
-            "L22.pass2-grammar-structure.jsonl:24",
-            "L22.pass3-generalist.jsonl:37",
-            "L22.pass4-correction-error.jsonl:22",
-            "L22.pass9-tense-morphology-form.jsonl:12"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:use-a-will-have-done-mnemonic-without-calling-futur-anterieur-a-past-tense",
-          "front": "怎样正确使用英语 “will have done” 帮记 futur antérieur，又不把它误判成过去时？",
-          "back": "把 will 对应将来助动词，把 have done 对应完成。这个类比只帮助记“未来时点前已完成”，不能据此称它为 simple past。",
-          "answer": null,
-          "source_species": "use a will-have-done mnemonic without calling futur anterieur a past tense",
-          "primary_class": "strategy",
-          "tags": [
-            "B1",
-            "core",
-            "futur_simple",
-            "memory_hook",
-            "teacher_corrected_error",
-            "tense_system"
-          ],
-          "french_items": [
-            "Dès que tu seras parti, je leur telephonerai.",
-            "partir : parti",
-            "etre : seras",
-            "will have done",
-            "futur antérieur"
-          ],
-          "evidence_refs": [
-            "L22.pass6-strategy-production.jsonl:18",
-            "L22.pass11-reverse-generalist.jsonl:32"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:memorize-irregular-future-stems-and-past-participles-by-repeated-retrieval",
-          "front": "哪些先将来时基础形式不能只靠临场推导，老师要求怎样掌握？",
-          "back": "不规则将来词根和过去分词需要反复提取记忆，例如 saur-/voudr-、écrit/parti/fait。用听写和短间隔复现，比只看表格有效。",
-          "answer": null,
-          "source_species": "memorize irregular future stems and past participles by repeated retrieval",
-          "primary_class": "strategy",
-          "tags": [
-            "B1",
-            "conjugation",
-            "irregular",
-            "mastery",
-            "memory_hook",
-            "teacher_corrected_error"
-          ],
-          "french_items": [
-            "radicaux du futur simple",
-            "participes passes irreguliers",
-            "futur simple",
-            "participe passe",
-            "ont",
-            "participe passé",
-            "participes passés"
-          ],
-          "evidence_refs": [
-            "L22.pass3-generalist.jsonl:39",
-            "L22.pass6-strategy-production.jsonl:19",
-            "L22.pass9-tense-morphology-form.jsonl:14",
-            "L22.pass11-reverse-generalist.jsonl:33",
-            "L22.pass8-teacher-action-evidence.jsonl:31"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:spell-ont-correctly-and-keep-required-compound-tense-agreement",
-          "front": "ils 的 avoir 现在时第三人称复数：___（注意拼写）",
-          "back": "写作 **ont**，不是 on。完成复合时态后还要单独检查使用 être 或前置直接宾语时的过去分词配合。",
-          "answer": "ont",
-          "source_species": "spell ont correctly and keep required compound-tense agreement",
-          "primary_class": "pronunciation_spelling",
-          "tags": [
-            "B1",
-            "agreement",
-            "avoir_auxiliary",
-            "past_participle_agreement",
-            "spelling_pronunciation_gap",
-            "teacher_corrected_error"
-          ],
-          "french_items": [
-            "ont",
-            "participe passe",
-            "participes passes"
-          ],
-          "evidence_refs": [
-            "L22.pass4-correction-error.jsonl:24",
-            "L22.pass2-grammar-structure.jsonl:26"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
           "id": "L22:species:recognize-est-il-as-inversion-rather-than-est-ce-que",
           "front": "Paris ___ toute la France ?（用正式倒装“是……吗”）",
           "back": "正式疑问可用 **est-il** 倒装，不能把它读成 est-ce que。原结构是 il est → est-il。",
@@ -3289,41 +3575,6 @@
           ],
           "evidence_refs": [
             "L22.pass5-low-frequency-lexical-form.jsonl:30"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:il-faut-plus-infinitive-with-il-faudra-as-the-future-form",
-          "front": "“将需要旅行”：il ___ voyager（把 il faut 变为简单将来时）",
-          "back": "**il faudra + infinitif** 表示将来的必要性。falloir 是无人称动词，后面的 voyager 保持不定式。",
-          "answer": "faudra",
-          "source_species": "il faut plus infinitive with il faudra as the future form",
-          "primary_class": "grammar_rule",
-          "tags": [
-            "A2",
-            "core",
-            "conjugation",
-            "futur_simple",
-            "sentence_frame",
-            "neutral",
-            "B1",
-            "tense_system",
-            "irregular"
-          ],
-          "french_items": [
-            "il faut",
-            "il faut + infinitif",
-            "il faudra"
-          ],
-          "evidence_refs": [
-            "L22.pass3-generalist.jsonl:51",
-            "L22.pass4-correction-error.jsonl:37",
-            "L22.pass2-grammar-structure.jsonl:34",
-            "L22.pass1-vocabulary-interface.jsonl:54",
-            "L22.pass11-reverse-generalist.jsonl:50",
-            "L22.pass9-tense-morphology-form.jsonl:17",
-            "L22.pass2-grammar-structure.jsonl:42"
           ],
           "curated": true
         },
@@ -3936,33 +4187,6 @@
           ],
           "evidence_refs": [
             "L22.pass1-vocabulary-interface.jsonl:59"
-          ],
-          "curated": true
-        },
-        {
-          "type": "checkpoint",
-          "id": "L22:species:review-futur-simple-stems-past-participles-and-basic-vocabulary-after-class",
-          "front": "L22 课后，老师点名要求优先复习哪三类基础资产？",
-          "back": "优先复习 **简单将来时词根、过去分词、基础词汇**，再完成布置的练习。它们是后续 futur antérieur 与阅读造句的底座。",
-          "answer": null,
-          "source_species": "review futur simple stems, past participles, and basic vocabulary after class",
-          "primary_class": "strategy",
-          "tags": [
-            "A2",
-            "core",
-            "memory_hook"
-          ],
-          "french_items": [
-            "radicaux du futur simple",
-            "participes passés",
-            "vocabulaire de base",
-            "futur simple",
-            "participe passé"
-          ],
-          "evidence_refs": [
-            "L22.pass11-reverse-generalist.jsonl:56",
-            "L22.pass6-strategy-production.jsonl:30",
-            "L22.pass8-teacher-action-evidence.jsonl:53"
           ],
           "curated": true
         }
