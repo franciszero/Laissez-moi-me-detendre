@@ -275,8 +275,8 @@
     "answer": null
   },
   "future stems take future endings, not imperfect endings": {
-    "front": "为什么“将来词根 + 未完成过去时词尾”会把目标时态变错？",
-    "back": "简单将来时必须接自己的词尾。将来词根若接 imparfait 词尾，会形成 conditionnel 一类形式。要把**词根**和**词尾系统**成套检查。",
+    "front": "老师指出你把过去时和将来时变位混在一起。为什么“将来词根 + imparfait 词尾”不是 futur simple？",
+    "back": "核心区别：**conditionnel présent = futur 的词根 + imparfait 的词尾**。例如 parler + -ais → parlerais；futur simple 的 je 词尾是 -ai → parlerai。先认词根，再认词尾，不能只看开头。",
     "answer": null
   },
   "future auxiliary marks futurity and the participle marks completion": {
@@ -300,8 +300,8 @@
     "answer": null
   },
   "memorize irregular future stems and past participles by repeated retrieval": {
-    "front": "哪些先将来时基础形式不能只靠临场推导，老师要求怎样掌握？",
-    "back": "不规则将来词根和过去分词需要反复提取记忆，例如 saur-/voudr-、écrit/parti/fait。用听写和短间隔复现，比只看表格有效。",
+    "front": "L22 时态变位系统：九个高频不规则将来词根分别是什么？",
+    "back": "九个词根要逐个提取：avoir aur-；être ser-；aller ir-；faire fer-；devoir devr-；savoir saur-；venir viendr-；voir verr-；vouloir voudr-。它们同时服务 futur simple、futur antérieur 的助动词变位和 conditionnel；后面的机判卡逐个验收。",
     "answer": null
   },
   "spell ont correctly and keep required compound-tense agreement": {

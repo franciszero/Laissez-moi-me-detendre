@@ -2,168 +2,390 @@
   "groups": [
     {
       "id": "future-tense-system",
-      "label": "将来时系统",
+      "label": "时态变位系统",
       "order": 10,
       "species": [
         {
-          "source_species": "futur simple expresses broad future or will-do meaning",
+          "source_species": "futur simple uses a future stem plus endings",
           "order": 10
         },
         {
-          "source_species": "futur proche and futur simple overlap without a fixed cutoff",
+          "source_species": "futur antérieur equals future auxiliary plus past participle",
           "order": 20
         },
         {
-          "source_species": "futur simple uses a future stem plus endings",
+          "source_species": "future auxiliary marks futurity and the participle marks completion",
           "order": 30
         },
         {
-          "source_species": "review futur simple stems before learning futur antérieur",
+          "source_species": "partir takes etre in futur anterieur",
           "order": 40
         },
         {
-          "source_species": "future stems take future endings, not imperfect endings",
-          "order": 50
-        },
-        {
-          "source_species": "choose futur antérieur from event order when one future action finishes first",
-          "order": 100
-        },
-        {
-          "source_species": "futur antérieur adds precision and supports exam comprehension",
-          "order": 110
-        },
-        {
-          "source_species": "futur antérieur equals future auxiliary plus past participle",
-          "order": 120
-        },
-        {
-          "source_species": "dès que and aussitôt que trigger ordered future clauses",
-          "order": 130
-        },
-        {
-          "source_species": "memorize future-sequence triggers and drill representative forms",
-          "order": 140
-        },
-        {
-          "source_species": "future auxiliary marks futurity and the participle marks completion",
-          "order": 150
-        },
-        {
-          "source_species": "do not call futur anterieur passe simple",
-          "order": 160
-        },
-        {
-          "source_species": "partir takes etre in futur anterieur",
-          "order": 170
-        },
-        {
-          "source_species": "use a will-have-done mnemonic without calling futur anterieur a past tense",
-          "order": 200
-        },
-        {
-          "source_species": "correct futur antérieur exercises in two passes",
-          "order": 210
+          "source_species": "review futur simple stems before learning futur antérieur",
+          "order": 400
         },
         {
           "source_species": "memorize irregular future stems and past participles by repeated retrieval",
-          "order": 220
-        },
-        {
-          "source_species": "spell ont correctly and keep required compound-tense agreement",
-          "order": 230
+          "order": 410
         },
         {
           "source_species": "il faut plus infinitive with il faudra as the future form",
-          "order": 240
+          "order": 510
+        },
+        {
+          "source_species": "future stems take future endings, not imperfect endings",
+          "order": 600
+        },
+        {
+          "source_species": "do not call futur anterieur passe simple",
+          "order": 680
+        },
+        {
+          "source_species": "spell ont correctly and keep required compound-tense agreement",
+          "order": 690
+        },
+        {
+          "source_species": "futur simple expresses broad future or will-do meaning",
+          "order": 800
+        },
+        {
+          "source_species": "futur proche and futur simple overlap without a fixed cutoff",
+          "order": 810
+        },
+        {
+          "source_species": "choose futur antérieur from event order when one future action finishes first",
+          "order": 820
+        },
+        {
+          "source_species": "futur antérieur adds precision and supports exam comprehension",
+          "order": 830
+        },
+        {
+          "source_species": "dès que and aussitôt que trigger ordered future clauses",
+          "order": 840
+        },
+        {
+          "source_species": "memorize future-sequence triggers and drill representative forms",
+          "order": 850
+        },
+        {
+          "source_species": "use a will-have-done mnemonic without calling futur anterieur a past tense",
+          "order": 860
+        },
+        {
+          "source_species": "correct futur antérieur exercises in two passes",
+          "order": 870
         },
         {
           "source_species": "review futur simple stems, past participles, and basic vocabulary after class",
-          "order": 250
+          "order": 880
         }
       ],
       "practice_cards": [
         {
-          "id": "future-voudrai",
-          "order": 60,
-          "front": "Demain, je ___ partir plus tôt.（vouloir，futur simple）",
-          "back": "明确的未来计划用 **futur simple**：将来词根 **voudr-** 加 je 的词尾 **-ai**，得到 **voudrai**。",
-          "answer": "voudrai",
-          "french_items": [
-            "voudrai",
-            "voudr- + -ai"
-          ],
-          "evidence_refs": [
-            "L22.pass4-correction-error.jsonl:18"
-          ]
+          "id": "form-parler-passe-compose",
+          "order": 100,
+          "front": "构成 01/22 · parler，passé composé，je → ___",
+          "back": "passé composé = avoir 现在时 + 过去分词：**j'ai parlé**。这里的时间锚在过去。",
+          "answer": "j'ai parlé",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         },
         {
-          "id": "conditional-voudrais",
-          "order": 70,
-          "front": "À ta place, je ___ partir plus tôt.（vouloir，conditionnel présent）",
-          "back": "假设性的建议用 **conditionnel présent**：将来词根 **voudr-** 加 imparfait 系列词尾 **-ais**，得到 **voudrais**。",
-          "answer": "voudrais",
-          "french_items": [
-            "voudrais",
-            "voudr- + -ais"
-          ],
-          "evidence_refs": [
-            "L22.pass4-correction-error.jsonl:18"
-          ]
+          "id": "form-parler-futur-anterieur",
+          "order": 110,
+          "front": "构成 02/22 · parler，futur antérieur，je → ___",
+          "back": "futur antérieur = avoir 的 futur simple + 过去分词：**j'aurai parlé**。未来助动词标时间，过去分词标完成。",
+          "answer": "j'aurai parlé",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         },
         {
-          "id": "future-finirons",
-          "order": 80,
-          "front": "Demain, nous ___ ce travail.（finir，futur simple）",
-          "back": "真实的未来动作使用 **futur simple**：finir + **-ons** → **finirons**。",
-          "answer": "finirons",
-          "french_items": [
-            "finirons",
-            "finir- + -ons"
-          ],
-          "evidence_refs": [
-            "L22.pass9-tense-morphology-form.jsonl:8"
-          ]
+          "id": "form-finir-passe-compose",
+          "order": 120,
+          "front": "构成 03/22 · finir，passé composé，je → ___",
+          "back": "avoir 现在时 + fini：**j'ai fini**。不要把 ai 换成将来的 aurai。",
+          "answer": "j'ai fini",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         },
         {
-          "id": "conditional-finirions",
-          "order": 90,
-          "front": "Avec plus de temps, nous ___ ce travail.（finir，conditionnel présent）",
-          "back": "假设条件下的结果使用 **conditionnel présent**：finir + imparfait 系列词尾 **-ions** → **finirions**。",
-          "answer": "finirions",
-          "french_items": [
-            "finirions",
-            "finir- + -ions"
-          ],
-          "evidence_refs": [
-            "L22.pass9-tense-morphology-form.jsonl:8"
-          ]
+          "id": "form-finir-imparfait",
+          "order": 130,
+          "front": "构成 04/22 · finir，imparfait，je → ___",
+          "back": "从 nous finissons 去掉 -ons 得 finiss-，再加 -ais：**je finissais**。",
+          "answer": "je finissais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         },
         {
-          "id": "future-anterior-aura-fini",
+          "id": "form-finir-futur-simple",
+          "order": 140,
+          "front": "构成 05/22 · finir，futur simple，je → ___",
+          "back": "将来词根 finir- + je 的将来词尾 -ai：**je finirai**。",
+          "answer": "je finirai",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-finir-futur-anterieur",
+          "order": 150,
+          "front": "构成 06/22 · finir，futur antérieur，je → ___",
+          "back": "avoir 的 futur simple + fini：**j'aurai fini**。它与 j'ai fini 的关键差别在助动词。",
+          "answer": "j'aurai fini",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-finir-conditionnel",
+          "order": 160,
+          "front": "构成 07/22 · finir，conditionnel présent，je → ___",
+          "back": "将来词根 finir- + imparfait 词尾 -ais：**je finirais**。",
+          "answer": "je finirais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-avoir-passe-compose",
+          "order": 170,
+          "front": "构成 08/22 · avoir，passé composé，je → ___",
+          "back": "avoir 自己的 passé composé 仍用 avoir 作助动词：**j'ai eu**。",
+          "answer": "j'ai eu",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-avoir-imparfait",
           "order": 180,
-          "front": "Quand il ___ son travail, il ira se promener.（finir，futur antérieur）",
-          "back": "先完成工作，再去散步：先发生的未来动作使用 **futur antérieur**，即 **aura fini**。",
-          "answer": "aura fini",
-          "french_items": [
-            "aura fini"
-          ],
-          "evidence_refs": [
-            "L22.pass10-example-to-rule.jsonl:19"
-          ]
+          "front": "构成 09/22 · avoir，imparfait，je → ___",
+          "back": "avoir 的 imparfait：**j'avais**。注意 -ais，不是 futur 的 -ai。",
+          "answer": "j'avais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         },
         {
-          "id": "future-anterior-auront-trouve",
+          "id": "form-avoir-futur-simple",
           "order": 190,
-          "front": "Quand ils ___ un travail, ils s'installeront à Paris.（trouver，futur antérieur）",
-          "back": "先找到工作，再在巴黎定居：先发生的动作写成 **auront trouvé**，后发生的动作使用 futur simple。",
-          "answer": "auront trouvé",
-          "french_items": [
-            "auront trouvé"
-          ],
-          "evidence_refs": [
-            "L22.pass10-example-to-rule.jsonl:19"
-          ]
+          "front": "构成 10/22 · avoir，futur simple，je → ___",
+          "back": "不规则词根 aur- + -ai：**j'aurai**。",
+          "answer": "j'aurai",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-avoir-futur-anterieur",
+          "order": 200,
+          "front": "构成 11/22 · avoir，futur antérieur，je → ___",
+          "back": "avoir 的 futur simple + eu：**j'aurai eu**。第一个 avoir 是助动词，eu 是 avoir 的过去分词。",
+          "answer": "j'aurai eu",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-avoir-conditionnel",
+          "order": 210,
+          "front": "构成 12/22 · avoir，conditionnel présent，je → ___",
+          "back": "不规则将来词根 aur- + imparfait 词尾 -ais：**j'aurais**。",
+          "answer": "j'aurais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-etre-passe-compose",
+          "order": 220,
+          "front": "构成 13/22 · être，passé composé，je → ___",
+          "back": "être 的 passé composé：**j'ai été**。助动词仍是 avoir。",
+          "answer": "j'ai été",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-etre-imparfait",
+          "order": 230,
+          "front": "构成 14/22 · être，imparfait，je → ___",
+          "back": "être 的 imparfait 是特殊词干 ét-：**j'étais**。",
+          "answer": "j'étais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-etre-futur-simple",
+          "order": 240,
+          "front": "构成 15/22 · être，futur simple，je → ___",
+          "back": "不规则词根 ser- + -ai：**je serai**。",
+          "answer": "je serai",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-etre-futur-anterieur",
+          "order": 250,
+          "front": "构成 16/22 · être，futur antérieur，je → ___",
+          "back": "avoir 的 futur simple + été：**j'aurai été**。不要误写成 je serai été。",
+          "answer": "j'aurai été",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-etre-conditionnel",
+          "order": 260,
+          "front": "构成 17/22 · être，conditionnel présent，je → ___",
+          "back": "不规则将来词根 ser- + imparfait 词尾 -ais：**je serais**。",
+          "answer": "je serais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-aller-passe-compose",
+          "order": 270,
+          "front": "构成 18/22 · aller，passé composé，je（阳性说话人）→ ___",
+          "back": "aller 的复合时态用 être：**je suis allé**。女性说话人写 allée。",
+          "answer": "je suis allé",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-aller-imparfait",
+          "order": 280,
+          "front": "构成 19/22 · aller，imparfait，je → ___",
+          "back": "aller 的 imparfait：**j'allais**。这是过去的背景、习惯或进行状态。",
+          "answer": "j'allais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-aller-futur-simple",
+          "order": 290,
+          "front": "构成 20/22 · aller，futur simple，je → ___",
+          "back": "不规则词根 ir- + -ai：**j'irai**。不要用 vais 来替代要求的 futur simple。",
+          "answer": "j'irai",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-aller-futur-anterieur",
+          "order": 300,
+          "front": "构成 21/22 · aller，futur antérieur，je（阳性说话人）→ ___",
+          "back": "aller 用 être：**je serai allé**。serai 表未来，allé 表完成，并与主语配合。",
+          "answer": "je serai allé",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "form-aller-conditionnel",
+          "order": 310,
+          "front": "构成 22/22 · aller，conditionnel présent，je → ___",
+          "back": "不规则将来词根 ir- + imparfait 词尾 -ais：**j'irais**。",
+          "answer": "j'irais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "root-avoir-aur",
+          "order": 420,
+          "front": "词根 01/09 · avoir 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**aur-**：j'aurai / j'aurais。词根不变，词尾决定 futur simple 或 conditionnel。",
+          "answer": "aur",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-etre-ser",
+          "order": 430,
+          "front": "词根 02/09 · être 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**ser-**：je serai / je serais。",
+          "answer": "ser",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-aller-ir",
+          "order": 440,
+          "front": "词根 03/09 · aller 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**ir-**：j'irai / j'irais。不要从 vais 推导。",
+          "answer": "ir",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-faire-fer",
+          "order": 450,
+          "front": "词根 04/09 · faire 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**fer-**：je ferai / je ferais。",
+          "answer": "fer",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-devoir-devr",
+          "order": 460,
+          "front": "词根 05/09 · devoir 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**devr-**：je devrai / je devrais。",
+          "answer": "devr",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-savoir-saur",
+          "order": 470,
+          "front": "词根 06/09 · savoir 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**saur-**：je saurai / je saurais。",
+          "answer": "saur",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-venir-viendr",
+          "order": 480,
+          "front": "词根 07/09 · venir 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**viendr-**：je viendrai / je viendrais。",
+          "answer": "viendr",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-voir-verr",
+          "order": 490,
+          "front": "词根 08/09 · voir 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**verr-**：je verrai / je verrais。注意双 r。",
+          "answer": "verr",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "root-vouloir-voudr",
+          "order": 500,
+          "front": "词根 09/09 · vouloir 的 futur/conditionnel 词根（不写连字符）：___",
+          "back": "**voudr-**：je voudrai / je voudrais。",
+          "answer": "voudr",
+          "tags": ["conjugation", "irregular", "tense_system"]
+        },
+        {
+          "id": "contrast-parler-imparfait",
+          "order": 610,
+          "front": "辨析 01/07 · 过去的背景或习惯：parler，imparfait，je → ___",
+          "back": "**je parlais**：parl- + imparfait 词尾 -ais。",
+          "answer": "je parlais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "contrast-parler-futur-simple",
+          "order": 620,
+          "front": "辨析 02/07 · 将来会发生：parler，futur simple，je → ___",
+          "back": "**je parlerai**：parler- + futur simple 词尾 -ai。",
+          "answer": "je parlerai",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "contrast-parler-conditionnel",
+          "order": 630,
+          "front": "辨析 03/07 · 假设或委婉：parler，conditionnel présent，je → ___",
+          "back": "**je parlerais**：parler- + imparfait 系列词尾 -ais。",
+          "answer": "je parlerais",
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "contrast-parler-triad-rule",
+          "order": 640,
+          "front": "辨析 04/07 · je parlais / je parlerai / je parlerais：三者的时间、词根和词尾分别差在哪里？",
+          "back": "核心区别：je parlais 是 imparfait，过去词干 parl- + -ais；je parlerai 是 futur simple，将来词根 parler- + -ai；je parlerais 是 conditionnel，将来词根 parler- + imparfait 词尾 -ais。",
+          "answer": null,
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "contrast-conditionnel-formula",
+          "order": 650,
+          "front": "辨析 05/07 · 为什么说 conditionnel présent 是“半个将来时 + 半个未完成过去时”？",
+          "back": "规则：conditionnel présent 使用 futur simple 的词根，但接 imparfait 的词尾 -ais, -ais, -ait, -ions, -iez, -aient。它不是把两个时态随便混写，而是一套固定构成。",
+          "answer": null,
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "contrast-future-vs-conditional",
+          "order": 660,
+          "front": "辨析 06/07 · futur simple 与 conditionnel présent 共用什么？真正决定二者身份的是什么？",
+          "back": "二者共用将来词根。核心区别在词尾：futur simple 用 -ai, -as, -a, -ons, -ez, -ont；conditionnel 用 imparfait 系列 -ais, -ais, -ait, -ions, -iez, -aient。",
+          "answer": null,
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+        },
+        {
+          "id": "contrast-future-anterior-vs-passe-compose",
+          "order": 670,
+          "front": "辨析 07/07 · j'aurai parlé 与 j'ai parlé 都是“助动词 + 过去分词”，为什么不是同一个时态？",
+          "back": "核心区别在助动词的时态：j'ai parlé 的 ai 是 présent，因此整体是 passé composé；j'aurai parlé 的 aurai 是 futur simple，因此整体是 futur antérieur。过去分词 parlé 相同，时间由助动词承担。",
+          "answer": null,
+          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         }
       ]
     }
