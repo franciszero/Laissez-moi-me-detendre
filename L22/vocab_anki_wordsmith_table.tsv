@@ -1,0 +1,158 @@
+序号	原lemma	批处理词条	词性	中文	例句	batch_line	原pos	lesson	source_lesson
+1	pain	le pain	nom	面包	J’achète du pain à la boulangerie.	le pain (nom; J’achète du pain à la boulangerie.)	noun	L22	L22
+2	sans	sans	préposition	没有；不带	Je bois du café sans sucre.	sans (préposition; Je bois du café sans sucre.)	prep	L22	L22
+3	rond	rond, ronde	adj	圆的	La table est ronde.	rond, ronde (adj; La table est ronde.)	adj	L22	L22
+4	effet	un effet	nom	效果；影响	Ce médicament a un effet rapide.	un effet (nom; Ce médicament a un effet rapide.)	noun	L22	L22
+5	en effet	en effet	expression	事实上；确实	Il est en retard; en effet, le train a eu un problème.	en effet (expression; Il est en retard; en effet, le train a eu un problème.)	expr	L22	L22
+6	avec plaisir	avec plaisir	expression	乐意；很愿意	Tu veux venir avec nous ? Avec plaisir !	avec plaisir (expression; Tu veux venir avec nous ? Avec plaisir !)	expr	L22	L22
+7	certes	certes	adv	确实；当然；固然	Certes, la voiture est pratique, mais elle coûte cher.	certes (adv; Certes, la voiture est pratique, mais elle coûte cher.)	adverb	L22	L22
+8	volontiers	volontiers	adv	乐意；欣然	Je viendrai volontiers chez toi.	volontiers (adv; Je viendrai volontiers chez toi.)	adverb	L22	L22
+9	attendre quelqu’un / quelque chose	attendre quelqu’un / quelque chose	verbe	等某人 / 等某物	J’attends mon ami devant la gare.	attendre quelqu’un / quelque chose (verbe; J’attends mon ami devant la gare.)	verb	L22	L22
+10	se plaindre de quelque chose	se plaindre de quelque chose	verbe pronominal	抱怨某事	Il se plaint du bruit.	se plaindre de quelque chose (verbe pronominal; Il se plaint du bruit.)	verb	L22	L22
+11	tout le temps	tout le temps	expression	一直；总是	Il perd ses lunettes tout le temps.	tout le temps (expression; Il perd ses lunettes tout le temps.)	expr	L22	L22
+12	mieux	mieux	adv	更好地	Elle parle mieux français maintenant.	mieux (adv; Elle parle mieux français maintenant.)	adverb	L22	L22
+13	meilleur	meilleur, meilleure	adj	更好的	C’est une meilleure solution.	meilleur, meilleure (adj; C’est une meilleure solution.)	adj	L22	L22
+14	le pays natal	le pays natal	nom	故乡；祖国；出生地	Il retourne dans son pays natal.	le pays natal (nom; Il retourne dans son pays natal.)	noun	L22	L22
+15	un collègue	un collègue, une collègue	nom	同事	Je parle avec une collègue.	un collègue, une collègue (nom; Je parle avec une collègue.)	noun	L22	L22
+16	efficace	efficace	adj	有效的；高效的	Cette méthode est efficace.	efficace (adj; Cette méthode est efficace.)	adj	L22	L22
+17	un mari	un mari	nom	丈夫	Son mari travaille à Paris.	un mari (nom; Son mari travaille à Paris.)	noun	L22	L22
+18	envoyer	envoyer	verbe	寄；发送	J’envoie une lettre à ma sœur.	envoyer (verbe; J’envoie une lettre à ma sœur.)	verb	L22	L22
+19	écrire	écrire	verbe	写	Elle écrit une lettre.	écrire (verbe; Elle écrit une lettre.)	verb	L22	L22
+20	une lettre	une lettre	nom	一封信	Il envoie une lettre à son ami.	une lettre (nom; Il envoie une lettre à son ami.)	noun	L22	L22
+21	un timbre	un timbre	nom	一张邮票	Je colle un timbre sur l’enveloppe.	un timbre (nom; Je colle un timbre sur l’enveloppe.)	noun	L22	L22
+22	un colis	un colis	nom	一个包裹	Elle reçoit un colis.	un colis (nom; Elle reçoit un colis.)	noun	L22	L22
+23	un film	un film	nom	一部电影	Nous regardons un film ce soir.	un film (nom; Nous regardons un film ce soir.)	noun	L22	L22
+24	une voiture	une voiture	nom	一辆车	Il veut acheter une voiture.	une voiture (nom; Il veut acheter une voiture.)	noun	L22	L22
+25	une proposition	une proposition	nom	一个提议	J’accepte votre proposition.	une proposition (nom; J’accepte votre proposition.)	noun	L22	L22
+26	être à l’heure	être à l’heure	expression	准时	Le train est à l’heure.	être à l’heure (expression; Le train est à l’heure.)	verb	L22	L22
+27	être en retard	être en retard	expression	迟到；晚点	Je suis en retard ce matin.	être en retard (expression; Je suis en retard ce matin.)	verb	L22	L22
+28	changer de voiture	changer de voiture	expression	换车	Il veut changer de voiture.	changer de voiture (expression; Il veut changer de voiture.)	verb	L22	L22
+29	un train	un train	nom	一列火车	Le train part à huit heures.	un train (nom; Le train part à huit heures.)	noun	L22	L22
+30	les lunettes	les lunettes	nom	眼镜	Où sont mes lunettes ?	les lunettes (nom; Où sont mes lunettes ?)	noun	L22	L22
+31	joli	joli, jolie	adj	漂亮的	Cette robe est jolie.	joli, jolie (adj; Cette robe est jolie.)	adj	L22	L22
+32	aller bien à quelqu’un	aller bien à quelqu’un	expression	很适合某人	Ces lunettes te vont bien.	aller bien à quelqu’un (expression; Ces lunettes te vont bien.)	verb	L22	L22
+33	à 150 euros	à 150 euros	expression	150 欧的	J’ai acheté ce manteau à 150 euros.	à 150 euros (expression; J’ai acheté ce manteau à 150 euros.)	expr	L22	L22
+34	une manche	une manche	nom	袖子	Les manches de cette chemise sont longues.	une manche (nom; Les manches de cette chemise sont longues.)	noun	L22	L22
+35	long	long, longue	adj	长的	Cette rue est longue.	long, longue (adj; Cette rue est longue.)	adj	L22	L22
+36	près de	près de	expression	在……附近	L’église est près de la gare.	près de (expression; L’église est près de la gare.)	expr	L22	L22
+37	une église	une église	nom	教堂	Il y a une église dans ce quartier.	une église (nom; Il y a une église dans ce quartier.)	noun	L22	L22
+38	gagner	gagner	verbe	赢得；挣得	Elle gagne bien sa vie.	gagner (verbe; Elle gagne bien sa vie.)	verb	L22	L22
+39	un téléphone portable	un téléphone portable	nom	一部手机	J’ai oublié mon téléphone portable.	un téléphone portable (nom; J’ai oublié mon téléphone portable.)	noun	L22	L22
+40	vouloir	vouloir	verbe	想要	Je veux visiter Nice.	vouloir (verbe; Je veux visiter Nice.)	verb	L22	L22
+41	voir	voir	verbe	看；见	Nous allons voir nos amis.	voir (verbe; Nous allons voir nos amis.)	verb	L22	L22
+42	visiter	visiter	verbe	参观	Ils visitent un musée.	visiter (verbe; Ils visitent un musée.)	verb	L22	L22
+43	distrait	distrait, distraite	adj	心不在焉的；分心的	Il est distrait et perd ses lunettes.	distrait, distraite (adj; Il est distrait et perd ses lunettes.)	adj	L22	L22
+44	perdre ses lunettes	perdre ses lunettes	expression	弄丢眼镜	Il perd ses lunettes tout le temps.	perdre ses lunettes (expression; Il perd ses lunettes tout le temps.)	verb	L22	L22
+45	Dépêche-toi !	Dépêche-toi !	expression	快点！	Dépêche-toi, le train va partir !	Dépêche-toi ! (expression; Dépêche-toi, le train va partir !)	expr	L22	L22
+46	Dépêchez-vous !	Dépêchez-vous !	expression	快点！	Dépêchez-vous, nous sommes en retard !	Dépêchez-vous ! (expression; Dépêchez-vous, nous sommes en retard !)	expr	L22	L22
+47	fermer	fermer	verbe	关；合上	Ferme la porte, s’il te plaît.	fermer (verbe; Ferme la porte, s’il te plaît.)	verb	L22	L22
+48	éteindre	éteindre	verbe	关掉；熄灭	J’éteins la lumière avant de sortir.	éteindre (verbe; J’éteins la lumière avant de sortir.)	verb	L22	L22
+49	avoir peur de	avoir peur de	expression	害怕……	Elle a peur du noir.	avoir peur de (expression; Elle a peur du noir.)	verb	L22	L22
+50	craindre	craindre	verbe	害怕；担心	Je crains le froid.	craindre (verbe; Je crains le froid.)	verb	L22	L22
+51	consommer	consommer	verbe	消耗	Cette voiture consomme beaucoup d’essence.	consommer (verbe; Cette voiture consomme beaucoup d’essence.)	verb	L22	L22
+52	l’essence	l’essence	nom	汽油	L’essence coûte cher.	l’essence (nom; L’essence coûte cher.)	noun	L22	L22
+53	l’assurance	l’assurance	nom	保险	L’assurance de la voiture coûte cher.	l’assurance (nom; L’assurance de la voiture coûte cher.)	noun	L22	L22
+54	coûter cher	coûter cher	expression	很贵；花费高	Une voiture coûte cher en ville.	coûter cher (expression; Une voiture coûte cher en ville.)	verb	L22	L22
+55	coûter moins cher	coûter moins cher	expression	更便宜；花费更少	Le métro coûte moins cher que la voiture.	coûter moins cher (expression; Le métro coûte moins cher que la voiture.)	verb	L22	L22
+56	circuler en ville	circuler en ville	expression	在城市中通行	Il est difficile de circuler en ville.	circuler en ville (expression; Il est difficile de circuler en ville.)	verb	L22	L22
+57	se garer	se garer	verbe pronominal	停车	Il cherche une place pour se garer.	se garer (verbe pronominal; Il cherche une place pour se garer.)	verb	L22	L22
+58	stationner	stationner	verbe	停放车辆	Il est interdit de stationner ici.	stationner (verbe; Il est interdit de stationner ici.)	verb	L22	L22
+59	une place de stationnement	une place de stationnement	nom	停车位	Je cherche une place de stationnement.	une place de stationnement (nom; Je cherche une place de stationnement.)	noun	L22	L22
+60	rendre service	rendre service	expression	帮忙	Cette voiture me rend service.	rendre service (expression; Cette voiture me rend service.)	verb	L22	L22
+61	rendre des services	rendre des services	expression	提供服务；派上用场	Les transports rendent des services aux habitants.	rendre des services (expression; Les transports rendent des services aux habitants.)	verb	L22	L22
+62	autant de... que	autant de... que	expression	和……一样多的……	Il y a autant de voitures que de vélos.	autant de... que (expression; Il y a autant de voitures que de vélos.)	expr	L22	L22
+63	de plus en plus de	de plus en plus de	expression	越来越多的……	Il y a de plus en plus de voitures en ville.	de plus en plus de (expression; Il y a de plus en plus de voitures en ville.)	expr	L22	L22
+64	le futur proche	le futur proche	nom	最近将来时	Le futur proche se forme avec aller et un infinitif.	le futur proche (nom; Le futur proche se forme avec aller et un infinitif.)	noun	L22	L22
+65	le futur simple	le futur simple	nom	简单将来时	Le futur simple exprime une action future.	le futur simple (nom; Le futur simple exprime une action future.)	noun	L22	L22
+66	le futur antérieur	le futur antérieur	nom	先将来时	Le futur antérieur exprime une action achevée dans le futur.	le futur antérieur (nom; Le futur antérieur exprime une action achevée dans le futur.)	noun	L22	L22
+67	un temps composé	un temps composé	nom	复合时态	Le futur antérieur est un temps composé.	un temps composé (nom; Le futur antérieur est un temps composé.)	noun	L22	L22
+68	un auxiliaire	un auxiliaire	nom	助动词	Avoir est un auxiliaire.	un auxiliaire (nom; Avoir est un auxiliaire.)	noun	L22	L22
+69	le participe passé	le participe passé	nom	过去分词	Le participe passé de finir est fini.	le participe passé (nom; Le participe passé de finir est fini.)	noun	L22	L22
+70	finir	finir	verbe	完成	Je finis mon travail avant de sortir.	finir (verbe; Je finis mon travail avant de sortir.)	verb	L22	L22
+71	rentrer chez soi	rentrer chez soi	expression	回家	Il rentre chez lui après le travail.	rentrer chez soi (expression; Il rentre chez lui après le travail.)	verb	L22	L22
+72	arriver à Paris	arriver à Paris	expression	到达巴黎	Nous arriverons à Paris demain matin.	arriver à Paris (expression; Nous arriverons à Paris demain matin.)	verb	L22	L22
+73	écrire à quelqu’un	écrire à quelqu’un	expression	给某人写信	J’écris à mon collègue.	écrire à quelqu’un (expression; J’écris à mon collègue.)	verb	L22	L22
+74	dès que	dès que	expression	一……就……	Dès que j’aurai fini, je partirai.	dès que (expression; Dès que j’aurai fini, je partirai.)	expr	L22	L22
+75	aussitôt que	aussitôt que	expression	一……就……	Aussitôt qu’il arrivera, je lui téléphonerai.	aussitôt que (expression; Aussitôt qu’il arrivera, je lui téléphonerai.)	expr	L22	L22
+76	aller voir quelqu’un	aller voir quelqu’un	expression	去看某人	Je vais voir mes parents ce week-end.	aller voir quelqu’un (expression; Je vais voir mes parents ce week-end.)	verb	L22	L22
+77	finir son travail	finir son travail	expression	完成工作	Elle finira son travail avant de rentrer.	finir son travail (expression; Elle finira son travail avant de rentrer.)	verb	L22	L22
+78	finir ses devoirs	finir ses devoirs	expression	完成作业	Dès qu’il aura fini ses devoirs, il sortira.	finir ses devoirs (expression; Dès qu’il aura fini ses devoirs, il sortira.)	verb	L22	L22
+79	se promener	se promener	verbe pronominal	散步	Nous nous promenons dans le quartier.	se promener (verbe pronominal; Nous nous promenons dans le quartier.)	verb	L22	L22
+80	sortir	sortir	verbe	出去；出门	Ils sortent ce soir.	sortir (verbe; Ils sortent ce soir.)	verb	L22	L22
+81	trouver un travail	trouver un travail	expression	找到工作	Quand il aura trouvé un travail, il s’installera à Paris.	trouver un travail (expression; Quand il aura trouvé un travail, il s’installera à Paris.)	verb	L22	L22
+82	s’installer à Paris	s’installer à Paris	expression	在巴黎定居	Elle va s’installer à Paris.	s’installer à Paris (expression; Elle va s’installer à Paris.)	verb	L22	L22
+83	partir	partir	verbe	出发；离开	Le train part à midi.	partir (verbe; Le train part à midi.)	verb	L22	L22
+84	téléphoner à quelqu’un	téléphoner à quelqu’un	expression	给某人打电话	Je téléphone à mon frère.	téléphoner à quelqu’un (expression; Je téléphone à mon frère.)	verb	L22	L22
+85	la terminaison	la terminaison	nom	词尾	La terminaison du verbe change avec le sujet.	la terminaison (nom; La terminaison du verbe change avec le sujet.)	noun	L22	L22
+86	toute la France	toute la France	expression	整个法国	On parle français dans toute la France.	toute la France (expression; On parle français dans toute la France.)	expr	L22	L22
+87	de nos jours	de nos jours	expression	如今	De nos jours, la province change beaucoup.	de nos jours (expression; De nos jours, la province change beaucoup.)	expr	L22	L22
+88	vrai	vrai, vraie	adj	真的；正确的	Cette phrase est vraie.	vrai, vraie (adj; Cette phrase est vraie.)	adj	L22	L22
+89	moins vrai	moins vrai	expression	不那么真实 / 不那么准确	Cette opposition est moins vraie aujourd’hui.	moins vrai (expression; Cette opposition est moins vraie aujourd’hui.)	expr	L22	L22
+90	le reste	le reste	nom	剩余部分；其余部分	Je garde le reste pour demain.	le reste (nom; Je garde le reste pour demain.)	noun	L22	L22
+91	le reste de la France	le reste de la France	nom	法国其他地区	Paris est différent du reste de la France.	le reste de la France (nom; Paris est différent du reste de la France.)	noun	L22	L22
+92	la province	la province	nom	外省；巴黎以外地区	Il habite en province.	la province (nom; Il habite en province.)	noun	L22	L22
+93	en province	en province	expression	在外省	Beaucoup de gens vivent en province.	en province (expression; Beaucoup de gens vivent en province.)	expr	L22	L22
+94	les provinciaux	les provinciaux	nom	外省人	Les provinciaux ne vivent pas comme les Parisiens.	les provinciaux (nom; Les provinciaux ne vivent pas comme les Parisiens.)	noun	L22	L22
+95	la capitale	la capitale	nom	首都	Paris est la capitale de la France.	la capitale (nom; Paris est la capitale de la France.)	noun	L22	L22
+96	la vie de province	la vie de province	nom	外省生活	La vie de province est plus calme.	la vie de province (nom; La vie de province est plus calme.)	noun	L22	L22
+97	opposer A à B	opposer A à B	expression	把 A 和 B 对立起来	On oppose souvent Paris à la province.	opposer A à B (expression; On oppose souvent Paris à la province.)	verb	L22	L22
+98	jusqu’à	jusqu’à	préposition	直到……为止	Il travaille jusqu’à six heures.	jusqu’à (préposition; Il travaille jusqu’à six heures.)	expr	L22	L22
+99	la Seconde Guerre mondiale	la Seconde Guerre mondiale	nom	第二次世界大战	La Seconde Guerre mondiale a changé la France.	la Seconde Guerre mondiale (nom; La Seconde Guerre mondiale a changé la France.)	noun	L22	L22
+100	depuis	depuis	préposition	自从……以来	Il habite ici depuis trois ans.	depuis (préposition; Il habite ici depuis trois ans.)	expr	L22	L22
+101	le milieu	le milieu	nom	中间；中期	Depuis le milieu du siècle dernier, la société a changé.	le milieu (nom; Depuis le milieu du siècle dernier, la société a changé.)	noun	L22	L22
+102	le siècle dernier	le siècle dernier	nom	上个世纪	La ville s’est développée au siècle dernier.	le siècle dernier (nom; La ville s’est développée au siècle dernier.)	noun	L22	L22
+103	le développement	le développement	nom	发展	Le développement des transports a changé la province.	le développement (nom; Le développement des transports a changé la province.)	noun	L22	L22
+104	accéléré	accéléré, accélérée	adj	加速的	Le développement accéléré des transports a rapproché les régions.	accéléré, accélérée (adj; Le développement accéléré des transports a rapproché les régions.)	adj	L22	L22
+105	les médias	les médias	nom	媒体	Les médias relient les régions au reste du pays.	les médias (nom; Les médias relient les régions au reste du pays.)	noun	L22	L22
+106	tirer A de B	tirer A de B	expression	把 A 从 B 中拉出来	Les transports tirent la province de son isolement.	tirer A de B (expression; Les transports tirent la province de son isolement.)	verb	L22	L22
+107	l’isolement	l’isolement	nom	孤立	Les transports tirent la région de son isolement.	l’isolement (nom; Les transports tirent la région de son isolement.)	noun	L22	L22
+108	le progrès	le progrès	nom	进步；发展	Le progrès des transports facilite les voyages.	le progrès (nom; Le progrès des transports facilite les voyages.)	noun	L22	L22
+109	les transports	les transports	nom	交通运输	Les transports sont plus rapides aujourd’hui.	les transports (nom; Les transports sont plus rapides aujourd’hui.)	noun	L22	L22
+110	une liaison	une liaison	nom	联系；连接	Il y a une liaison rapide entre Paris et Lyon.	une liaison (nom; Il y a une liaison rapide entre Paris et Lyon.)	noun	L22	L22
+111	aller-retour	un aller-retour	nom	往返	Je fais un aller-retour entre Paris et Dijon.	un aller-retour (nom; Je fais un aller-retour entre Paris et Dijon.)	expr	L22	L22
+112	sur le plan politique	sur le plan politique	expression	在政治方面	Sur le plan politique, la décentralisation progresse.	sur le plan politique (expression; Sur le plan politique, la décentralisation progresse.)	expr	L22	L22
+113	sur le plan économique	sur le plan économique	expression	在经济方面	Sur le plan économique, les régions se développent.	sur le plan économique (expression; Sur le plan économique, les régions se développent.)	expr	L22	L22
+114	la décentralisation	la décentralisation	nom	地方分权；去中心化	La décentralisation est à l’ordre du jour.	la décentralisation (nom; La décentralisation est à l’ordre du jour.)	noun	L22	L22
+115	être à l’ordre du jour	être à l’ordre du jour	expression	被提上日程	La décentralisation est à l’ordre du jour.	être à l’ordre du jour (expression; La décentralisation est à l’ordre du jour.)	expr	L22	L22
+116	s’installer	s’installer	verbe pronominal	定居；设立；落地	De grandes industries s’installent en province.	s’installer (verbe pronominal; De grandes industries s’installent en province.)	verb	L22	L22
+117	une industrie	une industrie	nom	工业；工业企业	Cette région attire une industrie nouvelle.	une industrie (nom; Cette région attire une industrie nouvelle.)	noun	L22	L22
+118	de grandes industries	de grandes industries	expression	大型工业 / 大企业	De grandes industries s’installent dans la région.	de grandes industries (expression; De grandes industries s’installent dans la région.)	expr	L22	L22
+119	disposer de	disposer de	expression	拥有；具备；可支配	Les régions disposent de plus de pouvoirs.	disposer de (expression; Les régions disposent de plus de pouvoirs.)	verb	L22	L22
+120	le pouvoir	le pouvoir	nom	权力；能力	Le pouvoir local devient plus important.	le pouvoir (nom; Le pouvoir local devient plus important.)	noun	L22	L22
+121	les pouvoirs	les pouvoirs	nom	权力；权限	Les régions disposent de pouvoirs plus larges.	les pouvoirs (nom; Les régions disposent de pouvoirs plus larges.)	noun	L22	L22
+122	l’autonomie	l’autonomie	nom	自主；自治	Les régions ont plus d’autonomie.	l’autonomie (nom; Les régions ont plus d’autonomie.)	noun	L22	L22
+123	les activités culturelles	les activités culturelles	nom	文化活动	Les activités culturelles se développent en province.	les activités culturelles (nom; Les activités culturelles se développent en province.)	noun	L22	L22
+124	elles aussi	elles aussi	expression	它们也	Les activités culturelles, elles aussi, se développent.	elles aussi (expression; Les activités culturelles, elles aussi, se développent.)	expr	L22	L22
+125	se développer	se développer	verbe pronominal	发展	Les villes se développent rapidement.	se développer (verbe pronominal; Les villes se développent rapidement.)	verb	L22	L22
+126	un festival	un festival	nom	节庆活动；艺术节	Un festival a lieu chaque été à Avignon.	un festival (nom; Un festival a lieu chaque été à Avignon.)	noun	L22	L22
+127	avoir lieu	avoir lieu	expression	举行；发生	Le festival a lieu en été.	avoir lieu (expression; Le festival a lieu en été.)	verb	L22	L22
+128	un peu partout	un peu partout	expression	几乎到处	Des festivals ont lieu un peu partout en France.	un peu partout (expression; Des festivals ont lieu un peu partout en France.)	expr	L22	L22
+129	même	même	adv	甚至；同一个	Même en province, les activités culturelles sont nombreuses.	même (adv; Même en province, les activités culturelles sont nombreuses.)	adverb	L22	L22
+130	une occasion	une occasion	nom	机会；场合	C’est une bonne occasion de voyager.	une occasion (nom; C’est une bonne occasion de voyager.)	noun	L22	L22
+131	avoir l’occasion de faire quelque chose	avoir l’occasion de faire quelque chose	expression	有机会做某事	J’ai l’occasion de connaître la Côte d’Azur.	avoir l’occasion de faire quelque chose (expression; J’ai l’occasion de connaître la Côte d’Azur.)	verb	L22	L22
+132	connaître	connaître	verbe	认识；了解	Je connais bien cette région.	connaître (verbe; Je connais bien cette région.)	verb	L22	L22
+133	la Côte d’Azur	la Côte d’Azur	nom propre	蓝色海岸；蔚蓝海岸	Nice se trouve sur la Côte d’Azur.	la Côte d’Azur (nom propre; Nice se trouve sur la Côte d’Azur.)	noun	L22	L22
+134	Nice	Nice	expression	尼斯	Nice se trouve dans le sud de la France.	Nice (expression; Nice se trouve dans le sud de la France.)	noun	L22	L22
+135	il faut	il faut	expression	应该；必须	Il faut visiter la Provence.	il faut (expression; Il faut visiter la Provence.)	expr	L22	L22
+136	il faudra	il faudra	expression	将会需要；到时应该	Il faudra m’envoyer un courriel.	il faudra (expression; Il faudra m’envoyer un courriel.)	expr	L22	L22
+137	pouvoir	pouvoir	verbe	能够	Je peux voyager avec toi.	pouvoir (verbe; Je peux voyager avec toi.)	verb	L22	L22
+138	m’envoyer	m’envoyer	expression	给我发送	Tu peux m’envoyer un courriel ?	m’envoyer (expression; Tu peux m’envoyer un courriel ?)	expr	L22	L22
+139	avec moi	avec moi	expression	和我一起	Viens avec moi dans le sud.	avec moi (expression; Viens avec moi dans le sud.)	expr	L22	L22
+140	voyager	voyager	verbe	旅游	J’aime voyager en France.	voyager (verbe; J’aime voyager en France.)	verb	L22	L22
+141	la Chine	la Chine	nom propre	中国	La Chine est un grand pays.	la Chine (nom propre; La Chine est un grand pays.)	noun	L22	L22
+142	en Chine	en Chine	expression	在中国；去中国	J’aimerais voyager en Chine.	en Chine (expression; J’aimerais voyager en Chine.)	expr	L22	L22
+143	oublier	oublier	verbe	忘记	N’oublie pas ton passeport.	oublier (verbe; N’oublie pas ton passeport.)	verb	L22	L22
+144	n’oubliez pas de...	n’oubliez pas de...	expression	不要忘了……	N’oubliez pas de m’écrire.	n’oubliez pas de... (expression; N’oubliez pas de m’écrire.)	expr	L22	L22
+145	aller dans le sud	aller dans le sud	expression	去南方	Nous allons dans le sud cet été.	aller dans le sud (expression; Nous allons dans le sud cet été.)	verb	L22	L22
+146	le sud	le sud	nom	南方	Le sud de la France est célèbre.	le sud (nom; Le sud de la France est célèbre.)	noun	L22	L22
+147	le nord	le nord	nom	北方	Le climat du nord est différent.	le nord (nom; Le climat du nord est différent.)	noun	L22	L22
+148	un paysage	un paysage	nom	风景；景观	Ce paysage est magnifique.	un paysage (nom; Ce paysage est magnifique.)	noun	L22	L22
+149	les paysages	les paysages	nom	风景；景观	Les paysages du sud sont différents.	les paysages (nom; Les paysages du sud sont différents.)	noun	L22	L22
+150	différent de	différent de	expression	不同于	Le climat du sud est différent de celui du nord.	différent de (expression; Le climat du sud est différent de celui du nord.)	expr	L22	L22
+151	le climat	le climat	nom	气候	Le climat est doux sur la Côte d’Azur.	le climat (nom; Le climat est doux sur la Côte d’Azur.)	noun	L22	L22
+152	ceux du nord	ceux du nord	expression	北方的那些	Les paysages du sud sont différents de ceux du nord.	ceux du nord (expression; Les paysages du sud sont différents de ceux du nord.)	expr	L22	L22
+153	où	où	pronom relatif	在那里；关系代词“其中/那里”	C’est une région où il fait beau.	où (pronom relatif; C’est une région où il fait beau.)	expr	L22	L22
+154	un courriel	un courriel	nom	电子邮件	Envoie-moi un courriel demain.	un courriel (nom; Envoie-moi un courriel demain.)	noun	L22	L22
+155	un e-mail	un e-mail	nom	电子邮件	J’ai reçu un e-mail de mon ami.	un e-mail (nom; J’ai reçu un e-mail de mon ami.)	noun	L22	L22
+156	à moi	à moi	expression	给我；对我	Écris à moi si tu as le temps.	à moi (expression; Écris à moi si tu as le temps.)	expr	L22	L22
+157	me	me	pronom	给我；对我	Il me téléphone ce soir.	me (pronom; Il me téléphone ce soir.)	expr	L22	L22
