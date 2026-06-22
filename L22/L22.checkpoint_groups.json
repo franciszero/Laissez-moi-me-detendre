@@ -388,6 +388,77 @@
           "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
         }
       ]
+    },
+    {
+      "id": "pronoun-automation",
+      "label": "代词自动化",
+      "order": 20,
+      "species": [],
+      "practice_cards": [
+        {"id":"pronoun-do-marie","order":10,"front":"宾语替换 01/26 · Je vois Marie. → Je ___ vois.","back":"voir 直接接人，Marie 是阴性单数直接宾语：**Je la vois.**","answer":"la","tags":["pronoun_automation","direct_object"]},
+        {"id":"pronoun-do-paul","order":20,"front":"宾语替换 02/26 · Je vois Paul. → Je ___ vois.","back":"voir 直接接人，Paul 是阳性单数直接宾语：**Je le vois.**","answer":"le","tags":["pronoun_automation","direct_object"]},
+        {"id":"pronoun-do-friends","order":30,"front":"宾语替换 03/26 · Je vois mes amis. → Je ___ vois.","back":"复数直接宾语用 **les**：Je les vois.","answer":"les","tags":["pronoun_automation","direct_object"]},
+        {"id":"pronoun-io-marie","order":40,"front":"宾语替换 04/26 · Je téléphone à Marie. → Je ___ téléphone.","back":"téléphoner **à quelqu’un**，单数间接宾语用 **lui**。","answer":"lui","tags":["pronoun_automation","indirect_object"]},
+        {"id":"pronoun-io-parents","order":50,"front":"宾语替换 05/26 · Je téléphone à mes parents. → Je ___ téléphone.","back":"à + 复数的人，用 **leur**：Je leur téléphone.","answer":"leur","tags":["pronoun_automation","indirect_object"]},
+        {"id":"pronoun-en-project","order":60,"front":"宾语替换 06/26 · Je parle de ce projet. → J'___ parle.","back":"de + 事物通常用 **en**：J'en parle.","answer":"en","tags":["pronoun_automation","en"]},
+        {"id":"pronoun-y-holidays","order":70,"front":"宾语替换 07/26 · Je pense à mes vacances. → J'___ pense.","back":"penser à + 事物，用 **y**：J'y pense.","answer":"y","tags":["pronoun_automation","y"]},
+        {"id":"pronoun-y-paris","order":80,"front":"宾语替换 08/26 · Je vais à Paris. → J'___ vais.","back":"à + 地点用 **y**：J'y vais.","answer":"y","tags":["pronoun_automation","y"]},
+        {"id":"pronoun-en-bread","order":90,"front":"宾语替换 09/26 · Je veux du pain. → J'___ veux.","back":"du pain 是 de + 数量/部分概念，用 **en**：J'en veux.","answer":"en","tags":["pronoun_automation","en"]},
+        {"id":"pronoun-en-apples","order":100,"front":"宾语替换 10/26 · J'achète trois pommes. → J'___ achète trois.","back":"数量表达保留数量词，名词用 **en** 代替：J'en achète trois.","answer":"en","tags":["pronoun_automation","en"]},
+        {"id":"pronoun-interface-attendre","order":110,"front":"动词接口 11/26 · attendre Paul：Je ___ attends.（le / lui）","back":"attendre quelqu'un 不带 à，是直接宾语：**Je l'attends.** 此处填 le。","answer":"le","tags":["pronoun_automation","verb_interface"]},
+        {"id":"pronoun-interface-ecouter","order":120,"front":"动词接口 12/26 · écouter le professeur：Je ___ écoute.（le / lui）","back":"écouter quelqu'un 不带 à，是直接宾语：**Je l'écoute.** 此处填 le。","answer":"le","tags":["pronoun_automation","verb_interface"]},
+        {"id":"pronoun-interface-repondre","order":130,"front":"动词接口 13/26 · répondre au professeur：Je ___ réponds.（le / lui）","back":"répondre **à quelqu'un**，单数间接宾语用 **lui**。","answer":"lui","tags":["pronoun_automation","verb_interface"]},
+        {"id":"pronoun-interface-ecrire","order":140,"front":"动词接口 14/26 · écrire à mes parents：Je ___ écris.（les / leur）","back":"écrire **à quelqu'un**，复数间接宾语用 **leur**。","answer":"leur","tags":["pronoun_automation","verb_interface"]},
+        {"id":"pronoun-interface-telephoner","order":150,"front":"动词接口 15/26 · téléphoner ___ quelqu'un：缺哪个介词？","back":"固定接口是 téléphoner **à** quelqu'un，因此替换人时用 lui/leur。","answer":"à","tags":["pronoun_automation","verb_interface"]},
+        {"id":"pronoun-interface-voir","order":160,"front":"动词接口 16/26 · voir ___ quelqu'un：直接接还是加 à？填“直接”或“à”。","back":"voir quelqu'un **直接接宾语**，因此替换时用 le/la/les。","answer":"直接","tags":["pronoun_automation","verb_interface"]},
+        {"id":"pronoun-demonstrative-book","order":170,"front":"指示代词 17/26 · Quel livre veux-tu ? — ___ de Victor Hugo.","back":"livre 阳性单数，用 **celui**；后接 de 补足先行词信息。","answer":"celui","tags":["pronoun_automation","demonstrative_pronoun"]},
+        {"id":"pronoun-demonstrative-car","order":180,"front":"指示代词 18/26 · Quelle voiture prends-tu ? — ___ de ma sœur.","back":"voiture 阴性单数，用 **celle**。","answer":"celle","tags":["pronoun_automation","demonstrative_pronoun"]},
+        {"id":"pronoun-demonstrative-films","order":190,"front":"指示代词 19/26 · Quels films préfères-tu ? — ___ de Truffaut.","back":"films 阳性复数，用 **ceux**。","answer":"ceux","tags":["pronoun_automation","demonstrative_pronoun"]},
+        {"id":"pronoun-demonstrative-houses","order":200,"front":"指示代词 20/26 · Quelles maisons regardes-tu ? — ___ près de l'église.","back":"maisons 阴性复数，用 **celles**。","answer":"celles","tags":["pronoun_automation","demonstrative_pronoun"]},
+        {"id":"pronoun-demonstrative-amelie","order":210,"front":"指示代词 21/26 · Je ne prends pas ma voiture ; je prends ___ d'Amélie.","back":"被代替的是 la voiture，阴性单数用 **celle**。","answer":"celle","tags":["pronoun_automation","demonstrative_pronoun"]},
+        {"id":"pronoun-agreement-seen","order":220,"front":"复合时态配合 22/26 · Marie ? Je l'ai ___ hier.（voir）","back":"直接宾语 l' 指 Marie，提前到 avoir 之前，过去分词配合：**vue**。","answer":"vue","tags":["pronoun_automation","past_participle_agreement"]},
+        {"id":"pronoun-agreement-friends","order":230,"front":"复合时态配合 23/26 · Mes amis ? Je les ai ___ hier.（voir）","back":"les 指阳性复数且在过去分词前：**vus**。","answer":"vus","tags":["pronoun_automation","past_participle_agreement"]},
+        {"id":"pronoun-agreement-letters","order":240,"front":"复合时态配合 24/26 · Les lettres ? Je les ai ___.（écrire）","back":"les 指阴性复数 lettres，直接宾语提前：**écrites**。","answer":"écrites","tags":["pronoun_automation","past_participle_agreement"]},
+        {"id":"pronoun-double-book","order":250,"front":"双宾语顺序 25/26 · Je donne le livre à Marie. → Je ___ donne.（le + lui）","back":"两个代词都在动词前，顺序是 **le lui**：Je le lui donne.","answer":"le lui","tags":["pronoun_automation","double_object_order"]},
+        {"id":"pronoun-double-letters","order":260,"front":"双宾语顺序 26/26 · J'envoie les lettres à mes parents. → Je ___ envoie.（les + leur）","back":"顺序是 **les leur**：Je les leur envoie.","answer":"les leur","tags":["pronoun_automation","double_object_order"]}
+      ]
+    },
+    {
+      "id": "sentence-skeleton",
+      "label": "长句拆骨架",
+      "order": 30,
+      "species": [],
+      "practice_cards": [
+        {"id":"skeleton-opposer-subject","order":10,"front":"骨架 01/18 · On opposait volontiers la vie de province à celle de la capitale.\n主语 = ___","back":"先去掉副词和修饰语，主语是 **On**。","answer":"On","tags":["sentence_skeleton","subject"]},
+        {"id":"skeleton-opposer-verb","order":20,"front":"骨架 02/18 · On opposait volontiers la vie de province à celle de la capitale.\n变位动词 = ___","back":"主干是 On **opposait** A à B。","answer":"opposait","tags":["sentence_skeleton","verb"]},
+        {"id":"skeleton-opposer-complement","order":30,"front":"骨架 03/18 · On opposait volontiers la vie de province à celle de la capitale.\nA à B = ___","back":"opposer 的两个核心项是 **la vie de province à celle de la capitale**。","answer":"la vie de province à celle de la capitale","tags":["sentence_skeleton","complement"]},
+        {"id":"skeleton-media-subject","order":40,"front":"骨架 04/18 · Le développement des médias a tiré la province de son isolement.\n主语 = ___","back":"中心名词 développement 连同补足语构成主语：**Le développement des médias**。","answer":"Le développement des médias","tags":["sentence_skeleton","subject"]},
+        {"id":"skeleton-media-verb","order":50,"front":"骨架 05/18 · Le développement des médias a tiré la province de son isolement.\n变位动词 = ___","back":"复合时态动词组是 **a tiré**。","answer":"a tiré","tags":["sentence_skeleton","verb"]},
+        {"id":"skeleton-media-complement","order":60,"front":"骨架 06/18 · Le développement des médias a tiré la province de son isolement.\nA de B = ___","back":"tirer A de B 的核心补语是 **la province de son isolement**。","answer":"la province de son isolement","tags":["sentence_skeleton","complement"]},
+        {"id":"skeleton-transport-subject","order":70,"front":"骨架 07/18 · Le progrès des transports permet des liaisons entre les villes.\n主语 = ___","back":"主语是 **Le progrès des transports**。","answer":"Le progrès des transports","tags":["sentence_skeleton","subject"]},
+        {"id":"skeleton-transport-verb","order":80,"front":"骨架 08/18 · Le progrès des transports permet des liaisons entre les villes.\n变位动词 = ___","back":"变位动词是 **permet**。","answer":"permet","tags":["sentence_skeleton","verb"]},
+        {"id":"skeleton-transport-complement","order":90,"front":"骨架 09/18 · Le progrès des transports permet des liaisons entre les villes.\n直接宾语 = ___","back":"permettre 后的直接宾语是 **des liaisons entre les villes**。","answer":"des liaisons entre les villes","tags":["sentence_skeleton","direct_object"]},
+        {"id":"skeleton-decentralisation-subject","order":100,"front":"骨架 10/18 · La décentralisation est à l'ordre du jour.\n主语 = ___","back":"主语是 **La décentralisation**。","answer":"La décentralisation","tags":["sentence_skeleton","subject"]},
+        {"id":"skeleton-decentralisation-verb","order":110,"front":"骨架 11/18 · La décentralisation est à l'ordre du jour.\n变位动词 = ___","back":"变位动词是 **est**。","answer":"est","tags":["sentence_skeleton","verb"]},
+        {"id":"skeleton-decentralisation-complement","order":120,"front":"骨架 12/18 · La décentralisation est à l'ordre du jour.\n补语 = ___","back":"固定表达的补语是 **à l'ordre du jour**。","answer":"à l'ordre du jour","tags":["sentence_skeleton","complement"]},
+        {"id":"skeleton-industries-subject","order":130,"front":"骨架 13/18 · De grandes industries s'installent en province.\n主语 = ___","back":"主语是 **De grandes industries**。","answer":"De grandes industries","tags":["sentence_skeleton","subject"]},
+        {"id":"skeleton-industries-verb","order":140,"front":"骨架 14/18 · De grandes industries s'installent en province.\n变位动词 = ___","back":"代动词整体是 **s'installent**。","answer":"s'installent","tags":["sentence_skeleton","verb"]},
+        {"id":"skeleton-industries-complement","order":150,"front":"骨架 15/18 · De grandes industries s'installent en province.\n地点补语 = ___","back":"地点补语是 **en province**，不是 à la province。","answer":"en province","tags":["sentence_skeleton","complement"]},
+        {"id":"skeleton-powers-subject","order":160,"front":"骨架 16/18 · La province dispose de pouvoirs plus importants.\n主语 = ___","back":"主语是 **La province**。","answer":"La province","tags":["sentence_skeleton","subject"]},
+        {"id":"skeleton-powers-verb","order":170,"front":"骨架 17/18 · La province dispose de pouvoirs plus importants.\n变位动词 = ___","back":"变位动词是 **dispose**；随后必须接 de。","answer":"dispose","tags":["sentence_skeleton","verb"]},
+        {"id":"skeleton-powers-complement","order":180,"front":"骨架 18/18 · La province dispose de pouvoirs plus importants.\n补语 = ___","back":"disposer de 的补语是 **de pouvoirs plus importants**。","answer":"de pouvoirs plus importants","tags":["sentence_skeleton","complement"]}
+      ]
+    },
+    {
+      "id": "sentence-building-process",
+      "label": "造句流程",
+      "order": 40,
+      "species": [],
+      "practice_cards": [
+        {"id":"process-three-steps","order":10,"front":"造句卡住时，按哪三步恢复？请按顺序说出来。","back":"**1. 先写简单、正确的主干。**\n\n**2. 检查主语、动词、宾语/补语是否有严重错误。**\n\n**3. 主干站稳后，再加时态、代词或从句。**","answer":null,"tags":["sentence_building","learning_strategy"]},
+        {"id":"process-correct-before-complex","order":20,"front":"你想到一个很复杂的法语句，但主干还不确定。此时先做什么？","back":"先把意思降到自己能稳定控制的简单句，确保**正确**；复杂度是第二轮升级，不是第一轮赌出来的。","answer":null,"tags":["sentence_building","learning_strategy"]},
+        {"id":"process-upgrade-check","order":30,"front":"简单主干写对后，升级复杂句时每次只加什么？加完要检查什么？","back":"每次只加一个层次（一个时态、一个代词或一个从句），随后重新检查主语—动词—宾语/补语接口。这样能定位新错误来自哪一步。","answer":null,"tags":["sentence_building","learning_strategy"]}
+      ]
     }
   ]
 }
