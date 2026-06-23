@@ -1,8 +1,14 @@
 {
   "lesson": "L22",
-  "note": "动词变位复习卡的动词清单（老师讲过的规则动词）。type ∈ er|ir2|re，答案键由 conjugate.py 确定性生成。不规则动词(être/avoir/aller/voir/pouvoir/écrire/partir/sortir/connaître/vouloir/craindre/éteindre/envoyer 等)需核对过的表，暂未收。status=draft 待人工核验。",
+  "note": "动词变位复习卡的动词清单（老师讲过的动词）。type ∈ er|ir2|re（规则，conjugate.py 规则生成）| irregular（人工核对过的表，test_conjugate.py 逐格验证）。仍缺的不规则(écrire/partir/sortir/connaître/craindre/éteindre/envoyer 等)待补表。status=draft 待人工核验。",
   "status": "draft",
   "verbs": [
+    {"verb": "être", "type": "irregular", "zh": "是"},
+    {"verb": "avoir", "type": "irregular", "zh": "有"},
+    {"verb": "aller", "type": "irregular", "zh": "去"},
+    {"verb": "voir", "type": "irregular", "zh": "看见"},
+    {"verb": "pouvoir", "type": "irregular", "zh": "能够"},
+    {"verb": "vouloir", "type": "irregular", "zh": "想要"},
     {"verb": "finir", "type": "ir2", "zh": "完成"},
     {"verb": "attendre", "type": "re", "zh": "等待"},
     {"verb": "perdre", "type": "re", "zh": "丢失"},
