@@ -3325,6 +3325,26 @@
         },
         {
           "type": "checkpoint",
+          "id": "L22:practice:demo-rule-two-groups",
+          "front": "celui/celle/ceux/celles 和 ce/ceci/cela/ça 两组，怎么选？",
+          "back": "替代**某个具体名词**(人/物；有性数、不能裸用，后接 de/关系从句/-ci-là)→ celui/celle/ceux/celles；替代**一件事/一个想法/整个情况**(中性、无性数)→ ce/ceci/cela/ça。一句话：替代“某个可数、有性别的名词”用 celui 组；替代“一件事/一种情况”用 ce 组。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "demonstrative-two-groups",
+          "study_group": "demonstrative-two-groups",
+          "study_group_label": "指示代词·两组辨析",
+          "study_group_order": 40,
+          "study_order": 10,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
           "id": "L22:practice:process-correct-before-complex",
           "front": "你想到一个很复杂的法语句，但主干还不确定。此时先做什么？",
           "back": "先把意思降到自己能稳定控制的简单句，确保**正确**；复杂度是第二轮升级，不是第一轮赌出来的。",
@@ -3339,6 +3359,26 @@
           "parent_group": "sentence-building-process",
           "study_group": "sentence-building-process",
           "study_group_label": "造句流程",
+          "study_group_order": 40,
+          "study_order": 20,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:demo-noun-vs-situation",
+          "front": "「Pascal 那一辆(车)」和「这(件事)很复杂」分别用哪组？为什么？",
+          "back": "「那一辆车」=具体名词(阴/阳、单/复)→ celui 组：celle de Pascal / celui de Pascal，有性数、后接 de…；「这件事很复杂」=整个情况→ 中性 ce 组：C'est compliqué。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "demonstrative-two-groups",
+          "study_group": "demonstrative-two-groups",
+          "study_group_label": "指示代词·两组辨析",
           "study_group_order": 40,
           "study_order": 20,
           "curated": true
@@ -3361,6 +3401,86 @@
           "study_group_label": "造句流程",
           "study_group_order": 40,
           "study_order": 30,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:demo-cest-vrai",
+          "front": "「这(件事)是真的」___ vrai.（替代整件事，中性）",
+          "back": "整件事/想法用中性 ce：**C'est vrai**。不是具体名词，不用 celui。",
+          "answer": "C'est",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "demonstrative-two-groups",
+          "study_group": "demonstrative-two-groups",
+          "study_group_label": "指示代词·两组辨析",
+          "study_group_order": 40,
+          "study_order": 30,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:demo-celle-voiture",
+          "front": "Quelle voiture prends-tu ? — ___ de ma sœur.（替代具体的车）",
+          "back": "具体名词 la voiture(阴单)→ **celle**；后接 de 说明哪一辆。",
+          "answer": "Celle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "demonstrative-two-groups",
+          "study_group": "demonstrative-two-groups",
+          "study_group_label": "指示代词·两组辨析",
+          "study_group_order": 40,
+          "study_order": 40,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:demo-ceux-livres",
+          "front": "Quels livres préfères-tu ? — ___ de Victor Hugo.（替代具体的书，阳复）",
+          "back": "具体名词 les livres(阳复)→ **ceux**。",
+          "answer": "Ceux",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "demonstrative-two-groups",
+          "study_group": "demonstrative-two-groups",
+          "study_group_label": "指示代词·两组辨析",
+          "study_group_order": 40,
+          "study_order": 50,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L22:practice:demo-ca-depend",
+          "front": "「看情况 / 视情况而定」___ dépend.（替代整个情况，中性）",
+          "back": "整个情况用中性 ça：**Ça dépend**（口语固定说法）。",
+          "answer": "Ça",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "demonstrative-two-groups",
+          "study_group": "demonstrative-two-groups",
+          "study_group_label": "指示代词·两组辨析",
+          "study_group_order": 40,
+          "study_order": 60,
           "curated": true
         },
         {

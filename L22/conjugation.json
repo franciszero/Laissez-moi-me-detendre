@@ -1,0 +1,28 @@
+{
+  "lesson": "L22",
+  "note": "动词变位复习卡的动词清单（老师讲过的规则动词）。type ∈ er|ir2|re，答案键由 conjugate.py 确定性生成。不规则动词(être/avoir/aller/voir/pouvoir/écrire/partir/sortir/connaître/vouloir/craindre/éteindre/envoyer 等)需核对过的表，暂未收。status=draft 待人工核验。",
+  "status": "draft",
+  "verbs": [
+    {"verb": "finir", "type": "ir2", "zh": "完成"},
+    {"verb": "attendre", "type": "re", "zh": "等待"},
+    {"verb": "perdre", "type": "re", "zh": "丢失"},
+    {"verb": "rendre", "type": "re", "zh": "归还；使得"},
+    {"verb": "changer", "type": "er", "zh": "更换"},
+    {"verb": "gagner", "type": "er", "zh": "赢得；挣"},
+    {"verb": "visiter", "type": "er", "zh": "参观"},
+    {"verb": "fermer", "type": "er", "zh": "关闭"},
+    {"verb": "consommer", "type": "er", "zh": "消耗"},
+    {"verb": "coûter", "type": "er", "zh": "花费"},
+    {"verb": "circuler", "type": "er", "zh": "（车）通行"},
+    {"verb": "stationner", "type": "er", "zh": "停车"},
+    {"verb": "rentrer", "type": "er", "zh": "回家"},
+    {"verb": "arriver", "type": "er", "zh": "到达"},
+    {"verb": "trouver", "type": "er", "zh": "找到"},
+    {"verb": "téléphoner", "type": "er", "zh": "打电话"},
+    {"verb": "opposer", "type": "er", "zh": "对立；对照"},
+    {"verb": "tirer", "type": "er", "zh": "拉；拽"},
+    {"verb": "disposer", "type": "er", "zh": "拥有；支配"},
+    {"verb": "voyager", "type": "er", "zh": "旅行"},
+    {"verb": "oublier", "type": "er", "zh": "忘记"}
+  ]
+}

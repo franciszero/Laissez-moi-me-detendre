@@ -89,7 +89,11 @@
           "front": "构成 01/22 · parler，passé composé，je → ___",
           "back": "passé composé = avoir 现在时 + 过去分词：**j'ai parlé**。这里的时间锚在过去。",
           "answer": "j'ai parlé",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-parler-futur-anterieur",
@@ -97,7 +101,11 @@
           "front": "构成 02/22 · parler，futur antérieur，je → ___",
           "back": "futur antérieur = avoir 的 futur simple + 过去分词：**j'aurai parlé**。未来助动词标时间，过去分词标完成。",
           "answer": "j'aurai parlé",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-finir-passe-compose",
@@ -105,7 +113,11 @@
           "front": "构成 03/22 · finir，passé composé，je → ___",
           "back": "avoir 现在时 + fini：**j'ai fini**。不要把 ai 换成将来的 aurai。",
           "answer": "j'ai fini",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-finir-imparfait",
@@ -113,7 +125,11 @@
           "front": "构成 04/22 · finir，imparfait，je → ___",
           "back": "从 nous finissons 去掉 -ons 得 finiss-，再加 -ais：**je finissais**。",
           "answer": "je finissais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-finir-futur-simple",
@@ -121,7 +137,11 @@
           "front": "构成 05/22 · finir，futur simple，je → ___",
           "back": "将来词根 finir- + je 的将来词尾 -ai：**je finirai**。",
           "answer": "je finirai",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-finir-futur-anterieur",
@@ -129,7 +149,11 @@
           "front": "构成 06/22 · finir，futur antérieur，je → ___",
           "back": "avoir 的 futur simple + fini：**j'aurai fini**。它与 j'ai fini 的关键差别在助动词。",
           "answer": "j'aurai fini",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-finir-conditionnel",
@@ -137,7 +161,11 @@
           "front": "构成 07/22 · finir，conditionnel présent，je → ___",
           "back": "将来词根 finir- + imparfait 词尾 -ais：**je finirais**。",
           "answer": "je finirais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-avoir-passe-compose",
@@ -145,7 +173,11 @@
           "front": "构成 08/22 · avoir，passé composé，je → ___",
           "back": "avoir 自己的 passé composé 仍用 avoir 作助动词：**j'ai eu**。",
           "answer": "j'ai eu",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-avoir-imparfait",
@@ -153,7 +185,11 @@
           "front": "构成 09/22 · avoir，imparfait，je → ___",
           "back": "avoir 的 imparfait：**j'avais**。注意 -ais，不是 futur 的 -ai。",
           "answer": "j'avais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-avoir-futur-simple",
@@ -161,7 +197,11 @@
           "front": "构成 10/22 · avoir，futur simple，je → ___",
           "back": "不规则词根 aur- + -ai：**j'aurai**。",
           "answer": "j'aurai",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-avoir-futur-anterieur",
@@ -169,7 +209,11 @@
           "front": "构成 11/22 · avoir，futur antérieur，je → ___",
           "back": "avoir 的 futur simple + eu：**j'aurai eu**。第一个 avoir 是助动词，eu 是 avoir 的过去分词。",
           "answer": "j'aurai eu",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-avoir-conditionnel",
@@ -177,7 +221,11 @@
           "front": "构成 12/22 · avoir，conditionnel présent，je → ___",
           "back": "不规则将来词根 aur- + imparfait 词尾 -ais：**j'aurais**。",
           "answer": "j'aurais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-etre-passe-compose",
@@ -185,7 +233,11 @@
           "front": "构成 13/22 · être，passé composé，je → ___",
           "back": "être 的 passé composé：**j'ai été**。助动词仍是 avoir。",
           "answer": "j'ai été",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-etre-imparfait",
@@ -193,7 +245,11 @@
           "front": "构成 14/22 · être，imparfait，je → ___",
           "back": "être 的 imparfait 是特殊词干 ét-：**j'étais**。",
           "answer": "j'étais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-etre-futur-simple",
@@ -201,7 +257,11 @@
           "front": "构成 15/22 · être，futur simple，je → ___",
           "back": "不规则词根 ser- + -ai：**je serai**。",
           "answer": "je serai",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-etre-futur-anterieur",
@@ -209,7 +269,11 @@
           "front": "构成 16/22 · être，futur antérieur，je → ___",
           "back": "avoir 的 futur simple + été：**j'aurai été**。不要误写成 je serai été。",
           "answer": "j'aurai été",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-etre-conditionnel",
@@ -217,7 +281,11 @@
           "front": "构成 17/22 · être，conditionnel présent，je → ___",
           "back": "不规则将来词根 ser- + imparfait 词尾 -ais：**je serais**。",
           "answer": "je serais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-aller-passe-compose",
@@ -225,7 +293,11 @@
           "front": "构成 18/22 · aller，passé composé，je（阳性说话人）→ ___",
           "back": "aller 的复合时态用 être：**je suis allé**。女性说话人写 allée。",
           "answer": "je suis allé",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-aller-imparfait",
@@ -233,7 +305,11 @@
           "front": "构成 19/22 · aller，imparfait，je → ___",
           "back": "aller 的 imparfait：**j'allais**。这是过去的背景、习惯或进行状态。",
           "answer": "j'allais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-aller-futur-simple",
@@ -241,7 +317,11 @@
           "front": "构成 20/22 · aller，futur simple，je → ___",
           "back": "不规则词根 ir- + -ai：**j'irai**。不要用 vais 来替代要求的 futur simple。",
           "answer": "j'irai",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-aller-futur-anterieur",
@@ -249,7 +329,11 @@
           "front": "构成 21/22 · aller，futur antérieur，je（阳性说话人）→ ___",
           "back": "aller 用 être：**je serai allé**。serai 表未来，allé 表完成，并与主语配合。",
           "answer": "je serai allé",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "form-aller-conditionnel",
@@ -257,7 +341,11 @@
           "front": "构成 22/22 · aller，conditionnel présent，je → ___",
           "back": "不规则将来词根 ir- + imparfait 词尾 -ais：**j'irais**。",
           "answer": "j'irais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "root-avoir-aur",
@@ -265,7 +353,11 @@
           "front": "词根 01/09 · avoir 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**aur-**：j'aurai / j'aurais。词根不变，词尾决定 futur simple 或 conditionnel。",
           "answer": "aur",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-etre-ser",
@@ -273,7 +365,11 @@
           "front": "词根 02/09 · être 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**ser-**：je serai / je serais。",
           "answer": "ser",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-aller-ir",
@@ -281,7 +377,11 @@
           "front": "词根 03/09 · aller 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**ir-**：j'irai / j'irais。不要从 vais 推导。",
           "answer": "ir",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-faire-fer",
@@ -289,7 +389,11 @@
           "front": "词根 04/09 · faire 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**fer-**：je ferai / je ferais。",
           "answer": "fer",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-devoir-devr",
@@ -297,7 +401,11 @@
           "front": "词根 05/09 · devoir 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**devr-**：je devrai / je devrais。",
           "answer": "devr",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-savoir-saur",
@@ -305,7 +413,11 @@
           "front": "词根 06/09 · savoir 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**saur-**：je saurai / je saurais。",
           "answer": "saur",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-venir-viendr",
@@ -313,7 +425,11 @@
           "front": "词根 07/09 · venir 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**viendr-**：je viendrai / je viendrais。",
           "answer": "viendr",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-voir-verr",
@@ -321,7 +437,11 @@
           "front": "词根 08/09 · voir 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**verr-**：je verrai / je verrais。注意双 r。",
           "answer": "verr",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "root-vouloir-voudr",
@@ -329,7 +449,11 @@
           "front": "词根 09/09 · vouloir 的 futur/conditionnel 词根（不写连字符）：___",
           "back": "**voudr-**：je voudrai / je voudrais。",
           "answer": "voudr",
-          "tags": ["conjugation", "irregular", "tense_system"]
+          "tags": [
+            "conjugation",
+            "irregular",
+            "tense_system"
+          ]
         },
         {
           "id": "contrast-parler-imparfait",
@@ -337,7 +461,11 @@
           "front": "辨析 01/07 · 过去的背景或习惯：parler，imparfait，je → ___",
           "back": "**je parlais**：parl- + imparfait 词尾 -ais。",
           "answer": "je parlais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "contrast-parler-futur-simple",
@@ -345,7 +473,11 @@
           "front": "辨析 02/07 · 将来会发生：parler，futur simple，je → ___",
           "back": "**je parlerai**：parler- + futur simple 词尾 -ai。",
           "answer": "je parlerai",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "contrast-parler-conditionnel",
@@ -353,7 +485,11 @@
           "front": "辨析 03/07 · 假设或委婉：parler，conditionnel présent，je → ___",
           "back": "**je parlerais**：parler- + imparfait 系列词尾 -ais。",
           "answer": "je parlerais",
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "contrast-parler-triad-rule",
@@ -361,7 +497,11 @@
           "front": "辨析 04/07 · je parlais / je parlerai / je parlerais：三者的时间、词根和词尾分别差在哪里？",
           "back": "核心区别：je parlais 是 imparfait，过去词干 parl- + -ais；je parlerai 是 futur simple，将来词根 parler- + -ai；je parlerais 是 conditionnel，将来词根 parler- + imparfait 词尾 -ais。",
           "answer": null,
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "contrast-conditionnel-formula",
@@ -369,7 +509,11 @@
           "front": "辨析 05/07 · 为什么说 conditionnel présent 是“半个将来时 + 半个未完成过去时”？",
           "back": "规则：conditionnel présent 使用 futur simple 的词根，但接 imparfait 的词尾 -ais, -ais, -ait, -ions, -iez, -aient。它不是把两个时态随便混写，而是一套固定构成。",
           "answer": null,
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "contrast-future-vs-conditional",
@@ -377,7 +521,11 @@
           "front": "辨析 06/07 · futur simple 与 conditionnel présent 共用什么？真正决定二者身份的是什么？",
           "back": "二者共用将来词根。核心区别在词尾：futur simple 用 -ai, -as, -a, -ons, -ez, -ont；conditionnel 用 imparfait 系列 -ais, -ais, -ait, -ions, -iez, -aient。",
           "answer": null,
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         },
         {
           "id": "contrast-future-anterior-vs-passe-compose",
@@ -385,7 +533,11 @@
           "front": "辨析 07/07 · j'aurai parlé 与 j'ai parlé 都是“助动词 + 过去分词”，为什么不是同一个时态？",
           "back": "核心区别在助动词的时态：j'ai parlé 的 ai 是 présent，因此整体是 passé composé；j'aurai parlé 的 aurai 是 futur simple，因此整体是 futur antérieur。过去分词 parlé 相同，时间由助动词承担。",
           "answer": null,
-          "tags": ["conjugation", "tense_system", "teacher_corrected_error"]
+          "tags": [
+            "conjugation",
+            "tense_system",
+            "teacher_corrected_error"
+          ]
         }
       ]
     },
@@ -395,32 +547,292 @@
       "order": 20,
       "species": [],
       "practice_cards": [
-        {"id":"pronoun-do-marie","order":10,"front":"宾语替换 01/26 · Je vois Marie. → Je ___ vois.","back":"voir 直接接人，Marie 是阴性单数直接宾语：**Je la vois.**","answer":"la","tags":["pronoun_automation","direct_object"]},
-        {"id":"pronoun-do-paul","order":20,"front":"宾语替换 02/26 · Je vois Paul. → Je ___ vois.","back":"voir 直接接人，Paul 是阳性单数直接宾语：**Je le vois.**","answer":"le","tags":["pronoun_automation","direct_object"]},
-        {"id":"pronoun-do-friends","order":30,"front":"宾语替换 03/26 · Je vois mes amis. → Je ___ vois.","back":"复数直接宾语用 **les**：Je les vois.","answer":"les","tags":["pronoun_automation","direct_object"]},
-        {"id":"pronoun-io-marie","order":40,"front":"宾语替换 04/26 · Je téléphone à Marie. → Je ___ téléphone.","back":"téléphoner **à quelqu’un**，单数间接宾语用 **lui**。","answer":"lui","tags":["pronoun_automation","indirect_object"]},
-        {"id":"pronoun-io-parents","order":50,"front":"宾语替换 05/26 · Je téléphone à mes parents. → Je ___ téléphone.","back":"à + 复数的人，用 **leur**：Je leur téléphone.","answer":"leur","tags":["pronoun_automation","indirect_object"]},
-        {"id":"pronoun-en-project","order":60,"front":"宾语替换 06/26 · Je parle de ce projet. → J'___ parle.","back":"de + 事物通常用 **en**：J'en parle.","answer":"en","tags":["pronoun_automation","en"]},
-        {"id":"pronoun-y-holidays","order":70,"front":"宾语替换 07/26 · Je pense à mes vacances. → J'___ pense.","back":"penser à + 事物，用 **y**：J'y pense.","answer":"y","tags":["pronoun_automation","y"]},
-        {"id":"pronoun-y-paris","order":80,"front":"宾语替换 08/26 · Je vais à Paris. → J'___ vais.","back":"à + 地点用 **y**：J'y vais.","answer":"y","tags":["pronoun_automation","y"]},
-        {"id":"pronoun-en-bread","order":90,"front":"宾语替换 09/26 · Je veux du pain. → J'___ veux.","back":"du pain 是 de + 数量/部分概念，用 **en**：J'en veux.","answer":"en","tags":["pronoun_automation","en"]},
-        {"id":"pronoun-en-apples","order":100,"front":"宾语替换 10/26 · J'achète trois pommes. → J'___ achète trois.","back":"数量表达保留数量词，名词用 **en** 代替：J'en achète trois.","answer":"en","tags":["pronoun_automation","en"]},
-        {"id":"pronoun-interface-attendre","order":110,"front":"动词接口 11/26 · attendre Paul：Je ___ attends.（le / lui）","back":"attendre quelqu'un 不带 à，是直接宾语：**Je l'attends.** 此处填 le。","answer":"le","tags":["pronoun_automation","verb_interface"]},
-        {"id":"pronoun-interface-ecouter","order":120,"front":"动词接口 12/26 · écouter le professeur：Je ___ écoute.（le / lui）","back":"écouter quelqu'un 不带 à，是直接宾语：**Je l'écoute.** 此处填 le。","answer":"le","tags":["pronoun_automation","verb_interface"]},
-        {"id":"pronoun-interface-repondre","order":130,"front":"动词接口 13/26 · répondre au professeur：Je ___ réponds.（le / lui）","back":"répondre **à quelqu'un**，单数间接宾语用 **lui**。","answer":"lui","tags":["pronoun_automation","verb_interface"]},
-        {"id":"pronoun-interface-ecrire","order":140,"front":"动词接口 14/26 · écrire à mes parents：Je ___ écris.（les / leur）","back":"écrire **à quelqu'un**，复数间接宾语用 **leur**。","answer":"leur","tags":["pronoun_automation","verb_interface"]},
-        {"id":"pronoun-interface-telephoner","order":150,"front":"动词接口 15/26 · téléphoner ___ quelqu'un：缺哪个介词？","back":"固定接口是 téléphoner **à** quelqu'un，因此替换人时用 lui/leur。","answer":"à","tags":["pronoun_automation","verb_interface"]},
-        {"id":"pronoun-interface-voir","order":160,"front":"动词接口 16/26 · voir ___ quelqu'un：直接接还是加 à？填“直接”或“à”。","back":"voir quelqu'un **直接接宾语**，因此替换时用 le/la/les。","answer":"直接","tags":["pronoun_automation","verb_interface"]},
-        {"id":"pronoun-demonstrative-book","order":170,"front":"指示代词 17/26 · Quel livre veux-tu ? — ___ de Victor Hugo.","back":"livre 阳性单数，用 **celui**；后接 de 补足先行词信息。","answer":"celui","tags":["pronoun_automation","demonstrative_pronoun"]},
-        {"id":"pronoun-demonstrative-car","order":180,"front":"指示代词 18/26 · Quelle voiture prends-tu ? — ___ de ma sœur.","back":"voiture 阴性单数，用 **celle**。","answer":"celle","tags":["pronoun_automation","demonstrative_pronoun"]},
-        {"id":"pronoun-demonstrative-films","order":190,"front":"指示代词 19/26 · Quels films préfères-tu ? — ___ de Truffaut.","back":"films 阳性复数，用 **ceux**。","answer":"ceux","tags":["pronoun_automation","demonstrative_pronoun"]},
-        {"id":"pronoun-demonstrative-houses","order":200,"front":"指示代词 20/26 · Quelles maisons regardes-tu ? — ___ près de l'église.","back":"maisons 阴性复数，用 **celles**。","answer":"celles","tags":["pronoun_automation","demonstrative_pronoun"]},
-        {"id":"pronoun-demonstrative-amelie","order":210,"front":"指示代词 21/26 · Je ne prends pas ma voiture ; je prends ___ d'Amélie.","back":"被代替的是 la voiture，阴性单数用 **celle**。","answer":"celle","tags":["pronoun_automation","demonstrative_pronoun"]},
-        {"id":"pronoun-agreement-seen","order":220,"front":"复合时态配合 22/26 · Marie ? Je l'ai ___ hier.（voir）","back":"直接宾语 l' 指 Marie，提前到 avoir 之前，过去分词配合：**vue**。","answer":"vue","tags":["pronoun_automation","past_participle_agreement"]},
-        {"id":"pronoun-agreement-friends","order":230,"front":"复合时态配合 23/26 · Mes amis ? Je les ai ___ hier.（voir）","back":"les 指阳性复数且在过去分词前：**vus**。","answer":"vus","tags":["pronoun_automation","past_participle_agreement"]},
-        {"id":"pronoun-agreement-letters","order":240,"front":"复合时态配合 24/26 · Les lettres ? Je les ai ___.（écrire）","back":"les 指阴性复数 lettres，直接宾语提前：**écrites**。","answer":"écrites","tags":["pronoun_automation","past_participle_agreement"]},
-        {"id":"pronoun-double-book","order":250,"front":"双宾语顺序 25/26 · Je donne le livre à Marie. → Je ___ donne.（le + lui）","back":"两个代词都在动词前，顺序是 **le lui**：Je le lui donne.","answer":"le lui","tags":["pronoun_automation","double_object_order"]},
-        {"id":"pronoun-double-letters","order":260,"front":"双宾语顺序 26/26 · J'envoie les lettres à mes parents. → Je ___ envoie.（les + leur）","back":"顺序是 **les leur**：Je les leur envoie.","answer":"les leur","tags":["pronoun_automation","double_object_order"]}
+        {
+          "id": "pronoun-do-marie",
+          "order": 10,
+          "front": "宾语替换 01/26 · Je vois Marie. → Je ___ vois.",
+          "back": "voir 直接接人，Marie 是阴性单数直接宾语：**Je la vois.**",
+          "answer": "la",
+          "tags": [
+            "pronoun_automation",
+            "direct_object"
+          ]
+        },
+        {
+          "id": "pronoun-do-paul",
+          "order": 20,
+          "front": "宾语替换 02/26 · Je vois Paul. → Je ___ vois.",
+          "back": "voir 直接接人，Paul 是阳性单数直接宾语：**Je le vois.**",
+          "answer": "le",
+          "tags": [
+            "pronoun_automation",
+            "direct_object"
+          ]
+        },
+        {
+          "id": "pronoun-do-friends",
+          "order": 30,
+          "front": "宾语替换 03/26 · Je vois mes amis. → Je ___ vois.",
+          "back": "复数直接宾语用 **les**：Je les vois.",
+          "answer": "les",
+          "tags": [
+            "pronoun_automation",
+            "direct_object"
+          ]
+        },
+        {
+          "id": "pronoun-io-marie",
+          "order": 40,
+          "front": "宾语替换 04/26 · Je téléphone à Marie. → Je ___ téléphone.",
+          "back": "téléphoner **à quelqu’un**，单数间接宾语用 **lui**。",
+          "answer": "lui",
+          "tags": [
+            "pronoun_automation",
+            "indirect_object"
+          ]
+        },
+        {
+          "id": "pronoun-io-parents",
+          "order": 50,
+          "front": "宾语替换 05/26 · Je téléphone à mes parents. → Je ___ téléphone.",
+          "back": "à + 复数的人，用 **leur**：Je leur téléphone.",
+          "answer": "leur",
+          "tags": [
+            "pronoun_automation",
+            "indirect_object"
+          ]
+        },
+        {
+          "id": "pronoun-en-project",
+          "order": 60,
+          "front": "宾语替换 06/26 · Je parle de ce projet. → J'___ parle.",
+          "back": "de + 事物通常用 **en**：J'en parle.",
+          "answer": "en",
+          "tags": [
+            "pronoun_automation",
+            "en"
+          ]
+        },
+        {
+          "id": "pronoun-y-holidays",
+          "order": 70,
+          "front": "宾语替换 07/26 · Je pense à mes vacances. → J'___ pense.",
+          "back": "penser à + 事物，用 **y**：J'y pense.",
+          "answer": "y",
+          "tags": [
+            "pronoun_automation",
+            "y"
+          ]
+        },
+        {
+          "id": "pronoun-y-paris",
+          "order": 80,
+          "front": "宾语替换 08/26 · Je vais à Paris. → J'___ vais.",
+          "back": "à + 地点用 **y**：J'y vais.",
+          "answer": "y",
+          "tags": [
+            "pronoun_automation",
+            "y"
+          ]
+        },
+        {
+          "id": "pronoun-en-bread",
+          "order": 90,
+          "front": "宾语替换 09/26 · Je veux du pain. → J'___ veux.",
+          "back": "du pain 是 de + 数量/部分概念，用 **en**：J'en veux.",
+          "answer": "en",
+          "tags": [
+            "pronoun_automation",
+            "en"
+          ]
+        },
+        {
+          "id": "pronoun-en-apples",
+          "order": 100,
+          "front": "宾语替换 10/26 · J'achète trois pommes. → J'___ achète trois.",
+          "back": "数量表达保留数量词，名词用 **en** 代替：J'en achète trois.",
+          "answer": "en",
+          "tags": [
+            "pronoun_automation",
+            "en"
+          ]
+        },
+        {
+          "id": "pronoun-interface-attendre",
+          "order": 110,
+          "front": "动词接口 11/26 · attendre Paul：Je ___ attends.（le / lui）",
+          "back": "attendre quelqu'un 不带 à，是直接宾语：**Je l'attends.** 此处填 le。",
+          "answer": "le",
+          "tags": [
+            "pronoun_automation",
+            "verb_interface"
+          ]
+        },
+        {
+          "id": "pronoun-interface-ecouter",
+          "order": 120,
+          "front": "动词接口 12/26 · écouter le professeur：Je ___ écoute.（le / lui）",
+          "back": "écouter quelqu'un 不带 à，是直接宾语：**Je l'écoute.** 此处填 le。",
+          "answer": "le",
+          "tags": [
+            "pronoun_automation",
+            "verb_interface"
+          ]
+        },
+        {
+          "id": "pronoun-interface-repondre",
+          "order": 130,
+          "front": "动词接口 13/26 · répondre au professeur：Je ___ réponds.（le / lui）",
+          "back": "répondre **à quelqu'un**，单数间接宾语用 **lui**。",
+          "answer": "lui",
+          "tags": [
+            "pronoun_automation",
+            "verb_interface"
+          ]
+        },
+        {
+          "id": "pronoun-interface-ecrire",
+          "order": 140,
+          "front": "动词接口 14/26 · écrire à mes parents：Je ___ écris.（les / leur）",
+          "back": "écrire **à quelqu'un**，复数间接宾语用 **leur**。",
+          "answer": "leur",
+          "tags": [
+            "pronoun_automation",
+            "verb_interface"
+          ]
+        },
+        {
+          "id": "pronoun-interface-telephoner",
+          "order": 150,
+          "front": "动词接口 15/26 · téléphoner ___ quelqu'un：缺哪个介词？",
+          "back": "固定接口是 téléphoner **à** quelqu'un，因此替换人时用 lui/leur。",
+          "answer": "à",
+          "tags": [
+            "pronoun_automation",
+            "verb_interface"
+          ]
+        },
+        {
+          "id": "pronoun-interface-voir",
+          "order": 160,
+          "front": "动词接口 16/26 · voir ___ quelqu'un：直接接还是加 à？填“直接”或“à”。",
+          "back": "voir quelqu'un **直接接宾语**，因此替换时用 le/la/les。",
+          "answer": "直接",
+          "tags": [
+            "pronoun_automation",
+            "verb_interface"
+          ]
+        },
+        {
+          "id": "pronoun-demonstrative-book",
+          "order": 170,
+          "front": "指示代词 17/26 · Quel livre veux-tu ? — ___ de Victor Hugo.",
+          "back": "livre 阳性单数，用 **celui**；后接 de 补足先行词信息。",
+          "answer": "celui",
+          "tags": [
+            "pronoun_automation",
+            "demonstrative_pronoun"
+          ]
+        },
+        {
+          "id": "pronoun-demonstrative-car",
+          "order": 180,
+          "front": "指示代词 18/26 · Quelle voiture prends-tu ? — ___ de ma sœur.",
+          "back": "voiture 阴性单数，用 **celle**。",
+          "answer": "celle",
+          "tags": [
+            "pronoun_automation",
+            "demonstrative_pronoun"
+          ]
+        },
+        {
+          "id": "pronoun-demonstrative-films",
+          "order": 190,
+          "front": "指示代词 19/26 · Quels films préfères-tu ? — ___ de Truffaut.",
+          "back": "films 阳性复数，用 **ceux**。",
+          "answer": "ceux",
+          "tags": [
+            "pronoun_automation",
+            "demonstrative_pronoun"
+          ]
+        },
+        {
+          "id": "pronoun-demonstrative-houses",
+          "order": 200,
+          "front": "指示代词 20/26 · Quelles maisons regardes-tu ? — ___ près de l'église.",
+          "back": "maisons 阴性复数，用 **celles**。",
+          "answer": "celles",
+          "tags": [
+            "pronoun_automation",
+            "demonstrative_pronoun"
+          ]
+        },
+        {
+          "id": "pronoun-demonstrative-amelie",
+          "order": 210,
+          "front": "指示代词 21/26 · Je ne prends pas ma voiture ; je prends ___ d'Amélie.",
+          "back": "被代替的是 la voiture，阴性单数用 **celle**。",
+          "answer": "celle",
+          "tags": [
+            "pronoun_automation",
+            "demonstrative_pronoun"
+          ]
+        },
+        {
+          "id": "pronoun-agreement-seen",
+          "order": 220,
+          "front": "复合时态配合 22/26 · Marie ? Je l'ai ___ hier.（voir）",
+          "back": "直接宾语 l' 指 Marie，提前到 avoir 之前，过去分词配合：**vue**。",
+          "answer": "vue",
+          "tags": [
+            "pronoun_automation",
+            "past_participle_agreement"
+          ]
+        },
+        {
+          "id": "pronoun-agreement-friends",
+          "order": 230,
+          "front": "复合时态配合 23/26 · Mes amis ? Je les ai ___ hier.（voir）",
+          "back": "les 指阳性复数且在过去分词前：**vus**。",
+          "answer": "vus",
+          "tags": [
+            "pronoun_automation",
+            "past_participle_agreement"
+          ]
+        },
+        {
+          "id": "pronoun-agreement-letters",
+          "order": 240,
+          "front": "复合时态配合 24/26 · Les lettres ? Je les ai ___.（écrire）",
+          "back": "les 指阴性复数 lettres，直接宾语提前：**écrites**。",
+          "answer": "écrites",
+          "tags": [
+            "pronoun_automation",
+            "past_participle_agreement"
+          ]
+        },
+        {
+          "id": "pronoun-double-book",
+          "order": 250,
+          "front": "双宾语顺序 25/26 · Je donne le livre à Marie. → Je ___ donne.（le + lui）",
+          "back": "两个代词都在动词前，顺序是 **le lui**：Je le lui donne.",
+          "answer": "le lui",
+          "tags": [
+            "pronoun_automation",
+            "double_object_order"
+          ]
+        },
+        {
+          "id": "pronoun-double-letters",
+          "order": 260,
+          "front": "双宾语顺序 26/26 · J'envoie les lettres à mes parents. → Je ___ envoie.（les + leur）",
+          "back": "顺序是 **les leur**：Je les leur envoie.",
+          "answer": "les leur",
+          "tags": [
+            "pronoun_automation",
+            "double_object_order"
+          ]
+        }
       ]
     },
     {
@@ -429,24 +841,204 @@
       "order": 30,
       "species": [],
       "practice_cards": [
-        {"id":"skeleton-opposer-subject","order":10,"front":"骨架 01/18 · On opposait volontiers la vie de province à celle de la capitale.\n主语 = ___","back":"先去掉副词和修饰语，主语是 **On**。","answer":"On","tags":["sentence_skeleton","subject"]},
-        {"id":"skeleton-opposer-verb","order":20,"front":"骨架 02/18 · On opposait volontiers la vie de province à celle de la capitale.\n变位动词 = ___","back":"主干是 On **opposait** A à B。","answer":"opposait","tags":["sentence_skeleton","verb"]},
-        {"id":"skeleton-opposer-complement","order":30,"front":"骨架 03/18 · On opposait volontiers la vie de province à celle de la capitale.\nA à B = ___","back":"opposer 的两个核心项是 **la vie de province à celle de la capitale**。","answer":"la vie de province à celle de la capitale","tags":["sentence_skeleton","complement"]},
-        {"id":"skeleton-media-subject","order":40,"front":"骨架 04/18 · Le développement des médias a tiré la province de son isolement.\n主语 = ___","back":"中心名词 développement 连同补足语构成主语：**Le développement des médias**。","answer":"Le développement des médias","tags":["sentence_skeleton","subject"]},
-        {"id":"skeleton-media-verb","order":50,"front":"骨架 05/18 · Le développement des médias a tiré la province de son isolement.\n变位动词 = ___","back":"复合时态动词组是 **a tiré**。","answer":"a tiré","tags":["sentence_skeleton","verb"]},
-        {"id":"skeleton-media-complement","order":60,"front":"骨架 06/18 · Le développement des médias a tiré la province de son isolement.\nA de B = ___","back":"tirer A de B 的核心补语是 **la province de son isolement**。","answer":"la province de son isolement","tags":["sentence_skeleton","complement"]},
-        {"id":"skeleton-transport-subject","order":70,"front":"骨架 07/18 · Le progrès des transports permet des liaisons entre les villes.\n主语 = ___","back":"主语是 **Le progrès des transports**。","answer":"Le progrès des transports","tags":["sentence_skeleton","subject"]},
-        {"id":"skeleton-transport-verb","order":80,"front":"骨架 08/18 · Le progrès des transports permet des liaisons entre les villes.\n变位动词 = ___","back":"变位动词是 **permet**。","answer":"permet","tags":["sentence_skeleton","verb"]},
-        {"id":"skeleton-transport-complement","order":90,"front":"骨架 09/18 · Le progrès des transports permet des liaisons entre les villes.\n直接宾语 = ___","back":"permettre 后的直接宾语是 **des liaisons entre les villes**。","answer":"des liaisons entre les villes","tags":["sentence_skeleton","direct_object"]},
-        {"id":"skeleton-decentralisation-subject","order":100,"front":"骨架 10/18 · La décentralisation est à l'ordre du jour.\n主语 = ___","back":"主语是 **La décentralisation**。","answer":"La décentralisation","tags":["sentence_skeleton","subject"]},
-        {"id":"skeleton-decentralisation-verb","order":110,"front":"骨架 11/18 · La décentralisation est à l'ordre du jour.\n变位动词 = ___","back":"变位动词是 **est**。","answer":"est","tags":["sentence_skeleton","verb"]},
-        {"id":"skeleton-decentralisation-complement","order":120,"front":"骨架 12/18 · La décentralisation est à l'ordre du jour.\n补语 = ___","back":"固定表达的补语是 **à l'ordre du jour**。","answer":"à l'ordre du jour","tags":["sentence_skeleton","complement"]},
-        {"id":"skeleton-industries-subject","order":130,"front":"骨架 13/18 · De grandes industries s'installent en province.\n主语 = ___","back":"主语是 **De grandes industries**。","answer":"De grandes industries","tags":["sentence_skeleton","subject"]},
-        {"id":"skeleton-industries-verb","order":140,"front":"骨架 14/18 · De grandes industries s'installent en province.\n变位动词 = ___","back":"代动词整体是 **s'installent**。","answer":"s'installent","tags":["sentence_skeleton","verb"]},
-        {"id":"skeleton-industries-complement","order":150,"front":"骨架 15/18 · De grandes industries s'installent en province.\n地点补语 = ___","back":"地点补语是 **en province**，不是 à la province。","answer":"en province","tags":["sentence_skeleton","complement"]},
-        {"id":"skeleton-powers-subject","order":160,"front":"骨架 16/18 · La province dispose de pouvoirs plus importants.\n主语 = ___","back":"主语是 **La province**。","answer":"La province","tags":["sentence_skeleton","subject"]},
-        {"id":"skeleton-powers-verb","order":170,"front":"骨架 17/18 · La province dispose de pouvoirs plus importants.\n变位动词 = ___","back":"变位动词是 **dispose**；随后必须接 de。","answer":"dispose","tags":["sentence_skeleton","verb"]},
-        {"id":"skeleton-powers-complement","order":180,"front":"骨架 18/18 · La province dispose de pouvoirs plus importants.\n补语 = ___","back":"disposer de 的补语是 **de pouvoirs plus importants**。","answer":"de pouvoirs plus importants","tags":["sentence_skeleton","complement"]}
+        {
+          "id": "skeleton-opposer-subject",
+          "order": 10,
+          "front": "骨架 01/18 · On opposait volontiers la vie de province à celle de la capitale.\n主语 = ___",
+          "back": "先去掉副词和修饰语，主语是 **On**。",
+          "answer": "On",
+          "tags": [
+            "sentence_skeleton",
+            "subject"
+          ]
+        },
+        {
+          "id": "skeleton-opposer-verb",
+          "order": 20,
+          "front": "骨架 02/18 · On opposait volontiers la vie de province à celle de la capitale.\n变位动词 = ___",
+          "back": "主干是 On **opposait** A à B。",
+          "answer": "opposait",
+          "tags": [
+            "sentence_skeleton",
+            "verb"
+          ]
+        },
+        {
+          "id": "skeleton-opposer-complement",
+          "order": 30,
+          "front": "骨架 03/18 · On opposait volontiers la vie de province à celle de la capitale.\nA à B = ___",
+          "back": "opposer 的两个核心项是 **la vie de province à celle de la capitale**。",
+          "answer": "la vie de province à celle de la capitale",
+          "tags": [
+            "sentence_skeleton",
+            "complement"
+          ]
+        },
+        {
+          "id": "skeleton-media-subject",
+          "order": 40,
+          "front": "骨架 04/18 · Le développement des médias a tiré la province de son isolement.\n主语 = ___",
+          "back": "中心名词 développement 连同补足语构成主语：**Le développement des médias**。",
+          "answer": "Le développement des médias",
+          "tags": [
+            "sentence_skeleton",
+            "subject"
+          ]
+        },
+        {
+          "id": "skeleton-media-verb",
+          "order": 50,
+          "front": "骨架 05/18 · Le développement des médias a tiré la province de son isolement.\n变位动词 = ___",
+          "back": "复合时态动词组是 **a tiré**。",
+          "answer": "a tiré",
+          "tags": [
+            "sentence_skeleton",
+            "verb"
+          ]
+        },
+        {
+          "id": "skeleton-media-complement",
+          "order": 60,
+          "front": "骨架 06/18 · Le développement des médias a tiré la province de son isolement.\nA de B = ___",
+          "back": "tirer A de B 的核心补语是 **la province de son isolement**。",
+          "answer": "la province de son isolement",
+          "tags": [
+            "sentence_skeleton",
+            "complement"
+          ]
+        },
+        {
+          "id": "skeleton-transport-subject",
+          "order": 70,
+          "front": "骨架 07/18 · Le progrès des transports permet des liaisons entre les villes.\n主语 = ___",
+          "back": "主语是 **Le progrès des transports**。",
+          "answer": "Le progrès des transports",
+          "tags": [
+            "sentence_skeleton",
+            "subject"
+          ]
+        },
+        {
+          "id": "skeleton-transport-verb",
+          "order": 80,
+          "front": "骨架 08/18 · Le progrès des transports permet des liaisons entre les villes.\n变位动词 = ___",
+          "back": "变位动词是 **permet**。",
+          "answer": "permet",
+          "tags": [
+            "sentence_skeleton",
+            "verb"
+          ]
+        },
+        {
+          "id": "skeleton-transport-complement",
+          "order": 90,
+          "front": "骨架 09/18 · Le progrès des transports permet des liaisons entre les villes.\n直接宾语 = ___",
+          "back": "permettre 后的直接宾语是 **des liaisons entre les villes**。",
+          "answer": "des liaisons entre les villes",
+          "tags": [
+            "sentence_skeleton",
+            "direct_object"
+          ]
+        },
+        {
+          "id": "skeleton-decentralisation-subject",
+          "order": 100,
+          "front": "骨架 10/18 · La décentralisation est à l'ordre du jour.\n主语 = ___",
+          "back": "主语是 **La décentralisation**。",
+          "answer": "La décentralisation",
+          "tags": [
+            "sentence_skeleton",
+            "subject"
+          ]
+        },
+        {
+          "id": "skeleton-decentralisation-verb",
+          "order": 110,
+          "front": "骨架 11/18 · La décentralisation est à l'ordre du jour.\n变位动词 = ___",
+          "back": "变位动词是 **est**。",
+          "answer": "est",
+          "tags": [
+            "sentence_skeleton",
+            "verb"
+          ]
+        },
+        {
+          "id": "skeleton-decentralisation-complement",
+          "order": 120,
+          "front": "骨架 12/18 · La décentralisation est à l'ordre du jour.\n补语 = ___",
+          "back": "固定表达的补语是 **à l'ordre du jour**。",
+          "answer": "à l'ordre du jour",
+          "tags": [
+            "sentence_skeleton",
+            "complement"
+          ]
+        },
+        {
+          "id": "skeleton-industries-subject",
+          "order": 130,
+          "front": "骨架 13/18 · De grandes industries s'installent en province.\n主语 = ___",
+          "back": "主语是 **De grandes industries**。",
+          "answer": "De grandes industries",
+          "tags": [
+            "sentence_skeleton",
+            "subject"
+          ]
+        },
+        {
+          "id": "skeleton-industries-verb",
+          "order": 140,
+          "front": "骨架 14/18 · De grandes industries s'installent en province.\n变位动词 = ___",
+          "back": "代动词整体是 **s'installent**。",
+          "answer": "s'installent",
+          "tags": [
+            "sentence_skeleton",
+            "verb"
+          ]
+        },
+        {
+          "id": "skeleton-industries-complement",
+          "order": 150,
+          "front": "骨架 15/18 · De grandes industries s'installent en province.\n地点补语 = ___",
+          "back": "地点补语是 **en province**，不是 à la province。",
+          "answer": "en province",
+          "tags": [
+            "sentence_skeleton",
+            "complement"
+          ]
+        },
+        {
+          "id": "skeleton-powers-subject",
+          "order": 160,
+          "front": "骨架 16/18 · La province dispose de pouvoirs plus importants.\n主语 = ___",
+          "back": "主语是 **La province**。",
+          "answer": "La province",
+          "tags": [
+            "sentence_skeleton",
+            "subject"
+          ]
+        },
+        {
+          "id": "skeleton-powers-verb",
+          "order": 170,
+          "front": "骨架 17/18 · La province dispose de pouvoirs plus importants.\n变位动词 = ___",
+          "back": "变位动词是 **dispose**；随后必须接 de。",
+          "answer": "dispose",
+          "tags": [
+            "sentence_skeleton",
+            "verb"
+          ]
+        },
+        {
+          "id": "skeleton-powers-complement",
+          "order": 180,
+          "front": "骨架 18/18 · La province dispose de pouvoirs plus importants.\n补语 = ___",
+          "back": "disposer de 的补语是 **de pouvoirs plus importants**。",
+          "answer": "de pouvoirs plus importants",
+          "tags": [
+            "sentence_skeleton",
+            "complement"
+          ]
+        }
       ]
     },
     {
@@ -455,9 +1047,113 @@
       "order": 40,
       "species": [],
       "practice_cards": [
-        {"id":"process-three-steps","order":10,"front":"造句卡住时，按哪三步恢复？请按顺序说出来。","back":"**1. 先写简单、正确的主干。**\n\n**2. 检查主语、动词、宾语/补语是否有严重错误。**\n\n**3. 主干站稳后，再加时态、代词或从句。**","answer":null,"tags":["sentence_building","learning_strategy"]},
-        {"id":"process-correct-before-complex","order":20,"front":"你想到一个很复杂的法语句，但主干还不确定。此时先做什么？","back":"先把意思降到自己能稳定控制的简单句，确保**正确**；复杂度是第二轮升级，不是第一轮赌出来的。","answer":null,"tags":["sentence_building","learning_strategy"]},
-        {"id":"process-upgrade-check","order":30,"front":"简单主干写对后，升级复杂句时每次只加什么？加完要检查什么？","back":"每次只加一个层次（一个时态、一个代词或一个从句），随后重新检查主语—动词—宾语/补语接口。这样能定位新错误来自哪一步。","answer":null,"tags":["sentence_building","learning_strategy"]}
+        {
+          "id": "process-three-steps",
+          "order": 10,
+          "front": "造句卡住时，按哪三步恢复？请按顺序说出来。",
+          "back": "**1. 先写简单、正确的主干。**\n\n**2. 检查主语、动词、宾语/补语是否有严重错误。**\n\n**3. 主干站稳后，再加时态、代词或从句。**",
+          "answer": null,
+          "tags": [
+            "sentence_building",
+            "learning_strategy"
+          ]
+        },
+        {
+          "id": "process-correct-before-complex",
+          "order": 20,
+          "front": "你想到一个很复杂的法语句，但主干还不确定。此时先做什么？",
+          "back": "先把意思降到自己能稳定控制的简单句，确保**正确**；复杂度是第二轮升级，不是第一轮赌出来的。",
+          "answer": null,
+          "tags": [
+            "sentence_building",
+            "learning_strategy"
+          ]
+        },
+        {
+          "id": "process-upgrade-check",
+          "order": 30,
+          "front": "简单主干写对后，升级复杂句时每次只加什么？加完要检查什么？",
+          "back": "每次只加一个层次（一个时态、一个代词或一个从句），随后重新检查主语—动词—宾语/补语接口。这样能定位新错误来自哪一步。",
+          "answer": null,
+          "tags": [
+            "sentence_building",
+            "learning_strategy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "demonstrative-two-groups",
+      "label": "指示代词·两组辨析",
+      "order": 40,
+      "species": [],
+      "practice_cards": [
+        {
+          "id": "demo-rule-two-groups",
+          "order": 10,
+          "front": "celui/celle/ceux/celles 和 ce/ceci/cela/ça 两组，怎么选？",
+          "back": "替代**某个具体名词**(人/物；有性数、不能裸用，后接 de/关系从句/-ci-là)→ celui/celle/ceux/celles；替代**一件事/一个想法/整个情况**(中性、无性数)→ ce/ceci/cela/ça。一句话：替代“某个可数、有性别的名词”用 celui 组；替代“一件事/一种情况”用 ce 组。",
+          "answer": null,
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ]
+        },
+        {
+          "id": "demo-noun-vs-situation",
+          "order": 20,
+          "front": "「Pascal 那一辆(车)」和「这(件事)很复杂」分别用哪组？为什么？",
+          "back": "「那一辆车」=具体名词(阴/阳、单/复)→ celui 组：celle de Pascal / celui de Pascal，有性数、后接 de…；「这件事很复杂」=整个情况→ 中性 ce 组：C'est compliqué。",
+          "answer": null,
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ]
+        },
+        {
+          "id": "demo-cest-vrai",
+          "order": 30,
+          "front": "「这(件事)是真的」___ vrai.（替代整件事，中性）",
+          "back": "整件事/想法用中性 ce：**C'est vrai**。不是具体名词，不用 celui。",
+          "answer": "C'est",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ]
+        },
+        {
+          "id": "demo-celle-voiture",
+          "order": 40,
+          "front": "Quelle voiture prends-tu ? — ___ de ma sœur.（替代具体的车）",
+          "back": "具体名词 la voiture(阴单)→ **celle**；后接 de 说明哪一辆。",
+          "answer": "Celle",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ]
+        },
+        {
+          "id": "demo-ceux-livres",
+          "order": 50,
+          "front": "Quels livres préfères-tu ? — ___ de Victor Hugo.（替代具体的书，阳复）",
+          "back": "具体名词 les livres(阳复)→ **ceux**。",
+          "answer": "Ceux",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ]
+        },
+        {
+          "id": "demo-ca-depend",
+          "order": 60,
+          "front": "「看情况 / 视情况而定」___ dépend.（替代整个情况，中性）",
+          "back": "整个情况用中性 ça：**Ça dépend**（口语固定说法）。",
+          "answer": "Ça",
+          "tags": [
+            "pronoun",
+            "demonstrative"
+          ]
+        }
       ]
     }
   ]
