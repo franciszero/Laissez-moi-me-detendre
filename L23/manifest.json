@@ -89,6 +89,246 @@
           "fr": "gravement",
           "pos": "adverb",
           "zh": "严重地"
+        },
+        {
+          "type": "vocab",
+          "fr": "la profession",
+          "pos": "noun",
+          "zh": "职业；专业"
+        },
+        {
+          "type": "vocab",
+          "fr": "le docteur",
+          "pos": "noun",
+          "zh": "医生；博士"
+        },
+        {
+          "type": "vocab",
+          "fr": "la question",
+          "pos": "noun",
+          "zh": "问题"
+        },
+        {
+          "type": "vocab",
+          "fr": "la santé",
+          "pos": "noun",
+          "zh": "健康"
+        },
+        {
+          "type": "vocab",
+          "fr": "la science",
+          "pos": "noun",
+          "zh": "科学"
+        },
+        {
+          "type": "vocab",
+          "fr": "la découverte",
+          "pos": "noun",
+          "zh": "发现"
+        },
+        {
+          "type": "vocab",
+          "fr": "le remède",
+          "pos": "noun",
+          "zh": "药物；治疗方法"
+        },
+        {
+          "type": "vocab",
+          "fr": "la maladie",
+          "pos": "noun",
+          "zh": "疾病"
+        },
+        {
+          "type": "vocab",
+          "fr": "la souffrance",
+          "pos": "noun",
+          "zh": "痛苦；苦难"
+        },
+        {
+          "type": "vocab",
+          "fr": "un généraliste",
+          "pos": "noun",
+          "zh": "全科医生"
+        },
+        {
+          "type": "vocab",
+          "fr": "le cabinet",
+          "pos": "noun",
+          "zh": "诊所；办公室"
+        },
+        {
+          "type": "vocab",
+          "fr": "un malade",
+          "pos": "noun",
+          "zh": "病人"
+        },
+        {
+          "type": "vocab",
+          "fr": "le domicile",
+          "pos": "noun",
+          "zh": "住所；家"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'avenir",
+          "pos": "noun",
+          "zh": "未来；前途"
+        },
+        {
+          "type": "vocab",
+          "fr": "les oreillons",
+          "pos": "noun",
+          "zh": "腮腺炎"
+        },
+        {
+          "type": "vocab",
+          "fr": "la gorge",
+          "pos": "noun",
+          "zh": "喉咙"
+        },
+        {
+          "type": "vocab",
+          "fr": "la langue",
+          "pos": "noun",
+          "zh": "舌头；语言"
+        },
+        {
+          "type": "vocab",
+          "fr": "le cœur",
+          "pos": "noun",
+          "zh": "心脏；心"
+        },
+        {
+          "type": "vocab",
+          "fr": "le poumon",
+          "pos": "noun",
+          "zh": "肺"
+        },
+        {
+          "type": "vocab",
+          "fr": "le stéthoscope",
+          "pos": "noun",
+          "zh": "听诊器"
+        },
+        {
+          "type": "vocab",
+          "fr": "le pouls",
+          "pos": "noun",
+          "zh": "脉搏"
+        },
+        {
+          "type": "vocab",
+          "fr": "une attitude",
+          "pos": "noun",
+          "zh": "态度"
+        },
+        {
+          "type": "vocab",
+          "fr": "répondre",
+          "pos": "verb",
+          "zh": "回答；回复"
+        },
+        {
+          "type": "vocab",
+          "fr": "poser une question",
+          "pos": "verb",
+          "zh": "提出一个问题"
+        },
+        {
+          "type": "vocab",
+          "fr": "hésiter",
+          "pos": "verb",
+          "zh": "犹豫"
+        },
+        {
+          "type": "vocab",
+          "fr": "admirer",
+          "pos": "verb",
+          "zh": "钦佩；欣赏"
+        },
+        {
+          "type": "vocab",
+          "fr": "soigner",
+          "pos": "verb",
+          "zh": "照料；治疗"
+        },
+        {
+          "type": "vocab",
+          "fr": "décider",
+          "pos": "verb",
+          "zh": "决定"
+        },
+        {
+          "type": "vocab",
+          "fr": "guérir",
+          "pos": "verb",
+          "zh": "治愈；痊愈"
+        },
+        {
+          "type": "vocab",
+          "fr": "commencer à",
+          "pos": "verb",
+          "zh": "开始……"
+        },
+        {
+          "type": "vocab",
+          "fr": "examiner",
+          "pos": "verb",
+          "zh": "检查；审查"
+        },
+        {
+          "type": "vocab",
+          "fr": "ausculter",
+          "pos": "verb",
+          "zh": "听诊；检查"
+        },
+        {
+          "type": "vocab",
+          "fr": "toucher",
+          "pos": "verb",
+          "zh": "触动；触摸"
+        },
+        {
+          "type": "vocab",
+          "fr": "possible",
+          "pos": "adj",
+          "zh": "可能的"
+        },
+        {
+          "type": "vocab",
+          "fr": "patient",
+          "pos": "adj",
+          "zh": "耐心的"
+        },
+        {
+          "type": "vocab",
+          "fr": "aimable",
+          "pos": "adj",
+          "zh": "和蔼的；友好的"
+        },
+        {
+          "type": "vocab",
+          "fr": "certainement",
+          "pos": "adverb",
+          "zh": "当然；肯定地"
+        },
+        {
+          "type": "vocab",
+          "fr": "avec",
+          "pos": "prep",
+          "zh": "和；带有；随着"
+        },
+        {
+          "type": "vocab",
+          "fr": "pourquoi",
+          "pos": "adverb",
+          "zh": "为什么"
+        },
+        {
+          "type": "vocab",
+          "fr": "eh bien",
+          "pos": "expr",
+          "zh": "嗯；那么；好吧"
         }
       ]
     },
