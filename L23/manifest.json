@@ -1,0 +1,1268 @@
+{
+  "lesson": "L23",
+  "source": "L23_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L23.species.json",
+    "expected_species_count": 24
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L23 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "de nos jours",
+          "pos": "expr",
+          "zh": "如今；当下"
+        },
+        {
+          "type": "vocab",
+          "fr": "progrès",
+          "pos": "noun",
+          "zh": "进步；发展"
+        },
+        {
+          "type": "vocab",
+          "fr": "poser une question à quelqu'un",
+          "pos": "verb",
+          "zh": "向某人提一个问题"
+        },
+        {
+          "type": "vocab",
+          "fr": "répondre à",
+          "pos": "verb",
+          "zh": "回答；回复"
+        },
+        {
+          "type": "vocab",
+          "fr": "au cœur de",
+          "pos": "expr",
+          "zh": "在……中心；在……核心"
+        },
+        {
+          "type": "vocab",
+          "fr": "plaire à",
+          "pos": "verb",
+          "zh": "使……喜欢；合……心意"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'intéresser à",
+          "pos": "verb",
+          "zh": "对……感兴趣"
+        },
+        {
+          "type": "vocab",
+          "fr": "la médecine",
+          "pos": "noun",
+          "zh": "医学"
+        },
+        {
+          "type": "vocab",
+          "fr": "un médecin",
+          "pos": "noun",
+          "zh": "医生"
+        },
+        {
+          "type": "vocab",
+          "fr": "avec le développement de",
+          "pos": "expr",
+          "zh": "随着……的发展"
+        },
+        {
+          "type": "vocab",
+          "fr": "c'est-à-dire",
+          "pos": "expr",
+          "zh": "也就是说"
+        },
+        {
+          "type": "vocab",
+          "fr": "c'est pas grave",
+          "pos": "expr",
+          "zh": "没关系；不要紧"
+        },
+        {
+          "type": "vocab",
+          "fr": "gravement",
+          "pos": "adverb",
+          "zh": "严重地"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L23 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L23:species:conditionnel-pr-sent-formation-from-futur-simple-stem-plus-imparfait-endings",
+          "front": "conditionnel présent 怎样构成？请说出公式，并给出 avoir / être / partir 的例子。",
+          "back": "公式：**futur simple 词根 + imparfait 词尾**。\n\n例子：\n- avoir → **j'aurais**\n- être → **je serais**\n- partir → **il partirait**\n\n关键：不规则将来词根（aur-, ser-, ir- 等）会继续用在 conditionnel 里。",
+          "answer": null,
+          "source_species": "conditionnel présent formation from futur simple stem plus imparfait endings",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "conditionnel",
+            "imparfait",
+            "conjugation",
+            "A2"
+          ],
+          "french_items": [
+            "conditionnel présent",
+            "aurais",
+            "serais",
+            "partirait"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:320-376"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:conditionnel-pr-sent-expresses-future-from-a-past-viewpoint-in-reported-speech",
+          "front": "为什么 “Jacques m'a dit qu'il partirait” 里用 partirait，而不是 partira？",
+          "back": "因为主句 **m'a dit** 站在过去视角。过去视角里报告一个将来动作，French 用 **conditionnel présent**，相当于 English **will → would**。\n\nDirect: Il partira demain.\nIndirect past: Jacques m'a dit qu'il **partirait** demain.",
+          "answer": null,
+          "source_species": "conditionnel présent expresses future from a past viewpoint in reported speech",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "conditionnel",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Jacques m'a dit qu'il partirait",
+            "would go"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:376-411"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:pass-r-cent-futur-is-imparfait-of-aller-plus-infinitive",
+          "front": "“过去背景里的马上要做”：va commencer 应怎样后移？",
+          "back": "把变位动词 **aller** 改成 imparfait，后面的动词保持 infinitif：\n\nLe cours va commencer. → Le cours **allait commencer**.\n\n不要把 infinitif 也变位；也不要和 futur simple → conditionnel 混成一锅。",
+          "answer": null,
+          "source_species": "passé récent futur is imparfait of aller plus infinitive",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "futur_proche",
+            "imparfait",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "allait commencer",
+            "allait prendre"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:463-538",
+            "L23_final_working.md:920-955"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:indirect-speech-removes-quotes-and-chooses-connector-by-source-sentence-type",
+          "front": "直接引语改间接引语时，陈述句、一般疑问句、特殊疑问句分别用什么连接方式？",
+          "back": "- 陈述句 → **que**\n- 一般疑问句 / yes-no question → **si**\n- 特殊疑问句 → 保留原疑问词（où, quand, comment, pourquoi, combien, quel...）\n\n先判断原句类型，再选连接词，不要凭中文感觉乱接。",
+          "answer": null,
+          "source_species": "indirect speech removes quotes and chooses connector by source sentence type",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "interrogation",
+            "A2"
+          ],
+          "french_items": [
+            "que",
+            "si",
+            "où",
+            "quand",
+            "comment",
+            "pourquoi",
+            "combien",
+            "quel"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:560-632",
+            "L23_final_working.md:646-660"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:indirect-questions-use-declarative-order-without-inversion",
+          "front": "Quelle heure est-il ? 进入间接问句后，词序怎么变？",
+          "back": "间接问句保留疑问词，但后面恢复**陈述语序**：\n\nQuelle heure est-il ? → Dites-moi quelle heure **il est**.\n\n不要把 est-il 这种倒装继续带进从句。",
+          "answer": null,
+          "source_species": "indirect questions use declarative order without inversion",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "interrogation",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "quelle heure il est",
+            "où je suis",
+            "quand le film commence"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:632-674",
+            "L23_final_working.md:751-758"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:past-main-clause-triggers-reported-speech-tense-backshift",
+          "front": "间接引语里什么时候需要时态后移？现在和将来分别后移成什么？",
+          "back": "先看 reporting verb：\n\n- 主句现在：Il dit que... → 从句通常不后移\n- 主句过去：Il a dit / Il m'a demandé que... → 从句要配合\n\n课堂主练：\n- présent → **imparfait**\n- futur simple → **conditionnel présent**",
+          "answer": null,
+          "source_species": "past main clause triggers reported-speech tense backshift",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "imparfait",
+            "conditionnel",
+            "A2"
+          ],
+          "french_items": [
+            "il dit que",
+            "il a dit que",
+            "il m'a demandé"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:779-829",
+            "L23_final_working.md:1216-1223"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:present-in-reported-speech-backshifts-to-imparfait-not-pass-compos",
+          "front": "Il fait beau. → Il a dit qu'il ___ beau. 为什么不是 passé composé？",
+          "back": "答案是 **faisait**。\n\n这里不是在叙述一个完成动作，而是在做间接引语的时态配合：présent → **imparfait**。",
+          "answer": "faisait",
+          "source_species": "present in reported speech backshifts to imparfait not passé composé",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "imparfait",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "faisait",
+            "était"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:793-807",
+            "L23_final_working.md:1116-1123"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:future-in-reported-speech-backshifts-to-conditionnel-without-adding-aller",
+          "front": "Il partira demain. → Jacques a dit qu'il ___ demain. 注意：不要加 aller。",
+          "back": "答案是 **partirait**。\n\n原句是 futur simple，所以后移为 conditionnel présent。不要因为看到“过去+将来”就错写成 allait partir。",
+          "answer": "partirait",
+          "source_species": "future in reported speech backshifts to conditionnel without adding aller",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "conditionnel",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "partira",
+            "partirait"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:920-948"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:compound-past-keeps-object-pronouns-before-the-auxiliary-and-only-negation-goes-between-auxiliary-and-participle",
+          "front": "passé composé 里，宾语代词和否定词分别放在哪里？",
+          "back": "宾语代词放在**助动词前**：\n\nIl a appelé Marie. → Il **l'a** appelée.\n\n否定时：ne + 代词 + 助动词 + pas + 过去分词：\n\nIl **ne l'a pas** appelée.",
+          "answer": null,
+          "source_species": "compound past keeps object pronouns before the auxiliary and only negation goes between auxiliary and participle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "passe_compose",
+            "pronoun",
+            "negation",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "l'a appelé",
+            "ne l'a pas appelé"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:545-559"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:conditionnel-avoir-je",
+          "front": "avoir，conditionnel présent，je → ___",
+          "back": "futur simple 词根 aur- + imparfait 词尾 -ais：**j'aurais**。",
+          "answer": "j'aurais",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system",
+            "conditionnel",
+            "conjugation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:conditionnel-partir-il",
+          "front": "partir，conditionnel présent，il → il ___",
+          "back": "futur simple 词根 partir- + -ait：**il partirait**。",
+          "answer": "partirait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system",
+            "conditionnel",
+            "conjugation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:past-near-future-allait",
+          "front": "Le cours va commencer. 放到过去背景：Le cours ___ commencer.",
+          "back": "过去背景里的 aller + infinitif：aller 变 imparfait → **allait commencer**。",
+          "answer": "allait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system",
+            "futur_proche",
+            "imparfait"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:indirect-statement-que",
+          "front": "Paul dit : « Marie part samedi. » → Paul dit ___ Marie part samedi.",
+          "back": "陈述句进入间接引语，用 **que**。",
+          "answer": "que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:indirect-yesno-si",
+          "front": "Elle demande : « Est-ce que tu viens ? » → Elle demande ___ tu viens.",
+          "back": "一般疑问句 / yes-no question 进入间接引语，用 **si**。",
+          "answer": "si",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "interrogation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:indirect-question-order-il-est",
+          "front": "Quelle heure est-il ? → Dites-moi quelle heure ___ maintenant.",
+          "back": "间接问句用陈述语序：quelle heure **il est**。",
+          "answer": "il est",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "interrogation",
+            "teacher_corrected_error"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:reported-present-faisait",
+          "front": "Il fait beau. → Il a dit qu'il ___ beau.",
+          "back": "主句过去，présent 后移为 imparfait：**faisait**。",
+          "answer": "faisait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "tense_system",
+            "imparfait"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:reported-future-partirait",
+          "front": "Il partira demain. → Jacques a dit qu'il ___ demain.",
+          "back": "futur simple 后移为 conditionnel présent：**partirait**。不要写 allait partir。",
+          "answer": "partirait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "tense_system",
+            "conditionnel"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:object-pronoun-before-auxiliary",
+          "front": "Il a appelé Marie. → Il ___ appelée.",
+          "back": "passé composé 中宾语代词在助动词前：**Il l'a appelée**。",
+          "answer": "l'a",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "passe_compose"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-tense-system",
+          "study_group": "reported-speech-tense-system",
+          "study_group_label": "过去视角与间接引语",
+          "study_group_order": 10,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:que-and-qu-est-ce-que-become-ce-que-in-indirect-what-object-clauses",
+          "front": "什么时候用 ce que？请用“Je ne sais pas ___ tu fais.”解释。",
+          "back": "当嵌入的 “what” 是后面从句的**直接宾语**时，用 **ce que**。\n\nJe ne sais pas **ce que** tu fais.\n\n后面已有主语 tu，缺的是 tu fais 的宾语。",
+          "answer": "ce que",
+          "source_species": "que and qu'est-ce que become ce que in indirect what-object clauses",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "interrogation",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "ce que",
+            "qu'est-ce que",
+            "que",
+            "je ne sais pas ce que tu fais"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:955-985",
+            "L23_final_working.md:1116-1130"
+          ],
+          "curated": true,
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:qu-est-ce-qui-becomes-ce-qui-when-the-unknown-thing-is-subject",
+          "front": "什么时候用 ce qui？请用“Je ne sais pas ___ te fait plaisir.”解释。",
+          "back": "当嵌入的 “what” 是后面从句的**主语**时，用 **ce qui**。\n\nJe ne sais pas **ce qui** te fait plaisir.\n\n后面 te fait plaisir 缺主语，所以用 qui。",
+          "answer": "ce qui",
+          "source_species": "qu'est-ce qui becomes ce qui when the unknown thing is subject",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "interrogation",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "ce qui",
+            "qu'est-ce qui",
+            "ce qui te fait plaisir"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:985-1006",
+            "L23_final_working.md:1137-1151"
+          ],
+          "curated": true,
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:qui-asks-about-a-person-and-is-not-qu-est-ce-qui",
+          "front": "问“谁”时，为什么不能机械写 qu'est-ce qui？",
+          "back": "**qui** 问人；**qu'est-ce qui / ce qui** 问“什么东西作主语”。\n\nJe ne sais pas **qui** est votre professeur.\n\n人 ≠ qu'est-ce qui。",
+          "answer": null,
+          "source_species": "qui asks about a person and is not qu'est-ce qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "interrogation",
+            "relative_pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "qui",
+            "à qui",
+            "qui est votre professeur"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1123-1165"
+          ],
+          "curated": true,
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:ce-que-and-ce-qui-can-be-understood-as-ce-plus-relative-pronoun-role",
+          "front": "用“缺角色”解释 ce que / ce qui 的选择。",
+          "back": "把 **ce** 理解成“那个东西/事情”，再看后面从句缺什么：\n\n- 缺直接宾语 → **ce que**\n- 缺主语 → **ce qui**\n\n这和关系代词 qui/que 的角色判断是一套逻辑。",
+          "answer": null,
+          "source_species": "ce que and ce qui can be understood as ce plus relative pronoun role",
+          "primary_class": "strategy",
+          "tags": [
+            "mastery",
+            "relative_pronoun",
+            "sentence_frame",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "ce que",
+            "ce qui"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:978-1006"
+          ],
+          "curated": true,
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:ce-que-object-tu-fais",
+          "front": "Je ne sais pas ___ tu fais.",
+          "back": "后面已有主语 tu，缺 direct object，所以用 **ce que**。",
+          "answer": "ce que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "interrogation",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "ce-que-ce-qui-system",
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:ce-qui-subject-plait",
+          "front": "Je ne sais pas ___ te fait plaisir.",
+          "back": "后面 te fait plaisir 缺主语，所以用 **ce qui**。",
+          "answer": "ce qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "interrogation",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "ce-que-ce-qui-system",
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:qui-person-professeur",
+          "front": "Je ne sais pas ___ est votre professeur.",
+          "back": "问人，用 **qui**，不是 qu'est-ce qui。",
+          "answer": "qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "interrogation",
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "ce-que-ce-qui-system",
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:ce-que-ce-qui-role-check",
+          "front": "自查：选 ce que / ce qui 前，先问哪两个问题？",
+          "back": "先问：\n1. 问的是人还是物？人 → qui。\n2. 如果是物，后面从句缺主语还是缺宾语？缺主语 → ce qui；缺宾语 → ce que。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "relative_pronoun",
+            "sentence_frame",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "ce-que-ce-qui-system",
+          "study_group": "ce-que-ce-qui-system",
+          "study_group_label": "ce que / ce qui / qui",
+          "study_group_order": 20,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:de-nos-jours-is-a-fixed-plural-expression-meaning-nowadays",
+          "front": "【de nos jours】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：hear and write de nos jours as a plural fixed expression meaning nowadays",
+          "back": "知识点：de nos jours is a fixed plural expression meaning nowadays\n\n类别：expression\n\n法语项目：de nos jours\n\n学习任务：hear and write de nos jours as a plural fixed expression meaning nowadays\n\n规则/用法：de nos jours 表示如今/当下；jours 是复数，所以是 nos，不是 notre，也不是 nous。\n\n课堂证据：14:00-15:30 · L23_final_working.md:214-228\n\n标签：foundational, expression, gender_number, spelling_pronunciation_gap, A2",
+          "answer": null,
+          "source_species": "de nos jours is a fixed plural expression meaning nowadays",
+          "primary_class": "expression",
+          "tags": [
+            "foundational",
+            "expression",
+            "gender_number",
+            "spelling_pronunciation_gap",
+            "A2"
+          ],
+          "french_items": [
+            "de nos jours"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:214-228"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:poser-une-question-is-direct-but-r-pondre-takes",
+          "front": "poser une question 和 répondre 的接口有什么不同？",
+          "back": "- **poser une question**：question 是直接宾语；向谁提问可加 **à quelqu'un**\n- **répondre à**：回答问题 / 回复某人都要 **à**\n\n例：poser une question à Marie；répondre à une question；répondre à Paul。",
+          "answer": null,
+          "source_species": "poser une question is direct but répondre takes à",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_a",
+            "transitive_direct",
+            "A2"
+          ],
+          "french_items": [
+            "poser une question à quelqu'un",
+            "répondre à une question",
+            "répondre à quelqu'un"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1267-1280"
+          ],
+          "curated": true,
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:au-coeur-de-means-in-the-heart-or-center-of-something",
+          "front": "【au cœur de / au cœur de la ville】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：read au cœur de as a figurative center expression, not only anatomical heart",
+          "back": "知识点：au coeur de means in the heart or center of something\n\n类别：expression\n\n法语项目：au cœur de / au cœur de la ville\n\n学习任务：read au cœur de as a figurative center expression, not only anatomical heart\n\n规则/用法：cœur 可以像英文 heart 一样表示中心；au cœur de la ville 是在城市中心/核心。\n\n课堂证据：01:34:00-01:35:00 · L23_final_working.md:1287-1294\n\n标签：core, expression, preposition_interface, A2",
+          "answer": null,
+          "source_species": "au coeur de means in the heart or center of something",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "expression",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "au cœur de",
+            "au cœur de la ville"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1287-1294"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:plaire-means-please-someone-and-explains-s-il-vous-pla-t",
+          "front": "【plaire à / s'il vous plaît】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：understand plaire à as 'please someone' and recognize the hidden pronoun structure in s'il vous plaît",
+          "back": "知识点：plaire à means please someone and explains s'il vous plaît\n\n类别：lexical_usage\n\n法语项目：plaire à / s'il vous plaît\n\n学习任务：understand plaire à as 'please someone' and recognize the hidden pronoun structure in s'il vous plaît\n\n规则/用法：plaire à Y 表示“使 Y 高兴/合意”；s'il vous plaît 字面是 if it pleases you，vous 是提前的间接宾语代词，固定用作 please。\n\n课堂证据：01:34:30-01:36:00 · L23_final_working.md:1294-1308\n\n标签：core, preposition_interface, requires_a, pronoun, expression, A2",
+          "answer": null,
+          "source_species": "plaire à means please someone and explains s'il vous plaît",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_a",
+            "pronoun",
+            "expression",
+            "A2"
+          ],
+          "french_items": [
+            "plaire à",
+            "s'il vous plaît"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1294-1308"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:s-int-resser-requires-pronominal-conjugation-and-complement",
+          "front": "“我对医学感兴趣”为什么是 Je m'intéresse à la médecine？",
+          "back": "**s'intéresser à** 是代动词 + à 接口：\n\nJe **m'**intéresse **à** la médecine.\n\n注意：la médecine = 医学；un médecin = 医生。",
+          "answer": null,
+          "source_species": "s'intéresser à requires pronominal conjugation and à complement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "preposition_interface",
+            "requires_a",
+            "A2"
+          ],
+          "french_items": [
+            "s'intéresser à",
+            "la médecine",
+            "un médecin"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1308-1322"
+          ],
+          "curated": true,
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:ment-endings-can-mark-adverbs-while-ment-nouns-are-masculine",
+          "front": "-ment 结尾怎样判断？副词要不要配合？",
+          "back": "- **-ment** 常像 English -ly，是副词尾：certainement, gravement\n- 副词**不做性数配合**\n- 但 -ment 结尾也可能是名词，如 **un appartement**，这时按名词处理",
+          "answer": null,
+          "source_species": "ment endings can mark adverbs while ment nouns are masculine",
+          "primary_class": "pronunciation_spelling",
+          "tags": [
+            "core",
+            "gender_number",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "certainement",
+            "gravement",
+            "appartement"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1371-1405"
+          ],
+          "curated": true,
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:avec-le-d-veloppement-de-can-mean-with-or-along-with-development",
+          "front": "【avec le développement de】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：read avec in abstract text as 'with/as ... develops' when followed by development",
+          "back": "知识点：avec le développement de can mean with or along with development\n\n类别：expression\n\n法语项目：avec le développement de\n\n学习任务：read avec in abstract text as 'with/as ... develops' when followed by development\n\n规则/用法：avec 和英文 with 很接近；avec le développement de la technologie 可按 with the development of technology 理解为随着技术发展。\n\n课堂证据：01:40:30-01:41:30 · L23_final_working.md:1378-1385\n\n标签：core, expression, preposition_interface, A2",
+          "answer": null,
+          "source_species": "avec le développement de can mean with or along with development",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "expression",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "avec le développement de"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1378-1385"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:c-est-dire-is-the-french-frame-for-that-is-to-say",
+          "front": "【c'est-à-dire】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：recognize c'est-à-dire as a connector introducing an explanation or restatement",
+          "back": "知识点：c'est-à-dire is the French frame for that is to say\n\n类别：expression\n\n法语项目：c'est-à-dire\n\n学习任务：recognize c'est-à-dire as a connector introducing an explanation or restatement\n\n规则/用法：c'est-à-dire 对应英语 that is to say，表示“也就是说”。\n\n课堂证据：01:41:00-01:42:00 · L23_final_working.md:1385-1391\n\n标签：foundational, expression, A2",
+          "answer": null,
+          "source_species": "c'est-à-dire is the French frame for that is to say",
+          "primary_class": "expression",
+          "tags": [
+            "foundational",
+            "expression",
+            "A2"
+          ],
+          "french_items": [
+            "c'est-à-dire"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1385-1391"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:c-est-pas-grave-is-a-reassurance-formula-and-gravement-is-its-adverb-family",
+          "front": "【grave / gravement / c'est pas grave】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：use c'est pas grave for reassurance and connect grave to gravement",
+          "back": "知识点：c'est pas grave is a reassurance formula and gravement is its adverb family\n\n类别：lexical_usage\n\n法语项目：grave / gravement / c'est pas grave\n\n学习任务：use c'est pas grave for reassurance and connect grave to gravement\n\n规则/用法：别人道歉时可说 c'est pas grave（不要紧/不严重）；gravement 是 grave 的副词形式。\n\n课堂证据：01:41:30-01:42:30 · L23_final_working.md:1391-1398\n\n标签：foundational, expression, memory_hook, A2",
+          "answer": null,
+          "source_species": "c'est pas grave is a reassurance formula and gravement is its adverb family",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "foundational",
+            "expression",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "grave",
+            "gravement",
+            "c'est pas grave"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1391-1398"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:progr-s-means-progress-not-process",
+          "front": "【progrès】\n先不看答案：这个点要解决什么学习任务？请说出规则/用法，并给一个例子。\n\n提示：avoid translating progrès as process",
+          "back": "知识点：progrès means progress not process\n\n类别：lexical_usage\n\n法语项目：progrès\n\n学习任务：avoid translating progrès as process\n\n规则/用法：progrès 对应 progress，意思是进步；不要因为英文 process 形近而翻成过程。\n\n课堂证据：18:30-19:30 · L23_final_working.md:277-284\n\n标签：foundational, false_friend, teacher_corrected_error, A2",
+          "answer": null,
+          "source_species": "progrès means progress not process",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "foundational",
+            "false_friend",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "progrès"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:277-284"
+          ],
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:de-nos-jours",
+          "front": "“如今、当下”：___",
+          "back": "固定复数表达：**de nos jours**。jours 是复数，所以是 nos。",
+          "answer": "de nos jours",
+          "primary_class": "expression",
+          "tags": [
+            "expression",
+            "gender_number"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:repondre-a-question",
+          "front": "répondre ___ une question",
+          "back": "répondre 要接 **à**：répondre à une question。",
+          "answer": "à",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "requires_a"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:plaire-lui",
+          "front": "Cette idée plaît à Marie. → Cette idée ___ plaît.",
+          "back": "plaire à + 人；à Marie 替换成间接宾语代词 **lui**。",
+          "answer": "lui",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:sinteresser-a-medecine",
+          "front": "Je m'intéresse ___ la médecine.",
+          "back": "s'intéresser **à** + 领域。",
+          "answer": "à",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:medecine-field",
+          "front": "“医学”：___ médecine",
+          "back": "**la médecine** = 医学；**un médecin** = 医生。",
+          "answer": "la",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "teacher_corrected_error",
+            "gender_number"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:grave-adverb",
+          "front": "grave → 副词：___",
+          "back": "-ment 副词尾：**gravement**。",
+          "answer": "gravement",
+          "primary_class": "pronunciation_spelling",
+          "tags": [
+            "memory_hook"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:au-coeur-de",
+          "front": "“在城市中心/核心”：au ___ de la ville",
+          "back": "cœur 可以表示中心：**au cœur de la ville**。",
+          "answer": "cœur",
+          "primary_class": "expression",
+          "tags": [
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:avec-developpement-de",
+          "front": "“随着科技的发展”：___ le développement de la technologie",
+          "back": "**avec le développement de...** 可理解为 with/as ... develops。",
+          "answer": "avec",
+          "primary_class": "expression",
+          "tags": [
+            "expression",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:cest-a-dire",
+          "front": "“也就是说”：___",
+          "back": "**c'est-à-dire** = that is to say。",
+          "answer": "c'est-à-dire",
+          "primary_class": "expression",
+          "tags": [
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:progres-not-process",
+          "front": "progress / 进步：___（不要写 process 的意思）",
+          "back": "**progrès** = progress / 进步，不是 process / 过程。",
+          "answer": "progrès",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "false_friend",
+            "teacher_corrected_error"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "interfaces-and-expression-blocks",
+          "study_group": "interfaces-and-expression-blocks",
+          "study_group_label": "动词接口与文本表达块",
+          "study_group_order": 30,
+          "study_order": 200,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:species:l23-homework-is-vocabulary-review-grammar-review-and-after-class-questions-excluding-first-two-reading-only-prompts",
+          "front": "L23 老师最后布置了什么作业？哪些不用写？",
+          "back": "作业边界：\n\n1. 背 L23 单词\n2. 复习本课语法\n3. 做课后题；翻译题可以自己尝试写\n\n最前面的两个阅读理解式问题不用写。不要把“不用写”的题扩成额外负担。",
+          "answer": null,
+          "source_species": "L23 homework is vocabulary review grammar review and after-class questions excluding first two reading-only prompts",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "课后题",
+            "翻译题"
+          ],
+          "evidence_refs": [
+            "L23_final_working.md:1405-1419"
+          ],
+          "curated": true,
+          "study_group": "homework-boundary",
+          "study_group_label": "课后任务边界",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L23:practice:l23-homework-self-check",
+          "front": "自查：L23 课后实际要做哪三件事？哪两题不用写？",
+          "back": "要做：背单词、复习语法、做课后题；翻译题可以试着自己写。\n\n不用写：最前面的两个阅读理解式问题。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "homework",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "homework-boundary",
+          "study_group": "homework-boundary",
+          "study_group_label": "课后任务边界",
+          "study_group_order": 40,
+          "study_order": 110,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

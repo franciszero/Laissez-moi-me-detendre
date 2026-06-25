@@ -1,0 +1,87 @@
+{
+  "conditionnel présent formation from futur simple stem plus imparfait endings": {
+    "front": "conditionnel présent 怎样构成？请说出公式，并给出 avoir / être / partir 的例子。",
+    "back": "公式：**futur simple 词根 + imparfait 词尾**。\n\n例子：\n- avoir → **j'aurais**\n- être → **je serais**\n- partir → **il partirait**\n\n关键：不规则将来词根（aur-, ser-, ir- 等）会继续用在 conditionnel 里。",
+    "answer": null
+  },
+  "conditionnel présent expresses future from a past viewpoint in reported speech": {
+    "front": "为什么 “Jacques m'a dit qu'il partirait” 里用 partirait，而不是 partira？",
+    "back": "因为主句 **m'a dit** 站在过去视角。过去视角里报告一个将来动作，French 用 **conditionnel présent**，相当于 English **will → would**。\n\nDirect: Il partira demain.\nIndirect past: Jacques m'a dit qu'il **partirait** demain.",
+    "answer": null
+  },
+  "passé récent futur is imparfait of aller plus infinitive": {
+    "front": "“过去背景里的马上要做”：va commencer 应怎样后移？",
+    "back": "把变位动词 **aller** 改成 imparfait，后面的动词保持 infinitif：\n\nLe cours va commencer. → Le cours **allait commencer**.\n\n不要把 infinitif 也变位；也不要和 futur simple → conditionnel 混成一锅。",
+    "answer": null
+  },
+  "indirect speech removes quotes and chooses connector by source sentence type": {
+    "front": "直接引语改间接引语时，陈述句、一般疑问句、特殊疑问句分别用什么连接方式？",
+    "back": "- 陈述句 → **que**\n- 一般疑问句 / yes-no question → **si**\n- 特殊疑问句 → 保留原疑问词（où, quand, comment, pourquoi, combien, quel...）\n\n先判断原句类型，再选连接词，不要凭中文感觉乱接。",
+    "answer": null
+  },
+  "indirect questions use declarative order without inversion": {
+    "front": "Quelle heure est-il ? 进入间接问句后，词序怎么变？",
+    "back": "间接问句保留疑问词，但后面恢复**陈述语序**：\n\nQuelle heure est-il ? → Dites-moi quelle heure **il est**.\n\n不要把 est-il 这种倒装继续带进从句。",
+    "answer": null
+  },
+  "past main clause triggers reported-speech tense backshift": {
+    "front": "间接引语里什么时候需要时态后移？现在和将来分别后移成什么？",
+    "back": "先看 reporting verb：\n\n- 主句现在：Il dit que... → 从句通常不后移\n- 主句过去：Il a dit / Il m'a demandé que... → 从句要配合\n\n课堂主练：\n- présent → **imparfait**\n- futur simple → **conditionnel présent**",
+    "answer": null
+  },
+  "present in reported speech backshifts to imparfait not passé composé": {
+    "front": "Il fait beau. → Il a dit qu'il ___ beau. 为什么不是 passé composé？",
+    "back": "答案是 **faisait**。\n\n这里不是在叙述一个完成动作，而是在做间接引语的时态配合：présent → **imparfait**。",
+    "answer": "faisait"
+  },
+  "future in reported speech backshifts to conditionnel without adding aller": {
+    "front": "Il partira demain. → Jacques a dit qu'il ___ demain. 注意：不要加 aller。",
+    "back": "答案是 **partirait**。\n\n原句是 futur simple，所以后移为 conditionnel présent。不要因为看到“过去+将来”就错写成 allait partir。",
+    "answer": "partirait"
+  },
+  "que and qu'est-ce que become ce que in indirect what-object clauses": {
+    "front": "什么时候用 ce que？请用“Je ne sais pas ___ tu fais.”解释。",
+    "back": "当嵌入的 “what” 是后面从句的**直接宾语**时，用 **ce que**。\n\nJe ne sais pas **ce que** tu fais.\n\n后面已有主语 tu，缺的是 tu fais 的宾语。",
+    "answer": "ce que"
+  },
+  "qu'est-ce qui becomes ce qui when the unknown thing is subject": {
+    "front": "什么时候用 ce qui？请用“Je ne sais pas ___ te fait plaisir.”解释。",
+    "back": "当嵌入的 “what” 是后面从句的**主语**时，用 **ce qui**。\n\nJe ne sais pas **ce qui** te fait plaisir.\n\n后面 te fait plaisir 缺主语，所以用 qui。",
+    "answer": "ce qui"
+  },
+  "qui asks about a person and is not qu'est-ce qui": {
+    "front": "问“谁”时，为什么不能机械写 qu'est-ce qui？",
+    "back": "**qui** 问人；**qu'est-ce qui / ce qui** 问“什么东西作主语”。\n\nJe ne sais pas **qui** est votre professeur.\n\n人 ≠ qu'est-ce qui。",
+    "answer": null
+  },
+  "ce que and ce qui can be understood as ce plus relative pronoun role": {
+    "front": "用“缺角色”解释 ce que / ce qui 的选择。",
+    "back": "把 **ce** 理解成“那个东西/事情”，再看后面从句缺什么：\n\n- 缺直接宾语 → **ce que**\n- 缺主语 → **ce qui**\n\n这和关系代词 qui/que 的角色判断是一套逻辑。",
+    "answer": null
+  },
+  "compound past keeps object pronouns before the auxiliary and only negation goes between auxiliary and participle": {
+    "front": "passé composé 里，宾语代词和否定词分别放在哪里？",
+    "back": "宾语代词放在**助动词前**：\n\nIl a appelé Marie. → Il **l'a** appelée.\n\n否定时：ne + 代词 + 助动词 + pas + 过去分词：\n\nIl **ne l'a pas** appelée.",
+    "answer": null
+  },
+  "poser une question is direct but répondre takes à": {
+    "front": "poser une question 和 répondre 的接口有什么不同？",
+    "back": "- **poser une question**：question 是直接宾语；向谁提问可加 **à quelqu'un**\n- **répondre à**：回答问题 / 回复某人都要 **à**\n\n例：poser une question à Marie；répondre à une question；répondre à Paul。",
+    "answer": null
+  },
+  "s'intéresser à requires pronominal conjugation and à complement": {
+    "front": "“我对医学感兴趣”为什么是 Je m'intéresse à la médecine？",
+    "back": "**s'intéresser à** 是代动词 + à 接口：\n\nJe **m'**intéresse **à** la médecine.\n\n注意：la médecine = 医学；un médecin = 医生。",
+    "answer": null
+  },
+  "ment endings can mark adverbs while ment nouns are masculine": {
+    "front": "-ment 结尾怎样判断？副词要不要配合？",
+    "back": "- **-ment** 常像 English -ly，是副词尾：certainement, gravement\n- 副词**不做性数配合**\n- 但 -ment 结尾也可能是名词，如 **un appartement**，这时按名词处理",
+    "answer": null
+  },
+  "L23 homework is vocabulary review grammar review and after-class questions excluding first two reading-only prompts": {
+    "front": "L23 老师最后布置了什么作业？哪些不用写？",
+    "back": "作业边界：\n\n1. 背 L23 单词\n2. 复习本课语法\n3. 做课后题；翻译题可以自己尝试写\n\n最前面的两个阅读理解式问题不用写。不要把“不用写”的题扩成额外负担。",
+    "answer": null
+  }
+}

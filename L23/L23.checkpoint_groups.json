@@ -1,0 +1,280 @@
+{
+  "groups": [
+    {
+      "id": "reported-speech-tense-system",
+      "label": "过去视角与间接引语",
+      "order": 10,
+      "species": [
+        {"source_species": "conditionnel présent formation from futur simple stem plus imparfait endings", "order": 10},
+        {"source_species": "conditionnel présent expresses future from a past viewpoint in reported speech", "order": 20},
+        {"source_species": "passé récent futur is imparfait of aller plus infinitive", "order": 30},
+        {"source_species": "indirect speech removes quotes and chooses connector by source sentence type", "order": 40},
+        {"source_species": "indirect questions use declarative order without inversion", "order": 50},
+        {"source_species": "past main clause triggers reported-speech tense backshift", "order": 60},
+        {"source_species": "present in reported speech backshifts to imparfait not passé composé", "order": 70},
+        {"source_species": "future in reported speech backshifts to conditionnel without adding aller", "order": 80},
+        {"source_species": "compound past keeps object pronouns before the auxiliary and only negation goes between auxiliary and participle", "order": 90}
+      ],
+      "practice_cards": [
+        {
+          "id": "conditionnel-avoir-je",
+          "order": 110,
+          "front": "avoir，conditionnel présent，je → ___",
+          "back": "futur simple 词根 aur- + imparfait 词尾 -ais：**j'aurais**。",
+          "answer": "j'aurais",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system", "conditionnel", "conjugation"]
+        },
+        {
+          "id": "conditionnel-partir-il",
+          "order": 120,
+          "front": "partir，conditionnel présent，il → il ___",
+          "back": "futur simple 词根 partir- + -ait：**il partirait**。",
+          "answer": "partirait",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system", "conditionnel", "conjugation"]
+        },
+        {
+          "id": "past-near-future-allait",
+          "order": 130,
+          "front": "Le cours va commencer. 放到过去背景：Le cours ___ commencer.",
+          "back": "过去背景里的 aller + infinitif：aller 变 imparfait → **allait commencer**。",
+          "answer": "allait",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system", "futur_proche", "imparfait"]
+        },
+        {
+          "id": "indirect-statement-que",
+          "order": 140,
+          "front": "Paul dit : « Marie part samedi. » → Paul dit ___ Marie part samedi.",
+          "back": "陈述句进入间接引语，用 **que**。",
+          "answer": "que",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "sentence_frame"]
+        },
+        {
+          "id": "indirect-yesno-si",
+          "order": 150,
+          "front": "Elle demande : « Est-ce que tu viens ? » → Elle demande ___ tu viens.",
+          "back": "一般疑问句 / yes-no question 进入间接引语，用 **si**。",
+          "answer": "si",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "interrogation"]
+        },
+        {
+          "id": "indirect-question-order-il-est",
+          "order": 160,
+          "front": "Quelle heure est-il ? → Dites-moi quelle heure ___ maintenant.",
+          "back": "间接问句用陈述语序：quelle heure **il est**。",
+          "answer": "il est",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "interrogation", "teacher_corrected_error"]
+        },
+        {
+          "id": "reported-present-faisait",
+          "order": 170,
+          "front": "Il fait beau. → Il a dit qu'il ___ beau.",
+          "back": "主句过去，présent 后移为 imparfait：**faisait**。",
+          "answer": "faisait",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "tense_system", "imparfait"]
+        },
+        {
+          "id": "reported-future-partirait",
+          "order": 180,
+          "front": "Il partira demain. → Jacques a dit qu'il ___ demain.",
+          "back": "futur simple 后移为 conditionnel présent：**partirait**。不要写 allait partir。",
+          "answer": "partirait",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "tense_system", "conditionnel"]
+        },
+        {
+          "id": "object-pronoun-before-auxiliary",
+          "order": 190,
+          "front": "Il a appelé Marie. → Il ___ appelée.",
+          "back": "passé composé 中宾语代词在助动词前：**Il l'a appelée**。",
+          "answer": "l'a",
+          "primary_class": "grammar_rule",
+          "tags": ["pronoun", "passe_compose"]
+        }
+      ]
+    },
+    {
+      "id": "ce-que-ce-qui-system",
+      "label": "ce que / ce qui / qui",
+      "order": 20,
+      "species": [
+        {"source_species": "que and qu'est-ce que become ce que in indirect what-object clauses", "order": 10},
+        {"source_species": "qu'est-ce qui becomes ce qui when the unknown thing is subject", "order": 20},
+        {"source_species": "qui asks about a person and is not qu'est-ce qui", "order": 30},
+        {"source_species": "ce que and ce qui can be understood as ce plus relative pronoun role", "order": 40}
+      ],
+      "practice_cards": [
+        {
+          "id": "ce-que-object-tu-fais",
+          "order": 110,
+          "front": "Je ne sais pas ___ tu fais.",
+          "back": "后面已有主语 tu，缺 direct object，所以用 **ce que**。",
+          "answer": "ce que",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "interrogation", "sentence_frame"]
+        },
+        {
+          "id": "ce-qui-subject-plait",
+          "order": 120,
+          "front": "Je ne sais pas ___ te fait plaisir.",
+          "back": "后面 te fait plaisir 缺主语，所以用 **ce qui**。",
+          "answer": "ce qui",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "interrogation", "sentence_frame"]
+        },
+        {
+          "id": "qui-person-professeur",
+          "order": 130,
+          "front": "Je ne sais pas ___ est votre professeur.",
+          "back": "问人，用 **qui**，不是 qu'est-ce qui。",
+          "answer": "qui",
+          "primary_class": "grammar_rule",
+          "tags": ["interrogation", "relative_pronoun"]
+        },
+        {
+          "id": "ce-que-ce-qui-role-check",
+          "order": 140,
+          "front": "自查：选 ce que / ce qui 前，先问哪两个问题？",
+          "back": "先问：\n1. 问的是人还是物？人 → qui。\n2. 如果是物，后面从句缺主语还是缺宾语？缺主语 → ce qui；缺宾语 → ce que。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["relative_pronoun", "sentence_frame", "self_review"]
+        }
+      ]
+    },
+    {
+      "id": "interfaces-and-expression-blocks",
+      "label": "动词接口与文本表达块",
+      "order": 30,
+      "species": [
+        {"source_species": "de nos jours is a fixed plural expression meaning nowadays", "order": 10},
+        {"source_species": "poser une question is direct but répondre takes à", "order": 20},
+        {"source_species": "au coeur de means in the heart or center of something", "order": 30},
+        {"source_species": "plaire à means please someone and explains s'il vous plaît", "order": 40},
+        {"source_species": "s'intéresser à requires pronominal conjugation and à complement", "order": 50},
+        {"source_species": "ment endings can mark adverbs while ment nouns are masculine", "order": 60},
+        {"source_species": "avec le développement de can mean with or along with development", "order": 70},
+        {"source_species": "c'est-à-dire is the French frame for that is to say", "order": 80},
+        {"source_species": "c'est pas grave is a reassurance formula and gravement is its adverb family", "order": 90},
+        {"source_species": "progrès means progress not process", "order": 100}
+      ],
+      "practice_cards": [
+        {
+          "id": "de-nos-jours",
+          "order": 110,
+          "front": "“如今、当下”：___",
+          "back": "固定复数表达：**de nos jours**。jours 是复数，所以是 nos。",
+          "answer": "de nos jours",
+          "primary_class": "expression",
+          "tags": ["expression", "gender_number"]
+        },
+        {
+          "id": "repondre-a-question",
+          "order": 120,
+          "front": "répondre ___ une question",
+          "back": "répondre 要接 **à**：répondre à une question。",
+          "answer": "à",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "requires_a"]
+        },
+        {
+          "id": "plaire-lui",
+          "order": 130,
+          "front": "Cette idée plaît à Marie. → Cette idée ___ plaît.",
+          "back": "plaire à + 人；à Marie 替换成间接宾语代词 **lui**。",
+          "answer": "lui",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "pronoun"]
+        },
+        {
+          "id": "sinteresser-a-medecine",
+          "order": 140,
+          "front": "Je m'intéresse ___ la médecine.",
+          "back": "s'intéresser **à** + 领域。",
+          "answer": "à",
+          "primary_class": "grammar_rule",
+          "tags": ["pronominal_reflexive", "preposition_interface"]
+        },
+        {
+          "id": "medecine-field",
+          "order": 150,
+          "front": "“医学”：___ médecine",
+          "back": "**la médecine** = 医学；**un médecin** = 医生。",
+          "answer": "la",
+          "primary_class": "lexical_usage",
+          "tags": ["teacher_corrected_error", "gender_number"]
+        },
+        {
+          "id": "grave-adverb",
+          "order": 160,
+          "front": "grave → 副词：___",
+          "back": "-ment 副词尾：**gravement**。",
+          "answer": "gravement",
+          "primary_class": "pronunciation_spelling",
+          "tags": ["memory_hook"]
+        },
+        {
+          "id": "au-coeur-de",
+          "order": 170,
+          "front": "“在城市中心/核心”：au ___ de la ville",
+          "back": "cœur 可以表示中心：**au cœur de la ville**。",
+          "answer": "cœur",
+          "primary_class": "expression",
+          "tags": ["expression"]
+        },
+        {
+          "id": "avec-developpement-de",
+          "order": 180,
+          "front": "“随着科技的发展”：___ le développement de la technologie",
+          "back": "**avec le développement de...** 可理解为 with/as ... develops。",
+          "answer": "avec",
+          "primary_class": "expression",
+          "tags": ["expression", "preposition_interface"]
+        },
+        {
+          "id": "cest-a-dire",
+          "order": 190,
+          "front": "“也就是说”：___",
+          "back": "**c'est-à-dire** = that is to say。",
+          "answer": "c'est-à-dire",
+          "primary_class": "expression",
+          "tags": ["expression"]
+        },
+        {
+          "id": "progres-not-process",
+          "order": 200,
+          "front": "progress / 进步：___（不要写 process 的意思）",
+          "back": "**progrès** = progress / 进步，不是 process / 过程。",
+          "answer": "progrès",
+          "primary_class": "lexical_usage",
+          "tags": ["false_friend", "teacher_corrected_error"]
+        }
+      ]
+    },
+    {
+      "id": "homework-boundary",
+      "label": "课后任务边界",
+      "order": 40,
+      "species": [
+        {"source_species": "L23 homework is vocabulary review grammar review and after-class questions excluding first two reading-only prompts", "order": 10}
+      ],
+      "practice_cards": [
+        {
+          "id": "l23-homework-self-check",
+          "order": 110,
+          "front": "自查：L23 课后实际要做哪三件事？哪两题不用写？",
+          "back": "要做：背单词、复习语法、做课后题；翻译题可以试着自己写。\n\n不用写：最前面的两个阅读理解式问题。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["homework", "self_review"]
+        }
+      ]
+    }
+  ]
+}
