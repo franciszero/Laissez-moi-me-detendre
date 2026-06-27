@@ -1,0 +1,346 @@
+{
+  "groups": [
+    {
+      "id": "cleft-sentences",
+      "label": "强调句两套结构",
+      "order": 10,
+      "species": [
+        {"source_species": "c'est qui and c'est que cleft can emphasize all sentence parts except the finite verb", "order": 10},
+        {"source_species": "c'est plus stressed pronoun plus qui emphasizes the subject", "order": 20},
+        {"source_species": "c'est plus constituent plus que emphasizes non-subject complements and adverbials", "order": 30},
+        {"source_species": "delete the cleft frame to test whether a c'est qui or que sentence is complete", "order": 40},
+        {"source_species": "relative ou absorbs the place preposition but a cleft keeps the preposition in the emphasized phrase", "order": 50},
+        {"source_species": "ce qui ce que c'est cleft only emphasizes things as subject or direct object", "order": 60},
+        {"source_species": "ce qui introduces a thing subject and ce que introduces a thing direct object", "order": 70},
+        {"source_species": "ce qui ce que c'est can take noun de infinitive or que clause after c'est", "order": 80},
+        {"source_species": "c'est can become ce sont when the emphasized noun phrase is plural", "order": 90},
+        {"source_species": "second cleft structure is useful in writing to add layered reflection", "order": 100}
+      ],
+      "practice_cards": [
+        {
+          "id": "cleft-subject-moi",
+          "order": 110,
+          "front": "Je rencontre Pascal à Paris. 强调“我”：___ rencontre Pascal à Paris.",
+          "back": "强调主语用 c'est + 重读代词 + qui：**C'est moi qui** rencontre Pascal à Paris.",
+          "answer": "C'est moi qui",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "pronoun", "sentence_frame"]
+        },
+        {
+          "id": "cleft-object-pascal",
+          "order": 120,
+          "front": "Je rencontre Pascal à Paris. 强调 Pascal：___ je rencontre à Paris.",
+          "back": "Pascal 是直接宾语，不是主语，所以用 **C'est Pascal que** je rencontre à Paris.",
+          "answer": "C'est Pascal que",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "sentence_frame"]
+        },
+        {
+          "id": "cleft-place-paris",
+          "order": 130,
+          "front": "Je rencontre Pascal à Paris. 强调地点：___ je rencontre Pascal.",
+          "back": "地点短语整体搬出来，介词 à 不能丢：**C'est à Paris que** je rencontre Pascal.",
+          "answer": "C'est à Paris que",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "preposition_interface"]
+        },
+        {
+          "id": "ce-qui-touche",
+          "order": 140,
+          "front": "___ me touche, c'est sa patience.",
+          "back": "后面 me touche 缺主语，所以用 **Ce qui**。",
+          "answer": "Ce qui",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "relative_pronoun"]
+        },
+        {
+          "id": "ce-que-admire",
+          "order": 150,
+          "front": "___ j'admire, c'est sa patience.",
+          "back": "后面 j'admire 已有主语，缺直接宾语，所以用 **Ce que**。",
+          "answer": "Ce que",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "relative_pronoun"]
+        },
+        {
+          "id": "cest-de-infinitive",
+          "order": 160,
+          "front": "重要的是找到工作：Ce qui est important, c'est ___ un travail.",
+          "back": "c'est 后接动作，用 **de + infinitif**：c'est **de trouver** un travail.",
+          "answer": "de trouver",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "infinitive"]
+        },
+        {
+          "id": "cest-que-clause",
+          "order": 170,
+          "front": "让我开心的是你来了：Ce qui me rend heureux, c'est ___ tu es venu.",
+          "back": "c'est 后接完整句子，用 **que + clause**。",
+          "answer": "que",
+          "primary_class": "grammar_rule",
+          "tags": ["cleft", "sentence_frame"]
+        },
+        {
+          "id": "cleft-deletion-self-check",
+          "order": 180,
+          "front": "自评：写完一个 `c'est ... qui/que` 强调句后，用一句话说出删除测试。",
+          "back": "删除 `c'est + 被强调成分 + qui/que` 这层框架，剩下的内容应能还原原句主干；介词、宾语、主语角色不能多也不能少。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["cleft", "self_review"]
+        }
+      ]
+    },
+    {
+      "id": "pronominal-verbs",
+      "label": "代动词意义",
+      "order": 20,
+      "species": [
+        {"source_species": "pronominal verbs have reflexive reciprocal passive and essential meanings", "order": 10},
+        {"source_species": "passive pronominal verbs mark things that are sold used or opened rather than acting themselves", "order": 20},
+        {"source_species": "se souvenir is an essential pronominal verb while souvenir alone is a noun", "order": 30},
+        {"source_species": "postpone low-yield complex pronominal details until encountered", "order": 40}
+      ],
+      "practice_cards": [
+        {
+          "id": "se-vend-bien",
+          "order": 110,
+          "front": "这本书卖得好：Ce livre ___ bien.",
+          "back": "被动/中动意义：**Ce livre se vend bien.**",
+          "answer": "se vend",
+          "primary_class": "grammar_rule",
+          "tags": ["pronominal_reflexive", "sentence_frame"]
+        },
+        {
+          "id": "s-emploie",
+          "order": 120,
+          "front": "这个词不再使用了：Ce mot ne ___ plus.",
+          "back": "被动/中动意义：**Ce mot ne s'emploie plus.**",
+          "answer": "s'emploie",
+          "primary_class": "grammar_rule",
+          "tags": ["pronominal_reflexive", "negation"]
+        },
+        {
+          "id": "s-ouvre",
+          "order": 130,
+          "front": "门开了 / 门能打开：La porte ___.",
+          "back": "物作主语的中动：**La porte s'ouvre.**",
+          "answer": "s'ouvre",
+          "primary_class": "grammar_rule",
+          "tags": ["pronominal_reflexive"]
+        },
+        {
+          "id": "me-souviens",
+          "order": 140,
+          "front": "我记得：Je ___ souviens.",
+          "back": "se souvenir 是绝对代动词：**Je me souviens.**",
+          "answer": "me",
+          "primary_class": "grammar_rule",
+          "tags": ["pronominal_reflexive"]
+        },
+        {
+          "id": "pronominal-four-types",
+          "order": 150,
+          "front": "自评：看到 `se + verbe`，先说出四种可能意义。",
+          "back": "反身、相互、被动/中动、绝对代动词。先分类，再翻译。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["pronominal_reflexive", "self_review"]
+        }
+      ]
+    },
+    {
+      "id": "production-listening",
+      "label": "造句与听力复述",
+      "order": 30,
+      "species": [
+        {"source_species": "produce sentences from simple English-like skeletons instead of word piles", "order": 10},
+        {"source_species": "listening retell should rebuild understood meaning rather than memorize exact wording", "order": 20},
+        {"source_species": "on is a high-utility spoken subject pronoun with third singular verb form", "order": 30},
+        {"source_species": "etre d'accord pour plus infinitive and aller plus place plus infinitive build long purpose sentences", "order": 40}
+      ],
+      "practice_cards": [
+        {
+          "id": "on-peut-aller",
+          "order": 110,
+          "front": "我们可以去电影院：___ peut aller au cinéma.",
+          "back": "`on` 口语里可表示“我们”，动词第三人称单数：**On peut**.",
+          "answer": "On",
+          "primary_class": "grammar_rule",
+          "tags": ["pronoun", "sentence_frame"]
+        },
+        {
+          "id": "on-va-restaurant",
+          "order": 120,
+          "front": "我们也去餐厅：___ va au restaurant aussi.",
+          "back": "`on` + 第三人称单数：**On va** au restaurant aussi.",
+          "answer": "On",
+          "primary_class": "grammar_rule",
+          "tags": ["pronoun", "sentence_frame"]
+        },
+        {
+          "id": "daccord-pour",
+          "order": 130,
+          "front": "Je suis d'accord ___ faire du vélo.",
+          "back": "être d'accord **pour + infinitif**。",
+          "answer": "pour",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "infinitive"]
+        },
+        {
+          "id": "purpose-pour",
+          "order": 140,
+          "front": "On peut aller au marché ___ acheter des fruits.",
+          "back": "表示目的，可以用 **pour + infinitif**。",
+          "answer": "pour",
+          "primary_class": "sentence_pattern",
+          "tags": ["preposition_interface", "infinitive"]
+        },
+        {
+          "id": "retell-rebuild-self",
+          "order": 150,
+          "front": "自评：听力复述前，先用三步说出你要怎么重建句子。",
+          "back": "1. 听懂意思和主干；2. 用简单 SVO/补语骨架重建；3. 再补介词、冠词、时态。不要逐字背音频。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["listening", "self_review"]
+        }
+      ]
+    },
+    {
+      "id": "activity-and-phrases",
+      "label": "活动表达与名词短语",
+      "order": 40,
+      "species": [
+        {"source_species": "faire plus partitive article plus activity names sports or arts", "order": 10},
+        {"source_species": "aller au cours de names the class someone goes to without adding an attend verb", "order": 20},
+        {"source_species": "noun modifying another noun usually uses de rather than direct noun stacking", "order": 30},
+        {"source_species": "des becomes de before a plural noun with a preceding adjective", "order": 40},
+        {"source_species": "en vacances marks holiday state while partir en vacances marks leaving for holiday", "order": 50},
+        {"source_species": "possessive adjectives agree with the packed noun list in valise sentences", "order": 60},
+        {"source_species": "rendez-vous plus place and time can be a natural spoken fragment", "order": 70},
+        {"source_species": "attendre takes a direct object and t'attends has silent d", "order": 80}
+      ],
+      "practice_cards": [
+        {
+          "id": "faire-du-tennis",
+          "order": 110,
+          "front": "Tom fait ___ tennis.",
+          "back": "faire + partitive + activity：**du tennis**。",
+          "answer": "du",
+          "primary_class": "lexical_usage",
+          "tags": ["article", "expression"]
+        },
+        {
+          "id": "faire-de-la-natation",
+          "order": 120,
+          "front": "Elle fait ___ natation.",
+          "back": "natation 是阴性：**de la natation**。",
+          "answer": "de la",
+          "primary_class": "lexical_usage",
+          "tags": ["article", "expression"]
+        },
+        {
+          "id": "cours-de-dessin",
+          "order": 130,
+          "front": "Je vais ___ dessin.",
+          "back": "去某门课：**au cours de** dessin.",
+          "answer": "au cours de",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "expression"]
+        },
+        {
+          "id": "bruits-danimaux",
+          "order": 140,
+          "front": "des bruits ___ animaux",
+          "back": "名词修饰名词用 de；元音前省音：**d'animaux**。",
+          "answer": "d'",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "elision"]
+        },
+        {
+          "id": "billet-avion",
+          "order": 150,
+          "front": "un billet ___ avion",
+          "back": "机票：un billet **d'**avion.",
+          "answer": "d'",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "elision"]
+        },
+        {
+          "id": "de-belles-vacances",
+          "order": 160,
+          "front": "___ belles vacances",
+          "back": "复数名词前有前置形容词，des → **de**。",
+          "answer": "de",
+          "primary_class": "grammar_rule",
+          "tags": ["article", "gender_number"]
+        },
+        {
+          "id": "en-vacances",
+          "order": 170,
+          "front": "Je suis ___ vacances.",
+          "back": "处于假期状态：être **en vacances**。",
+          "answer": "en",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "expression"]
+        },
+        {
+          "id": "ma-serviette",
+          "order": 180,
+          "front": "Dans ma valise, je mets ___ serviette.",
+          "back": "serviette 阴性单数：**ma serviette**。",
+          "answer": "ma",
+          "primary_class": "grammar_rule",
+          "tags": ["possessive", "gender_number"]
+        },
+        {
+          "id": "mes-lunettes",
+          "order": 190,
+          "front": "Je mets ___ lunettes de soleil dans ma valise.",
+          "back": "lunettes 复数：**mes lunettes**。",
+          "answer": "mes",
+          "primary_class": "grammar_rule",
+          "tags": ["possessive", "gender_number"]
+        },
+        {
+          "id": "rendez-vous-devant",
+          "order": 200,
+          "front": "Rendez-vous ___ le marché.",
+          "back": "在市场前面见：**devant le marché**。",
+          "answer": "devant",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "expression"]
+        },
+        {
+          "id": "tattends-entree",
+          "order": 210,
+          "front": "Je ___ à l'entrée du magasin.",
+          "back": "attendre 直接接人：**Je t'attends** à l'entrée du magasin.",
+          "answer": "t'attends",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface", "pronoun"]
+        }
+      ]
+    },
+    {
+      "id": "homework-boundary",
+      "label": "课后任务边界",
+      "order": 50,
+      "species": [
+        {"source_species": "L24 homework prioritizes listening comprehension then in-class retelling", "order": 10}
+      ],
+      "practice_cards": [
+        {
+          "id": "homework-boundary-self",
+          "order": 110,
+          "front": "自评：L24 回家听力要做到什么程度？什么不用过度做？",
+          "back": "要听懂每句话，先做第一遍问题，半懂就继续听；不用在家把复述磨成逐字背诵，课堂能用自己的法语重建即可。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["homework", "listening", "self_review"]
+        }
+      ]
+    }
+  ]
+}

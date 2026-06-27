@@ -1,0 +1,1609 @@
+{
+  "lesson": "L24",
+  "source": "L24_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L24.species.json",
+    "expected_species_count": 27
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L24 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "faire du tennis",
+          "pos": "verb",
+          "zh": "打网球"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire du sport",
+          "pos": "verb",
+          "zh": "做运动"
+        },
+        {
+          "type": "vocab",
+          "fr": "la natation",
+          "pos": "noun",
+          "zh": "游泳"
+        },
+        {
+          "type": "vocab",
+          "fr": "la peinture",
+          "pos": "noun",
+          "zh": "绘画；画画"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'escalade",
+          "pos": "noun",
+          "zh": "攀岩"
+        },
+        {
+          "type": "vocab",
+          "fr": "le cours",
+          "pos": "noun",
+          "zh": "课程"
+        },
+        {
+          "type": "vocab",
+          "fr": "le dessin",
+          "pos": "noun",
+          "zh": "绘画；素描"
+        },
+        {
+          "type": "vocab",
+          "fr": "le cinéma",
+          "pos": "noun",
+          "zh": "电影院；电影"
+        },
+        {
+          "type": "vocab",
+          "fr": "le théâtre",
+          "pos": "noun",
+          "zh": "剧院；戏剧"
+        },
+        {
+          "type": "vocab",
+          "fr": "le centre commercial",
+          "pos": "noun",
+          "zh": "购物中心"
+        },
+        {
+          "type": "vocab",
+          "fr": "le magasin",
+          "pos": "noun",
+          "zh": "商店"
+        },
+        {
+          "type": "vocab",
+          "fr": "un magasin de mode",
+          "pos": "noun",
+          "zh": "时装店"
+        },
+        {
+          "type": "vocab",
+          "fr": "le pantalon",
+          "pos": "noun",
+          "zh": "裤子"
+        },
+        {
+          "type": "vocab",
+          "fr": "une chemise",
+          "pos": "noun",
+          "zh": "衬衫"
+        },
+        {
+          "type": "vocab",
+          "fr": "le marché",
+          "pos": "noun",
+          "zh": "市场"
+        },
+        {
+          "type": "vocab",
+          "fr": "les fruits",
+          "pos": "noun",
+          "zh": "水果"
+        },
+        {
+          "type": "vocab",
+          "fr": "les boissons",
+          "pos": "noun",
+          "zh": "饮料"
+        },
+        {
+          "type": "vocab",
+          "fr": "les courses",
+          "pos": "noun",
+          "zh": "采购；买东西"
+        },
+        {
+          "type": "vocab",
+          "fr": "la réduction",
+          "pos": "noun",
+          "zh": "折扣"
+        },
+        {
+          "type": "vocab",
+          "fr": "tout de suite",
+          "pos": "adv",
+          "zh": "马上；立刻"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'entrée",
+          "pos": "noun",
+          "zh": "入口"
+        },
+        {
+          "type": "vocab",
+          "fr": "le rendez-vous",
+          "pos": "noun",
+          "zh": "约会；约定见面"
+        },
+        {
+          "type": "vocab",
+          "fr": "devant",
+          "pos": "preposition",
+          "zh": "在……前面"
+        },
+        {
+          "type": "vocab",
+          "fr": "appeler",
+          "pos": "verb",
+          "zh": "打电话；叫"
+        },
+        {
+          "type": "vocab",
+          "fr": "attendre",
+          "pos": "verb",
+          "zh": "等待"
+        },
+        {
+          "type": "vocab",
+          "fr": "la forêt",
+          "pos": "noun",
+          "zh": "森林"
+        },
+        {
+          "type": "vocab",
+          "fr": "le lac",
+          "pos": "noun",
+          "zh": "湖"
+        },
+        {
+          "type": "vocab",
+          "fr": "le bruit",
+          "pos": "noun",
+          "zh": "声音；噪音"
+        },
+        {
+          "type": "vocab",
+          "fr": "un animal",
+          "pos": "noun",
+          "zh": "动物"
+        },
+        {
+          "type": "vocab",
+          "fr": "les vacances",
+          "pos": "noun",
+          "zh": "假期"
+        },
+        {
+          "type": "vocab",
+          "fr": "la valise",
+          "pos": "noun",
+          "zh": "行李箱"
+        },
+        {
+          "type": "vocab",
+          "fr": "la serviette",
+          "pos": "noun",
+          "zh": "毛巾"
+        },
+        {
+          "type": "vocab",
+          "fr": "les lunettes de soleil",
+          "pos": "noun",
+          "zh": "太阳镜"
+        },
+        {
+          "type": "vocab",
+          "fr": "le billet d'avion",
+          "pos": "noun",
+          "zh": "机票"
+        },
+        {
+          "type": "vocab",
+          "fr": "le billet de train",
+          "pos": "noun",
+          "zh": "火车票"
+        },
+        {
+          "type": "vocab",
+          "fr": "le lieu",
+          "pos": "noun",
+          "zh": "地点"
+        },
+        {
+          "type": "vocab",
+          "fr": "un immeuble",
+          "pos": "noun",
+          "zh": "楼；大楼"
+        },
+        {
+          "type": "vocab",
+          "fr": "se promener",
+          "pos": "verb",
+          "zh": "散步"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L24 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L24:species:c-est-qui-and-c-est-que-cleft-can-emphasize-all-sentence-parts-except-the-finite-verb",
+          "front": "强调句 `c'est ... qui/que` 能强调哪些成分？哪一种成分不能这样直接强调？",
+          "back": "它可以强调主语、直接宾语、地点/时间/方式等补语或状语。\n\n核心限制：**不能直接强调变位动词本身**。先判断要强调的是句子的哪块骨头，再决定 qui / que。",
+          "answer": null,
+          "source_species": "c'est qui and c'est que cleft can emphasize all sentence parts except the finite verb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "relative_pronoun",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "c'est ... qui",
+            "c'est ... que"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:239-267"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:c-est-plus-stressed-pronoun-plus-qui-emphasizes-the-subject",
+          "front": "“是我在巴黎遇见 Pascal。”为什么不能说 `C'est je qui...`？正确句型是什么？",
+          "back": "主语被 `c'est` 拿出来强调后，要用重读人称代词：**moi / toi / lui / elle / nous / vous / eux / elles**。\n\n正确：**C'est moi qui rencontre Pascal à Paris.**",
+          "answer": null,
+          "source_species": "c'est plus stressed pronoun plus qui emphasizes the subject",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "pronoun",
+            "relative_pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "C'est moi qui rencontre Pascal"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:274-289"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:c-est-plus-constituent-plus-que-emphasizes-non-subject-complements-and-adverbials",
+          "front": "`Je rencontre Pascal à Paris.` 强调 Pascal / à Paris 时分别怎么说？",
+          "back": "非主语成分用 **que**：\n\n- 强调 Pascal：**C'est Pascal que je rencontre à Paris.**\n- 强调地点：**C'est à Paris que je rencontre Pascal.**\n\n注意：地点短语里的介词 à 要跟着被强调的成分一起搬出来。",
+          "answer": null,
+          "source_species": "c'est plus constituent plus que emphasizes non-subject complements and adverbials",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "relative_pronoun",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "C'est Pascal que je rencontre",
+            "C'est à Paris que je rencontre Pascal"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:289-324"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:delete-the-cleft-frame-to-test-whether-a-c-est-qui-or-que-sentence-is-complete",
+          "front": "检查 `c'est ... qui/que` 强调句是否写对，可以用哪一个“删除测试”？",
+          "back": "把 **c'est + 被强调成分 + qui/que** 这层框架拆掉，看剩下的句子能不能回到原句骨架。\n\n例：C'est à Paris que je rencontre Pascal. → je rencontre Pascal à Paris。\n\n如果删完多词、少词、角色错，强调句就有问题。",
+          "answer": null,
+          "source_species": "delete the cleft frame to test whether a c'est qui or que sentence is complete",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "c'est ... qui",
+            "c'est ... que"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:430-456"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:relative-ou-absorbs-the-place-preposition-but-a-cleft-keeps-the-preposition-in-the-emphasized-phrase",
+          "front": "`où` 关系从句和 `c'est ... que` 地点强调句，在介词上有什么差别？",
+          "back": "`où` 自带地点关系，通常吸收介词：\n\n- C'est le lieu **où** je travaille.\n\n地点强调句要保留完整地点短语：\n\n- **C'est à Paris que** je travaille.\n\n不要把 `à` 丢掉。",
+          "answer": null,
+          "source_species": "relative ou absorbs the place preposition but a cleft keeps the preposition in the emphasized phrase",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "sentence_frame",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "où",
+            "C'est dans ce restaurant que..."
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:395-426"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:ce-qui-ce-que-c-est-cleft-only-emphasizes-things-as-subject-or-direct-object",
+          "front": "`Ce qui / Ce que ..., c'est ...` 这套强调结构适合强调什么？不适合什么？",
+          "back": "它只适合强调“事情/东西”作 **主语** 或 **直接宾语**：\n\n- **Ce qui** me touche, c'est sa patience.\n- **Ce que** j'admire, c'est sa patience.\n\n不拿来强调人、间接宾语、介词短语或时间地点状语。",
+          "answer": null,
+          "source_species": "ce qui ce que c'est cleft only emphasizes things as subject or direct object",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "relative_pronoun",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "Ce qui me touche, c'est sa patience",
+            "Ce que j'admire, c'est sa patience"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:480-590"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:ce-qui-introduces-a-thing-subject-and-ce-que-introduces-a-thing-direct-object",
+          "front": "`Ce qui` 和 `Ce que` 怎样按“缺角色”判断？",
+          "back": "看后面小句缺什么：\n\n- 缺主语 → **Ce qui**\n- 已有主语、缺直接宾语 → **Ce que**\n\n例：Ce qui me touche...（touches me 的主语缺了）\nCe que j'admire...（j'admire 的宾语缺了）",
+          "answer": null,
+          "source_species": "ce qui introduces a thing subject and ce que introduces a thing direct object",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "relative_pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "Ce qui me touche",
+            "Ce que j'admire"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:480-570"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:ce-qui-ce-que-c-est-can-take-noun-de-infinitive-or-que-clause-after-c-est",
+          "front": "`Ce qui/ce que ..., c'est ...` 后半句可以接哪三种形态？",
+          "back": "`c'est` 后面常见三种补语：\n\n1. 名词/名词短语：c'est **sa patience**\n2. **de + infinitif**：c'est **d'avoir un travail**\n3. **que + 从句**：c'est **que tu es venu**\n\n动作要用 de + infinitif，完整句子用 que。",
+          "answer": null,
+          "source_species": "ce qui ce que c'est can take noun de infinitive or que clause after c'est",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "requires_de",
+            "A2"
+          ],
+          "french_items": [
+            "c'est un travail",
+            "c'est d'avoir un travail",
+            "c'est que tu es venu"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:610-670"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:c-est-can-become-ce-sont-when-the-emphasized-noun-phrase-is-plural",
+          "front": "强调复数名词时，`c'est` 一定不变吗？",
+          "back": "口语里常听到 c'est，但规范写法里，强调复数名词可以用 **ce sont**：\n\n**Ce sont mes amis qui** m'aident.\n\n这张卡只提醒：看到 plural focus，不要惊讶 ce sont。",
+          "answer": null,
+          "source_species": "c'est can become ce sont when the emphasized noun phrase is plural",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "foundational",
+            "sentence_frame",
+            "agreement",
+            "gender_number",
+            "A2"
+          ],
+          "french_items": [
+            "c'est",
+            "ce sont",
+            "Ce sont de belles vacances"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:600-620"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:second-cleft-structure-is-useful-in-writing-to-add-layered-reflection",
+          "front": "为什么老师说 `Ce qui/ce que ..., c'est ...` 对写作有用？",
+          "back": "它能把一个普通判断变成“先铺垫、再落点”的表达：\n\n- Ce qui est important, c'est de comprendre.\n- Ce que je veux dire, c'est que...\n\n适合写感受、观点、总结，不只是语法题。",
+          "answer": null,
+          "source_species": "second cleft structure is useful in writing to add layered reflection",
+          "primary_class": "strategy",
+          "tags": [
+            "mastery",
+            "sentence_frame",
+            "written",
+            "A2"
+          ],
+          "french_items": [
+            "Ce qui m'a plu, c'est...",
+            "Ce que j'ai appris, c'est..."
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:650-700"
+          ],
+          "curated": true,
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cleft-subject-moi",
+          "front": "Je rencontre Pascal à Paris. 强调“我”：___ rencontre Pascal à Paris.",
+          "back": "强调主语用 c'est + 重读代词 + qui：**C'est moi qui** rencontre Pascal à Paris.",
+          "answer": "C'est moi qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "pronoun",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cleft-object-pascal",
+          "front": "Je rencontre Pascal à Paris. 强调 Pascal：___ je rencontre à Paris.",
+          "back": "Pascal 是直接宾语，不是主语，所以用 **C'est Pascal que** je rencontre à Paris.",
+          "answer": "C'est Pascal que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cleft-place-paris",
+          "front": "Je rencontre Pascal à Paris. 强调地点：___ je rencontre Pascal.",
+          "back": "地点短语整体搬出来，介词 à 不能丢：**C'est à Paris que** je rencontre Pascal.",
+          "answer": "C'est à Paris que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:ce-qui-touche",
+          "front": "___ me touche, c'est sa patience.",
+          "back": "后面 me touche 缺主语，所以用 **Ce qui**。",
+          "answer": "Ce qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:ce-que-admire",
+          "front": "___ j'admire, c'est sa patience.",
+          "back": "后面 j'admire 已有主语，缺直接宾语，所以用 **Ce que**。",
+          "answer": "Ce que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cest-de-infinitive",
+          "front": "重要的是找到工作：Ce qui est important, c'est ___ un travail.",
+          "back": "c'est 后接动作，用 **de + infinitif**：c'est **de trouver** un travail.",
+          "answer": "de trouver",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "infinitive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cest-que-clause",
+          "front": "让我开心的是你来了：Ce qui me rend heureux, c'est ___ tu es venu.",
+          "back": "c'est 后接完整句子，用 **que + clause**。",
+          "answer": "que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "cleft",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cleft-deletion-self-check",
+          "front": "自评：写完一个 `c'est ... qui/que` 强调句后，用一句话说出删除测试。",
+          "back": "删除 `c'est + 被强调成分 + qui/que` 这层框架，剩下的内容应能还原原句主干；介词、宾语、主语角色不能多也不能少。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "cleft",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "cleft-sentences",
+          "study_group": "cleft-sentences",
+          "study_group_label": "强调句两套结构",
+          "study_group_order": 10,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:pronominal-verbs-have-reflexive-reciprocal-passive-and-essential-meanings",
+          "front": "代动词 `se + verbe` 在 L24 里分成哪四种意义？",
+          "back": "四类先认出来：\n\n1. 反身：自己对自己做\n2. 相互：彼此做\n3. 被动/中动：东西“被卖/被用/被打开”\n4. 绝对代动词：动词本身就必须带 se，如 **se souvenir**\n\n先分类，再决定怎么理解。",
+          "answer": null,
+          "source_species": "pronominal verbs have reflexive reciprocal passive and essential meanings",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "se laver",
+            "se rencontrer",
+            "se vendre",
+            "se souvenir"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:700-820"
+          ],
+          "curated": true,
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:passive-pronominal-verbs-mark-things-that-are-sold-used-or-opened-rather-than-acting-themselves",
+          "front": "`Ce livre se vend bien.` 这里书真的在“卖自己”吗？怎么理解？",
+          "back": "不是。这里是代动词的被动/中动意义：\n\n**Ce livre se vend bien.** = 这本书卖得好。\n\n同类：Ce mot s'emploie... / La porte s'ouvre... 主语是物，不是主动行动者。",
+          "answer": null,
+          "source_species": "passive pronominal verbs mark things that are sold used or opened rather than acting themselves",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "se vendre",
+            "s'employer",
+            "s'ouvrir"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:760-800"
+          ],
+          "curated": true,
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:se-souvenir-is-an-essential-pronominal-verb-while-souvenir-alone-is-a-noun",
+          "front": "`se souvenir` 为什么不能随便去掉 se？",
+          "back": "**se souvenir** 是绝对代动词，表达“记得”。\n\n`souvenir` 单独更常是名词“回忆/纪念品”，不是这里要用的动词形态。\n\n所以：Je **me souviens** de...",
+          "answer": null,
+          "source_species": "se souvenir is an essential pronominal verb while souvenir alone is a noun",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "foundational",
+            "pronominal_reflexive",
+            "same_surface_diff_meaning",
+            "A2"
+          ],
+          "french_items": [
+            "se souvenir",
+            "souvenir"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:800-835"
+          ],
+          "curated": true,
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:postpone-low-yield-complex-pronominal-details-until-encountered",
+          "front": "老师为什么没有把代动词所有复杂细节一次性讲完？学习策略是什么？",
+          "back": "代动词系统很大。L24 只先建立分类地图：反身、相互、被动/中动、绝对代动词。\n\n策略：先能识别句子里的意义；低频复杂细节等课文真正遇到再处理。",
+          "answer": null,
+          "source_species": "postpone low-yield complex pronominal details until encountered",
+          "primary_class": "strategy",
+          "tags": [
+            "foundational",
+            "pronominal_reflexive",
+            "A2"
+          ],
+          "french_items": [
+            "se souvenir"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:830-845"
+          ],
+          "curated": true,
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:se-vend-bien",
+          "front": "这本书卖得好：Ce livre ___ bien.",
+          "back": "被动/中动意义：**Ce livre se vend bien.**",
+          "answer": "se vend",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "pronominal-verbs",
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:s-emploie",
+          "front": "这个词不再使用了：Ce mot ne ___ plus.",
+          "back": "被动/中动意义：**Ce mot ne s'emploie plus.**",
+          "answer": "s'emploie",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive",
+            "negation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "pronominal-verbs",
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:s-ouvre",
+          "front": "门开了 / 门能打开：La porte ___.",
+          "back": "物作主语的中动：**La porte s'ouvre.**",
+          "answer": "s'ouvre",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "pronominal-verbs",
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:me-souviens",
+          "front": "我记得：Je ___ souviens.",
+          "back": "se souvenir 是绝对代动词：**Je me souviens.**",
+          "answer": "me",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "pronominal-verbs",
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:pronominal-four-types",
+          "front": "自评：看到 `se + verbe`，先说出四种可能意义。",
+          "back": "反身、相互、被动/中动、绝对代动词。先分类，再翻译。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "pronominal_reflexive",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "pronominal-verbs",
+          "study_group": "pronominal-verbs",
+          "study_group_label": "代动词意义",
+          "study_group_order": 20,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:produce-sentences-from-simple-english-like-skeletons-instead-of-word-piles",
+          "front": "从中文造法语句子时，老师反复强调先做哪一步？",
+          "back": "不要先堆词。先搭一个接近 English/French 的简单骨架：\n\n**主语 + 动词 + 宾语/补语**，再补介词、冠词、时态。\n\n中文常省介词/冠词，法语不能省，所以先搭骨架能减少大错。",
+          "answer": null,
+          "source_species": "produce sentences from simple English-like skeletons instead of word piles",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "主谓宾",
+            "状语",
+            "定语"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:850-890"
+          ],
+          "curated": true,
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:listening-retell-should-rebuild-understood-meaning-rather-than-memorize-exact-wording",
+          "front": "听力复述不是背原文。那应该复述什么？",
+          "back": "目标是：听懂意思后，用自己能控制的法语结构重建出来。\n\n先保证每句意思和主干清楚，再用自己的语法说。不要把“复述”理解成逐字背音频。",
+          "answer": null,
+          "source_species": "listening retell should rebuild understood meaning rather than memorize exact wording",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "复述",
+            "听懂",
+            "重组"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1170-1198",
+            "L24_final_working.md:1550-1574"
+          ],
+          "curated": true,
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:on-is-a-high-utility-spoken-subject-pronoun-with-third-singular-verb-form",
+          "front": "`on` 在口语里为什么很有用？动词怎么配？",
+          "back": "`on` 可以自然地表示“我们/人们/大家”，口语高频。\n\n动词永远按第三人称单数：\n\n- On **peut** aller au cinéma.\n- On **va** au restaurant.\n\n它只作主语，不当宾语代词用。",
+          "answer": null,
+          "source_species": "on is a high-utility spoken subject pronoun with third singular verb form",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "informal",
+            "present",
+            "A1"
+          ],
+          "french_items": [
+            "on peut",
+            "on va"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:980-1020",
+            "L24_final_working.md:1157-1174"
+          ],
+          "curated": true,
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:etre-d-accord-pour-plus-infinitive-and-aller-plus-place-plus-infinitive-build-long-purpose-sentences",
+          "front": "`同意做某事` 和 `去某地做某事`，L24 里怎么接 infinitif？",
+          "back": "两个常用接口：\n\n- être d'accord **pour + infinitif**：Je suis d'accord pour faire du vélo.\n- aller + 地点 + **infinitif / pour + infinitif**：On va au marché acheter / pour acheter des fruits.\n\n先写短句正确，再把目的补上。",
+          "answer": null,
+          "source_species": "etre d'accord pour plus infinitive and aller plus place plus infinitive build long purpose sentences",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "requires_a",
+            "A1"
+          ],
+          "french_items": [
+            "être d'accord pour faire du vélo",
+            "aller au centre commercial acheter un pantalon",
+            "aller au marché pour acheter des fruits"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1068-1119"
+          ],
+          "curated": true,
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:on-peut-aller",
+          "front": "我们可以去电影院：___ peut aller au cinéma.",
+          "back": "`on` 口语里可表示“我们”，动词第三人称单数：**On peut**.",
+          "answer": "On",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "production-listening",
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:on-va-restaurant",
+          "front": "我们也去餐厅：___ va au restaurant aussi.",
+          "back": "`on` + 第三人称单数：**On va** au restaurant aussi.",
+          "answer": "On",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "production-listening",
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:daccord-pour",
+          "front": "Je suis d'accord ___ faire du vélo.",
+          "back": "être d'accord **pour + infinitif**。",
+          "answer": "pour",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "infinitive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "production-listening",
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:purpose-pour",
+          "front": "On peut aller au marché ___ acheter des fruits.",
+          "back": "表示目的，可以用 **pour + infinitif**。",
+          "answer": "pour",
+          "primary_class": "sentence_pattern",
+          "tags": [
+            "preposition_interface",
+            "infinitive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "production-listening",
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:retell-rebuild-self",
+          "front": "自评：听力复述前，先用三步说出你要怎么重建句子。",
+          "back": "1. 听懂意思和主干；2. 用简单 SVO/补语骨架重建；3. 再补介词、冠词、时态。不要逐字背音频。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "listening",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "production-listening",
+          "study_group": "production-listening",
+          "study_group_label": "造句与听力复述",
+          "study_group_order": 30,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:faire-plus-partitive-article-plus-activity-names-sports-or-arts",
+          "front": "为什么是 `faire du tennis / faire de la natation / faire de l'escalade`，不是 `faire le tennis`？",
+          "back": "活动、运动、艺术用 **faire + 部分冠词 + 活动名**：\n\n- faire **du** tennis / sport\n- faire **de la** natation / peinture\n- faire **de l'**escalade\n\n不是直接用定冠词 le/la。",
+          "answer": null,
+          "source_species": "faire plus partitive article plus activity names sports or arts",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "partitive",
+            "article",
+            "preposition_interface",
+            "A1"
+          ],
+          "french_items": [
+            "faire du tennis",
+            "faire du sport",
+            "faire de la natation",
+            "faire de l'escalade"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:900-930"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:aller-au-cours-de-names-the-class-someone-goes-to-without-adding-an-attend-verb",
+          "front": "“我去上绘画课”在 L24 里怎么表达？为什么不用额外加 attend？",
+          "back": "**Je vais au cours de dessin.**\n\n`aller à/au cours de...` 已经表达“去某门课”。不要从英语 attend class 机械加一个动词。",
+          "answer": null,
+          "source_species": "aller au cours de names the class someone goes to without adding an attend verb",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "expression",
+            "preposition_interface",
+            "A1"
+          ],
+          "french_items": [
+            "Je vais au cours de dessin",
+            "Je vais au cours de français"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:940-970"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:noun-modifying-another-noun-usually-uses-de-rather-than-direct-noun-stacking",
+          "front": "法语里两个名词连在一起表示修饰关系时，通常靠什么连接？举三个 L24 例子。",
+          "back": "通常用 **de**，不要像中文/英语那样直接名词堆名词：\n\n- des bruits **d'animaux**\n- un billet **d'avion**\n- un billet **de train**\n- l'entrée **du magasin**",
+          "answer": null,
+          "source_species": "noun modifying another noun usually uses de rather than direct noun stacking",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_de",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "des bruits d'animaux",
+            "un billet d'avion",
+            "un billet de train",
+            "l'entrée du magasin"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1262-1269",
+            "L24_final_working.md:1350-1380"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:des-becomes-de-before-a-plural-noun-with-a-preceding-adjective",
+          "front": "为什么是 `de belles vacances`，不是 `des belles vacances`？",
+          "back": "复数名词前有前置形容词时，**des → de**：\n\n- de belles vacances\n- de bons amis\n\n这是 L24 里要顺手自动化的细节。",
+          "answer": null,
+          "source_species": "des becomes de before a plural noun with a preceding adjective",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "article",
+            "agreement",
+            "gender_number",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "de belles vacances"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1262-1272"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:en-vacances-marks-holiday-state-while-partir-en-vacances-marks-leaving-for-holiday",
+          "front": "`être en vacances` 和 `partir en vacances` 差在哪里？",
+          "back": "- **être en vacances**：处在假期状态\n- **partir en vacances**：出发去度假\n\n一个是状态，一个是离开/出发的动作。",
+          "answer": null,
+          "source_species": "en vacances marks holiday state while partir en vacances marks leaving for holiday",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "expression",
+            "preposition_interface",
+            "intransitive",
+            "A1"
+          ],
+          "french_items": [
+            "être en vacances",
+            "partir en vacances"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1280-1310"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:possessive-adjectives-agree-with-the-packed-noun-list-in-valise-sentences",
+          "front": "行李箱清单里，`serviette / lunettes / billet` 前的物主形容词怎么配？",
+          "back": "物主形容词跟后面的名词性数配：\n\n- **ma** serviette\n- **mes** lunettes de soleil\n- **mon** billet d'avion / de train\n\n不要按“我的”这个中文一律固定。",
+          "answer": null,
+          "source_species": "possessive adjectives agree with the packed noun list in valise sentences",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "foundational",
+            "possessive",
+            "gender_number",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "ma serviette",
+            "mes lunettes",
+            "mon billet d'avion"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1310-1370"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:rendez-vous-plus-place-and-time-can-be-a-natural-spoken-fragment",
+          "front": "`Rendez-vous devant le marché à dix heures.` 为什么不一定要补成完整主谓句？",
+          "back": "口语约见面时，这种片段很自然：\n\n**Rendez-vous devant le marché à dix heures.**\n\n它不是语法懒惰，而是固定沟通场景里的自然省略。",
+          "answer": null,
+          "source_species": "rendez-vous plus place and time can be a natural spoken fragment",
+          "primary_class": "strategy",
+          "tags": [
+            "foundational",
+            "informal",
+            "expression",
+            "preposition_interface",
+            "A1"
+          ],
+          "french_items": [
+            "Rendez-vous devant le marché à dix heures"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1440-1485"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:attendre-takes-a-direct-object-and-t-attends-has-silent-d",
+          "front": "`我在商店入口等你` 怎么说？`attendre` 的接口和发音注意什么？",
+          "back": "**Je t'attends à l'entrée du magasin.**\n\n`attendre` 直接接人，不加 à：attendre quelqu'un。\n\n`t'attends` 末尾 d 不发音。",
+          "answer": null,
+          "source_species": "attendre takes a direct object and t'attends has silent d",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "foundational",
+            "transitive_direct",
+            "object_pronoun",
+            "spelling_pronunciation_gap",
+            "A1"
+          ],
+          "french_items": [
+            "Je t'attends",
+            "attendre quelqu'un"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1490-1510"
+          ],
+          "curated": true,
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:faire-du-tennis",
+          "front": "Tom fait ___ tennis.",
+          "back": "faire + partitive + activity：**du tennis**。",
+          "answer": "du",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "article",
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:faire-de-la-natation",
+          "front": "Elle fait ___ natation.",
+          "back": "natation 是阴性：**de la natation**。",
+          "answer": "de la",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "article",
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:cours-de-dessin",
+          "front": "Je vais ___ dessin.",
+          "back": "去某门课：**au cours de** dessin.",
+          "answer": "au cours de",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:bruits-danimaux",
+          "front": "des bruits ___ animaux",
+          "back": "名词修饰名词用 de；元音前省音：**d'animaux**。",
+          "answer": "d'",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "elision"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:billet-avion",
+          "front": "un billet ___ avion",
+          "back": "机票：un billet **d'**avion.",
+          "answer": "d'",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "elision"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:de-belles-vacances",
+          "front": "___ belles vacances",
+          "back": "复数名词前有前置形容词，des → **de**。",
+          "answer": "de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "article",
+            "gender_number"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:en-vacances",
+          "front": "Je suis ___ vacances.",
+          "back": "处于假期状态：être **en vacances**。",
+          "answer": "en",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:ma-serviette",
+          "front": "Dans ma valise, je mets ___ serviette.",
+          "back": "serviette 阴性单数：**ma serviette**。",
+          "answer": "ma",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "possessive",
+            "gender_number"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:mes-lunettes",
+          "front": "Je mets ___ lunettes de soleil dans ma valise.",
+          "back": "lunettes 复数：**mes lunettes**。",
+          "answer": "mes",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "possessive",
+            "gender_number"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:rendez-vous-devant",
+          "front": "Rendez-vous ___ le marché.",
+          "back": "在市场前面见：**devant le marché**。",
+          "answer": "devant",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 200,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:tattends-entree",
+          "front": "Je ___ à l'entrée du magasin.",
+          "back": "attendre 直接接人：**Je t'attends** à l'entrée du magasin.",
+          "answer": "t'attends",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface",
+            "pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "activity-and-phrases",
+          "study_group": "activity-and-phrases",
+          "study_group_label": "活动表达与名词短语",
+          "study_group_order": 40,
+          "study_order": 210,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:species:l24-homework-prioritizes-listening-comprehension-then-in-class-retelling",
+          "front": "L24 作业边界是什么？听力和复述分别做到什么程度？",
+          "back": "优先级：\n\n1. 复习语法\n2. 做听力第一遍的问题\n3. 听懂每句话，半懂就继续多听\n4. 家里不必把复述耗到过度精细，但到课堂要能用自己的法语复述\n\n关键是理解后重建，不是死背音频。",
+          "answer": null,
+          "source_species": "L24 homework prioritizes listening comprehension then in-class retelling",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "A1"
+          ],
+          "french_items": [
+            "听力作业",
+            "语法题复习",
+            "复述"
+          ],
+          "evidence_refs": [
+            "L24_final_working.md:1550-1574"
+          ],
+          "curated": true,
+          "study_group": "homework-boundary",
+          "study_group_label": "课后任务边界",
+          "study_group_order": 50,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L24:practice:homework-boundary-self",
+          "front": "自评：L24 回家听力要做到什么程度？什么不用过度做？",
+          "back": "要听懂每句话，先做第一遍问题，半懂就继续听；不用在家把复述磨成逐字背诵，课堂能用自己的法语重建即可。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "homework",
+            "listening",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "homework-boundary",
+          "study_group": "homework-boundary",
+          "study_group_label": "课后任务边界",
+          "study_group_order": 50,
+          "study_order": 110,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

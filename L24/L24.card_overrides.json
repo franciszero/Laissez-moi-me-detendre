@@ -1,0 +1,137 @@
+{
+  "c'est qui and c'est que cleft can emphasize all sentence parts except the finite verb": {
+    "front": "强调句 `c'est ... qui/que` 能强调哪些成分？哪一种成分不能这样直接强调？",
+    "back": "它可以强调主语、直接宾语、地点/时间/方式等补语或状语。\n\n核心限制：**不能直接强调变位动词本身**。先判断要强调的是句子的哪块骨头，再决定 qui / que。",
+    "answer": null
+  },
+  "c'est plus stressed pronoun plus qui emphasizes the subject": {
+    "front": "“是我在巴黎遇见 Pascal。”为什么不能说 `C'est je qui...`？正确句型是什么？",
+    "back": "主语被 `c'est` 拿出来强调后，要用重读人称代词：**moi / toi / lui / elle / nous / vous / eux / elles**。\n\n正确：**C'est moi qui rencontre Pascal à Paris.**",
+    "answer": null
+  },
+  "c'est plus constituent plus que emphasizes non-subject complements and adverbials": {
+    "front": "`Je rencontre Pascal à Paris.` 强调 Pascal / à Paris 时分别怎么说？",
+    "back": "非主语成分用 **que**：\n\n- 强调 Pascal：**C'est Pascal que je rencontre à Paris.**\n- 强调地点：**C'est à Paris que je rencontre Pascal.**\n\n注意：地点短语里的介词 à 要跟着被强调的成分一起搬出来。",
+    "answer": null
+  },
+  "delete the cleft frame to test whether a c'est qui or que sentence is complete": {
+    "front": "检查 `c'est ... qui/que` 强调句是否写对，可以用哪一个“删除测试”？",
+    "back": "把 **c'est + 被强调成分 + qui/que** 这层框架拆掉，看剩下的句子能不能回到原句骨架。\n\n例：C'est à Paris que je rencontre Pascal. → je rencontre Pascal à Paris。\n\n如果删完多词、少词、角色错，强调句就有问题。",
+    "answer": null
+  },
+  "relative ou absorbs the place preposition but a cleft keeps the preposition in the emphasized phrase": {
+    "front": "`où` 关系从句和 `c'est ... que` 地点强调句，在介词上有什么差别？",
+    "back": "`où` 自带地点关系，通常吸收介词：\n\n- C'est le lieu **où** je travaille.\n\n地点强调句要保留完整地点短语：\n\n- **C'est à Paris que** je travaille.\n\n不要把 `à` 丢掉。",
+    "answer": null
+  },
+  "ce qui ce que c'est cleft only emphasizes things as subject or direct object": {
+    "front": "`Ce qui / Ce que ..., c'est ...` 这套强调结构适合强调什么？不适合什么？",
+    "back": "它只适合强调“事情/东西”作 **主语** 或 **直接宾语**：\n\n- **Ce qui** me touche, c'est sa patience.\n- **Ce que** j'admire, c'est sa patience.\n\n不拿来强调人、间接宾语、介词短语或时间地点状语。",
+    "answer": null
+  },
+  "ce qui introduces a thing subject and ce que introduces a thing direct object": {
+    "front": "`Ce qui` 和 `Ce que` 怎样按“缺角色”判断？",
+    "back": "看后面小句缺什么：\n\n- 缺主语 → **Ce qui**\n- 已有主语、缺直接宾语 → **Ce que**\n\n例：Ce qui me touche...（touches me 的主语缺了）\nCe que j'admire...（j'admire 的宾语缺了）",
+    "answer": null
+  },
+  "ce qui ce que c'est can take noun de infinitive or que clause after c'est": {
+    "front": "`Ce qui/ce que ..., c'est ...` 后半句可以接哪三种形态？",
+    "back": "`c'est` 后面常见三种补语：\n\n1. 名词/名词短语：c'est **sa patience**\n2. **de + infinitif**：c'est **d'avoir un travail**\n3. **que + 从句**：c'est **que tu es venu**\n\n动作要用 de + infinitif，完整句子用 que。",
+    "answer": null
+  },
+  "c'est can become ce sont when the emphasized noun phrase is plural": {
+    "front": "强调复数名词时，`c'est` 一定不变吗？",
+    "back": "口语里常听到 c'est，但规范写法里，强调复数名词可以用 **ce sont**：\n\n**Ce sont mes amis qui** m'aident.\n\n这张卡只提醒：看到 plural focus，不要惊讶 ce sont。",
+    "answer": null
+  },
+  "second cleft structure is useful in writing to add layered reflection": {
+    "front": "为什么老师说 `Ce qui/ce que ..., c'est ...` 对写作有用？",
+    "back": "它能把一个普通判断变成“先铺垫、再落点”的表达：\n\n- Ce qui est important, c'est de comprendre.\n- Ce que je veux dire, c'est que...\n\n适合写感受、观点、总结，不只是语法题。",
+    "answer": null
+  },
+  "pronominal verbs have reflexive reciprocal passive and essential meanings": {
+    "front": "代动词 `se + verbe` 在 L24 里分成哪四种意义？",
+    "back": "四类先认出来：\n\n1. 反身：自己对自己做\n2. 相互：彼此做\n3. 被动/中动：东西“被卖/被用/被打开”\n4. 绝对代动词：动词本身就必须带 se，如 **se souvenir**\n\n先分类，再决定怎么理解。",
+    "answer": null
+  },
+  "passive pronominal verbs mark things that are sold used or opened rather than acting themselves": {
+    "front": "`Ce livre se vend bien.` 这里书真的在“卖自己”吗？怎么理解？",
+    "back": "不是。这里是代动词的被动/中动意义：\n\n**Ce livre se vend bien.** = 这本书卖得好。\n\n同类：Ce mot s'emploie... / La porte s'ouvre... 主语是物，不是主动行动者。",
+    "answer": null
+  },
+  "se souvenir is an essential pronominal verb while souvenir alone is a noun": {
+    "front": "`se souvenir` 为什么不能随便去掉 se？",
+    "back": "**se souvenir** 是绝对代动词，表达“记得”。\n\n`souvenir` 单独更常是名词“回忆/纪念品”，不是这里要用的动词形态。\n\n所以：Je **me souviens** de...",
+    "answer": null
+  },
+  "postpone low-yield complex pronominal details until encountered": {
+    "front": "老师为什么没有把代动词所有复杂细节一次性讲完？学习策略是什么？",
+    "back": "代动词系统很大。L24 只先建立分类地图：反身、相互、被动/中动、绝对代动词。\n\n策略：先能识别句子里的意义；低频复杂细节等课文真正遇到再处理。",
+    "answer": null
+  },
+  "produce sentences from simple English-like skeletons instead of word piles": {
+    "front": "从中文造法语句子时，老师反复强调先做哪一步？",
+    "back": "不要先堆词。先搭一个接近 English/French 的简单骨架：\n\n**主语 + 动词 + 宾语/补语**，再补介词、冠词、时态。\n\n中文常省介词/冠词，法语不能省，所以先搭骨架能减少大错。",
+    "answer": null
+  },
+  "listening retell should rebuild understood meaning rather than memorize exact wording": {
+    "front": "听力复述不是背原文。那应该复述什么？",
+    "back": "目标是：听懂意思后，用自己能控制的法语结构重建出来。\n\n先保证每句意思和主干清楚，再用自己的语法说。不要把“复述”理解成逐字背音频。",
+    "answer": null
+  },
+  "faire plus partitive article plus activity names sports or arts": {
+    "front": "为什么是 `faire du tennis / faire de la natation / faire de l'escalade`，不是 `faire le tennis`？",
+    "back": "活动、运动、艺术用 **faire + 部分冠词 + 活动名**：\n\n- faire **du** tennis / sport\n- faire **de la** natation / peinture\n- faire **de l'**escalade\n\n不是直接用定冠词 le/la。",
+    "answer": null
+  },
+  "aller au cours de names the class someone goes to without adding an attend verb": {
+    "front": "“我去上绘画课”在 L24 里怎么表达？为什么不用额外加 attend？",
+    "back": "**Je vais au cours de dessin.**\n\n`aller à/au cours de...` 已经表达“去某门课”。不要从英语 attend class 机械加一个动词。",
+    "answer": null
+  },
+  "on is a high-utility spoken subject pronoun with third singular verb form": {
+    "front": "`on` 在口语里为什么很有用？动词怎么配？",
+    "back": "`on` 可以自然地表示“我们/人们/大家”，口语高频。\n\n动词永远按第三人称单数：\n\n- On **peut** aller au cinéma.\n- On **va** au restaurant.\n\n它只作主语，不当宾语代词用。",
+    "answer": null
+  },
+  "noun modifying another noun usually uses de rather than direct noun stacking": {
+    "front": "法语里两个名词连在一起表示修饰关系时，通常靠什么连接？举三个 L24 例子。",
+    "back": "通常用 **de**，不要像中文/英语那样直接名词堆名词：\n\n- des bruits **d'animaux**\n- un billet **d'avion**\n- un billet **de train**\n- l'entrée **du magasin**",
+    "answer": null
+  },
+  "des becomes de before a plural noun with a preceding adjective": {
+    "front": "为什么是 `de belles vacances`，不是 `des belles vacances`？",
+    "back": "复数名词前有前置形容词时，**des → de**：\n\n- de belles vacances\n- de bons amis\n\n这是 L24 里要顺手自动化的细节。",
+    "answer": null
+  },
+  "en vacances marks holiday state while partir en vacances marks leaving for holiday": {
+    "front": "`être en vacances` 和 `partir en vacances` 差在哪里？",
+    "back": "- **être en vacances**：处在假期状态\n- **partir en vacances**：出发去度假\n\n一个是状态，一个是离开/出发的动作。",
+    "answer": null
+  },
+  "possessive adjectives agree with the packed noun list in valise sentences": {
+    "front": "行李箱清单里，`serviette / lunettes / billet` 前的物主形容词怎么配？",
+    "back": "物主形容词跟后面的名词性数配：\n\n- **ma** serviette\n- **mes** lunettes de soleil\n- **mon** billet d'avion / de train\n\n不要按“我的”这个中文一律固定。",
+    "answer": null
+  },
+  "etre d'accord pour plus infinitive and aller plus place plus infinitive build long purpose sentences": {
+    "front": "`同意做某事` 和 `去某地做某事`，L24 里怎么接 infinitif？",
+    "back": "两个常用接口：\n\n- être d'accord **pour + infinitif**：Je suis d'accord pour faire du vélo.\n- aller + 地点 + **infinitif / pour + infinitif**：On va au marché acheter / pour acheter des fruits.\n\n先写短句正确，再把目的补上。",
+    "answer": null
+  },
+  "rendez-vous plus place and time can be a natural spoken fragment": {
+    "front": "`Rendez-vous devant le marché à dix heures.` 为什么不一定要补成完整主谓句？",
+    "back": "口语约见面时，这种片段很自然：\n\n**Rendez-vous devant le marché à dix heures.**\n\n它不是语法懒惰，而是固定沟通场景里的自然省略。",
+    "answer": null
+  },
+  "attendre takes a direct object and t'attends has silent d": {
+    "front": "`我在商店入口等你` 怎么说？`attendre` 的接口和发音注意什么？",
+    "back": "**Je t'attends à l'entrée du magasin.**\n\n`attendre` 直接接人，不加 à：attendre quelqu'un。\n\n`t'attends` 末尾 d 不发音。",
+    "answer": null
+  },
+  "L24 homework prioritizes listening comprehension then in-class retelling": {
+    "front": "L24 作业边界是什么？听力和复述分别做到什么程度？",
+    "back": "优先级：\n\n1. 复习语法\n2. 做听力第一遍的问题\n3. 听懂每句话，半懂就继续多听\n4. 家里不必把复述耗到过度精细，但到课堂要能用自己的法语复述\n\n关键是理解后重建，不是死背音频。",
+    "answer": null
+  }
+}
