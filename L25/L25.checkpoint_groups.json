@@ -1,0 +1,364 @@
+{
+  "groups": [
+    {
+      "id": "reported-speech-plus-que-parfait",
+      "label": "间接引语与愈过去",
+      "order": 10,
+      "species": [
+        {"source_species": "plus-que-parfait forms with imparfait auxiliary plus past participle", "order": 10},
+        {"source_species": "reported past event backshifts to plus-que-parfait after a past reporting verb", "order": 20},
+        {"source_species": "plus-que-parfait marks the event before another past event", "order": 30},
+        {"source_species": "cause before past result often uses plus-que-parfait", "order": 40},
+        {"source_species": "compound tense changes the auxiliary but keeps the lexical verb as past participle", "order": 50},
+        {"source_species": "reported speech must adjust time adverbs to the reporting viewpoint", "order": 60},
+        {"source_species": "dans and il y a are anchored to speech time but plus tard plus tot anchor to a prior event", "order": 70}
+      ],
+      "practice_cards": [
+        {
+          "id": "pqp-avoir-fini",
+          "order": 110,
+          "front": "finir, plus-que-parfait, je → j'___ fini",
+          "back": "avoir 的 imparfait：**j'avais fini**。",
+          "answer": "avais",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system", "imparfait"]
+        },
+        {
+          "id": "pqp-etre-venu",
+          "order": 120,
+          "front": "venir, plus-que-parfait, je → j'___ venu",
+          "back": "venir 用 être；être 的 imparfait：**j'étais venu**。",
+          "answer": "étais",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system", "etre_auxiliary"]
+        },
+        {
+          "id": "pqp-reported-fini",
+          "order": 130,
+          "front": "Il dit : « J'ai fini mon travail. » → Il a dit qu'il ___ fini son travail.",
+          "back": "过去主句转述已完成过去事件，用 plus-que-parfait：**avait fini**。",
+          "answer": "avait",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "tense_system"]
+        },
+        {
+          "id": "pqp-before-call",
+          "order": 140,
+          "front": "Quand je lui ai téléphoné, il ___ déjà dormi.",
+          "back": "睡觉先于打电话，是过去的过去：**avait déjà dormi**。",
+          "answer": "avait",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system"]
+        },
+        {
+          "id": "pqp-cause-revise",
+          "order": 150,
+          "front": "Il a réussi à l'examen parce qu'il ___ bien révisé.",
+          "back": "复习先于考试成功：**avait bien révisé**。",
+          "answer": "avait",
+          "primary_class": "grammar_rule",
+          "tags": ["tense_system", "logic_connection"]
+        },
+        {
+          "id": "reported-lendemain",
+          "order": 160,
+          "front": "Il a dit : « Je partirai demain. » → Il a dit qu'il partirait ___.",
+          "back": "过去转述里 demain → **le lendemain**。",
+          "answer": "le lendemain",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "time_expression"]
+        },
+        {
+          "id": "reported-la-veille",
+          "order": 170,
+          "front": "Il a dit : « Je suis parti hier. » → Il a dit qu'il était parti ___.",
+          "back": "过去转述里 hier → **la veille**。",
+          "answer": "la veille",
+          "primary_class": "grammar_rule",
+          "tags": ["reported_speech", "time_expression"]
+        },
+        {
+          "id": "plus-tard-story-anchor",
+          "order": 180,
+          "front": "En 2020, il est allé en France. Un an ___, il est allé en Angleterre.",
+          "back": "以前文 2020 这个事件为起点的一年后：**plus tard**。",
+          "answer": "plus tard",
+          "primary_class": "lexical_usage",
+          "tags": ["time_expression", "preposition_interface"]
+        },
+        {
+          "id": "plus-tot-story-anchor",
+          "order": 190,
+          "front": "En 2020, il est allé en France. Un an ___, il était allé en Angleterre.",
+          "back": "以前文事件为起点的一年前：**plus tôt**。",
+          "answer": "plus tôt",
+          "primary_class": "lexical_usage",
+          "tags": ["time_expression", "preposition_interface"]
+        },
+        {
+          "id": "compound-tense-invariant",
+          "order": 200,
+          "front": "自评：复合时态里，哪个词变时态？哪个词保持过去分词？",
+          "back": "助动词 avoir/être 变时态；后面的 lexical verb 保持过去分词。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["tense_system", "self_review"]
+        }
+      ]
+    },
+    {
+      "id": "relative-pronouns-dont",
+      "label": "关系代词 dont",
+      "order": 20,
+      "species": [
+        {"source_species": "qui que ou dont are chosen by the antecedent role inside the relative clause", "order": 10},
+        {"source_species": "ou can introduce time or place relatives", "order": 20},
+        {"source_species": "dont replaces de plus antecedent and includes the preposition de", "order": 30},
+        {"source_species": "dont with verb expressions that require de such as parler de and avoir besoin de", "order": 40},
+        {"source_species": "dont with adjective complements introduced by de", "order": 50},
+        {"source_species": "dont with noun complements marks possession or of which relation", "order": 60},
+        {"source_species": "en is used in separate sentences while dont is used to build a relative clause", "order": 70},
+        {"source_species": "dont clauses are complements that can make noun phrases long", "order": 80}
+      ],
+      "practice_cards": [
+        {
+          "id": "dont-besoin-projet",
+          "order": 110,
+          "front": "Nous avons besoin de ce projet. → Voilà le projet ___ nous avons besoin.",
+          "back": "avoir besoin **de** → de + 先行词用 **dont**。",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "requires_de"]
+        },
+        {
+          "id": "dont-parler-livre",
+          "order": 120,
+          "front": "On parle souvent de ce livre. → C'est un livre ___ on parle souvent.",
+          "back": "parler **de** ce livre → un livre **dont** on parle.",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "requires_de"]
+        },
+        {
+          "id": "en-parle-separate",
+          "order": 130,
+          "front": "独立句：On ___ parle souvent.",
+          "back": "两个独立句中代替 de + 名词，用 **en**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": ["y_en", "preposition_interface"]
+        },
+        {
+          "id": "dont-content-projet",
+          "order": 140,
+          "front": "Nous sommes contents de ce projet. → Voilà le projet ___ nous sommes contents.",
+          "back": "content **de** → 形容词补语触发 **dont**。",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "preposition_interface"]
+        },
+        {
+          "id": "dont-fier-tableau",
+          "order": 150,
+          "front": "Il était fier de ce tableau. → le tableau ___ il était fier",
+          "back": "fier **de** ce tableau → le tableau **dont** il était fier.",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "preposition_interface"]
+        },
+        {
+          "id": "dont-auteur-livre",
+          "order": 160,
+          "front": "L'auteur de ce livre est célèbre. → le livre ___ l'auteur est célèbre",
+          "back": "名词补语/所属关系：l'auteur **de ce livre** → le livre **dont l'auteur**...",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "possessive"]
+        },
+        {
+          "id": "dont-nom-musicien",
+          "order": 170,
+          "front": "J'oublie toujours le nom de ce musicien. → C'est un musicien ___ j'oublie toujours le nom.",
+          "back": "le nom **de ce musicien** → un musicien **dont** j'oublie le nom.",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "possessive"]
+        },
+        {
+          "id": "ou-jours",
+          "order": 180,
+          "front": "J'aime les jours ___ il pleut souvent.",
+          "back": "先行词 jours 作时间状语，用 **où**。",
+          "answer": "où",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun"]
+        },
+        {
+          "id": "ou-village",
+          "order": 190,
+          "front": "C'est le village ___ je suis né.",
+          "back": "先行词 village 作地点状语，用 **où**。",
+          "answer": "où",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun"]
+        },
+        {
+          "id": "que-voiture-choisie",
+          "order": 200,
+          "front": "La voiture ___ tu as choisie.",
+          "back": "先行词 voiture 是 choisir 的直接宾语，用 **que**。",
+          "answer": "que",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun"]
+        },
+        {
+          "id": "dont-long-self-check",
+          "order": 210,
+          "front": "自评：看到长 dont 句，先怎么拆？",
+          "back": "先找主句主干；再把 dont 从句还原成 de + 先行词 的补语关系。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["relative_pronoun", "self_review"]
+        }
+      ]
+    },
+    {
+      "id": "question-and-expression-corrections",
+      "label": "问句与表达纠错",
+      "order": 30,
+      "species": [
+        {"source_species": "c'est plus adjective is the default French frame for it is adjective", "order": 10},
+        {"source_species": "ce que is what as direct object and ce qui is what as subject", "order": 20},
+        {"source_species": "qui alone asks about a person and is not ce qui", "order": 30},
+        {"source_species": "imperative form can express a future instruction", "order": 40},
+        {"source_species": "faire plus infinitive expresses having someone do an action", "order": 50},
+        {"source_species": "avoir besoin de and avoir envie de are required de expressions for need and want", "order": 60},
+        {"source_species": "il arrive plus noun is an impersonal happen expression", "order": 70},
+        {"source_species": "le plus possible expresses as much or as soon as possible through a superlative frame", "order": 80},
+        {"source_species": "magasin means shop as a noun not the act of shopping", "order": 90},
+        {"source_species": "reduction primarily means reduction and only contextually discount", "order": 100},
+        {"source_species": "se detendre means relax oneself while detendre can relax something else", "order": 110}
+      ],
+      "practice_cards": [
+        {
+          "id": "cest-efficace",
+          "order": 110,
+          "front": "这很有效：___ efficace.",
+          "back": "it + adjective 默认用 **C'est**。",
+          "answer": "C'est",
+          "primary_class": "grammar_rule",
+          "tags": ["sentence_frame"]
+        },
+        {
+          "id": "ce-que-tu-dis",
+          "order": 120,
+          "front": "Je ne sais pas ___ tu dis.",
+          "back": "后面已有主语 tu，缺 direct object：**ce que**。",
+          "answer": "ce que",
+          "primary_class": "grammar_rule",
+          "tags": ["interrogation", "relative_pronoun"]
+        },
+        {
+          "id": "ce-qui-amuse",
+          "order": 130,
+          "front": "Je ne sais pas ___ t'amuse.",
+          "back": "后面 t'amuse 缺主语：**ce qui**。",
+          "answer": "ce qui",
+          "primary_class": "grammar_rule",
+          "tags": ["interrogation", "relative_pronoun"]
+        },
+        {
+          "id": "qui-donne-cassette",
+          "order": 140,
+          "front": "Dis-moi ___ t'a donné cette cassette.",
+          "back": "问“谁”给了你，是人作主语，用 **qui**。",
+          "answer": "qui",
+          "primary_class": "grammar_rule",
+          "tags": ["interrogation", "relative_pronoun"]
+        },
+        {
+          "id": "prevenez-moi-demain",
+          "order": 150,
+          "front": "明天通知我：___ demain.",
+          "back": "命令式可指向未来：**Prévenez-moi demain.**",
+          "answer": "Prévenez-moi",
+          "primary_class": "grammar_rule",
+          "tags": ["imperatif"]
+        },
+        {
+          "id": "faire-construire",
+          "order": 160,
+          "front": "他让人建了一栋房子：Il a ___ construire une maison.",
+          "back": "让别人做某事：**faire + infinitif**。",
+          "answer": "fait",
+          "primary_class": "grammar_rule",
+          "tags": ["sentence_frame"]
+        },
+        {
+          "id": "besoin-de",
+          "order": 170,
+          "front": "J'ai besoin ___ ce livre.",
+          "back": "avoir besoin **de**。",
+          "answer": "de",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface"]
+        },
+        {
+          "id": "envie-de",
+          "order": 180,
+          "front": "J'ai envie ___ voyager.",
+          "back": "avoir envie **de** + infinitif。",
+          "answer": "de",
+          "primary_class": "lexical_usage",
+          "tags": ["preposition_interface"]
+        },
+        {
+          "id": "il-arrive-accidents",
+          "order": 190,
+          "front": "意外经常发生：Il ___ souvent des accidents.",
+          "back": "il arrive + chose = 某事发生：**Il arrive** souvent des accidents.",
+          "answer": "arrive",
+          "primary_class": "expression",
+          "tags": ["sentence_frame"]
+        },
+        {
+          "id": "plus-tot-possible",
+          "order": 200,
+          "front": "尽早：le plus ___ possible",
+          "back": "**le plus tôt possible**。",
+          "answer": "tôt",
+          "primary_class": "expression",
+          "tags": ["superlative"]
+        },
+        {
+          "id": "me-detends",
+          "order": 210,
+          "front": "我放松：Je ___ détends.",
+          "back": "自己放松用代动词：**Je me détends**。",
+          "answer": "me",
+          "primary_class": "lexical_usage",
+          "tags": ["pronominal_reflexive"]
+        }
+      ]
+    },
+    {
+      "id": "production-strategy",
+      "label": "造句策略",
+      "order": 40,
+      "species": [
+        {"source_species": "use French source patterns instead of translating Chinese word order", "order": 10}
+      ],
+      "practice_cards": [
+        {
+          "id": "copy-french-pattern-self",
+          "order": 110,
+          "front": "自评：中文句子一绕时，先做哪三步？",
+          "back": "1. 找课堂里相同的法语原型；2. 保留法语结构；3. 只替换必要名词、动词、时间/地点块。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["sentence_frame", "self_review"]
+        }
+      ]
+    }
+  ]
+}

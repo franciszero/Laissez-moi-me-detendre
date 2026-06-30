@@ -1,0 +1,1585 @@
+{
+  "lesson": "L25",
+  "source": "L25_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L25.species.json",
+    "expected_species_count": 27
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L25 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "le projet",
+          "pos": "noun",
+          "zh": "项目；计划"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir besoin de",
+          "pos": "verb",
+          "zh": "需要"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir envie de",
+          "pos": "verb",
+          "zh": "想要；想做"
+        },
+        {
+          "type": "vocab",
+          "fr": "parler de",
+          "pos": "verb",
+          "zh": "谈论"
+        },
+        {
+          "type": "vocab",
+          "fr": "content de",
+          "pos": "adj",
+          "zh": "对……满意"
+        },
+        {
+          "type": "vocab",
+          "fr": "satisfait de",
+          "pos": "adj",
+          "zh": "对……满意"
+        },
+        {
+          "type": "vocab",
+          "fr": "fier de",
+          "pos": "adj",
+          "zh": "对……骄傲"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'auteur",
+          "pos": "noun",
+          "zh": "作者"
+        },
+        {
+          "type": "vocab",
+          "fr": "célèbre",
+          "pos": "adj",
+          "zh": "著名的"
+        },
+        {
+          "type": "vocab",
+          "fr": "une journaliste",
+          "pos": "noun",
+          "zh": "记者"
+        },
+        {
+          "type": "vocab",
+          "fr": "connu",
+          "pos": "adj",
+          "zh": "有名的；被认识的"
+        },
+        {
+          "type": "vocab",
+          "fr": "un musicien",
+          "pos": "noun",
+          "zh": "音乐家"
+        },
+        {
+          "type": "vocab",
+          "fr": "une région",
+          "pos": "noun",
+          "zh": "地区"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'automne",
+          "pos": "noun",
+          "zh": "秋天"
+        },
+        {
+          "type": "vocab",
+          "fr": "le quartier",
+          "pos": "noun",
+          "zh": "街区；地区"
+        },
+        {
+          "type": "vocab",
+          "fr": "construire",
+          "pos": "verb",
+          "zh": "建造"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire construire",
+          "pos": "verb",
+          "zh": "让人建造"
+        },
+        {
+          "type": "vocab",
+          "fr": "il arrive",
+          "pos": "expression",
+          "zh": "发生"
+        },
+        {
+          "type": "vocab",
+          "fr": "un accident",
+          "pos": "noun",
+          "zh": "事故；意外"
+        },
+        {
+          "type": "vocab",
+          "fr": "le lendemain",
+          "pos": "noun",
+          "zh": "第二天"
+        },
+        {
+          "type": "vocab",
+          "fr": "la veille",
+          "pos": "noun",
+          "zh": "前一天"
+        },
+        {
+          "type": "vocab",
+          "fr": "plus tôt",
+          "pos": "adv",
+          "zh": "更早；之前"
+        },
+        {
+          "type": "vocab",
+          "fr": "plus tard",
+          "pos": "adv",
+          "zh": "更晚；之后"
+        },
+        {
+          "type": "vocab",
+          "fr": "à ce moment-là",
+          "pos": "adv",
+          "zh": "在那个时候；当时"
+        },
+        {
+          "type": "vocab",
+          "fr": "ce jour-là",
+          "pos": "adv",
+          "zh": "那一天；当天"
+        },
+        {
+          "type": "vocab",
+          "fr": "ce soir-là",
+          "pos": "adv",
+          "zh": "那天晚上；当晚"
+        },
+        {
+          "type": "vocab",
+          "fr": "se détendre",
+          "pos": "verb",
+          "zh": "放松自己"
+        },
+        {
+          "type": "vocab",
+          "fr": "le plus tôt possible",
+          "pos": "expression",
+          "zh": "尽早；尽快"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L25 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L25:species:plus-que-parfait-forms-with-imparfait-auxiliary-plus-past-participle",
+          "front": "愈过去时 plus-que-parfait 怎样构成？",
+          "back": "公式：**avoir/être 的 imparfait + 过去分词**。\n\n- j'**avais fini**\n- j'**étais venu**\n- je m'**étais levé**\n\n助动词选择和过去分词配合规则跟 passé composé 一样。",
+          "answer": null,
+          "source_species": "plus-que-parfait forms with imparfait auxiliary plus past participle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "imparfait",
+            "passe_compose",
+            "past_participle_agreement",
+            "A2"
+          ],
+          "french_items": [
+            "j'avais fini",
+            "j'étais venu",
+            "je m'étais levé"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:647-669"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:reported-past-event-backshifts-to-plus-que-parfait-after-a-past-reporting-verb",
+          "front": "间接引语里，原句已经是过去完成事件，主句变过去后从句怎么处理？",
+          "back": "过去主句转述一个已经过去的动作时，从句用 **plus-que-parfait**：\n\nIl dit : « J'ai fini. »\n→ Il a dit qu'il **avait fini**.\n\n相当于 English finished → had finished。",
+          "answer": null,
+          "source_species": "reported past event backshifts to plus-que-parfait after a past reporting verb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "passe_compose",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "il a dit qu'il avait fini"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:626-656"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:plus-que-parfait-marks-the-event-before-another-past-event",
+          "front": "两个过去动作中，什么时候用愈过去？",
+          "back": "愈过去表示**过去的过去**：发生在另一个过去动作之前。\n\nQuand je lui ai téléphoné, il **avait déjà dormi**.\n\n“睡了”先于“打电话”。",
+          "answer": null,
+          "source_species": "plus-que-parfait marks the event before another past event",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "A2"
+          ],
+          "french_items": [
+            "il avait déjà dormi"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:682-695"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:cause-before-past-result-often-uses-plus-que-parfait",
+          "front": "过去因果句里，为什么原因常用愈过去？",
+          "back": "原因通常先发生，结果后发生。过去结果的原因可用 plus-que-parfait：\n\nIl a réussi à l'examen parce qu'il **avait bien révisé**.",
+          "answer": null,
+          "source_species": "cause before past result often uses plus-que-parfait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "A2"
+          ],
+          "french_items": [
+            "parce qu'il avait bien révisé"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:693-700"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:compound-tense-changes-the-auxiliary-but-keeps-the-lexical-verb-as-past-participle",
+          "front": "复合时态里，助动词后面的主动词为什么不能再变成别的时态？",
+          "back": "复合时态的 invariant：**助动词变时态，主动词保持过去分词**。\n\n- j'ai fini\n- j'avais fini\n\n不要发明“助动词 + 将来/不定式主动词”的组合。",
+          "answer": null,
+          "source_species": "compound tense changes the auxiliary but keeps the lexical verb as past participle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "passe_compose",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "j'ai fini",
+            "j'avais fini"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:996-1014"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:reported-speech-must-adjust-time-adverbs-to-the-reporting-viewpoint",
+          "front": "间接引语为什么不只改时态，还要改时间状语？",
+          "back": "today / now / tomorrow / yesterday 都以原说话时刻为参照。过后转述时，要换成过去参照：\n\n- maintenant / en ce moment → **à ce moment-là**\n- aujourd'hui → **ce jour-là**\n- demain → **le lendemain**\n- hier → **la veille**",
+          "answer": null,
+          "source_species": "reported speech must adjust time adverbs to the reporting viewpoint",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "à ce moment-là",
+            "ce jour-là",
+            "le lendemain",
+            "la veille"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:833-865"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:dans-and-il-y-a-are-anchored-to-speech-time-but-plus-tard-plus-tot-anchor-to-a-prior-event",
+          "front": "`dans / il y a` 和 `plus tard / plus tôt` 最大区别是什么？",
+          "back": "**dans / il y a** 默认以说话当下为起点：dans deux jours / il y a deux jours。\n\n**plus tard / plus tôt** 以前文事件为起点：\n\nEn 2020, il est allé en France. **Un an plus tard**, il est allé en Angleterre.",
+          "answer": null,
+          "source_species": "dans and il y a are anchored to speech time but plus tard plus tot anchor to a prior event",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "tense_system",
+            "A2"
+          ],
+          "french_items": [
+            "dans deux jours",
+            "il y a deux jours",
+            "un an plus tard",
+            "un an plus tôt"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:867-893"
+          ],
+          "curated": true,
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:pqp-avoir-fini",
+          "front": "finir, plus-que-parfait, je → j'___ fini",
+          "back": "avoir 的 imparfait：**j'avais fini**。",
+          "answer": "avais",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system",
+            "imparfait"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:pqp-etre-venu",
+          "front": "venir, plus-que-parfait, je → j'___ venu",
+          "back": "venir 用 être；être 的 imparfait：**j'étais venu**。",
+          "answer": "étais",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system",
+            "etre_auxiliary"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:pqp-reported-fini",
+          "front": "Il dit : « J'ai fini mon travail. » → Il a dit qu'il ___ fini son travail.",
+          "back": "过去主句转述已完成过去事件，用 plus-que-parfait：**avait fini**。",
+          "answer": "avait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "tense_system"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:pqp-before-call",
+          "front": "Quand je lui ai téléphoné, il ___ déjà dormi.",
+          "back": "睡觉先于打电话，是过去的过去：**avait déjà dormi**。",
+          "answer": "avait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:pqp-cause-revise",
+          "front": "Il a réussi à l'examen parce qu'il ___ bien révisé.",
+          "back": "复习先于考试成功：**avait bien révisé**。",
+          "answer": "avait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "tense_system",
+            "logic_connection"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:reported-lendemain",
+          "front": "Il a dit : « Je partirai demain. » → Il a dit qu'il partirait ___.",
+          "back": "过去转述里 demain → **le lendemain**。",
+          "answer": "le lendemain",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "time_expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:reported-la-veille",
+          "front": "Il a dit : « Je suis parti hier. » → Il a dit qu'il était parti ___.",
+          "back": "过去转述里 hier → **la veille**。",
+          "answer": "la veille",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "reported_speech",
+            "time_expression"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:plus-tard-story-anchor",
+          "front": "En 2020, il est allé en France. Un an ___, il est allé en Angleterre.",
+          "back": "以前文 2020 这个事件为起点的一年后：**plus tard**。",
+          "answer": "plus tard",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "time_expression",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:plus-tot-story-anchor",
+          "front": "En 2020, il est allé en France. Un an ___, il était allé en Angleterre.",
+          "back": "以前文事件为起点的一年前：**plus tôt**。",
+          "answer": "plus tôt",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "time_expression",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:compound-tense-invariant",
+          "front": "自评：复合时态里，哪个词变时态？哪个词保持过去分词？",
+          "back": "助动词 avoir/être 变时态；后面的 lexical verb 保持过去分词。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "tense_system",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reported-speech-plus-que-parfait",
+          "study_group": "reported-speech-plus-que-parfait",
+          "study_group_label": "间接引语与愈过去",
+          "study_group_order": 10,
+          "study_order": 200,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:qui-que-ou-dont-are-chosen-by-the-antecedent-role-inside-the-relative-clause",
+          "front": "关系代词 qui / que / où / dont 的总判断法是什么？",
+          "back": "先找先行词，再看它放回从句后扮演什么角色：\n\n- 主语 → **qui**\n- 直接宾语 → **que**\n- 时间/地点状语 → **où**\n- de + 先行词 → **dont**",
+          "answer": null,
+          "source_species": "qui que ou dont are chosen by the antecedent role inside the relative clause",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "qui",
+            "que",
+            "où",
+            "dont"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1103-1127"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:ou-can-introduce-time-or-place-relatives",
+          "front": "`où` 只等于 where 吗？L25 里还管什么？",
+          "back": "`où` 可管地点，也可管时间：\n\n- C'est le village **où** je suis né.\n- J'aime les jours **où** il pleut souvent.\n\n关键是先行词在从句里作时间/地点状语。",
+          "answer": null,
+          "source_species": "ou can introduce time or place relatives",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "les jours où",
+            "le village où"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1117-1140"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:dont-replaces-de-plus-antecedent-and-includes-the-preposition-de",
+          "front": "`dont` 的核心到底替代什么？",
+          "back": "**dont = de + 先行词**。\n\nde 已经包含在 dont 里，所以从句里不要重复 de ce projet / de lui。\n\nVoilà le projet **dont** nous avons besoin.",
+          "answer": null,
+          "source_species": "dont replaces de plus antecedent and includes the preposition de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "requires_de",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "dont"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1141-1162"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:dont-with-verb-expressions-that-require-de-such-as-parler-de-and-avoir-besoin-de",
+          "front": "为什么 `avoir besoin de / parler de` 进入关系从句时常用 dont？",
+          "back": "因为动词接口本身要求 **de + object**：\n\n- avoir besoin **de** ce livre → le livre **dont** j'ai besoin\n- parler **de** ce projet → le projet **dont** nous parlons",
+          "answer": null,
+          "source_species": "dont with verb expressions that require de such as parler de and avoir besoin de",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "requires_de",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "avoir besoin de",
+            "parler de",
+            "dont nous parlons"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1149-1170",
+            "L25_final_working.md:1387-1405"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:dont-with-adjective-complements-introduced-by-de",
+          "front": "形容词也能触发 dont 吗？举例说明。",
+          "back": "能。很多形容词补语用 **de** 引出：content de, satisfait de, fier de。\n\n- le projet **dont** nous sommes contents\n- le tableau **dont** il était fier",
+          "answer": null,
+          "source_species": "dont with adjective complements introduced by de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "requires_de",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "content de",
+            "satisfait de",
+            "fier de"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1171-1189",
+            "L25_final_working.md:1422-1439"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:dont-with-noun-complements-marks-possession-or-of-which-relation",
+          "front": "为什么 `le livre dont l'auteur est célèbre` 里用 dont，明明后面句子看起来完整？",
+          "back": "这里缺的不是动词宾语，而是名词短语内部的 **de + 先行词**：\n\nl'auteur **de ce livre** → le livre **dont l'auteur** est célèbre。\n\n可理解成 English **of which**。",
+          "answer": null,
+          "source_species": "dont with noun complements marks possession or of which relation",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "requires_de",
+            "possessive",
+            "A2"
+          ],
+          "french_items": [
+            "le livre dont l'auteur est célèbre",
+            "un musicien dont j'oublie le nom"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1190-1225",
+            "L25_final_working.md:1465-1474"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:en-is-used-in-separate-sentences-while-dont-is-used-to-build-a-relative-clause",
+          "front": "同样处理 de + 名词，什么时候用 en，什么时候用 dont？",
+          "back": "两个独立句里用代词 **en**：On **en** parle beaucoup.\n\n把先行词接成关系从句时用 **dont**：C'est un livre **dont** on parle beaucoup.",
+          "answer": null,
+          "source_species": "en is used in separate sentences while dont is used to build a relative clause",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "y_en",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "on en parle",
+            "un livre dont on parle"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1381-1398"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:dont-clauses-are-complements-that-can-make-noun-phrases-long",
+          "front": "看到很长的 dont 主语/名词短语，先怎么拆？",
+          "back": "先找主句主干，再把 dont 从句还原成 **de + 先行词** 的补语关系。\n\n不要被长主语吓到；dont 常是在给名词补说明。",
+          "answer": null,
+          "source_species": "dont clauses are complements that can make noun phrases long",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "sentence_frame",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "dont"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1230-1244"
+          ],
+          "curated": true,
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-besoin-projet",
+          "front": "Nous avons besoin de ce projet. → Voilà le projet ___ nous avons besoin.",
+          "back": "avoir besoin **de** → de + 先行词用 **dont**。",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_de"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-parler-livre",
+          "front": "On parle souvent de ce livre. → C'est un livre ___ on parle souvent.",
+          "back": "parler **de** ce livre → un livre **dont** on parle.",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_de"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:en-parle-separate",
+          "front": "独立句：On ___ parle souvent.",
+          "back": "两个独立句中代替 de + 名词，用 **en**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "y_en",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-content-projet",
+          "front": "Nous sommes contents de ce projet. → Voilà le projet ___ nous sommes contents.",
+          "back": "content **de** → 形容词补语触发 **dont**。",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-fier-tableau",
+          "front": "Il était fier de ce tableau. → le tableau ___ il était fier",
+          "back": "fier **de** ce tableau → le tableau **dont** il était fier.",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-auteur-livre",
+          "front": "L'auteur de ce livre est célèbre. → le livre ___ l'auteur est célèbre",
+          "back": "名词补语/所属关系：l'auteur **de ce livre** → le livre **dont l'auteur**...",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "possessive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-nom-musicien",
+          "front": "J'oublie toujours le nom de ce musicien. → C'est un musicien ___ j'oublie toujours le nom.",
+          "back": "le nom **de ce musicien** → un musicien **dont** j'oublie le nom.",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "possessive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:ou-jours",
+          "front": "J'aime les jours ___ il pleut souvent.",
+          "back": "先行词 jours 作时间状语，用 **où**。",
+          "answer": "où",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:ou-village",
+          "front": "C'est le village ___ je suis né.",
+          "back": "先行词 village 作地点状语，用 **où**。",
+          "answer": "où",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:que-voiture-choisie",
+          "front": "La voiture ___ tu as choisie.",
+          "back": "先行词 voiture 是 choisir 的直接宾语，用 **que**。",
+          "answer": "que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 200,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:dont-long-self-check",
+          "front": "自评：看到长 dont 句，先怎么拆？",
+          "back": "先找主句主干；再把 dont 从句还原成 de + 先行词 的补语关系。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "relative_pronoun",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "relative-pronouns-dont",
+          "study_group": "relative-pronouns-dont",
+          "study_group_label": "关系代词 dont",
+          "study_group_order": 20,
+          "study_order": 210,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:c-est-plus-adjective-is-the-default-french-frame-for-it-is-adjective",
+          "front": "英文 `it is + adjective` 翻成法语时，为什么通常不是 `il est ...`？",
+          "back": "法语的 **il** 不能机械等于英文 it。普通评价“这/它很……”用 **c'est + adjective**：\n\n- **C'est efficace.**\n\nil 更常出现在固定无人称结构：il y a / il fait / il faut / il arrive。",
+          "answer": null,
+          "source_species": "c'est plus adjective is the default French frame for it is adjective",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "c'est efficace",
+            "il y a",
+            "il fait",
+            "il faut"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:374-384"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:ce-que-is-what-as-direct-object-and-ce-qui-is-what-as-subject",
+          "front": "`ce que` 和 `ce qui` 的区别是什么？",
+          "back": "两者都近似 English **what**，但角色不同：\n\n- 缺直接宾语 → **ce que**：Je ne sais pas **ce que** tu dis.\n- 缺主语 → **ce qui**：Je ne sais pas **ce qui** t'amuse.",
+          "answer": null,
+          "source_species": "ce que is what as direct object and ce qui is what as subject",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "interrogation",
+            "A2"
+          ],
+          "french_items": [
+            "ce que",
+            "ce qui"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:401-435"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:qui-alone-asks-about-a-person-and-is-not-ce-qui",
+          "front": "“告诉我是谁给了你这个磁带”为什么不能用 `ce qui`？",
+          "back": "**ce qui** 的先行概念是 thing / what。\n\n“谁给你”问的是人，所以用 **qui**：\n\n**Dis-moi qui t'a donné cette cassette.**",
+          "answer": null,
+          "source_species": "qui alone asks about a person and is not ce qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "interrogation",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "qui",
+            "ce qui"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:437-466"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:imperative-form-can-express-a-future-instruction",
+          "front": "“明天给我打电话”为什么仍用命令式，而不是 futur simple？",
+          "back": "祈使句本身就可以指向未来动作。法语没有“命令式将来时”。\n\n- **Appelez-moi demain.**\n- **Prévenez-moi demain.**\n\n时间在明天，动词仍保持命令式。",
+          "answer": null,
+          "source_species": "imperative form can express a future instruction",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "imperatif",
+            "futur_simple",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "prévenez-moi",
+            "appelez-moi demain"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:473-490"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:faire-plus-infinitive-expresses-having-someone-do-an-action",
+          "front": "`faire + infinitif` 在 L25 里表达什么？",
+          "back": "**faire + infinitif** = 让别人做某事。\n\nIl a fait construire une maison.\n= 他让人建了一栋房子。\n\n别人不一定明说，但动作逻辑是 caused action。",
+          "answer": null,
+          "source_species": "faire plus infinitive expresses having someone do an action",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "conjugation",
+            "A2"
+          ],
+          "french_items": [
+            "faire construire",
+            "faire réparer"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1449-1460"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:avoir-besoin-de-and-avoir-envie-de-are-required-de-expressions-for-need-and-want",
+          "front": "法语表达 need / want 时，L25 重点是哪两个词组？",
+          "back": "- need → **avoir besoin de**\n- want / feel like → **avoir envie de**\n\n它们都带 de；进入关系从句时容易触发 dont。",
+          "answer": null,
+          "source_species": "avoir besoin de and avoir envie de are required de expressions for need and want",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "requires_de",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "avoir besoin de",
+            "avoir envie de"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1439-1449"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:il-arrive-plus-noun-is-an-impersonal-happen-expression",
+          "front": "`Il arrive des accidents.` 为什么不是“他到达事故”？",
+          "back": "**il arrive + quelque chose** 是无人称表达：某事发生。\n\nIl arrive des accidents. = 意外/事故发生。\n\n这里的 il 不是 he。",
+          "answer": null,
+          "source_species": "il arrive plus noun is an impersonal happen expression",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "il arrive des accidents",
+            "il arrive quelque chose"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:1491-1503"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:le-plus-possible-expresses-as-much-or-as-soon-as-possible-through-a-superlative-frame",
+          "front": "as soon/as much as possible 在法语里不要逐词 as...as，常用什么框架？",
+          "back": "用最高级框架：**le plus ... possible**。\n\n- le plus tôt possible\n- le plus vite possible\n\n不是英文 as...as 的逐词翻译。",
+          "answer": null,
+          "source_species": "le plus possible expresses as much or as soon as possible through a superlative frame",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "superlative",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "le plus tôt possible",
+            "le plus vite possible"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:568-580"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:magasin-means-shop-as-a-noun-not-the-act-of-shopping",
+          "front": "`magasin` 本身有没有“购物”这个动作意思？",
+          "back": "没有。**magasin** 是 shop/store 这个名词。\n\n去商店：aller au magasin。\n购物动作要另外表达。",
+          "answer": null,
+          "source_species": "magasin means shop as a noun not the act of shopping",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "foundational",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "magasin",
+            "aller au magasin"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:276-285"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:reduction-primarily-means-reduction-and-only-contextually-discount",
+          "front": "`réduction` 为什么不能只记成“打折”？",
+          "back": "**réduction** 本义是“减少”。\n\n商场里减少 20% 才自然理解成“折扣/打折”。离开购物语境，它仍是“减少”。",
+          "answer": null,
+          "source_species": "reduction primarily means reduction and only contextually discount",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "foundational",
+            "false_friend",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "réduction"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:286-298"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:se-detendre-means-relax-oneself-while-detendre-can-relax-something-else",
+          "front": "`se détendre` 和 `détendre` 的意义差别是什么？",
+          "back": "**se détendre** = 自己放松。\n\n不带 se 的 **détendre** 可表示让别人/某物放松、舒缓。\n\nse 不是装饰，它改变动作指向。",
+          "answer": null,
+          "source_species": "se detendre means relax oneself while detendre can relax something else",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "se détendre",
+            "détendre"
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:321-339"
+          ],
+          "curated": true,
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 110
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:cest-efficace",
+          "front": "这很有效：___ efficace.",
+          "back": "it + adjective 默认用 **C'est**。",
+          "answer": "C'est",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:ce-que-tu-dis",
+          "front": "Je ne sais pas ___ tu dis.",
+          "back": "后面已有主语 tu，缺 direct object：**ce que**。",
+          "answer": "ce que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "interrogation",
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:ce-qui-amuse",
+          "front": "Je ne sais pas ___ t'amuse.",
+          "back": "后面 t'amuse 缺主语：**ce qui**。",
+          "answer": "ce qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "interrogation",
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:qui-donne-cassette",
+          "front": "Dis-moi ___ t'a donné cette cassette.",
+          "back": "问“谁”给了你，是人作主语，用 **qui**。",
+          "answer": "qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "interrogation",
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:prevenez-moi-demain",
+          "front": "明天通知我：___ demain.",
+          "back": "命令式可指向未来：**Prévenez-moi demain.**",
+          "answer": "Prévenez-moi",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "imperatif"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:faire-construire",
+          "front": "他让人建了一栋房子：Il a ___ construire une maison.",
+          "back": "让别人做某事：**faire + infinitif**。",
+          "answer": "fait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:besoin-de",
+          "front": "J'ai besoin ___ ce livre.",
+          "back": "avoir besoin **de**。",
+          "answer": "de",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:envie-de",
+          "front": "J'ai envie ___ voyager.",
+          "back": "avoir envie **de** + infinitif。",
+          "answer": "de",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:il-arrive-accidents",
+          "front": "意外经常发生：Il ___ souvent des accidents.",
+          "back": "il arrive + chose = 某事发生：**Il arrive** souvent des accidents.",
+          "answer": "arrive",
+          "primary_class": "expression",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 190,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:plus-tot-possible",
+          "front": "尽早：le plus ___ possible",
+          "back": "**le plus tôt possible**。",
+          "answer": "tôt",
+          "primary_class": "expression",
+          "tags": [
+            "superlative"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 200,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:me-detends",
+          "front": "我放松：Je ___ détends.",
+          "back": "自己放松用代动词：**Je me détends**。",
+          "answer": "me",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "pronominal_reflexive"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "question-and-expression-corrections",
+          "study_group": "question-and-expression-corrections",
+          "study_group_label": "问句与表达纠错",
+          "study_group_order": 30,
+          "study_order": 210,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:species:use-french-source-patterns-instead-of-translating-chinese-word-order",
+          "front": "造句卡住时，老师让你先做什么，而不是按中文硬翻？",
+          "back": "先找已经见过的**法语原型句**，复制结构再替换词块。\n\n中文“……的时候/然后……”很容易把你拖回中文顺序；先找 quand / où / dont 等法语框架，再填内容。",
+          "answer": null,
+          "source_species": "use French source patterns instead of translating Chinese word order",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "quand ...",
+            "où ..."
+          ],
+          "evidence_refs": [
+            "L25_final_working.md:491-502"
+          ],
+          "curated": true,
+          "study_group": "production-strategy",
+          "study_group_label": "造句策略",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L25:practice:copy-french-pattern-self",
+          "front": "自评：中文句子一绕时，先做哪三步？",
+          "back": "1. 找课堂里相同的法语原型；2. 保留法语结构；3. 只替换必要名词、动词、时间/地点块。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "sentence_frame",
+            "self_review"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "production-strategy",
+          "study_group": "production-strategy",
+          "study_group_label": "造句策略",
+          "study_group_order": 40,
+          "study_order": 110,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

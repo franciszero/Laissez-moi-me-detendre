@@ -1,0 +1,137 @@
+{
+  "c'est plus adjective is the default French frame for it is adjective": {
+    "front": "英文 `it is + adjective` 翻成法语时，为什么通常不是 `il est ...`？",
+    "back": "法语的 **il** 不能机械等于英文 it。普通评价“这/它很……”用 **c'est + adjective**：\n\n- **C'est efficace.**\n\nil 更常出现在固定无人称结构：il y a / il fait / il faut / il arrive。",
+    "answer": null
+  },
+  "ce que is what as direct object and ce qui is what as subject": {
+    "front": "`ce que` 和 `ce qui` 的区别是什么？",
+    "back": "两者都近似 English **what**，但角色不同：\n\n- 缺直接宾语 → **ce que**：Je ne sais pas **ce que** tu dis.\n- 缺主语 → **ce qui**：Je ne sais pas **ce qui** t'amuse.",
+    "answer": null
+  },
+  "qui alone asks about a person and is not ce qui": {
+    "front": "“告诉我是谁给了你这个磁带”为什么不能用 `ce qui`？",
+    "back": "**ce qui** 的先行概念是 thing / what。\n\n“谁给你”问的是人，所以用 **qui**：\n\n**Dis-moi qui t'a donné cette cassette.**",
+    "answer": null
+  },
+  "imperative form can express a future instruction": {
+    "front": "“明天给我打电话”为什么仍用命令式，而不是 futur simple？",
+    "back": "祈使句本身就可以指向未来动作。法语没有“命令式将来时”。\n\n- **Appelez-moi demain.**\n- **Prévenez-moi demain.**\n\n时间在明天，动词仍保持命令式。",
+    "answer": null
+  },
+  "use French source patterns instead of translating Chinese word order": {
+    "front": "造句卡住时，老师让你先做什么，而不是按中文硬翻？",
+    "back": "先找已经见过的**法语原型句**，复制结构再替换词块。\n\n中文“……的时候/然后……”很容易把你拖回中文顺序；先找 quand / où / dont 等法语框架，再填内容。",
+    "answer": null
+  },
+  "plus-que-parfait forms with imparfait auxiliary plus past participle": {
+    "front": "愈过去时 plus-que-parfait 怎样构成？",
+    "back": "公式：**avoir/être 的 imparfait + 过去分词**。\n\n- j'**avais fini**\n- j'**étais venu**\n- je m'**étais levé**\n\n助动词选择和过去分词配合规则跟 passé composé 一样。",
+    "answer": null
+  },
+  "reported past event backshifts to plus-que-parfait after a past reporting verb": {
+    "front": "间接引语里，原句已经是过去完成事件，主句变过去后从句怎么处理？",
+    "back": "过去主句转述一个已经过去的动作时，从句用 **plus-que-parfait**：\n\nIl dit : « J'ai fini. »\n→ Il a dit qu'il **avait fini**.\n\n相当于 English finished → had finished。",
+    "answer": null
+  },
+  "plus-que-parfait marks the event before another past event": {
+    "front": "两个过去动作中，什么时候用愈过去？",
+    "back": "愈过去表示**过去的过去**：发生在另一个过去动作之前。\n\nQuand je lui ai téléphoné, il **avait déjà dormi**.\n\n“睡了”先于“打电话”。",
+    "answer": null
+  },
+  "cause before past result often uses plus-que-parfait": {
+    "front": "过去因果句里，为什么原因常用愈过去？",
+    "back": "原因通常先发生，结果后发生。过去结果的原因可用 plus-que-parfait：\n\nIl a réussi à l'examen parce qu'il **avait bien révisé**.",
+    "answer": null
+  },
+  "compound tense changes the auxiliary but keeps the lexical verb as past participle": {
+    "front": "复合时态里，助动词后面的主动词为什么不能再变成别的时态？",
+    "back": "复合时态的 invariant：**助动词变时态，主动词保持过去分词**。\n\n- j'ai fini\n- j'avais fini\n\n不要发明“助动词 + 将来/不定式主动词”的组合。",
+    "answer": null
+  },
+  "reported speech must adjust time adverbs to the reporting viewpoint": {
+    "front": "间接引语为什么不只改时态，还要改时间状语？",
+    "back": "today / now / tomorrow / yesterday 都以原说话时刻为参照。过后转述时，要换成过去参照：\n\n- maintenant / en ce moment → **à ce moment-là**\n- aujourd'hui → **ce jour-là**\n- demain → **le lendemain**\n- hier → **la veille**",
+    "answer": null
+  },
+  "dans and il y a are anchored to speech time but plus tard plus tot anchor to a prior event": {
+    "front": "`dans / il y a` 和 `plus tard / plus tôt` 最大区别是什么？",
+    "back": "**dans / il y a** 默认以说话当下为起点：dans deux jours / il y a deux jours。\n\n**plus tard / plus tôt** 以前文事件为起点：\n\nEn 2020, il est allé en France. **Un an plus tard**, il est allé en Angleterre.",
+    "answer": null
+  },
+  "qui que ou dont are chosen by the antecedent role inside the relative clause": {
+    "front": "关系代词 qui / que / où / dont 的总判断法是什么？",
+    "back": "先找先行词，再看它放回从句后扮演什么角色：\n\n- 主语 → **qui**\n- 直接宾语 → **que**\n- 时间/地点状语 → **où**\n- de + 先行词 → **dont**",
+    "answer": null
+  },
+  "ou can introduce time or place relatives": {
+    "front": "`où` 只等于 where 吗？L25 里还管什么？",
+    "back": "`où` 可管地点，也可管时间：\n\n- C'est le village **où** je suis né.\n- J'aime les jours **où** il pleut souvent.\n\n关键是先行词在从句里作时间/地点状语。",
+    "answer": null
+  },
+  "dont replaces de plus antecedent and includes the preposition de": {
+    "front": "`dont` 的核心到底替代什么？",
+    "back": "**dont = de + 先行词**。\n\nde 已经包含在 dont 里，所以从句里不要重复 de ce projet / de lui。\n\nVoilà le projet **dont** nous avons besoin.",
+    "answer": null
+  },
+  "dont with verb expressions that require de such as parler de and avoir besoin de": {
+    "front": "为什么 `avoir besoin de / parler de` 进入关系从句时常用 dont？",
+    "back": "因为动词接口本身要求 **de + object**：\n\n- avoir besoin **de** ce livre → le livre **dont** j'ai besoin\n- parler **de** ce projet → le projet **dont** nous parlons",
+    "answer": null
+  },
+  "dont with adjective complements introduced by de": {
+    "front": "形容词也能触发 dont 吗？举例说明。",
+    "back": "能。很多形容词补语用 **de** 引出：content de, satisfait de, fier de。\n\n- le projet **dont** nous sommes contents\n- le tableau **dont** il était fier",
+    "answer": null
+  },
+  "dont with noun complements marks possession or of which relation": {
+    "front": "为什么 `le livre dont l'auteur est célèbre` 里用 dont，明明后面句子看起来完整？",
+    "back": "这里缺的不是动词宾语，而是名词短语内部的 **de + 先行词**：\n\nl'auteur **de ce livre** → le livre **dont l'auteur** est célèbre。\n\n可理解成 English **of which**。",
+    "answer": null
+  },
+  "en is used in separate sentences while dont is used to build a relative clause": {
+    "front": "同样处理 de + 名词，什么时候用 en，什么时候用 dont？",
+    "back": "两个独立句里用代词 **en**：On **en** parle beaucoup.\n\n把先行词接成关系从句时用 **dont**：C'est un livre **dont** on parle beaucoup.",
+    "answer": null
+  },
+  "dont clauses are complements that can make noun phrases long": {
+    "front": "看到很长的 dont 主语/名词短语，先怎么拆？",
+    "back": "先找主句主干，再把 dont 从句还原成 **de + 先行词** 的补语关系。\n\n不要被长主语吓到；dont 常是在给名词补说明。",
+    "answer": null
+  },
+  "faire plus infinitive expresses having someone do an action": {
+    "front": "`faire + infinitif` 在 L25 里表达什么？",
+    "back": "**faire + infinitif** = 让别人做某事。\n\nIl a fait construire une maison.\n= 他让人建了一栋房子。\n\n别人不一定明说，但动作逻辑是 caused action。",
+    "answer": null
+  },
+  "avoir besoin de and avoir envie de are required de expressions for need and want": {
+    "front": "法语表达 need / want 时，L25 重点是哪两个词组？",
+    "back": "- need → **avoir besoin de**\n- want / feel like → **avoir envie de**\n\n它们都带 de；进入关系从句时容易触发 dont。",
+    "answer": null
+  },
+  "il arrive plus noun is an impersonal happen expression": {
+    "front": "`Il arrive des accidents.` 为什么不是“他到达事故”？",
+    "back": "**il arrive + quelque chose** 是无人称表达：某事发生。\n\nIl arrive des accidents. = 意外/事故发生。\n\n这里的 il 不是 he。",
+    "answer": null
+  },
+  "le plus possible expresses as much or as soon as possible through a superlative frame": {
+    "front": "as soon/as much as possible 在法语里不要逐词 as...as，常用什么框架？",
+    "back": "用最高级框架：**le plus ... possible**。\n\n- le plus tôt possible\n- le plus vite possible\n\n不是英文 as...as 的逐词翻译。",
+    "answer": null
+  },
+  "magasin means shop as a noun not the act of shopping": {
+    "front": "`magasin` 本身有没有“购物”这个动作意思？",
+    "back": "没有。**magasin** 是 shop/store 这个名词。\n\n去商店：aller au magasin。\n购物动作要另外表达。",
+    "answer": null
+  },
+  "reduction primarily means reduction and only contextually discount": {
+    "front": "`réduction` 为什么不能只记成“打折”？",
+    "back": "**réduction** 本义是“减少”。\n\n商场里减少 20% 才自然理解成“折扣/打折”。离开购物语境，它仍是“减少”。",
+    "answer": null
+  },
+  "se detendre means relax oneself while detendre can relax something else": {
+    "front": "`se détendre` 和 `détendre` 的意义差别是什么？",
+    "back": "**se détendre** = 自己放松。\n\n不带 se 的 **détendre** 可表示让别人/某物放松、舒缓。\n\nse 不是装饰，它改变动作指向。",
+    "answer": null
+  }
+}
