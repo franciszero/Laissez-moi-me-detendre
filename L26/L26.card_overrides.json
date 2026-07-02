@@ -1,0 +1,177 @@
+{
+  "neutral le has no gender or number and always surfaces as le": {
+    "front": "【L26】le\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "中性代词 le 没有性数变化，替代的是抽象内容、表语或不定式时永远写 le，不写 la/les。\n\n学习任务：recognize neutral le as a special pronoun that does not agree in gender or number\n\n证据：L26_final_working.md:228-236 · 16:00-17:00",
+    "answer": null
+  },
+  "neutral le can replace an infinitive but not a conjugated predicate verb": {
+    "front": "【L26】partir / le\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "le 可以替代重复的不定式动词原形；已经变位的谓语动词不能被代词替代。\n\n学习任务：decide whether a repeated verb idea is an infinitive eligible for le replacement\n\n证据：L26_final_working.md:240-254 · 17:00-18:30",
+    "answer": null
+  },
+  "neutral le replaces predicative nouns and adjectives without agreement": {
+    "front": "`On ne naît pas femme, on le devient.` 为什么这里是 `le`，不是 `la`？",
+    "back": "`femme` 在这里不是直宾，而是 `devenir` 后面的表语。表语被替代时用中性代词 **le**，不做阴阳性/单复数配合。\n\n所以：**On ne naît pas femme, on le devient.**",
+    "answer": null
+  },
+  "devenir and naitre can behave like linking verbs with predicative complements": {
+    "front": "【L26】devenir / naître / être\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "être 以外，devenir 和 naître 也可带表语；分析代词替代时不要只盯 être。\n\n学习任务：treat devenir and naître as linking-verb frames when analyzing predicate complements\n\n证据：L26_final_working.md:264-280 · 19:00-20:30",
+    "answer": null
+  },
+  "neutral le can replace an entire clause after verbs like savoir voir and penser": {
+    "front": "【L26】je le vois / nous le savons / je le pensais\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "当代词替代的是“你很满意/考试明天举行/他搞错了”这一整件事时，用中性 le。\n\n学习任务：use le to stand for a whole preceding proposition or que-clause\n\n证据：L26_final_working.md:315-338 · 23:00-25:30",
+    "answer": null
+  },
+  "do not confuse predicative le with direct object le la les": {
+    "front": "【L26】le / la / les\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "直宾代词要按被替代名词配合；表语代词不配合，统一 le。判断前先问该成分是 COD 还是 attribut。\n\n学习任务：separate direct-object replacement from predicate-complement replacement\n\n证据：L26_final_working.md:296-315 · 21:30-23:30",
+    "answer": null
+  },
+  "dont as noun complement means of which and keeps the noun phrase article": {
+    "front": "【L26】dont les parents / dont l’auteur\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "dont 作名词补语时等于 of which；后面的名词短语保留冠词，如 les parents / l’auteur，不写 ses parents。\n\n学习任务：build dont noun-complement clauses without reusing possessive determiners\n\n证据：L26_final_working.md:487-511 · 37:30-40:00",
+    "answer": null
+  },
+  "dont noun complement clauses can remain complete after the noun head": {
+    "front": "【L26】dont l’auteur est célèbre / dont l’auteur a reçu le prix Nobel\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "dont 补的是从句里某个名词的 de 补语；因此 dont 后面的小句看起来可以是完整主谓结构。\n\n学习任务：accept that the clause after dont can be syntactically complete because dont modifies a noun inside it\n\n证据：L26_final_working.md:520-556 · 40:00-43:30",
+    "answer": null
+  },
+  "complete the underlying relative clause before choosing dont qui que ou or lequel": {
+    "front": "【L26】qui / que / où / dont / lequel\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "关系代词选择先把从句补全：缺主语用 qui，缺直宾用 que，时间/地点用 où，de 关系用 dont，其他介词关系再考虑 lequel。\n\n学习任务：restore the source clause to identify the missing or de-linked role before choosing a relative pronoun\n\n证据：L26_final_working.md:405-417 · 30:30-32:00",
+    "answer": null
+  },
+  "present participle is formed from the nous present stem plus ant": {
+    "front": "【L26】parlant / finissant / venant\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "现在分词一般从直陈式现在时 nous 形式出发，去掉 -ons 加 -ant；没有人称变化。\n\n学习任务：derive a present participle from a known nous present-tense form\n\n证据：L26_final_working.md:556-580 · 43:00-45:30",
+    "answer": null
+  },
+  "avoir etre and savoir have common irregular present participles": {
+    "front": "【L26】ayant / étant / sachant\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "常用不规则现在分词包括 avoir → ayant，être → étant，savoir → sachant。\n\n学习任务：recognize the high-frequency irregular present participles\n\n证据：L26_final_working.md:585-592 · 45:30-46:30",
+    "answer": null
+  },
+  "gerondif is en plus present participle and works as an adverbial": {
+    "front": "【L26】en parlant / en marchant / en lisant\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "副动词由 en + 现在分词构成，整体作状语，不承担人称/时态变化。\n\n学习任务：form en + participe présent and treat it as a sentence adverbial\n\n证据：L26_final_working.md:591-603 · 46:00-47:30",
+    "answer": null
+  },
+  "gerondif expresses simultaneity like while doing with the same subject": {
+    "front": "【L26】Il travaille en chantant / Il lit en marchant / Il parle en mangeant\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "en + 现在分词可表示 while doing / 一边……一边……；默认与主句共用同一主语。\n\n学习任务：express one action happening while the main action happens\n\n证据：L26_final_working.md:602-632 · 47:00-50:00",
+    "answer": null
+  },
+  "gerondif improves en meme temps coordination by turning one action into an adverbial": {
+    "front": "【L26】en marchant / en même temps\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "“A et B en même temps”语法上可行但低级；保留一个谓语，另一个动作改成 en + 现在分词更自然。\n\n学习任务：upgrade two coordinated clauses into one main predicate plus one adverbial action\n\n证据：L26_final_working.md:614-626 · 48:00-49:30",
+    "answer": null
+  },
+  "tout en plus gerondif emphasizes simultaneity": {
+    "front": "【L26】tout en marchant / tout en mangeant\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "tout en + 副动词强调“就在做某事的同时”；tout 只加强同时性，不改变基本结构。\n\n学习任务：recognize tout en + present participle as an emphasized simultaneous action\n\n证据：L26_final_working.md:677-690 · 53:00-54:30",
+    "answer": null
+  },
+  "gerondif expresses manner or means like by doing": {
+    "front": "【L26】en jouant / en faisant des exercices / en lisant des romans\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "副动词可表方式/手段，相当于 by doing：通过做练习进步、通过读小说进步。\n\n学习任务：use en + present participle to express by doing something\n\n证据：L26_final_working.md:690-743 · 54:00-58:30",
+    "answer": null
+  },
+  "gerondif expresses condition when the action is prospective": {
+    "front": "【L26】en signant / en partant à huit heures / en achetant les billets tôt\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "同一结构也可表条件：如果签名/八点出发/早买票，就会产生结果；方式和条件常靠上下文区分。\n\n学习任务：interpret en + present participle as if doing when the action is a condition for the result\n\n证据：L26_final_working.md:753-781 · 59:30-01:02:00",
+    "answer": null
+  },
+  "gerondif is invariant across main-clause tense and can stand before or after the clause": {
+    "front": "【L26】en faisant / En marchant dans la rue, ...\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "副动词不随主句时态/人称变化；作状语可放前也可放后，但默认主语仍是主句主语。\n\n学习任务：keep the gerondif form unchanged while the main clause tense or position changes\n\n证据：L26_final_working.md:742-754 · 58:30-01:00:00",
+    "answer": null
+  },
+  "a gerondif adverbial can be emphasized by c est que because adverbials share the same sentence role": {
+    "front": "【L26】C’est en nageant qu’on apprend à nager / C’est en forgeant qu’on devient forgeron\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "en + 现在分词整体是状语；状语都可被 c’est ... que 强调，哪怕它由一个语法结构引出。\n\n学习任务：emphasize a gerondif adverbial with c’est ... que just like a place or time adverbial\n\n证据：L26_final_working.md:786-835 · 01:02:00-01:06:30",
+    "answer": null
+  },
+  "lequel covers other preposition plus antecedent relationships not handled by qui que ou or dont": {
+    "front": "【L26】avec lequel / sans lequel / à laquelle\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "qui/que/où/dont 各管一块；其他介词 + 先行词的关系由 lequel 家族补位。\n\n学习任务：use lequel-family relative pronouns when the antecedent is governed by a preposition other than the already-covered cases\n\n证据：L26_final_working.md:924-943 · 01:13:30-01:15:30",
+    "answer": null
+  },
+  "preposition before lequel must be preserved because it carries meaning": {
+    "front": "`avec lequel / sans lequel` 里的介词为什么不能省？",
+    "back": "因为 avec / sans / à 等介词本身带意义，而且彼此可能相反。`lequel` 只替代先行词，**不吸收介词**。\n\n- avec lequel = with which\n- sans lequel = without which\n\n省掉介词，关系就不清楚了。",
+    "answer": null
+  },
+  "lequel agrees with the antecedent gender and number": {
+    "front": "【L26】lequel / laquelle / lesquels / lesquelles\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "lequel 本质上像 le/la/les + quel，按先行词性数变化：lequel, laquelle, lesquels, lesquelles。\n\n学习任务：choose lequel laquelle lesquels or lesquelles from the antecedent gender and number\n\n证据：L26_final_working.md:990-1005 · 01:19:00-01:20:30",
+    "answer": null
+  },
+  "a plus lequel contracts to auquel auxquels and auxquelles but not a laquelle": {
+    "front": "【L26】auquel / à laquelle / auxquels / auxquelles\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "à + lequel/lesquels/lesquelles 要缩合为 auquel/auxquels/auxquelles；à laquelle 不缩合。\n\n学习任务：apply à + lequel contraction rules when building à lequel-family relatives\n\n证据：L26_final_working.md:1010-1029 · 01:20:30-01:22:30",
+    "answer": null
+  },
+  "lequel replaces a single antecedent not an entire clause": {
+    "front": "【L26】lequel / cela / ça\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "lequel 替代的是有性数的单个先行词；整句抽象内容更常用 cela/ça，或中性 le。\n\n学习任务：avoid using lequel for abstract whole-clause content\n\n证据：L26_final_working.md:1040-1059 · 01:23:00-01:25:00",
+    "answer": null
+  },
+  "use ou when it naturally covers time or place instead of heavier lequel": {
+    "front": "【L26】où / lequel\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "lequel 可覆盖很多剩余关系，但如果 où 等一个词已经自然解决，就优先用简单形式，不故意写重。\n\n学习任务：prefer the simple relative pronoun when qui que où or dont already covers the relationship\n\n证据：L26_final_working.md:1192-1206 · 01:36:30-01:38:00",
+    "answer": null
+  },
+  "preposition plus qui can replace preposition plus lequel when the antecedent is a person": {
+    "front": "【L26】avec qui / avec lequel\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "在其他介词关系里，若先行词是人，可用 介词 + qui；这不是主语 qui，而是介词后的关系代词。\n\n学习任务：recognize avec qui or similar forms when the antecedent is a person\n\n证据：L26_final_working.md:1204-1218 · 01:37:30-01:39:00",
+    "answer": null
+  },
+  "interesser takes the interested person as direct object": {
+    "front": "`Ce livre m’intéresse.` 里 `me` 是什么角色？这句话直译思路是什么？",
+    "back": "`intéresser` = 使某人感兴趣。\n\n`me` 是直接宾语 COD：**Ce livre m’intéresse** = 这本书让我感兴趣 / This book interests me。",
+    "answer": null
+  },
+  "s interesser a is the normal je subject frame for being interested in something": {
+    "front": "想用 `je` 作主语说“我对这本书感兴趣”，最自然的结构是什么？",
+    "back": "用代动词：**Je m’intéresse à ce livre.**\n\n不要按英文 `interested in` 硬翻成 `Je suis intéressé à ce livre`。",
+    "answer": null
+  },
+  "je suis interesse par is possible but je suis interesse a is wrong": {
+    "front": "【L26】Je suis intéressé par ce livre / Je suis intéressé à ce livre\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "je suis intéressé par... 语法上可以但不如前两种常用；je suis intéressé à ce livre 这类按英文 in 硬翻的说法是错的。\n\n学习任务：avoid translating English interested in as intéressé à\n\n证据：L26_final_working.md:1237-1262 · 01:40:00-01:42:30",
+    "answer": null
+  },
+  "assister a takes a laquelle when the meeting is the complement of assister": {
+    "front": "【L26】assister à une réunion / la réunion à laquelle je dois assister\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "assister à 表示参加/出席；若先行词在从句中是 assister à 的补语，用 à laquelle/auquel 等形式。\n\n学习任务：turn assister à + antecedent into à laquelle/auquel relatives\n\n证据：L26_final_working.md:1261-1274 · 01:42:00-01:43:30",
+    "answer": null
+  },
+  "relative clause versions are role choices not interchangeable pronoun substitutions": {
+    "front": "【L26】qui commence / à laquelle je dois assister\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "两个原句合并时，先决定哪个信息做主句；主从关系不同，先行词在从句里的角色也不同，不能把 qui 和 à laquelle 当作简单互换。\n\n学习任务：choose which source sentence becomes the main clause before choosing the relative pronoun\n\n证据：L26_final_working.md:1267-1280 · 01:42:30-01:44:00",
+    "answer": null
+  },
+  "se tromper means be mistaken and se tromper de names the wrong item": {
+    "front": "【L26】se tromper / se tromper d’heure / se tromper d’adresse\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "se tromper = 搞错/弄错；要说“搞错了某物/时间/地址”用 se tromper de + 名词。\n\n学习任务：use se tromper by itself for be mistaken and add de for the item mistaken\n\n证据：L26_final_working.md:383-390 · 29:00-30:00",
+    "answer": null
+  },
+  "beaucoup de takes plural count nouns": {
+    "front": "【L26】beaucoup de livres / beaucoup de revues étrangères\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "beaucoup de 后若是可数名词且意思是“很多”，名词用复数；不要因为有 de 就误删复数。\n\n学习任务：keep countable nouns plural after beaucoup de when the meaning is many\n\n证据：L26_final_working.md:422-431 · 32:00-33:00",
+    "answer": null
+  },
+  "avoir l air plus adjective agrees with the subject not with air": {
+    "front": "【L26】elle a l’air fatiguée / il a l’air fatigué\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "avoir l’air + 形容词表示“看起来……”，形容词通常跟主语配合，不按 l’air 的阳性来配。\n\n学习任务：make the adjective after avoir l’air agree with the grammatical subject\n\n证据：L26_final_working.md:444-452 · 34:00-35:00",
+    "answer": null
+  },
+  "avoir l air can take a prepositional phrase and le can replace repeated predicate content": {
+    "front": "【L26】avoir l’air en bonne santé / il l’est / elle le paraît\n这个点的选择规则是什么？常见误区是什么？",
+    "back": "avoir l’air 后也可接介词短语，如 en bonne santé；重复“确实如此”时可用中性 le 替代整个表语内容。\n\n学习任务：use avoir l’air with prepositional complements and avoid repeating the predicate content\n\n证据：L26_final_working.md:456-463 · 35:00-36:00",
+    "answer": null
+  }
+}

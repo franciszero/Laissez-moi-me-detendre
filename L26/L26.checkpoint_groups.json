@@ -1,0 +1,525 @@
+{
+  "groups": [
+    {
+      "id": "neutral-le",
+      "label": "中性代词 le",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "neutral le has no gender or number and always surfaces as le",
+          "order": 10
+        },
+        {
+          "source_species": "neutral le can replace an infinitive but not a conjugated predicate verb",
+          "order": 20
+        },
+        {
+          "source_species": "neutral le replaces predicative nouns and adjectives without agreement",
+          "order": 30
+        },
+        {
+          "source_species": "devenir and naitre can behave like linking verbs with predicative complements",
+          "order": 40
+        },
+        {
+          "source_species": "neutral le can replace an entire clause after verbs like savoir voir and penser",
+          "order": 50
+        },
+        {
+          "source_species": "do not confuse predicative le with direct object le la les",
+          "order": 60
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "neutral-le-femme",
+          "order": 110,
+          "front": "On ne naît pas femme, on ___ devient.",
+          "back": "`femme` 是表语，不是直宾；表语替代用中性 **le**。",
+          "answer": "le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "agreement"
+          ]
+        },
+        {
+          "id": "neutral-le-satisfied",
+          "order": 120,
+          "front": "Vous êtes satisfait ? Je ___ vois.",
+          "back": "看出来的是“你很满意”这整件事，用中性 **le**。",
+          "answer": "le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun"
+          ]
+        },
+        {
+          "id": "neutral-le-not-la",
+          "order": 130,
+          "front": "判断：`femme` 是阴性，所以 `On la devient` 正确吗？",
+          "back": "不正确。这里 `femme` 是表语，表语替代统一用 **le**。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "agreement"
+          ]
+        },
+        {
+          "id": "neutral-le-infinitive",
+          "order": 140,
+          "front": "Puisque vous voulez partir, partez. 重复的不定式可改成：Partez, puisque vous ___ voulez.",
+          "back": "`partir` 是不定式，可被中性 **le** 替代。",
+          "answer": "le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "conjugation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dont-noun-complement",
+      "label": "dont 名词补语",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "dont as noun complement means of which and keeps the noun phrase article",
+          "order": 10
+        },
+        {
+          "source_species": "dont noun complement clauses can remain complete after the noun head",
+          "order": 20
+        },
+        {
+          "source_species": "complete the underlying relative clause before choosing dont qui que ou or lequel",
+          "order": 30
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "dont-les-parents",
+          "order": 110,
+          "front": "这是一个父母住在意大利的法国人：C’est un Français ___ parents habitent en Italie.",
+          "back": "dont = of which；后面名词短语保留冠词：**dont les parents**。",
+          "answer": "dont les",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "article"
+          ]
+        },
+        {
+          "id": "dont-lauteur",
+          "order": 120,
+          "front": "我喜欢这本作者很有名的书：J’aime ce livre ___ auteur est célèbre.",
+          "back": "`l’auteur de ce livre` → **dont l’auteur**。",
+          "answer": "dont l'",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun"
+          ]
+        },
+        {
+          "id": "dont-complete-clause",
+          "order": 130,
+          "front": "为什么 `dont l’auteur est célèbre` 后面看起来是完整句，仍然能用 `dont`？",
+          "back": "因为 `dont` 补的是 `l’auteur de ce livre` 里的名词补语；从句主干 `l’auteur est célèbre` 可以完整。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "sentence_frame"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gerondif",
+      "label": "副动词 en + 现在分词",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "present participle is formed from the nous present stem plus ant",
+          "order": 10
+        },
+        {
+          "source_species": "avoir etre and savoir have common irregular present participles",
+          "order": 20
+        },
+        {
+          "source_species": "gerondif is en plus present participle and works as an adverbial",
+          "order": 30
+        },
+        {
+          "source_species": "gerondif expresses simultaneity like while doing with the same subject",
+          "order": 40
+        },
+        {
+          "source_species": "gerondif improves en meme temps coordination by turning one action into an adverbial",
+          "order": 50
+        },
+        {
+          "source_species": "tout en plus gerondif emphasizes simultaneity",
+          "order": 60
+        },
+        {
+          "source_species": "gerondif expresses manner or means like by doing",
+          "order": 70
+        },
+        {
+          "source_species": "gerondif expresses condition when the action is prospective",
+          "order": 80
+        },
+        {
+          "source_species": "gerondif is invariant across main-clause tense and can stand before or after the clause",
+          "order": 90
+        },
+        {
+          "source_species": "a gerondif adverbial can be emphasized by c est que because adverbials share the same sentence role",
+          "order": 100
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "participe-parler",
+          "order": 110,
+          "front": "parler → nous parlons → en ___",
+          "back": "去掉 -ons 加 -ant：**en parlant**。",
+          "answer": "parlant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation"
+          ]
+        },
+        {
+          "id": "participe-lire",
+          "order": 120,
+          "front": "lire → nous lisons → en ___",
+          "back": "nous lisons → lisant：**en lisant**。",
+          "answer": "lisant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation"
+          ]
+        },
+        {
+          "id": "gerondif-mangeant",
+          "order": 130,
+          "front": "他一边说话一边吃饭：Il parle en ___.",
+          "back": "manger → mangeant：**Il parle en mangeant.**",
+          "answer": "mangeant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ]
+        },
+        {
+          "id": "gerondif-reading",
+          "order": 140,
+          "front": "我们通过读小说进步：On progresse ___ lisant des romans.",
+          "back": "方式/手段 by reading：**en lisant**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ]
+        },
+        {
+          "id": "gerondif-condition",
+          "order": 150,
+          "front": "如果八点出发，我们十点能到：___ partant à huit heures, nous arriverons à dix heures.",
+          "back": "条件状语可放句首：**En partant à huit heures...**",
+          "answer": "En",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "logic_connection"
+          ]
+        },
+        {
+          "id": "gerondif-tout-en",
+          "order": 160,
+          "front": "强调“就在走路时”：___ en marchant",
+          "back": "强调同时性用 **tout en + participe présent**。",
+          "answer": "tout",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ]
+        },
+        {
+          "id": "gerondif-shared-subject",
+          "order": 170,
+          "front": "副动词 `en marchant` 默认和主句共用同一个主语吗？",
+          "back": "是。副动词不单独给新主语，默认执行者就是主句主语；这是理解和造句的关键。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ]
+        },
+        {
+          "id": "forgeant-proverb",
+          "order": 180,
+          "front": "熟能生巧谚语：C’est en ___ qu’on devient forgeron.",
+          "back": "固定谚语：**C’est en forgeant qu’on devient forgeron.**",
+          "answer": "forgeant",
+          "primary_class": "expression",
+          "tags": [
+            "sentence_frame"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lequel-family",
+      "label": "lequel 复合关系代词",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "lequel covers other preposition plus antecedent relationships not handled by qui que ou or dont",
+          "order": 10
+        },
+        {
+          "source_species": "preposition before lequel must be preserved because it carries meaning",
+          "order": 20
+        },
+        {
+          "source_species": "lequel agrees with the antecedent gender and number",
+          "order": 30
+        },
+        {
+          "source_species": "a plus lequel contracts to auquel auxquels and auxquelles but not a laquelle",
+          "order": 40
+        },
+        {
+          "source_species": "lequel replaces a single antecedent not an entire clause",
+          "order": 50
+        },
+        {
+          "source_species": "use ou when it naturally covers time or place instead of heavier lequel",
+          "order": 60
+        },
+        {
+          "source_species": "preposition plus qui can replace preposition plus lequel when the antecedent is a person",
+          "order": 70
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "avec-lequel",
+          "order": 110,
+          "front": "le dictionnaire + avec ce dictionnaire je peux traduire → le dictionnaire avec ___ je peux traduire",
+          "back": "dictionnaire 阳性单数：**avec lequel**。",
+          "answer": "lequel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "preposition_interface"
+          ]
+        },
+        {
+          "id": "sans-lequel",
+          "order": 120,
+          "front": "le dictionnaire + sans ce dictionnaire je ne peux pas traduire → le dictionnaire sans ___ je ne peux pas traduire",
+          "back": "介词 sans 要保留，dictionnaire 阳性单数：**sans lequel**。",
+          "answer": "lequel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "preposition_interface"
+          ]
+        },
+        {
+          "id": "a-laquelle-reunion",
+          "order": 130,
+          "front": "la réunion + je dois assister à cette réunion → la réunion ___ je dois assister",
+          "back": "à + laquelle 不缩合：**à laquelle**。",
+          "answer": "à laquelle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ]
+        },
+        {
+          "id": "auquel-projet",
+          "order": 140,
+          "front": "le projet + je pense à ce projet → le projet ___ je pense",
+          "back": "à + lequel 缩合为 **auquel**。",
+          "answer": "auquel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ]
+        },
+        {
+          "id": "auxquelles-questions",
+          "order": 150,
+          "front": "les questions + nous répondons à ces questions → les questions ___ nous répondons",
+          "back": "à + lesquelles → **auxquelles**。",
+          "answer": "auxquelles",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ]
+        },
+        {
+          "id": "lequel-whole-clause",
+          "order": 160,
+          "front": "`lequel` 能替代“你很开心”这一整件事吗？",
+          "back": "不能。lequel 替代有性数的单个先行词；整句抽象内容更常用 cela/ça，或中性 le。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "pronoun"
+          ]
+        },
+        {
+          "id": "person-avec-qui",
+          "order": 170,
+          "front": "先行词是人时，`avec lequel` 常可换成什么？",
+          "back": "可用 **avec qui**。这里的 qui 是介词后的关系代词，不是主语 qui。",
+          "answer": "avec qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "pronoun"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-interfaces",
+      "label": "动词接口与高频纠错",
+      "order": 50,
+      "species": [
+        {
+          "source_species": "interesser takes the interested person as direct object",
+          "order": 10
+        },
+        {
+          "source_species": "s interesser a is the normal je subject frame for being interested in something",
+          "order": 20
+        },
+        {
+          "source_species": "je suis interesse par is possible but je suis interesse a is wrong",
+          "order": 30
+        },
+        {
+          "source_species": "assister a takes a laquelle when the meeting is the complement of assister",
+          "order": 40
+        },
+        {
+          "source_species": "relative clause versions are role choices not interchangeable pronoun substitutions",
+          "order": 50
+        },
+        {
+          "source_species": "se tromper means be mistaken and se tromper de names the wrong item",
+          "order": 60
+        },
+        {
+          "source_species": "beaucoup de takes plural count nouns",
+          "order": 70
+        },
+        {
+          "source_species": "avoir l air plus adjective agrees with the subject not with air",
+          "order": 80
+        },
+        {
+          "source_species": "avoir l air can take a prepositional phrase and le can replace repeated predicate content",
+          "order": 90
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "ce-livre-minteresse",
+          "order": 110,
+          "front": "这本书让我感兴趣：Ce livre ___ intéresse.",
+          "back": "感兴趣的人是 COD：**Ce livre m’intéresse.**",
+          "answer": "m'",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "object_pronoun",
+            "transitive_direct"
+          ]
+        },
+        {
+          "id": "je-minteresse-a",
+          "order": 120,
+          "front": "我对这本书感兴趣：Je ___ intéresse ___ ce livre.",
+          "back": "用代动词 + à：**Je m’intéresse à ce livre.**",
+          "answer": "m'intéresse à",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive",
+            "requires_a"
+          ]
+        },
+        {
+          "id": "interesse-a-wrong",
+          "order": 130,
+          "front": "判断：`Je suis intéressé à ce livre` 是否自然正确？",
+          "back": "不对。本课老师明确说这个按英文硬翻的版本错；常用 `Je m’intéresse à...` 或 `Ce livre m’intéresse`。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface",
+            "teacher_corrected_error"
+          ]
+        },
+        {
+          "id": "assister-a-laquelle",
+          "order": 140,
+          "front": "我要参加的会议十点开始：La réunion ___ je dois assister commence à dix heures.",
+          "back": "assister à + réunion，réunion 阴性单数：**à laquelle**。",
+          "answer": "à laquelle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ]
+        },
+        {
+          "id": "se-tromper-de",
+          "order": 150,
+          "front": "我搞错时间了：Je me suis trompé ___ heure.",
+          "back": "搞错某物/时间/地址：**se tromper de**；d’heure 因元音省音。",
+          "answer": "d'",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "requires_de"
+          ]
+        },
+        {
+          "id": "beaucoup-plural",
+          "order": 160,
+          "front": "很多外国杂志：beaucoup de revues étrangère__",
+          "back": "可数名词“很多”用复数，形容词也配合：**revues étrangères**。",
+          "answer": "s",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "gender_number",
+            "agreement"
+          ]
+        },
+        {
+          "id": "avoir-lair-fatiguee",
+          "order": 170,
+          "front": "她看起来很累：Elle a l’air fatigu___.",
+          "back": "形容词跟主语 elle 配合：**fatiguée**。",
+          "answer": "ée",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "agreement"
+          ]
+        }
+      ]
+    }
+  ]
+}

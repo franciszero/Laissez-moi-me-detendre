@@ -1,0 +1,1816 @@
+{
+  "lesson": "L26",
+  "source": "L26_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L26.species.json",
+    "expected_species_count": 35
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L26 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "partir",
+          "pos": "verb",
+          "zh": "离开；出发"
+        },
+        {
+          "type": "vocab",
+          "fr": "devenir",
+          "pos": "verb",
+          "zh": "成为"
+        },
+        {
+          "type": "vocab",
+          "fr": "naître",
+          "pos": "verb",
+          "zh": "出生；生来"
+        },
+        {
+          "type": "vocab",
+          "fr": "la femme",
+          "pos": "noun",
+          "zh": "女性；女人"
+        },
+        {
+          "type": "vocab",
+          "fr": "satisfait",
+          "pos": "adj",
+          "zh": "满意的"
+        },
+        {
+          "type": "vocab",
+          "fr": "se tromper de",
+          "pos": "verb",
+          "zh": "搞错……"
+        },
+        {
+          "type": "vocab",
+          "fr": "l’heure",
+          "pos": "noun",
+          "zh": "时间；小时"
+        },
+        {
+          "type": "vocab",
+          "fr": "beaucoup de",
+          "pos": "expression",
+          "zh": "很多……"
+        },
+        {
+          "type": "vocab",
+          "fr": "étranger",
+          "pos": "adj",
+          "zh": "外国的"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir l’air",
+          "pos": "expression",
+          "zh": "看起来……"
+        },
+        {
+          "type": "vocab",
+          "fr": "en bonne santé",
+          "pos": "expression",
+          "zh": "身体健康"
+        },
+        {
+          "type": "vocab",
+          "fr": "le participe présent",
+          "pos": "noun",
+          "zh": "现在分词"
+        },
+        {
+          "type": "vocab",
+          "fr": "le gérondif",
+          "pos": "noun",
+          "zh": "副动词"
+        },
+        {
+          "type": "vocab",
+          "fr": "en même temps",
+          "pos": "expression",
+          "zh": "同时"
+        },
+        {
+          "type": "vocab",
+          "fr": "tout en",
+          "pos": "expression",
+          "zh": "一边……一边；同时还"
+        },
+        {
+          "type": "vocab",
+          "fr": "conduire",
+          "pos": "verb",
+          "zh": "驾驶；带领"
+        },
+        {
+          "type": "vocab",
+          "fr": "produire",
+          "pos": "verb",
+          "zh": "生产；产生"
+        },
+        {
+          "type": "vocab",
+          "fr": "construire",
+          "pos": "verb",
+          "zh": "建造"
+        },
+        {
+          "type": "vocab",
+          "fr": "détruire",
+          "pos": "verb",
+          "zh": "毁坏"
+        },
+        {
+          "type": "vocab",
+          "fr": "signer",
+          "pos": "verb",
+          "zh": "签名；签署"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire signe",
+          "pos": "verb",
+          "zh": "打手势；示意"
+        },
+        {
+          "type": "vocab",
+          "fr": "nager",
+          "pos": "verb",
+          "zh": "游泳"
+        },
+        {
+          "type": "vocab",
+          "fr": "forger",
+          "pos": "verb",
+          "zh": "锻造；打铁"
+        },
+        {
+          "type": "vocab",
+          "fr": "le forgeron",
+          "pos": "noun",
+          "zh": "铁匠"
+        },
+        {
+          "type": "vocab",
+          "fr": "sans",
+          "pos": "preposition",
+          "zh": "没有；不带"
+        },
+        {
+          "type": "vocab",
+          "fr": "fermer",
+          "pos": "verb",
+          "zh": "关上"
+        },
+        {
+          "type": "vocab",
+          "fr": "s’éloigner",
+          "pos": "verb",
+          "zh": "离开；远离"
+        },
+        {
+          "type": "vocab",
+          "fr": "derrière",
+          "pos": "preposition",
+          "zh": "在……后面"
+        },
+        {
+          "type": "vocab",
+          "fr": "rejoindre",
+          "pos": "verb",
+          "zh": "加入；会合"
+        },
+        {
+          "type": "vocab",
+          "fr": "la recherche",
+          "pos": "noun",
+          "zh": "研究；调查"
+        },
+        {
+          "type": "vocab",
+          "fr": "intéresser",
+          "pos": "verb",
+          "zh": "使……感兴趣"
+        },
+        {
+          "type": "vocab",
+          "fr": "s’intéresser à",
+          "pos": "verb",
+          "zh": "对……感兴趣"
+        },
+        {
+          "type": "vocab",
+          "fr": "assister à",
+          "pos": "verb",
+          "zh": "出席；参加"
+        },
+        {
+          "type": "vocab",
+          "fr": "la réunion",
+          "pos": "noun",
+          "zh": "会议"
+        },
+        {
+          "type": "vocab",
+          "fr": "le festival",
+          "pos": "noun",
+          "zh": "节日；活动"
+        },
+        {
+          "type": "vocab",
+          "fr": "la manifestation",
+          "pos": "noun",
+          "zh": "示威；活动"
+        },
+        {
+          "type": "vocab",
+          "fr": "répondre à",
+          "pos": "verb",
+          "zh": "回答；回应"
+        },
+        {
+          "type": "vocab",
+          "fr": "lequel",
+          "pos": "pronoun",
+          "zh": "哪一个；复合关系代词"
+        },
+        {
+          "type": "vocab",
+          "fr": "laquelle",
+          "pos": "pronoun",
+          "zh": "哪一个；复合关系代词阴性"
+        },
+        {
+          "type": "vocab",
+          "fr": "auquel",
+          "pos": "pronoun",
+          "zh": "à + lequel 的缩合"
+        },
+        {
+          "type": "vocab",
+          "fr": "auxquelles",
+          "pos": "pronoun",
+          "zh": "à + lesquelles 的缩合"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L26 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L26:species:neutral-le-has-no-gender-or-number-and-always-surfaces-as-le",
+          "front": "【L26】le\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "中性代词 le 没有性数变化，替代的是抽象内容、表语或不定式时永远写 le，不写 la/les。\n\n学习任务：recognize neutral le as a special pronoun that does not agree in gender or number\n\n证据：L26_final_working.md:228-236 · 16:00-17:00",
+          "answer": null,
+          "source_species": "neutral le has no gender or number and always surfaces as le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "object_pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "le"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:228-236"
+          ],
+          "curated": true,
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:neutral-le-can-replace-an-infinitive-but-not-a-conjugated-predicate-verb",
+          "front": "【L26】partir / le\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "le 可以替代重复的不定式动词原形；已经变位的谓语动词不能被代词替代。\n\n学习任务：decide whether a repeated verb idea is an infinitive eligible for le replacement\n\n证据：L26_final_working.md:240-254 · 17:00-18:30",
+          "answer": null,
+          "source_species": "neutral le can replace an infinitive but not a conjugated predicate verb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "conjugation",
+            "A2"
+          ],
+          "french_items": [
+            "partir",
+            "le"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:240-254"
+          ],
+          "curated": true,
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:neutral-le-replaces-predicative-nouns-and-adjectives-without-agreement",
+          "front": "`On ne naît pas femme, on le devient.` 为什么这里是 `le`，不是 `la`？",
+          "back": "`femme` 在这里不是直宾，而是 `devenir` 后面的表语。表语被替代时用中性代词 **le**，不做阴阳性/单复数配合。\n\n所以：**On ne naît pas femme, on le devient.**",
+          "answer": null,
+          "source_species": "neutral le replaces predicative nouns and adjectives without agreement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "agreement",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "On ne naît pas femme, on le devient",
+            "fatigué",
+            "le"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:258-315"
+          ],
+          "curated": true,
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:devenir-and-naitre-can-behave-like-linking-verbs-with-predicative-complements",
+          "front": "【L26】devenir / naître / être\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "être 以外，devenir 和 naître 也可带表语；分析代词替代时不要只盯 être。\n\n学习任务：treat devenir and naître as linking-verb frames when analyzing predicate complements\n\n证据：L26_final_working.md:264-280 · 19:00-20:30",
+          "answer": null,
+          "source_species": "devenir and naitre can behave like linking verbs with predicative complements",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "devenir",
+            "naître",
+            "être"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:264-280"
+          ],
+          "curated": true,
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:neutral-le-can-replace-an-entire-clause-after-verbs-like-savoir-voir-and-penser",
+          "front": "【L26】je le vois / nous le savons / je le pensais\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "当代词替代的是“你很满意/考试明天举行/他搞错了”这一整件事时，用中性 le。\n\n学习任务：use le to stand for a whole preceding proposition or que-clause\n\n证据：L26_final_working.md:315-338 · 23:00-25:30",
+          "answer": null,
+          "source_species": "neutral le can replace an entire clause after verbs like savoir voir and penser",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "je le vois",
+            "nous le savons",
+            "je le pensais"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:315-338",
+            "L26_final_working.md:377-381"
+          ],
+          "curated": true,
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:do-not-confuse-predicative-le-with-direct-object-le-la-les",
+          "front": "【L26】le / la / les\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "直宾代词要按被替代名词配合；表语代词不配合，统一 le。判断前先问该成分是 COD 还是 attribut。\n\n学习任务：separate direct-object replacement from predicate-complement replacement\n\n证据：L26_final_working.md:296-315 · 21:30-23:30",
+          "answer": null,
+          "source_species": "do not confuse predicative le with direct object le la les",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "object_pronoun",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "le",
+            "la",
+            "les"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:296-315"
+          ],
+          "curated": true,
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:neutral-le-femme",
+          "front": "On ne naît pas femme, on ___ devient.",
+          "back": "`femme` 是表语，不是直宾；表语替代用中性 **le**。",
+          "answer": "le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "agreement"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "neutral-le",
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:neutral-le-satisfied",
+          "front": "Vous êtes satisfait ? Je ___ vois.",
+          "back": "看出来的是“你很满意”这整件事，用中性 **le**。",
+          "answer": "le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "neutral-le",
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:neutral-le-not-la",
+          "front": "判断：`femme` 是阴性，所以 `On la devient` 正确吗？",
+          "back": "不正确。这里 `femme` 是表语，表语替代统一用 **le**。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "agreement"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "neutral-le",
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:neutral-le-infinitive",
+          "front": "Puisque vous voulez partir, partez. 重复的不定式可改成：Partez, puisque vous ___ voulez.",
+          "back": "`partir` 是不定式，可被中性 **le** 替代。",
+          "answer": "le",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "conjugation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "neutral-le",
+          "study_group": "neutral-le",
+          "study_group_label": "中性代词 le",
+          "study_group_order": 10,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:dont-as-noun-complement-means-of-which-and-keeps-the-noun-phrase-article",
+          "front": "【L26】dont les parents / dont l’auteur\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "dont 作名词补语时等于 of which；后面的名词短语保留冠词，如 les parents / l’auteur，不写 ses parents。\n\n学习任务：build dont noun-complement clauses without reusing possessive determiners\n\n证据：L26_final_working.md:487-511 · 37:30-40:00",
+          "answer": null,
+          "source_species": "dont as noun complement means of which and keeps the noun phrase article",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "article",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "dont les parents",
+            "dont l’auteur"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:487-511"
+          ],
+          "curated": true,
+          "study_group": "dont-noun-complement",
+          "study_group_label": "dont 名词补语",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:dont-noun-complement-clauses-can-remain-complete-after-the-noun-head",
+          "front": "【L26】dont l’auteur est célèbre / dont l’auteur a reçu le prix Nobel\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "dont 补的是从句里某个名词的 de 补语；因此 dont 后面的小句看起来可以是完整主谓结构。\n\n学习任务：accept that the clause after dont can be syntactically complete because dont modifies a noun inside it\n\n证据：L26_final_working.md:520-556 · 40:00-43:30",
+          "answer": null,
+          "source_species": "dont noun complement clauses can remain complete after the noun head",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "dont l’auteur est célèbre",
+            "dont l’auteur a reçu le prix Nobel"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:520-556"
+          ],
+          "curated": true,
+          "study_group": "dont-noun-complement",
+          "study_group_label": "dont 名词补语",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:complete-the-underlying-relative-clause-before-choosing-dont-qui-que-ou-or-lequel",
+          "front": "【L26】qui / que / où / dont / lequel\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "关系代词选择先把从句补全：缺主语用 qui，缺直宾用 que，时间/地点用 où，de 关系用 dont，其他介词关系再考虑 lequel。\n\n学习任务：restore the source clause to identify the missing or de-linked role before choosing a relative pronoun\n\n证据：L26_final_working.md:405-417 · 30:30-32:00",
+          "answer": null,
+          "source_species": "complete the underlying relative clause before choosing dont qui que ou or lequel",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "qui",
+            "que",
+            "où",
+            "dont",
+            "lequel"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:405-417",
+            "L26_final_working.md:930-943"
+          ],
+          "curated": true,
+          "study_group": "dont-noun-complement",
+          "study_group_label": "dont 名词补语",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:dont-les-parents",
+          "front": "这是一个父母住在意大利的法国人：C’est un Français ___ parents habitent en Italie.",
+          "back": "dont = of which；后面名词短语保留冠词：**dont les parents**。",
+          "answer": "dont les",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "article"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "dont-noun-complement",
+          "study_group": "dont-noun-complement",
+          "study_group_label": "dont 名词补语",
+          "study_group_order": 20,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:dont-lauteur",
+          "front": "我喜欢这本作者很有名的书：J’aime ce livre ___ auteur est célèbre.",
+          "back": "`l’auteur de ce livre` → **dont l’auteur**。",
+          "answer": "dont l'",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "dont-noun-complement",
+          "study_group": "dont-noun-complement",
+          "study_group_label": "dont 名词补语",
+          "study_group_order": 20,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:dont-complete-clause",
+          "front": "为什么 `dont l’auteur est célèbre` 后面看起来是完整句，仍然能用 `dont`？",
+          "back": "因为 `dont` 补的是 `l’auteur de ce livre` 里的名词补语；从句主干 `l’auteur est célèbre` 可以完整。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "dont-noun-complement",
+          "study_group": "dont-noun-complement",
+          "study_group_label": "dont 名词补语",
+          "study_group_order": 20,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:present-participle-is-formed-from-the-nous-present-stem-plus-ant",
+          "front": "【L26】parlant / finissant / venant\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "现在分词一般从直陈式现在时 nous 形式出发，去掉 -ons 加 -ant；没有人称变化。\n\n学习任务：derive a present participle from a known nous present-tense form\n\n证据：L26_final_working.md:556-580 · 43:00-45:30",
+          "answer": null,
+          "source_species": "present participle is formed from the nous present stem plus ant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "present",
+            "A2"
+          ],
+          "french_items": [
+            "parlant",
+            "finissant",
+            "venant"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:556-580"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:avoir-etre-and-savoir-have-common-irregular-present-participles",
+          "front": "【L26】ayant / étant / sachant\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "常用不规则现在分词包括 avoir → ayant，être → étant，savoir → sachant。\n\n学习任务：recognize the high-frequency irregular present participles\n\n证据：L26_final_working.md:585-592 · 45:30-46:30",
+          "answer": null,
+          "source_species": "avoir etre and savoir have common irregular present participles",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "irregular",
+            "A2"
+          ],
+          "french_items": [
+            "ayant",
+            "étant",
+            "sachant"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:585-592"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:gerondif-is-en-plus-present-participle-and-works-as-an-adverbial",
+          "front": "【L26】en parlant / en marchant / en lisant\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "副动词由 en + 现在分词构成，整体作状语，不承担人称/时态变化。\n\n学习任务：form en + participe présent and treat it as a sentence adverbial\n\n证据：L26_final_working.md:591-603 · 46:00-47:30",
+          "answer": null,
+          "source_species": "gerondif is en plus present participle and works as an adverbial",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "conjugation",
+            "A2"
+          ],
+          "french_items": [
+            "en parlant",
+            "en marchant",
+            "en lisant"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:591-603"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:gerondif-expresses-simultaneity-like-while-doing-with-the-same-subject",
+          "front": "【L26】Il travaille en chantant / Il lit en marchant / Il parle en mangeant\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "en + 现在分词可表示 while doing / 一边……一边……；默认与主句共用同一主语。\n\n学习任务：express one action happening while the main action happens\n\n证据：L26_final_working.md:602-632 · 47:00-50:00",
+          "answer": null,
+          "source_species": "gerondif expresses simultaneity like while doing with the same subject",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Il travaille en chantant",
+            "Il lit en marchant",
+            "Il parle en mangeant"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:602-632"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:gerondif-improves-en-meme-temps-coordination-by-turning-one-action-into-an-adverbial",
+          "front": "【L26】en marchant / en même temps\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "“A et B en même temps”语法上可行但低级；保留一个谓语，另一个动作改成 en + 现在分词更自然。\n\n学习任务：upgrade two coordinated clauses into one main predicate plus one adverbial action\n\n证据：L26_final_working.md:614-626 · 48:00-49:30",
+          "answer": null,
+          "source_species": "gerondif improves en meme temps coordination by turning one action into an adverbial",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "en marchant",
+            "en même temps"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:614-626"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:tout-en-plus-gerondif-emphasizes-simultaneity",
+          "front": "【L26】tout en marchant / tout en mangeant\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "tout en + 副动词强调“就在做某事的同时”；tout 只加强同时性，不改变基本结构。\n\n学习任务：recognize tout en + present participle as an emphasized simultaneous action\n\n证据：L26_final_working.md:677-690 · 53:00-54:30",
+          "answer": null,
+          "source_species": "tout en plus gerondif emphasizes simultaneity",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "tout en marchant",
+            "tout en mangeant"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:677-690"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:gerondif-expresses-manner-or-means-like-by-doing",
+          "front": "【L26】en jouant / en faisant des exercices / en lisant des romans\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "副动词可表方式/手段，相当于 by doing：通过做练习进步、通过读小说进步。\n\n学习任务：use en + present participle to express by doing something\n\n证据：L26_final_working.md:690-743 · 54:00-58:30",
+          "answer": null,
+          "source_species": "gerondif expresses manner or means like by doing",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "en jouant",
+            "en faisant des exercices",
+            "en lisant des romans"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:690-743"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:gerondif-expresses-condition-when-the-action-is-prospective",
+          "front": "【L26】en signant / en partant à huit heures / en achetant les billets tôt\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "同一结构也可表条件：如果签名/八点出发/早买票，就会产生结果；方式和条件常靠上下文区分。\n\n学习任务：interpret en + present participle as if doing when the action is a condition for the result\n\n证据：L26_final_working.md:753-781 · 59:30-01:02:00",
+          "answer": null,
+          "source_species": "gerondif expresses condition when the action is prospective",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "en signant",
+            "en partant à huit heures",
+            "en achetant les billets tôt"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:753-781",
+            "L26_final_working.md:874-907"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:gerondif-is-invariant-across-main-clause-tense-and-can-stand-before-or-after-the-clause",
+          "front": "【L26】en faisant / En marchant dans la rue, ...\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "副动词不随主句时态/人称变化；作状语可放前也可放后，但默认主语仍是主句主语。\n\n学习任务：keep the gerondif form unchanged while the main clause tense or position changes\n\n证据：L26_final_working.md:742-754 · 58:30-01:00:00",
+          "answer": null,
+          "source_species": "gerondif is invariant across main-clause tense and can stand before or after the clause",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "tense_system",
+            "A2"
+          ],
+          "french_items": [
+            "en faisant",
+            "En marchant dans la rue, ..."
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:742-754",
+            "L26_final_working.md:912-925"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:a-gerondif-adverbial-can-be-emphasized-by-c-est-que-because-adverbials-share-the-same-sentence-role",
+          "front": "【L26】C’est en nageant qu’on apprend à nager / C’est en forgeant qu’on devient forgeron\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "en + 现在分词整体是状语；状语都可被 c’est ... que 强调，哪怕它由一个语法结构引出。\n\n学习任务：emphasize a gerondif adverbial with c’est ... que just like a place or time adverbial\n\n证据：L26_final_working.md:786-835 · 01:02:00-01:06:30",
+          "answer": null,
+          "source_species": "a gerondif adverbial can be emphasized by c est que because adverbials share the same sentence role",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "C’est en nageant qu’on apprend à nager",
+            "C’est en forgeant qu’on devient forgeron"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:786-835"
+          ],
+          "curated": true,
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:participe-parler",
+          "front": "parler → nous parlons → en ___",
+          "back": "去掉 -ons 加 -ant：**en parlant**。",
+          "answer": "parlant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:participe-lire",
+          "front": "lire → nous lisons → en ___",
+          "back": "nous lisons → lisant：**en lisant**。",
+          "answer": "lisant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:gerondif-mangeant",
+          "front": "他一边说话一边吃饭：Il parle en ___.",
+          "back": "manger → mangeant：**Il parle en mangeant.**",
+          "answer": "mangeant",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:gerondif-reading",
+          "front": "我们通过读小说进步：On progresse ___ lisant des romans.",
+          "back": "方式/手段 by reading：**en lisant**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:gerondif-condition",
+          "front": "如果八点出发，我们十点能到：___ partant à huit heures, nous arriverons à dix heures.",
+          "back": "条件状语可放句首：**En partant à huit heures...**",
+          "answer": "En",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "logic_connection"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:gerondif-tout-en",
+          "front": "强调“就在走路时”：___ en marchant",
+          "back": "强调同时性用 **tout en + participe présent**。",
+          "answer": "tout",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:gerondif-shared-subject",
+          "front": "副动词 `en marchant` 默认和主句共用同一个主语吗？",
+          "back": "是。副动词不单独给新主语，默认执行者就是主句主语；这是理解和造句的关键。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:forgeant-proverb",
+          "front": "熟能生巧谚语：C’est en ___ qu’on devient forgeron.",
+          "back": "固定谚语：**C’est en forgeant qu’on devient forgeron.**",
+          "answer": "forgeant",
+          "primary_class": "expression",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "gerondif",
+          "study_group": "gerondif",
+          "study_group_label": "副动词 en + 现在分词",
+          "study_group_order": 30,
+          "study_order": 180,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:lequel-covers-other-preposition-plus-antecedent-relationships-not-handled-by-qui-que-ou-or-dont",
+          "front": "【L26】avec lequel / sans lequel / à laquelle\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "qui/que/où/dont 各管一块；其他介词 + 先行词的关系由 lequel 家族补位。\n\n学习任务：use lequel-family relative pronouns when the antecedent is governed by a preposition other than the already-covered cases\n\n证据：L26_final_working.md:924-943 · 01:13:30-01:15:30",
+          "answer": null,
+          "source_species": "lequel covers other preposition plus antecedent relationships not handled by qui que ou or dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "avec lequel",
+            "sans lequel",
+            "à laquelle"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:924-943"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:preposition-before-lequel-must-be-preserved-because-it-carries-meaning",
+          "front": "`avec lequel / sans lequel` 里的介词为什么不能省？",
+          "back": "因为 avec / sans / à 等介词本身带意义，而且彼此可能相反。`lequel` 只替代先行词，**不吸收介词**。\n\n- avec lequel = with which\n- sans lequel = without which\n\n省掉介词，关系就不清楚了。",
+          "answer": null,
+          "source_species": "preposition before lequel must be preserved because it carries meaning",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "preposition_interface",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "avec lequel",
+            "sans lequel"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:948-979"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:lequel-agrees-with-the-antecedent-gender-and-number",
+          "front": "【L26】lequel / laquelle / lesquels / lesquelles\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "lequel 本质上像 le/la/les + quel，按先行词性数变化：lequel, laquelle, lesquels, lesquelles。\n\n学习任务：choose lequel laquelle lesquels or lesquelles from the antecedent gender and number\n\n证据：L26_final_working.md:990-1005 · 01:19:00-01:20:30",
+          "answer": null,
+          "source_species": "lequel agrees with the antecedent gender and number",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "agreement",
+            "A2"
+          ],
+          "french_items": [
+            "lequel",
+            "laquelle",
+            "lesquels",
+            "lesquelles"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:990-1005"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:a-plus-lequel-contracts-to-auquel-auxquels-and-auxquelles-but-not-a-laquelle",
+          "front": "【L26】auquel / à laquelle / auxquels / auxquelles\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "à + lequel/lesquels/lesquelles 要缩合为 auquel/auxquels/auxquelles；à laquelle 不缩合。\n\n学习任务：apply à + lequel contraction rules when building à lequel-family relatives\n\n证据：L26_final_working.md:1010-1029 · 01:20:30-01:22:30",
+          "answer": null,
+          "source_species": "a plus lequel contracts to auquel auxquels and auxquelles but not a laquelle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "preposition_interface",
+            "agreement",
+            "A2"
+          ],
+          "french_items": [
+            "auquel",
+            "à laquelle",
+            "auxquels",
+            "auxquelles"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1010-1029"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:lequel-replaces-a-single-antecedent-not-an-entire-clause",
+          "front": "【L26】lequel / cela / ça\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "lequel 替代的是有性数的单个先行词；整句抽象内容更常用 cela/ça，或中性 le。\n\n学习任务：avoid using lequel for abstract whole-clause content\n\n证据：L26_final_working.md:1040-1059 · 01:23:00-01:25:00",
+          "answer": null,
+          "source_species": "lequel replaces a single antecedent not an entire clause",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "lequel",
+            "cela",
+            "ça"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1040-1059"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:use-ou-when-it-naturally-covers-time-or-place-instead-of-heavier-lequel",
+          "front": "【L26】où / lequel\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "lequel 可覆盖很多剩余关系，但如果 où 等一个词已经自然解决，就优先用简单形式，不故意写重。\n\n学习任务：prefer the simple relative pronoun when qui que où or dont already covers the relationship\n\n证据：L26_final_working.md:1192-1206 · 01:36:30-01:38:00",
+          "answer": null,
+          "source_species": "use ou when it naturally covers time or place instead of heavier lequel",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "où",
+            "lequel"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1192-1206"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:preposition-plus-qui-can-replace-preposition-plus-lequel-when-the-antecedent-is-a-person",
+          "front": "【L26】avec qui / avec lequel\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "在其他介词关系里，若先行词是人，可用 介词 + qui；这不是主语 qui，而是介词后的关系代词。\n\n学习任务：recognize avec qui or similar forms when the antecedent is a person\n\n证据：L26_final_working.md:1204-1218 · 01:37:30-01:39:00",
+          "answer": null,
+          "source_species": "preposition plus qui can replace preposition plus lequel when the antecedent is a person",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "preposition_interface",
+            "pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "avec qui",
+            "avec lequel"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1204-1218"
+          ],
+          "curated": true,
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:avec-lequel",
+          "front": "le dictionnaire + avec ce dictionnaire je peux traduire → le dictionnaire avec ___ je peux traduire",
+          "back": "dictionnaire 阳性单数：**avec lequel**。",
+          "answer": "lequel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:sans-lequel",
+          "front": "le dictionnaire + sans ce dictionnaire je ne peux pas traduire → le dictionnaire sans ___ je ne peux pas traduire",
+          "back": "介词 sans 要保留，dictionnaire 阳性单数：**sans lequel**。",
+          "answer": "lequel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:a-laquelle-reunion",
+          "front": "la réunion + je dois assister à cette réunion → la réunion ___ je dois assister",
+          "back": "à + laquelle 不缩合：**à laquelle**。",
+          "answer": "à laquelle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:auquel-projet",
+          "front": "le projet + je pense à ce projet → le projet ___ je pense",
+          "back": "à + lequel 缩合为 **auquel**。",
+          "answer": "auquel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:auxquelles-questions",
+          "front": "les questions + nous répondons à ces questions → les questions ___ nous répondons",
+          "back": "à + lesquelles → **auxquelles**。",
+          "answer": "auxquelles",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:lequel-whole-clause",
+          "front": "`lequel` 能替代“你很开心”这一整件事吗？",
+          "back": "不能。lequel 替代有性数的单个先行词；整句抽象内容更常用 cela/ça，或中性 le。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:person-avec-qui",
+          "front": "先行词是人时，`avec lequel` 常可换成什么？",
+          "back": "可用 **avec qui**。这里的 qui 是介词后的关系代词，不是主语 qui。",
+          "answer": "avec qui",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "pronoun"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "lequel-family",
+          "study_group": "lequel-family",
+          "study_group_label": "lequel 复合关系代词",
+          "study_group_order": 40,
+          "study_order": 170,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:interesser-takes-the-interested-person-as-direct-object",
+          "front": "`Ce livre m’intéresse.` 里 `me` 是什么角色？这句话直译思路是什么？",
+          "back": "`intéresser` = 使某人感兴趣。\n\n`me` 是直接宾语 COD：**Ce livre m’intéresse** = 这本书让我感兴趣 / This book interests me。",
+          "answer": null,
+          "source_species": "interesser takes the interested person as direct object",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "object_pronoun",
+            "transitive_direct",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "Ce livre m’intéresse"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1222-1250"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:s-interesser-a-is-the-normal-je-subject-frame-for-being-interested-in-something",
+          "front": "想用 `je` 作主语说“我对这本书感兴趣”，最自然的结构是什么？",
+          "back": "用代动词：**Je m’intéresse à ce livre.**\n\n不要按英文 `interested in` 硬翻成 `Je suis intéressé à ce livre`。",
+          "answer": null,
+          "source_species": "s interesser a is the normal je subject frame for being interested in something",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "requires_a",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "Je m’intéresse à ce livre",
+            "Je m’intéresse à ses recherches"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1222-1244"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:je-suis-interesse-par-is-possible-but-je-suis-interesse-a-is-wrong",
+          "front": "【L26】Je suis intéressé par ce livre / Je suis intéressé à ce livre\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "je suis intéressé par... 语法上可以但不如前两种常用；je suis intéressé à ce livre 这类按英文 in 硬翻的说法是错的。\n\n学习任务：avoid translating English interested in as intéressé à\n\n证据：L26_final_working.md:1237-1262 · 01:40:00-01:42:30",
+          "answer": null,
+          "source_species": "je suis interesse par is possible but je suis interesse a is wrong",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "Je suis intéressé par ce livre",
+            "Je suis intéressé à ce livre"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1237-1262"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:assister-a-takes-a-laquelle-when-the-meeting-is-the-complement-of-assister",
+          "front": "【L26】assister à une réunion / la réunion à laquelle je dois assister\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "assister à 表示参加/出席；若先行词在从句中是 assister à 的补语，用 à laquelle/auquel 等形式。\n\n学习任务：turn assister à + antecedent into à laquelle/auquel relatives\n\n证据：L26_final_working.md:1261-1274 · 01:42:00-01:43:30",
+          "answer": null,
+          "source_species": "assister a takes a laquelle when the meeting is the complement of assister",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "requires_a",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "assister à une réunion",
+            "la réunion à laquelle je dois assister"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1261-1274"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:relative-clause-versions-are-role-choices-not-interchangeable-pronoun-substitutions",
+          "front": "【L26】qui commence / à laquelle je dois assister\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "两个原句合并时，先决定哪个信息做主句；主从关系不同，先行词在从句里的角色也不同，不能把 qui 和 à laquelle 当作简单互换。\n\n学习任务：choose which source sentence becomes the main clause before choosing the relative pronoun\n\n证据：L26_final_working.md:1267-1280 · 01:42:30-01:44:00",
+          "answer": null,
+          "source_species": "relative clause versions are role choices not interchangeable pronoun substitutions",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "qui commence",
+            "à laquelle je dois assister"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:1267-1280",
+            "L26_final_working.md:1302-1325"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:se-tromper-means-be-mistaken-and-se-tromper-de-names-the-wrong-item",
+          "front": "【L26】se tromper / se tromper d’heure / se tromper d’adresse\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "se tromper = 搞错/弄错；要说“搞错了某物/时间/地址”用 se tromper de + 名词。\n\n学习任务：use se tromper by itself for be mistaken and add de for the item mistaken\n\n证据：L26_final_working.md:383-390 · 29:00-30:00",
+          "answer": null,
+          "source_species": "se tromper means be mistaken and se tromper de names the wrong item",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_de",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "se tromper",
+            "se tromper d’heure",
+            "se tromper d’adresse"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:383-390"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:beaucoup-de-takes-plural-count-nouns",
+          "front": "【L26】beaucoup de livres / beaucoup de revues étrangères\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "beaucoup de 后若是可数名词且意思是“很多”，名词用复数；不要因为有 de 就误删复数。\n\n学习任务：keep countable nouns plural after beaucoup de when the meaning is many\n\n证据：L26_final_working.md:422-431 · 32:00-33:00",
+          "answer": null,
+          "source_species": "beaucoup de takes plural count nouns",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "foundational",
+            "gender_number",
+            "article",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "beaucoup de livres",
+            "beaucoup de revues étrangères"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:422-431"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:avoir-l-air-plus-adjective-agrees-with-the-subject-not-with-air",
+          "front": "【L26】elle a l’air fatiguée / il a l’air fatigué\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "avoir l’air + 形容词表示“看起来……”，形容词通常跟主语配合，不按 l’air 的阳性来配。\n\n学习任务：make the adjective after avoir l’air agree with the grammatical subject\n\n证据：L26_final_working.md:444-452 · 34:00-35:00",
+          "answer": null,
+          "source_species": "avoir l air plus adjective agrees with the subject not with air",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "agreement",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "elle a l’air fatiguée",
+            "il a l’air fatigué"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:444-452"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:species:avoir-l-air-can-take-a-prepositional-phrase-and-le-can-replace-repeated-predicate-content",
+          "front": "【L26】avoir l’air en bonne santé / il l’est / elle le paraît\n这个点的选择规则是什么？常见误区是什么？",
+          "back": "avoir l’air 后也可接介词短语，如 en bonne santé；重复“确实如此”时可用中性 le 替代整个表语内容。\n\n学习任务：use avoir l’air with prepositional complements and avoid repeating the predicate content\n\n证据：L26_final_working.md:456-463 · 35:00-36:00",
+          "answer": null,
+          "source_species": "avoir l air can take a prepositional phrase and le can replace repeated predicate content",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "pronoun",
+            "A2"
+          ],
+          "french_items": [
+            "avoir l’air en bonne santé",
+            "il l’est",
+            "elle le paraît"
+          ],
+          "evidence_refs": [
+            "L26_final_working.md:456-463"
+          ],
+          "curated": true,
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:ce-livre-minteresse",
+          "front": "这本书让我感兴趣：Ce livre ___ intéresse.",
+          "back": "感兴趣的人是 COD：**Ce livre m’intéresse.**",
+          "answer": "m'",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "object_pronoun",
+            "transitive_direct"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:je-minteresse-a",
+          "front": "我对这本书感兴趣：Je ___ intéresse ___ ce livre.",
+          "back": "用代动词 + à：**Je m’intéresse à ce livre.**",
+          "answer": "m'intéresse à",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronominal_reflexive",
+            "requires_a"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:interesse-a-wrong",
+          "front": "判断：`Je suis intéressé à ce livre` 是否自然正确？",
+          "back": "不对。本课老师明确说这个按英文硬翻的版本错；常用 `Je m’intéresse à...` 或 `Ce livre m’intéresse`。",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface",
+            "teacher_corrected_error"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:assister-a-laquelle",
+          "front": "我要参加的会议十点开始：La réunion ___ je dois assister commence à dix heures.",
+          "back": "assister à + réunion，réunion 阴性单数：**à laquelle**。",
+          "answer": "à laquelle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_a"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:se-tromper-de",
+          "front": "我搞错时间了：Je me suis trompé ___ heure.",
+          "back": "搞错某物/时间/地址：**se tromper de**；d’heure 因元音省音。",
+          "answer": "d'",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "requires_de"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 150,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:beaucoup-plural",
+          "front": "很多外国杂志：beaucoup de revues étrangère__",
+          "back": "可数名词“很多”用复数，形容词也配合：**revues étrangères**。",
+          "answer": "s",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "gender_number",
+            "agreement"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 160,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L26:practice:avoir-lair-fatiguee",
+          "front": "她看起来很累：Elle a l’air fatigu___.",
+          "back": "形容词跟主语 elle 配合：**fatiguée**。",
+          "answer": "ée",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "agreement"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-interfaces",
+          "study_group": "verb-interfaces",
+          "study_group_label": "动词接口与高频纠错",
+          "study_group_order": 50,
+          "study_order": 170,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}
