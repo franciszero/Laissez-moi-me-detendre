@@ -1,0 +1,62 @@
+{
+  "dont replaces de-linked complements in relative clauses": {
+    "front": "把 `La chose, il rêve de la chose` 合并成关系从句，空格应填什么？\n\n`La chose ___ il rêve`",
+    "back": "`rêver de` 里的 de 关系被抽到关系代词上，所以用 **dont**。\n\n同一逻辑也适用于 `se souvenir de`, `avoir besoin de`, `avoir peur de`，以及 `la maison dont la porte est rouge` 这类名词补语。",
+    "answer": "dont"
+  },
+  "faire plus partitive article forms sport and art activities": {
+    "front": "“做运动”更自然写法是：`faire ___ sport`",
+    "back": "体育/艺术类活动常用 **faire + 部分冠词 + 名词**：faire du sport, faire de la peinture, faire de la natation。不要写 `faire le sport`。",
+    "answer": "du"
+  },
+  "specified duration can move past background events to passe compose": {
+    "front": "如果明确说“下了一整晚”，应填：\n\n`Il ___ pendant toute la nuit.`",
+    "back": "有 `pendant toute la nuit` 这类明确持续时间时，事件被边界化，优先用复合过去时：**Il a plu pendant toute la nuit.**\n\n不说持续多久时，背景状态可用 `il pleuvait`。",
+    "answer": "a plu"
+  },
+  "imparfait covers past habits background states and progressive action": {
+    "front": "`imparfait` 在 L27 里至少覆盖哪三种过去意义？",
+    "back": "三类都要认得：\n\n- 过去习惯：quand il était petit...\n- 背景/状态：il faisait beau, il y avait du vent\n- 过去进行：quand je faisais mes devoirs = when I was doing my homework",
+    "answer": null
+  },
+  "futur proche and futur simple differ like going to and will without certainty rule": {
+    "front": "`aller + infinitif` 和 `futur simple` 的区别应该怎么记，哪个误区要避开？",
+    "back": "可以粗略类比英文 **be going to** / **will**，但不要机械化成“有把握就一定 futur proche”。真实选择看上下文和表达习惯。",
+    "answer": null
+  },
+  "etre imperative uses sois soyons soyez rather than infinitive": {
+    "front": "être 的 vous 命令式：`___ patient !`",
+    "back": "être 的命令式是不规则：**sois / soyons / soyez**。vous 对应 **soyez**。",
+    "answer": "soyez"
+  },
+  "conditionnel present forms from futur simple stem plus imparfait endings": {
+    "front": "conditionnel présent 的构成公式是什么？\n\navoir, je -> `___`",
+    "back": "公式：**futur simple 词根 + imparfait 词尾**。\n\navoir 的 futur simple 词根是 `aur-`，je 的 imparfait 词尾是 `-ais`，所以是 **j'aurais**。",
+    "answer": "j'aurais"
+  },
+  "standalone conditionnel expresses politeness or speaker probability": {
+    "front": "`Je veux prendre un repos` 改得更委婉，可以写成什么？",
+    "back": "用条件式让要求更委婉：**Je voudrais prendre un repos.**\n\nconditionnel 单独使用时，也可以表达委婉建议或说话人对信息的距离/推测。",
+    "answer": "je voudrais prendre un repos"
+  },
+  "si imparfait plus conditionnel marks counterfactual or low-probability hypothesis": {
+    "front": "补全：\n\n`Si j'avais du temps, je ___ avec toi.`",
+    "back": "`si + imparfait` 搭配主句 conditionnel présent：**Si j'avais du temps, je sortirais avec toi.**\n\n它可表示与现在事实相反，或对未来低概率的假设。",
+    "answer": "sortirais"
+  },
+  "si present futur simple and si imparfait conditionnel are locked pairs": {
+    "front": "补全主将从现：\n\n`S'il pleut demain, nous ne ___ pas.`",
+    "back": "两套搭配要锁死：\n\n- si + présent -> futur simple\n- si + imparfait -> conditionnel présent\n\n这里是主将从现：**nous ne sortirons pas**。在这种 si 从句里不要直接用 conditionnel。",
+    "answer": "sortirons"
+  },
+  "sans plus noun can express a condition without a si clause": {
+    "front": "`sans son téléphone portable` 在条件句里大致等于哪种 si 从句？",
+    "back": "`sans + 名词` 可以压缩表达条件，大致等于 **si elle n'avait pas son téléphone portable**。\n\nsi 是最常见条件引导词，但不是唯一能表达条件的形式。",
+    "answer": "si elle n'avait pas son téléphone portable"
+  },
+  "conditionnel strengthens TCF production by marking hypothetical consequences": {
+    "front": "TCF 写作/口语里，为什么条件式比一直用直陈式更有用？",
+    "back": "条件式可以表达假设后果、委婉建议、个人推测，让观点不显得过度绝对。\n\n可用框架：**cela pourrait nuire aux résultats scolaires**, **il faudrait...**, **je voudrais souligner que...**",
+    "answer": null
+  }
+}

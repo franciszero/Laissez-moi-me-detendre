@@ -1,0 +1,706 @@
+{
+  "lesson": "L27",
+  "source": "L27_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L27.species.json",
+    "expected_species_count": 12
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L27 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "conditionnel présent",
+          "pos": "nom",
+          "zh": "条件式现在时"
+        },
+        {
+          "type": "vocab",
+          "fr": "dont",
+          "pos": "pronom relatif",
+          "zh": "关系代词；替代 de + 先行词"
+        },
+        {
+          "type": "vocab",
+          "fr": "rêver de",
+          "pos": "verbe",
+          "zh": "梦到；梦想"
+        },
+        {
+          "type": "vocab",
+          "fr": "se souvenir de",
+          "pos": "verbe pronominal",
+          "zh": "记得；回忆起"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir besoin de",
+          "pos": "locution verbale",
+          "zh": "需要"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir peur de",
+          "pos": "locution verbale",
+          "zh": "害怕"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire du sport",
+          "pos": "locution verbale",
+          "zh": "做运动"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire de la peinture",
+          "pos": "locution verbale",
+          "zh": "画画"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire de la natation",
+          "pos": "locution verbale",
+          "zh": "游泳"
+        },
+        {
+          "type": "vocab",
+          "fr": "imparfait",
+          "pos": "nom",
+          "zh": "未完成过去时"
+        },
+        {
+          "type": "vocab",
+          "fr": "passé composé",
+          "pos": "nom",
+          "zh": "复合过去时"
+        },
+        {
+          "type": "vocab",
+          "fr": "plus-que-parfait",
+          "pos": "nom",
+          "zh": "愈过去时；过去的过去"
+        },
+        {
+          "type": "vocab",
+          "fr": "futur simple",
+          "pos": "nom",
+          "zh": "简单将来时"
+        },
+        {
+          "type": "vocab",
+          "fr": "futur proche",
+          "pos": "nom",
+          "zh": "最近将来时"
+        },
+        {
+          "type": "vocab",
+          "fr": "sois",
+          "pos": "verbe",
+          "zh": "être 的 tu 命令式"
+        },
+        {
+          "type": "vocab",
+          "fr": "soyez",
+          "pos": "verbe",
+          "zh": "être 的 vous 命令式"
+        },
+        {
+          "type": "vocab",
+          "fr": "sans",
+          "pos": "préposition",
+          "zh": "没有；在没有……的情况下"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'il pleut",
+          "pos": "proposition",
+          "zh": "如果下雨"
+        },
+        {
+          "type": "vocab",
+          "fr": "je voudrais",
+          "pos": "expression",
+          "zh": "我想要；我希望（委婉）"
+        },
+        {
+          "type": "vocab",
+          "fr": "vous devriez",
+          "pos": "expression",
+          "zh": "您应该（委婉建议）"
+        },
+        {
+          "type": "vocab",
+          "fr": "j'aurais",
+          "pos": "verbe",
+          "zh": "avoir 的条件式现在时：我会有"
+        },
+        {
+          "type": "vocab",
+          "fr": "je serais",
+          "pos": "verbe",
+          "zh": "être 的条件式现在时：我会是"
+        },
+        {
+          "type": "vocab",
+          "fr": "partirait",
+          "pos": "verbe",
+          "zh": "partir 的 il/elle 条件式现在时"
+        },
+        {
+          "type": "vocab",
+          "fr": "nuire à",
+          "pos": "verbe",
+          "zh": "损害；对……有害"
+        },
+        {
+          "type": "vocab",
+          "fr": "résultat scolaire",
+          "pos": "nom",
+          "zh": "学业成绩"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L27 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L27:species:dont-replaces-de-linked-complements-in-relative-clauses",
+          "front": "把 `La chose, il rêve de la chose` 合并成关系从句，空格应填什么？\n\n`La chose ___ il rêve`",
+          "back": "`rêver de` 里的 de 关系被抽到关系代词上，所以用 **dont**。\n\n同一逻辑也适用于 `se souvenir de`, `avoir besoin de`, `avoir peur de`，以及 `la maison dont la porte est rouge` 这类名词补语。",
+          "answer": "dont",
+          "source_species": "dont replaces de-linked complements in relative clauses",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronoun",
+            "preposition_interface",
+            "relative_pronoun",
+            "requires_de",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "dont",
+            "rever de",
+            "se souvenir de",
+            "avoir besoin de",
+            "avoir peur de",
+            "la maison dont la porte est rouge"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:202-222",
+            "L27_final_working.md:298-302"
+          ],
+          "curated": true,
+          "study_group": "de-interfaces-and-activities",
+          "study_group_label": "de 接口与活动表达",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:faire-plus-partitive-article-forms-sport-and-art-activities",
+          "front": "“做运动”更自然写法是：`faire ___ sport`",
+          "back": "体育/艺术类活动常用 **faire + 部分冠词 + 名词**：faire du sport, faire de la peinture, faire de la natation。不要写 `faire le sport`。",
+          "answer": "du",
+          "source_species": "faire plus partitive article forms sport and art activities",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "article",
+            "partitive",
+            "A1",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "faire du sport",
+            "faire de la peinture",
+            "faire de la natation"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:411-423"
+          ],
+          "curated": true,
+          "study_group": "de-interfaces-and-activities",
+          "study_group_label": "de 接口与活动表达",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-dont-besoin",
+          "front": "需要的东西：`La chose ___ il a besoin`",
+          "back": "`avoir besoin de` 触发 de 接口，关系从句用 **dont**。",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "relative_pronoun",
+            "requires_de"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "de-interfaces-and-activities",
+          "study_group": "de-interfaces-and-activities",
+          "study_group_label": "de 接口与活动表达",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-faire-peinture",
+          "front": "她画画：`Elle fait ___ peinture.`",
+          "back": "艺术/体育活动：faire + 部分冠词 + 名词。peinture 阴性：**de la**。",
+          "answer": "de la",
+          "primary_class": "expression",
+          "tags": [
+            "partitive",
+            "article"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "de-interfaces-and-activities",
+          "study_group": "de-interfaces-and-activities",
+          "study_group_label": "de 接口与活动表达",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:specified-duration-can-move-past-background-events-to-passe-compose",
+          "front": "如果明确说“下了一整晚”，应填：\n\n`Il ___ pendant toute la nuit.`",
+          "back": "有 `pendant toute la nuit` 这类明确持续时间时，事件被边界化，优先用复合过去时：**Il a plu pendant toute la nuit.**\n\n不说持续多久时，背景状态可用 `il pleuvait`。",
+          "answer": "a plu",
+          "source_species": "specified duration can move past background events to passe compose",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "passe_compose",
+            "imparfait",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "il pleuvait",
+            "il a plu pendant toute la nuit",
+            "pendant deux heures"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:457-471"
+          ],
+          "curated": true,
+          "study_group": "past-and-future-tense-boundaries",
+          "study_group_label": "过去/将来时态边界",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:imparfait-covers-past-habits-background-states-and-progressive-action",
+          "front": "`imparfait` 在 L27 里至少覆盖哪三种过去意义？",
+          "back": "三类都要认得：\n\n- 过去习惯：quand il était petit...\n- 背景/状态：il faisait beau, il y avait du vent\n- 过去进行：quand je faisais mes devoirs = when I was doing my homework",
+          "answer": null,
+          "source_species": "imparfait covers past habits background states and progressive action",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "imparfait",
+            "A2"
+          ],
+          "french_items": [
+            "quand il etait petit",
+            "il faisait beau",
+            "je faisais mes devoirs"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:600-607",
+            "L27_final_working.md:715-749"
+          ],
+          "curated": true,
+          "study_group": "past-and-future-tense-boundaries",
+          "study_group_label": "过去/将来时态边界",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:futur-proche-and-futur-simple-differ-like-going-to-and-will-without-certainty-rule",
+          "front": "`aller + infinitif` 和 `futur simple` 的区别应该怎么记，哪个误区要避开？",
+          "back": "可以粗略类比英文 **be going to** / **will**，但不要机械化成“有把握就一定 futur proche”。真实选择看上下文和表达习惯。",
+          "answer": null,
+          "source_species": "futur proche and futur simple differ like going to and will without certainty rule",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "futur_simple",
+            "futur_proche",
+            "A2"
+          ],
+          "french_items": [
+            "nous allons faire",
+            "nous ferons",
+            "vous allez recevoir",
+            "vous recevrez"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:329-333",
+            "L27_final_working.md:541-551"
+          ],
+          "curated": true,
+          "study_group": "past-and-future-tense-boundaries",
+          "study_group_label": "过去/将来时态边界",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:etre-imperative-uses-sois-soyons-soyez-rather-than-infinitive",
+          "front": "être 的 vous 命令式：`___ patient !`",
+          "back": "être 的命令式是不规则：**sois / soyons / soyez**。vous 对应 **soyez**。",
+          "answer": "soyez",
+          "source_species": "etre imperative uses sois soyons soyez rather than infinitive",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "imperatif",
+            "irregular",
+            "A2"
+          ],
+          "french_items": [
+            "sois",
+            "soyons",
+            "soyez",
+            "sois patient",
+            "soyez patient"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:274"
+          ],
+          "curated": true,
+          "study_group": "past-and-future-tense-boundaries",
+          "study_group_label": "过去/将来时态边界",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-past-progressive",
+          "front": "当我正在写作业时：`quand je ___ mes devoirs`",
+          "back": "过去进行意义用 imparfait：**quand je faisais mes devoirs**。",
+          "answer": "faisais",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "imparfait",
+            "tense_system"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "past-and-future-tense-boundaries",
+          "study_group": "past-and-future-tense-boundaries",
+          "study_group_label": "过去/将来时态边界",
+          "study_group_order": 20,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-sois-patient",
+          "front": "tu 命令式：`___ patient !`",
+          "back": "être 命令式：sois / soyons / soyez。tu 对应 **sois**。",
+          "answer": "sois",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "imperatif",
+            "irregular"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "past-and-future-tense-boundaries",
+          "study_group": "past-and-future-tense-boundaries",
+          "study_group_label": "过去/将来时态边界",
+          "study_group_order": 20,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:conditionnel-present-forms-from-futur-simple-stem-plus-imparfait-endings",
+          "front": "conditionnel présent 的构成公式是什么？\n\navoir, je -> `___`",
+          "back": "公式：**futur simple 词根 + imparfait 词尾**。\n\navoir 的 futur simple 词根是 `aur-`，je 的 imparfait 词尾是 `-ais`，所以是 **j'aurais**。",
+          "answer": "j'aurais",
+          "source_species": "conditionnel present forms from futur simple stem plus imparfait endings",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "conditionnel",
+            "futur_simple",
+            "imparfait",
+            "conjugation",
+            "A2"
+          ],
+          "french_items": [
+            "j'aurais",
+            "je serais",
+            "on partirait",
+            "nous serions",
+            "vous auriez"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:767-781",
+            "L27_final_working.md:1237-1247"
+          ],
+          "curated": true,
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:standalone-conditionnel-expresses-politeness-or-speaker-probability",
+          "front": "`Je veux prendre un repos` 改得更委婉，可以写成什么？",
+          "back": "用条件式让要求更委婉：**Je voudrais prendre un repos.**\n\nconditionnel 单独使用时，也可以表达委婉建议或说话人对信息的距离/推测。",
+          "answer": "je voudrais prendre un repos",
+          "source_species": "standalone conditionnel expresses politeness or speaker probability",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "conditionnel",
+            "formal",
+            "A2"
+          ],
+          "french_items": [
+            "je voudrais",
+            "vous devriez",
+            "il partirait"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:809-824"
+          ],
+          "curated": true,
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:si-imparfait-plus-conditionnel-marks-counterfactual-or-low-probability-hypothesis",
+          "front": "补全：\n\n`Si j'avais du temps, je ___ avec toi.`",
+          "back": "`si + imparfait` 搭配主句 conditionnel présent：**Si j'avais du temps, je sortirais avec toi.**\n\n它可表示与现在事实相反，或对未来低概率的假设。",
+          "answer": "sortirais",
+          "source_species": "si imparfait plus conditionnel marks counterfactual or low-probability hypothesis",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "conditionnel",
+            "imparfait",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "si j'avais du temps, je sortirais avec toi",
+            "s'il avait beaucoup d'argent, il voyagerait au Pole Sud"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:964-992",
+            "L27_final_working.md:1250-1257"
+          ],
+          "curated": true,
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:si-present-futur-simple-and-si-imparfait-conditionnel-are-locked-pairs",
+          "front": "补全主将从现：\n\n`S'il pleut demain, nous ne ___ pas.`",
+          "back": "两套搭配要锁死：\n\n- si + présent -> futur simple\n- si + imparfait -> conditionnel présent\n\n这里是主将从现：**nous ne sortirons pas**。在这种 si 从句里不要直接用 conditionnel。",
+          "answer": "sortirons",
+          "source_species": "si present futur simple and si imparfait conditionnel are locked pairs",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "present",
+            "futur_simple",
+            "conditionnel",
+            "imparfait",
+            "sentence_frame",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "s'il pleut demain, nous ne sortirons pas",
+            "si j'avais du temps, je sortirais avec toi"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:1016-1048",
+            "L27_final_working.md:1288-1473"
+          ],
+          "curated": true,
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:sans-plus-noun-can-express-a-condition-without-a-si-clause",
+          "front": "`sans son téléphone portable` 在条件句里大致等于哪种 si 从句？",
+          "back": "`sans + 名词` 可以压缩表达条件，大致等于 **si elle n'avait pas son téléphone portable**。\n\nsi 是最常见条件引导词，但不是唯一能表达条件的形式。",
+          "answer": "si elle n'avait pas son téléphone portable",
+          "source_species": "sans plus noun can express a condition without a si clause",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "sans son telephone portable",
+            "si elle n'avait pas son telephone portable"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:1267-1281"
+          ],
+          "curated": true,
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-conditionnel-etre",
+          "front": "être, ils -> `ils ___`",
+          "back": "futur simple 词根 ser- + imparfait 词尾 -aient：**ils seraient**。",
+          "answer": "seraient",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conditionnel",
+            "conjugation"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "conditionnel-system",
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-si-argent",
+          "front": "`S'il avait beaucoup d'argent, il ___ au Pôle Sud.`",
+          "back": "si + imparfait 搭配 conditionnel présent：**il voyagerait**。",
+          "answer": "voyagerait",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conditionnel",
+            "imparfait",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "conditionnel-system",
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-no-si-conditionnel",
+          "front": "判断：`Si j'aurais du temps, je sortirais avec toi` 对吗？",
+          "back": "不对。在这套条件句里，si 后面不用 conditionnel。应说：**Si j'avais du temps, je sortirais avec toi.**",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conditionnel",
+            "imparfait",
+            "teacher_corrected_error"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "conditionnel-system",
+          "study_group": "conditionnel-system",
+          "study_group_label": "条件式系统",
+          "study_group_order": 30,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:species:conditionnel-strengthens-tcf-production-by-marking-hypothetical-consequences",
+          "front": "TCF 写作/口语里，为什么条件式比一直用直陈式更有用？",
+          "back": "条件式可以表达假设后果、委婉建议、个人推测，让观点不显得过度绝对。\n\n可用框架：**cela pourrait nuire aux résultats scolaires**, **il faudrait...**, **je voudrais souligner que...**",
+          "answer": null,
+          "source_species": "conditionnel strengthens TCF production by marking hypothetical consequences",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "conditionnel",
+            "sentence_frame",
+            "B1",
+            "memory_hook"
+          ],
+          "french_items": [
+            "cela pourrait nuire aux resultats scolaires",
+            "je voudrais souligner que",
+            "il faudrait"
+          ],
+          "evidence_refs": [
+            "L27_final_working.md:992-1016",
+            "L27_final_working.md:1469-1473"
+          ],
+          "curated": true,
+          "study_group": "tcf-production-conditionnel",
+          "study_group_label": "TCF 输出里的条件式",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L27:practice:l27-tcf-nuire",
+          "front": "把“这可能会损害学业成绩”说得更适合 TCF：`Cela ___ nuire aux résultats scolaires.`",
+          "back": "用 conditionnel 软化并表达假设后果：**Cela pourrait nuire aux résultats scolaires.**",
+          "answer": "pourrait",
+          "primary_class": "strategy",
+          "tags": [
+            "conditionnel",
+            "sentence_frame",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tcf-production-conditionnel",
+          "study_group": "tcf-production-conditionnel",
+          "study_group_label": "TCF 输出里的条件式",
+          "study_group_order": 40,
+          "study_order": 110,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

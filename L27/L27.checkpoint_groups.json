@@ -1,0 +1,160 @@
+{
+  "groups": [
+    {
+      "id": "de-interfaces-and-activities",
+      "label": "de 接口与活动表达",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "dont replaces de-linked complements in relative clauses",
+          "order": 10
+        },
+        {
+          "source_species": "faire plus partitive article forms sport and art activities",
+          "order": 20
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l27-dont-besoin",
+          "order": 110,
+          "front": "需要的东西：`La chose ___ il a besoin`",
+          "back": "`avoir besoin de` 触发 de 接口，关系从句用 **dont**。",
+          "answer": "dont",
+          "primary_class": "grammar_rule",
+          "tags": ["relative_pronoun", "requires_de"]
+        },
+        {
+          "id": "l27-faire-peinture",
+          "order": 120,
+          "front": "她画画：`Elle fait ___ peinture.`",
+          "back": "艺术/体育活动：faire + 部分冠词 + 名词。peinture 阴性：**de la**。",
+          "answer": "de la",
+          "primary_class": "expression",
+          "tags": ["partitive", "article"]
+        }
+      ]
+    },
+    {
+      "id": "past-and-future-tense-boundaries",
+      "label": "过去/将来时态边界",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "specified duration can move past background events to passe compose",
+          "order": 10
+        },
+        {
+          "source_species": "imparfait covers past habits background states and progressive action",
+          "order": 20
+        },
+        {
+          "source_species": "futur proche and futur simple differ like going to and will without certainty rule",
+          "order": 30
+        },
+        {
+          "source_species": "etre imperative uses sois soyons soyez rather than infinitive",
+          "order": 40
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l27-past-progressive",
+          "order": 110,
+          "front": "当我正在写作业时：`quand je ___ mes devoirs`",
+          "back": "过去进行意义用 imparfait：**quand je faisais mes devoirs**。",
+          "answer": "faisais",
+          "primary_class": "grammar_rule",
+          "tags": ["imparfait", "tense_system"]
+        },
+        {
+          "id": "l27-sois-patient",
+          "order": 120,
+          "front": "tu 命令式：`___ patient !`",
+          "back": "être 命令式：sois / soyons / soyez。tu 对应 **sois**。",
+          "answer": "sois",
+          "primary_class": "grammar_rule",
+          "tags": ["imperatif", "irregular"]
+        }
+      ]
+    },
+    {
+      "id": "conditionnel-system",
+      "label": "条件式系统",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "conditionnel present forms from futur simple stem plus imparfait endings",
+          "order": 10
+        },
+        {
+          "source_species": "standalone conditionnel expresses politeness or speaker probability",
+          "order": 20
+        },
+        {
+          "source_species": "si imparfait plus conditionnel marks counterfactual or low-probability hypothesis",
+          "order": 30
+        },
+        {
+          "source_species": "si present futur simple and si imparfait conditionnel are locked pairs",
+          "order": 40
+        },
+        {
+          "source_species": "sans plus noun can express a condition without a si clause",
+          "order": 50
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l27-conditionnel-etre",
+          "order": 110,
+          "front": "être, ils -> `ils ___`",
+          "back": "futur simple 词根 ser- + imparfait 词尾 -aient：**ils seraient**。",
+          "answer": "seraient",
+          "primary_class": "grammar_rule",
+          "tags": ["conditionnel", "conjugation"]
+        },
+        {
+          "id": "l27-si-argent",
+          "order": 120,
+          "front": "`S'il avait beaucoup d'argent, il ___ au Pôle Sud.`",
+          "back": "si + imparfait 搭配 conditionnel présent：**il voyagerait**。",
+          "answer": "voyagerait",
+          "primary_class": "grammar_rule",
+          "tags": ["conditionnel", "imparfait", "sentence_frame"]
+        },
+        {
+          "id": "l27-no-si-conditionnel",
+          "order": 130,
+          "front": "判断：`Si j'aurais du temps, je sortirais avec toi` 对吗？",
+          "back": "不对。在这套条件句里，si 后面不用 conditionnel。应说：**Si j'avais du temps, je sortirais avec toi.**",
+          "answer": null,
+          "primary_class": "grammar_rule",
+          "tags": ["conditionnel", "imparfait", "teacher_corrected_error"]
+        }
+      ]
+    },
+    {
+      "id": "tcf-production-conditionnel",
+      "label": "TCF 输出里的条件式",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "conditionnel strengthens TCF production by marking hypothetical consequences",
+          "order": 10
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l27-tcf-nuire",
+          "order": 110,
+          "front": "把“这可能会损害学业成绩”说得更适合 TCF：`Cela ___ nuire aux résultats scolaires.`",
+          "back": "用 conditionnel 软化并表达假设后果：**Cela pourrait nuire aux résultats scolaires.**",
+          "answer": "pourrait",
+          "primary_class": "strategy",
+          "tags": ["conditionnel", "sentence_frame", "B1"]
+        }
+      ]
+    }
+  ]
+}
