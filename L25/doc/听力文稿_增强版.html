@@ -1,0 +1,1428 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>听力文稿整理｜法文・中文・要点</title>
+<style>
+  :root {
+    --bg: #f6f1e8;
+    --paper: #fffaf2;
+    --ink: #1f2933;
+    --muted: #64748b;
+    --line: #d6c8b6;
+    --accent: #2563eb;
+    --accent-2: #0f766e;
+    --warm: #fff2cc;
+    --shadow: 0 10px 30px rgba(80, 58, 25, .10);
+    --radius: 16px;
+    --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Noto Sans SC", "PingFang SC", "Microsoft YaHei", Arial, sans-serif;
+    --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", monospace;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    margin: 0;
+    background: radial-gradient(circle at top left, #fff7df 0, var(--bg) 34rem, #f1eadf 100%);
+    color: var(--ink);
+    font-family: var(--font);
+    line-height: 1.55;
+  }
+
+  .app-shell {
+    max-width: 1680px;
+    margin: 0 auto;
+    padding: 22px 22px 56px;
+  }
+
+  .hero {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    gap: 16px;
+    align-items: end;
+    margin-bottom: 16px;
+    padding: 22px 24px;
+    border: 1px solid rgba(120, 90, 40, .18);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 242, .88);
+    box-shadow: var(--shadow);
+    backdrop-filter: blur(8px);
+  }
+
+  h1 {
+    margin: 0 0 6px;
+    font-size: clamp(24px, 3vw, 40px);
+    letter-spacing: -.03em;
+  }
+
+  .subtitle {
+    margin: 0;
+    color: var(--muted);
+    font-size: 15px;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(86px, 1fr));
+    gap: 10px;
+    min-width: 310px;
+  }
+  .stat {
+    background: #ffffff;
+    border: 1px solid rgba(37, 99, 235, .14);
+    border-radius: 14px;
+    padding: 10px 12px;
+    text-align: center;
+  }
+  .stat b { display:block; font-size: 20px; color: var(--accent); }
+  .stat span { font-size: 12px; color: var(--muted); }
+
+  .toolbar {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: grid;
+    grid-template-columns: minmax(280px, 1fr) auto auto auto;
+    gap: 10px;
+    align-items: center;
+    padding: 12px;
+    margin-bottom: 14px;
+    border: 1px solid rgba(120, 90, 40, .18);
+    border-radius: var(--radius);
+    background: rgba(255, 250, 242, .94);
+    box-shadow: var(--shadow);
+    backdrop-filter: blur(10px);
+  }
+
+  .searchbox {
+    width: 100%;
+    height: 42px;
+    padding: 0 14px;
+    border: 1px solid #c8d2df;
+    border-radius: 12px;
+    font-size: 15px;
+    background: white;
+    outline: none;
+  }
+  .searchbox:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, .12);
+  }
+
+  .button {
+    height: 42px;
+    padding: 0 14px;
+    border: 1px solid #c8d2df;
+    border-radius: 12px;
+    background: #ffffff;
+    color: #17324d;
+    font-weight: 700;
+    cursor: pointer;
+  }
+  .button:hover { border-color: var(--accent); color: var(--accent); }
+
+  .toc {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 0 0 16px;
+  }
+  .toc a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 34px;
+    padding: 6px 12px;
+    border: 1px solid rgba(15, 118, 110, .20);
+    border-radius: 999px;
+    background: #ffffffcc;
+    color: #0f766e;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 800;
+  }
+  .toc a:hover { background: #e8fff9; }
+
+  .section-title {
+    margin: 26px 0 12px;
+    padding: 13px 16px;
+    border-left: 8px solid var(--accent-2);
+    border-radius: 12px;
+    background: linear-gradient(90deg, #e6fffb, #fffaf2);
+    box-shadow: 0 4px 14px rgba(15, 118, 110, .08);
+    font-size: 22px;
+  }
+
+  .table-wrap {
+    overflow: auto;
+    margin: 0 0 22px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    border: 1px solid var(--line);
+    background: white;
+  }
+
+  table.study-table {
+    width: 100%;
+    min-width: 1080px;
+    border-collapse: separate;
+    border-spacing: 0;
+    background: white;
+    table-layout: fixed;
+    font-size: 15px;
+  }
+
+  .study-table th, .study-table td {
+    border-right: 1px solid #e4dccf;
+    border-bottom: 1px solid #e4dccf;
+    padding: 13px 14px;
+    vertical-align: top;
+  }
+  .study-table th:last-child, .study-table td:last-child { border-right: 0; }
+
+  .study-table thead th {
+    position: sticky;
+    top: 68px;
+    z-index: 10;
+    color: #102a43;
+    text-align: left;
+    font-size: 15px;
+    line-height: 1.35;
+    box-shadow: 0 2px 0 rgba(0,0,0,.06);
+  }
+
+  .study-table tbody tr {
+    transition: transform .08s ease, box-shadow .08s ease, background-color .08s ease;
+  }
+  .study-table tbody tr:hover {
+    transform: translateY(-1px);
+    box-shadow: inset 4px 0 0 var(--accent);
+  }
+
+  .study-table td:nth-child(1) {
+    width: 34%;
+    font-size: 15px;
+  }
+  .study-table td:nth-child(2) {
+    width: 30%;
+    color: #243b53;
+  }
+  .study-table td:nth-child(3) {
+    width: 36%;
+  }
+
+  .study-table strong {
+    color: #111827;
+    font-weight: 850;
+  }
+
+  .study-table td:first-child > strong:first-child {
+    display: inline-block;
+    margin-bottom: 6px;
+    padding: 3px 8px;
+    border-radius: 999px;
+    background: rgba(37, 99, 235, .10);
+    color: #1d4ed8;
+  }
+
+  .compact table.study-table { font-size: 13px; }
+  .compact .study-table th, .compact .study-table td { padding: 8px 10px; line-height: 1.38; }
+  .compact .section-title { margin-top: 18px; padding: 10px 13px; font-size: 19px; }
+
+  mark.search-hit {
+    background: #fde68a;
+    color: #111827;
+    padding: 0 2px;
+    border-radius: 3px;
+  }
+
+  tr.is-hidden { display: none; }
+
+  .empty-state {
+    display: none;
+    padding: 18px;
+    margin: 12px 0 20px;
+    border: 1px dashed #d97706;
+    border-radius: var(--radius);
+    background: #fffbeb;
+    color: #92400e;
+    font-weight: 700;
+  }
+
+  .footer-note {
+    margin-top: 24px;
+    padding: 14px 16px;
+    border-radius: var(--radius);
+    background: #ffffffaa;
+    border: 1px solid rgba(120, 90, 40, .15);
+    color: var(--muted);
+    font-size: 13px;
+  }
+
+  .backtop {
+    position: fixed;
+    right: 18px;
+    bottom: 18px;
+    width: 44px;
+    height: 44px;
+    border: 0;
+    border-radius: 999px;
+    background: #1d4ed8;
+    color: white;
+    font-weight: 900;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+  }
+
+  @media (max-width: 900px) {
+    .app-shell { padding: 14px; }
+    .hero { grid-template-columns: 1fr; }
+    .stats { min-width: 0; }
+    .toolbar { grid-template-columns: 1fr 1fr; }
+    .toolbar .searchbox { grid-column: 1 / -1; }
+    table.study-table { min-width: 920px; }
+  }
+
+  @media print {
+    body { background: white; }
+    .toolbar, .toc, .backtop { display: none !important; }
+    .app-shell { max-width: none; padding: 0; }
+    .hero { box-shadow: none; border: 0; padding: 0 0 12px; }
+    .table-wrap { box-shadow: none; overflow: visible; break-inside: auto; }
+    table.study-table { min-width: 0; font-size: 10.5px; }
+    .study-table th, .study-table td { padding: 6px 7px; }
+    .study-table thead th { position: static; }
+    .section-title { break-after: avoid; }
+  }
+</style>
+</head>
+<body>
+  <div class="app-shell" id="app">
+    <header class="hero">
+      <div>
+        <h1>听力文稿整理｜法文・中文・要点</h1>
+        <p class="subtitle">保留三列表格结构，增加搜索、导航、紧凑模式、打印样式和固定表头。适合网页查看，也适合打印成 PDF。</p>
+      </div>
+      <div class="stats">
+        <div class="stat"><b id="statTables">0</b><span>表格</span></div>
+        <div class="stat"><b id="statRows">0</b><span>条目</span></div>
+        <div class="stat"><b id="statVisible">0</b><span>当前显示</span></div>
+      </div>
+    </header>
+
+    <div class="toolbar">
+      <input id="searchInput" class="searchbox" type="search" placeholder="搜索：Activité 25、cinéma、晚点、天气、rendez-vous...">
+      <button class="button" id="clearSearch" type="button">清空搜索</button>
+      <button class="button" id="densityToggle" type="button">紧凑模式</button>
+      <button class="button" onclick="window.print()" type="button">打印 / 存 PDF</button>
+    </div>
+
+    <nav class="toc" id="toc"></nav>
+    <div class="empty-state" id="emptyState">没有匹配内容。换一个关键词，例如：cinéma、concert、réduction、retard、天气。</div>
+
+    <main id="content">
+      <h2 class="section-title" id="batch-1">第 1 批：页首残留片段 + Activités 11–18</h2>
+<table class="study-table" id="table-1">
+<thead>
+<tr>
+<th style="background:#d9ead3; width:34%;"><strong>法文</strong></th>
+<th style="background:#d9ead3; width:30%;"><strong>中文</strong></th>
+<th style="background:#fff2cc; width:36%;"><strong>要点介绍</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr data-row-index="1" data-search="页首残留片段 2 salut ! c'est jean. je vais au cours de dessin ce soir. et toi ? après, on peut aller au cinéma avec julien. 你好！我是 jean。今晚我要去上绘画课。你呢？之后，我们可以和 julien 一起去电影院。 场景： 电话留言 / 邀请。 重点： ① aller au cours de dessin ：去上绘画课。 ② ce soir ：今晚。 ③ on peut aller au cinéma ：我们可以去电影院。 ④ avec julien ：和 julien 一起。">
+<td data-label="法文" style="background:#f3f6ff;"><strong>页首残留片段 2</strong><br/><br/>
+Salut ! C'est Jean. Je vais au cours de dessin ce soir. Et toi ? Après, on peut aller au cinéma avec Julien.
+</td>
+<td data-label="中文">你好！我是 Jean。今晚我要去上绘画课。你呢？之后，我们可以和 Julien 一起去电影院。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>电话留言 / 邀请。<br/>
+<strong>重点：</strong><br/>
+① <strong>aller au cours de dessin</strong>：去上绘画课。<br/>
+② <strong>ce soir</strong>：今晚。<br/>
+③ <strong>on peut aller au cinéma</strong>：我们可以去电影院。<br/>
+④ <strong>avec Julien</strong>：和 Julien 一起。
+</td>
+</tr>
+<tr data-row-index="2" data-search="页首残留片段 3 c'est éric. julie ne va pas au cinéma. elle va au théâtre. moi, je ne sais pas. je vais regarder la télévision. et toi ? 我是 éric。julie 不去电影院。她去剧院。我呢，我不知道。我要看电视。你呢？ 场景： 说明别人和自己的安排。 重点： ① ne va pas au cinéma ：不去电影院。 ② va au théâtre ：去剧院。 ③ je ne sais pas ：我不知道。 ④ regarder la télévision ：看电视。">
+<td data-label="法文" style="background:#f3f6ff;"><strong>页首残留片段 3</strong><br/><br/>
+C'est Éric. Julie ne va pas au cinéma. Elle va au théâtre. Moi, je ne sais pas. Je vais regarder la télévision. Et toi ?
+</td>
+<td data-label="中文">我是 Éric。Julie 不去电影院。她去剧院。我呢，我不知道。我要看电视。你呢？</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>说明别人和自己的安排。<br/>
+<strong>重点：</strong><br/>
+① <strong>ne va pas au cinéma</strong>：不去电影院。<br/>
+② <strong>va au théâtre</strong>：去剧院。<br/>
+③ <strong>je ne sais pas</strong>：我不知道。<br/>
+④ <strong>regarder la télévision</strong>：看电视。
+</td>
+</tr>
+<tr data-row-index="3" data-search="activité 11, p. 14 — piste 11 — 1 oui, c’est jacques. alors, samedi, je ne travaille pas au magasin de moto. on peut aller au parc faire du vélo. après, on peut faire des crêpes chez moi. appelle-moi ! 是的，我是 jacques。那么，星期六我不在摩托车店工作。我们可以去公园骑自行车。之后，我们可以去我家做可丽饼。给我打电话！ 场景： 周末邀约。 核心动作： ① ne travaille pas ：不工作。 ② au magasin de moto ：在摩托车店。 ③ aller au parc ：去公园。 ④ faire du vélo ：骑自行车。 ⑤ faire des crêpes ：做可丽饼。 听力抓点： 时间是 samedi ，活动是 parc + vélo + crêpes 。">
+<td data-label="法文" style="background:#e8f4fd;"><strong>Activité 11, p. 14 — Piste 11 — 1</strong><br/><br/>
+Oui, c’est Jacques. Alors, samedi, je ne travaille pas au magasin de moto. On peut aller au parc faire du vélo. Après, on peut faire des crêpes chez moi. Appelle-moi !
+</td>
+<td data-label="中文">是的，我是 Jacques。那么，星期六我不在摩托车店工作。我们可以去公园骑自行车。之后，我们可以去我家做可丽饼。给我打电话！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>周末邀约。<br/>
+<strong>核心动作：</strong><br/>
+① <strong>ne travaille pas</strong>：不工作。<br/>
+② <strong>au magasin de moto</strong>：在摩托车店。<br/>
+③ <strong>aller au parc</strong>：去公园。<br/>
+④ <strong>faire du vélo</strong>：骑自行车。<br/>
+⑤ <strong>faire des crêpes</strong>：做可丽饼。<br/>
+<strong>听力抓点：</strong>时间是 <strong>samedi</strong>，活动是 <strong>parc + vélo + crêpes</strong>。
+</td>
+</tr>
+<tr data-row-index="4" data-search="activité 11 — 2 salut ! c'est clara. tu es toujours d'accord pour aller au centre commercial acheter un pantalon ? toi, tu veux une chemise, c'est ça ? rendez-vous à 11 h ! 你好！我是 clara。你还是同意去购物中心买一条裤子吗？你想要一件衬衫，是这样吗？11 点见！ 场景： 确认购物安排。 重点表达： ① être d’accord pour + infinitif ：同意做某事。 ② aller au centre commercial ：去购物中心。 ③ acheter un pantalon ：买裤子。 ④ une chemise ：一件衬衫。 ⑤ rendez-vous à 11 h ：11 点见。 易混： un pantalon 是一条裤子，法语里常用单数。">
+<td data-label="法文" style="background:#e8f4fd;"><strong>Activité 11 — 2</strong><br/><br/>
+Salut ! C'est Clara. Tu es toujours d'accord pour aller au centre commercial acheter un pantalon ? Toi, tu veux une chemise, c'est ça ? Rendez-vous à 11 h !
+</td>
+<td data-label="中文">你好！我是 Clara。你还是同意去购物中心买一条裤子吗？你想要一件衬衫，是这样吗？11 点见！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>确认购物安排。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>être d’accord pour + infinitif</strong>：同意做某事。<br/>
+② <strong>aller au centre commercial</strong>：去购物中心。<br/>
+③ <strong>acheter un pantalon</strong>：买裤子。<br/>
+④ <strong>une chemise</strong>：一件衬衫。<br/>
+⑤ <strong>Rendez-vous à 11 h</strong>：11 点见。<br/>
+<strong>易混：</strong><strong>un pantalon</strong> 是一条裤子，法语里常用单数。
+</td>
+</tr>
+<tr data-row-index="5" data-search="activité 11 — 3 salut ! c'est lucie. samedi, on peut aller au marché pour acheter les fruits. mais pour les boissons, on va au magasin. d'accord ? appelle-moi ! 你好！我是 lucie。星期六，我们可以去市场买水果。但是饮料要去商店买。可以吗？给我打电话！ 场景： 采购安排。 地点区分： ① au marché ：去市场。 ② au magasin ：去商店。 物品区分： ① les fruits ：水果。 ② les boissons ：饮料。 听力抓点： 水果在市场买，饮料在商店买。">
+<td data-label="法文" style="background:#e8f4fd;"><strong>Activité 11 — 3</strong><br/><br/>
+Salut ! C'est Lucie. Samedi, on peut aller au marché pour acheter les fruits. Mais pour les boissons, on va au magasin. D'accord ? Appelle-moi !
+</td>
+<td data-label="中文">你好！我是 Lucie。星期六，我们可以去市场买水果。但是饮料要去商店买。可以吗？给我打电话！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>采购安排。<br/>
+<strong>地点区分：</strong><br/>
+① <strong>au marché</strong>：去市场。<br/>
+② <strong>au magasin</strong>：去商店。<br/>
+<strong>物品区分：</strong><br/>
+① <strong>les fruits</strong>：水果。<br/>
+② <strong>les boissons</strong>：饮料。<br/>
+<strong>听力抓点：</strong>水果在市场买，饮料在商店买。
+</td>
+</tr>
+<tr data-row-index="6" data-search="activité 12, p. 14 — piste 12 — 1 les immeubles sont grands. il y a beaucoup de voitures. je visite les musées et les monuments. c’est une belle ville ! 楼房很高大。有很多汽车。我参观博物馆和纪念建筑。这是一座美丽的城市！ 主题： 城市。 关键词： ① les immeubles ：楼房。 ② beaucoup de voitures ：很多汽车。 ③ les musées ：博物馆。 ④ les monuments ：纪念建筑 / 名胜。 判断： 这是城市旅游描述，不是乡村或假期海边场景。">
+<td data-label="法文" style="background:#fce5cd;"><strong>Activité 12, p. 14 — Piste 12 — 1</strong><br/><br/>
+Les immeubles sont grands. Il y a beaucoup de voitures. Je visite les musées et les monuments. C’est une belle ville !
+</td>
+<td data-label="中文">楼房很高大。有很多汽车。我参观博物馆和纪念建筑。这是一座美丽的城市！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>城市。<br/>
+<strong>关键词：</strong><br/>
+① <strong>les immeubles</strong>：楼房。<br/>
+② <strong>beaucoup de voitures</strong>：很多汽车。<br/>
+③ <strong>les musées</strong>：博物馆。<br/>
+④ <strong>les monuments</strong>：纪念建筑 / 名胜。<br/>
+<strong>判断：</strong>这是城市旅游描述，不是乡村或假期海边场景。
+</td>
+</tr>
+<tr data-row-index="7" data-search="activité 12 — 2 il y a une forêt et un grand lac. il y a des bruits d’animaux. et le silence ! ce sont de belles vacances ! 那里有一片森林和一个大湖。有动物的声音。还有安静！这是美好的假期！ 主题： 自然 / 度假。 关键词： ① une forêt ：森林。 ② un grand lac ：大湖。 ③ des bruits d’animaux ：动物的声音。 ④ le silence ：安静。 听力抓点： 自然环境 + vacances。">
+<td data-label="法文" style="background:#fce5cd;"><strong>Activité 12 — 2</strong><br/><br/>
+Il y a une forêt et un grand lac. Il y a des bruits d’animaux. Et le silence ! Ce sont de belles vacances !
+</td>
+<td data-label="中文">那里有一片森林和一个大湖。有动物的声音。还有安静！这是美好的假期！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>自然 / 度假。<br/>
+<strong>关键词：</strong><br/>
+① <strong>une forêt</strong>：森林。<br/>
+② <strong>un grand lac</strong>：大湖。<br/>
+③ <strong>des bruits d’animaux</strong>：动物的声音。<br/>
+④ <strong>le silence</strong>：安静。<br/>
+<strong>听力抓点：</strong>自然环境 + vacances。
+</td>
+</tr>
+<tr data-row-index="8" data-search="activité 12 — 3 je suis contente de partir en vacances avec toi. dans ma valise, je mets ma serviette, mes lunettes de soleil et mon billet d’avion ! 我很高兴和你一起去度假。在我的行李箱里，我放了毛巾、太阳镜和飞机票！ 主题： 准备旅行。 结构： ① être content(e) de + infinitif ：很高兴做某事。 ② partir en vacances ：去度假。 ③ dans ma valise ：在我的行李箱里。 旅行物品： ma serviette 毛巾； mes lunettes de soleil 太阳镜； mon billet d’avion 飞机票。">
+<td data-label="法文" style="background:#fce5cd;"><strong>Activité 12 — 3</strong><br/><br/>
+Je suis contente de partir en vacances avec toi. Dans ma valise, je mets ma serviette, mes lunettes de soleil et mon billet d’avion !
+</td>
+<td data-label="中文">我很高兴和你一起去度假。在我的行李箱里，我放了毛巾、太阳镜和飞机票！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>准备旅行。<br/>
+<strong>结构：</strong><br/>
+① <strong>être content(e) de + infinitif</strong>：很高兴做某事。<br/>
+② <strong>partir en vacances</strong>：去度假。<br/>
+③ <strong>dans ma valise</strong>：在我的行李箱里。<br/>
+<strong>旅行物品：</strong><br/>
+<strong>ma serviette</strong> 毛巾；<strong>mes lunettes de soleil</strong> 太阳镜；<strong>mon billet d’avion</strong> 飞机票。
+</td>
+</tr>
+<tr data-row-index="9" data-search="activité 13, p. 14 — piste 13 — 1 salut ! c’est sébastien. est-ce que tu es chez toi ? je te téléphone pour le rendez-vous de mardi. on se retrouve chez moi à midi, d’accord ? à mardi ! 你好！我是 sébastien。你在家吗？我给你打电话是为了星期二的约会。我们中午在我家见，好吗？星期二见！ 场景： 约见面。 重点表达： ① être chez soi ：在自己家。 ② je te téléphone ：我给你打电话。 ③ le rendez-vous de mardi ：星期二的约会 / 见面。 ④ on se retrouve chez moi ：我们在我家见面。 ⑤ à midi ：中午 12 点。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 13, p. 14 — Piste 13 — 1</strong><br/><br/>
+Salut ! C’est Sébastien. Est-ce que tu es chez toi ? Je te téléphone pour le rendez-vous de mardi. On se retrouve chez moi à midi, d’accord ? À mardi !
+</td>
+<td data-label="中文">你好！我是 Sébastien。你在家吗？我给你打电话是为了星期二的约会。我们中午在我家见，好吗？星期二见！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>约见面。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>être chez soi</strong>：在自己家。<br/>
+② <strong>je te téléphone</strong>：我给你打电话。<br/>
+③ <strong>le rendez-vous de mardi</strong>：星期二的约会 / 见面。<br/>
+④ <strong>on se retrouve chez moi</strong>：我们在我家见面。<br/>
+⑤ <strong>à midi</strong>：中午 12 点。
+</td>
+</tr>
+<tr data-row-index="10" data-search="activité 13 — 2 c’est sountou. tu viens avec moi au marché ? si tu es d’accord, rendez-vous devant le marché à 10 h. et on va au restaurant aussi ? appelle-moi ! 我是 sountou。你和我一起去市场吗？如果你同意，10 点在市场前见。我们也去餐馆吗？给我打电话！ 场景： 邀请一起出门。 地点表达： ① au marché ：去市场。 ② devant le marché ：在市场前面。 ③ au restaurant ：去餐馆。 条件句： si tu es d’accord = 如果你同意。 听力抓点： 见面地点是市场前，时间是 10 点。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 13 — 2</strong><br/><br/>
+C’est Sountou. Tu viens avec moi au marché ? Si tu es d’accord, rendez-vous devant le marché à 10 h. Et on va au restaurant aussi ? Appelle-moi !
+</td>
+<td data-label="中文">我是 Sountou。你和我一起去市场吗？如果你同意，10 点在市场前见。我们也去餐馆吗？给我打电话！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>邀请一起出门。<br/>
+<strong>地点表达：</strong><br/>
+① <strong>au marché</strong>：去市场。<br/>
+② <strong>devant le marché</strong>：在市场前面。<br/>
+③ <strong>au restaurant</strong>：去餐馆。<br/>
+<strong>条件句：</strong><strong>Si tu es d’accord</strong> = 如果你同意。<br/>
+<strong>听力抓点：</strong>见面地点是市场前，时间是 10 点。
+</td>
+</tr>
+<tr data-row-index="11" data-search="activité 13 — 3 salut ! je fais des courses au centre commercial. il y a des réductions au magasin dupont. viens tout de suite ! je t’attends à l’entrée du magasin. 你好！我在购物中心购物。dupont 商店有折扣。马上来！我在商店入口等你。 场景： 商场购物 + 促销。 重点表达： ① faire des courses ：购物 / 买日用品。 ② au centre commercial ：在购物中心。 ③ il y a des réductions ：有折扣。 ④ viens tout de suite ：马上来。 ⑤ à l’entrée du magasin ：在商店入口。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 13 — 3</strong><br/><br/>
+Salut ! Je fais des courses au centre commercial. Il y a des réductions au magasin Dupont. Viens tout de suite ! Je t’attends à l’entrée du magasin.
+</td>
+<td data-label="中文">你好！我在购物中心购物。Dupont 商店有折扣。马上来！我在商店入口等你。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>商场购物 + 促销。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>faire des courses</strong>：购物 / 买日用品。<br/>
+② <strong>au centre commercial</strong>：在购物中心。<br/>
+③ <strong>il y a des réductions</strong>：有折扣。<br/>
+④ <strong>viens tout de suite</strong>：马上来。<br/>
+⑤ <strong>à l’entrée du magasin</strong>：在商店入口。
+</td>
+</tr>
+<tr data-row-index="12" data-search="activité 14, p. 14 — piste 14 — 1 demain, il fait beau ! soleil sur toute la france avec des températures agréables. 明天天气好！法国全境有阳光，气温舒适。 主题： 天气预报。 天气词： ① il fait beau ：天气好。 ② soleil ：阳光。 ③ sur toute la france ：法国全境。 ④ des températures agréables ：舒适的气温。 判断： 这是好天气预报。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 14, p. 14 — Piste 14 — 1</strong><br/><br/>
+Demain, il fait beau ! Soleil sur toute la France avec des températures agréables.
+</td>
+<td data-label="中文">明天天气好！法国全境有阳光，气温舒适。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>天气预报。<br/>
+<strong>天气词：</strong><br/>
+① <strong>il fait beau</strong>：天气好。<br/>
+② <strong>soleil</strong>：阳光。<br/>
+③ <strong>sur toute la France</strong>：法国全境。<br/>
+④ <strong>des températures agréables</strong>：舒适的气温。<br/>
+<strong>判断：</strong>这是好天气预报。
+</td>
+</tr>
+<tr data-row-index="13" data-search="activité 14 — 2 attention ! demain, dimanche, de la neige dans le nord avec, donc, des températures très basses. 注意！明天星期日，北部有雪，所以气温很低。 主题： 恶劣天气提醒。 天气词： ① attention ! 注意！ ② de la neige ：雪。 ③ dans le nord ：在北部。 ④ des températures très basses ：很低的气温。 听力抓点： 雪在北部，不是南部。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 14 — 2</strong><br/><br/>
+Attention ! Demain, dimanche, de la neige dans le nord avec, donc, des températures très basses.
+</td>
+<td data-label="中文">注意！明天星期日，北部有雪，所以气温很低。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>恶劣天气提醒。<br/>
+<strong>天气词：</strong><br/>
+① <strong>Attention !</strong> 注意！<br/>
+② <strong>de la neige</strong>：雪。<br/>
+③ <strong>dans le nord</strong>：在北部。<br/>
+④ <strong>des températures très basses</strong>：很低的气温。<br/>
+<strong>听力抓点：</strong>雪在北部，不是南部。
+</td>
+</tr>
+<tr data-row-index="14" data-search="activité 14 — 3 aujourd’hui, n’oubliez pas votre manteau. de la pluie au nord, à l’est, à l’ouest et au centre ! 今天，不要忘了你的大衣。北部、东部、西部和中部都有雨！ 主题： 下雨 + 穿衣提醒。 重点： ① n’oubliez pas ：不要忘记。 ② votre manteau ：你们的大衣。 ③ de la pluie ：雨。 ④ au nord / à l’est / à l’ouest / au centre ：北部 / 东部 / 西部 / 中部。 听力抓点： 几乎大范围下雨，但没有说南部。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 14 — 3</strong><br/><br/>
+Aujourd’hui, n’oubliez pas votre manteau. De la pluie au nord, à l’est, à l’ouest et au centre !
+</td>
+<td data-label="中文">今天，不要忘了你的大衣。北部、东部、西部和中部都有雨！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>下雨 + 穿衣提醒。<br/>
+<strong>重点：</strong><br/>
+① <strong>n’oubliez pas</strong>：不要忘记。<br/>
+② <strong>votre manteau</strong>：你们的大衣。<br/>
+③ <strong>de la pluie</strong>：雨。<br/>
+④ <strong>au nord / à l’est / à l’ouest / au centre</strong>：北部 / 东部 / 西部 / 中部。<br/>
+<strong>听力抓点：</strong>几乎大范围下雨，但没有说南部。
+</td>
+</tr>
+<tr data-row-index="15" data-search="activité 14 — 4 attention ! beaucoup de nuages dans le nord de la france et des orages importants dans le sud. 注意！法国北部有很多云，南部有强雷暴。 主题： 天气对比。 北部： beaucoup de nuages 很多云。 南部： des orages importants 强雷暴。 听力抓点： 北部是云，南部是雷暴。不要把两个地区听反。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 14 — 4</strong><br/><br/>
+Attention ! Beaucoup de nuages dans le nord de la France et des orages importants dans le sud.
+</td>
+<td data-label="中文">注意！法国北部有很多云，南部有强雷暴。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>天气对比。<br/>
+<strong>北部：</strong><strong>beaucoup de nuages</strong> 很多云。<br/>
+<strong>南部：</strong><strong>des orages importants</strong> 强雷暴。<br/>
+<strong>听力抓点：</strong>北部是云，南部是雷暴。不要把两个地区听反。
+</td>
+</tr>
+<tr data-row-index="16" data-search="activité 15, p. 15 — piste 15 — 1 après la pluie et les températures basses, enfin 18 degrés à paris ! 经历雨天和低温之后，巴黎终于 18 度了！ 主题： 气温回升。 重点： ① après la pluie ：雨后。 ② les températures basses ：低温。 ③ enfin ：终于。 ④ 18 degrés à paris ：巴黎 18 度。">
+<td data-label="法文" style="background:#cfe2f3;"><strong>Activité 15, p. 15 — Piste 15 — 1</strong><br/><br/>
+Après la pluie et les températures basses, enfin 18 degrés à Paris !
+</td>
+<td data-label="中文">经历雨天和低温之后，巴黎终于 18 度了！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>气温回升。<br/>
+<strong>重点：</strong><br/>
+① <strong>après la pluie</strong>：雨后。<br/>
+② <strong>les températures basses</strong>：低温。<br/>
+③ <strong>enfin</strong>：终于。<br/>
+④ <strong>18 degrés à Paris</strong>：巴黎 18 度。
+</td>
+</tr>
+<tr data-row-index="17" data-search="activité 15 — 2 n’oubliez pas votre manteau, votre écharpe et vos gants ! seulement 4 degrés à lille ! 不要忘了大衣、围巾和手套！lille 只有 4 度！ 主题： 寒冷天气穿衣提醒。 衣物词： ① le manteau ：大衣。 ② l’écharpe ：围巾。 ③ les gants ：手套。 气温： seulement 4 degrés = 只有 4 度。 听力抓点： lille 很冷。">
+<td data-label="法文" style="background:#cfe2f3;"><strong>Activité 15 — 2</strong><br/><br/>
+N’oubliez pas votre manteau, votre écharpe et vos gants ! Seulement 4 degrés à Lille !
+</td>
+<td data-label="中文">不要忘了大衣、围巾和手套！Lille 只有 4 度！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>寒冷天气穿衣提醒。<br/>
+<strong>衣物词：</strong><br/>
+① <strong>le manteau</strong>：大衣。<br/>
+② <strong>l’écharpe</strong>：围巾。<br/>
+③ <strong>les gants</strong>：手套。<br/>
+<strong>气温：</strong><strong>seulement 4 degrés</strong> = 只有 4 度。<br/>
+<strong>听力抓点：</strong>Lille 很冷。
+</td>
+</tr>
+<tr data-row-index="18" data-search="activité 15 — 3 aujourd’hui, un climat agréable avec 15 degrés à paris, 19 degrés à lyon et 23 degrés à bordeaux. 今天气候舒适：巴黎 15 度，里昂 19 度，波尔多 23 度。 主题： 城市气温对比。 城市 + 温度： ① paris ：15°c。 ② lyon ：19°c。 ③ bordeaux ：23°c。 听力抓点： 三个城市三个数字，常考配对。">
+<td data-label="法文" style="background:#cfe2f3;"><strong>Activité 15 — 3</strong><br/><br/>
+Aujourd’hui, un climat agréable avec 15 degrés à Paris, 19 degrés à Lyon et 23 degrés à Bordeaux.
+</td>
+<td data-label="中文">今天气候舒适：巴黎 15 度，里昂 19 度，波尔多 23 度。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>城市气温对比。<br/>
+<strong>城市 + 温度：</strong><br/>
+① <strong>Paris</strong>：15°C。<br/>
+② <strong>Lyon</strong>：19°C。<br/>
+③ <strong>Bordeaux</strong>：23°C。<br/>
+<strong>听力抓点：</strong>三个城市三个数字，常考配对。
+</td>
+</tr>
+<tr data-row-index="19" data-search="activité 16, p. 15 — piste 16 — 1 nouveau magasin de vêtements dans le centre-ville. grande inauguration avec 25 % de réduction jeudi de 10 h à 18 h. allez-y ! 市中心有一家新的服装店。星期四 10 点到 18 点举行盛大开业，有 25% 折扣。去看看吧！ 场景： 商店开业广告。 重点信息： ① magasin de vêtements ：服装店。 ② dans le centre-ville ：在市中心。 ③ inauguration ：开业 / 开幕。 ④ 25 % de réduction ：25% 折扣。 ⑤ jeudi de 10 h à 18 h ：星期四 10 点到 18 点。">
+<td data-label="法文" style="background:#f4cccc;"><strong>Activité 16, p. 15 — Piste 16 — 1</strong><br/><br/>
+Nouveau magasin de vêtements dans le centre-ville. Grande inauguration avec 25 % de réduction jeudi de 10 h à 18 h. Allez-y !
+</td>
+<td data-label="中文">市中心有一家新的服装店。星期四 10 点到 18 点举行盛大开业，有 25% 折扣。去看看吧！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>商店开业广告。<br/>
+<strong>重点信息：</strong><br/>
+① <strong>magasin de vêtements</strong>：服装店。<br/>
+② <strong>dans le centre-ville</strong>：在市中心。<br/>
+③ <strong>inauguration</strong>：开业 / 开幕。<br/>
+④ <strong>25 % de réduction</strong>：25% 折扣。<br/>
+⑤ <strong>jeudi de 10 h à 18 h</strong>：星期四 10 点到 18 点。
+</td>
+</tr>
+<tr data-row-index="20" data-search="activité 16 — 2 beaucoup de voitures sur les routes ce matin. attention ! prenez les transports en commun et laissez votre voiture chez vous. 今天早上路上有很多汽车。注意！请乘坐公共交通，把车留在家里。 场景： 交通提醒。 重点： ① beaucoup de voitures ：很多车。 ② sur les routes ：在路上。 ③ ce matin ：今天早上。 ④ prendre les transports en commun ：乘坐公共交通。 ⑤ laisser votre voiture chez vous ：把车留在家里。 听力抓点： 建议是坐公交/地铁，不开车。">
+<td data-label="法文" style="background:#f4cccc;"><strong>Activité 16 — 2</strong><br/><br/>
+Beaucoup de voitures sur les routes ce matin. Attention ! Prenez les transports en commun et laissez votre voiture chez vous.
+</td>
+<td data-label="中文">今天早上路上有很多汽车。注意！请乘坐公共交通，把车留在家里。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>交通提醒。<br/>
+<strong>重点：</strong><br/>
+① <strong>beaucoup de voitures</strong>：很多车。<br/>
+② <strong>sur les routes</strong>：在路上。<br/>
+③ <strong>ce matin</strong>：今天早上。<br/>
+④ <strong>prendre les transports en commun</strong>：乘坐公共交通。<br/>
+⑤ <strong>laisser votre voiture chez vous</strong>：把车留在家里。<br/>
+<strong>听力抓点：</strong>建议是坐公交/地铁，不开车。
+</td>
+</tr>
+<tr data-row-index="21" data-search="activité 16 — 3 aujourd’hui, il y a des millions d’animaux domestiques en france. ce sont surtout des chiens, des chats et des oiseaux. et vous ? quel animal avez-vous ? 如今，法国有几百万只宠物。主要是狗、猫和鸟。你呢？你有什么动物？ 主题： 宠物。 重点词： ① des millions de... ：几百万的…… ② animaux domestiques ：宠物 / 家养动物。 ③ des chiens ：狗。 ④ des chats ：猫。 ⑤ des oiseaux ：鸟。 问句： quel animal avez-vous ? 你有什么动物？">
+<td data-label="法文" style="background:#f4cccc;"><strong>Activité 16 — 3</strong><br/><br/>
+Aujourd’hui, il y a des millions d’animaux domestiques en France. Ce sont surtout des chiens, des chats et des oiseaux. Et vous ? Quel animal avez-vous ?
+</td>
+<td data-label="中文">如今，法国有几百万只宠物。主要是狗、猫和鸟。你呢？你有什么动物？</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>主题：</strong>宠物。<br/>
+<strong>重点词：</strong><br/>
+① <strong>des millions de...</strong>：几百万的……<br/>
+② <strong>animaux domestiques</strong>：宠物 / 家养动物。<br/>
+③ <strong>des chiens</strong>：狗。<br/>
+④ <strong>des chats</strong>：猫。<br/>
+⑤ <strong>des oiseaux</strong>：鸟。<br/>
+<strong>问句：</strong><strong>Quel animal avez-vous ?</strong> 你有什么动物？
+</td>
+</tr>
+<tr data-row-index="22" data-search="activité 17, p. 15 — piste 17 — 1 samedi, devant la mairie, une grande exposition est organisée par l’association du village. pour toute information supplémentaire, je vous rappelle que les bureaux de l’association sont au numéro 35 du boulevard victor hugo. 星期六，在市政厅前，村协会组织一场大型展览。如需更多信息，我提醒您，协会办公室在 victor hugo 大道 35 号。 场景： 公共活动公告。 地点： devant la mairie 市政厅前。 活动： une grande exposition 大型展览。 组织者： l’association du village 村协会。 地址： 35 du boulevard victor hugo victor hugo 大道 35 号。 语法点： est organisée par... 是被动语态：由……组织。">
+<td data-label="法文" style="background:#d9d2e9;"><strong>Activité 17, p. 15 — Piste 17 — 1</strong><br/><br/>
+Samedi, devant la mairie, une grande exposition est organisée par l’association du village. Pour toute information supplémentaire, je vous rappelle que les bureaux de l’association sont au numéro 35 du boulevard Victor Hugo.
+</td>
+<td data-label="中文">星期六，在市政厅前，村协会组织一场大型展览。如需更多信息，我提醒您，协会办公室在 Victor Hugo 大道 35 号。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>公共活动公告。<br/>
+<strong>地点：</strong><strong>devant la mairie</strong> 市政厅前。<br/>
+<strong>活动：</strong><strong>une grande exposition</strong> 大型展览。<br/>
+<strong>组织者：</strong><strong>l’association du village</strong> 村协会。<br/>
+<strong>地址：</strong><strong>35 du boulevard Victor Hugo</strong> Victor Hugo 大道 35 号。<br/>
+<strong>语法点：</strong><strong>est organisée par...</strong> 是被动语态：由……组织。
+</td>
+</tr>
+<tr data-row-index="23" data-search="activité 17 — 2 le directeur de l'entreprise des biscuits lolo va à l’école jules ferry aujourd’hui pour rencontrer les élèves et présenter les activités de son entreprise. il va offrir des biscuits aux enfants et aux professeurs, c’est sûr ! lolo 饼干公司的经理今天去 jules ferry 学校，见学生，并介绍他公司的业务。他肯定会给孩子们和老师们送饼干！ 场景： 企业进学校介绍。 人物： le directeur 经理。 公司： l’entreprise des biscuits lolo lolo 饼干公司。 动作： ① rencontrer les élèves ：见学生。 ② présenter les activités ：介绍业务 / 活动。 ③ offrir des biscuits à... ：给……饼干。 结构： va + infinitif = 最近将来时。">
+<td data-label="法文" style="background:#d9d2e9;"><strong>Activité 17 — 2</strong><br/><br/>
+Le directeur de l'entreprise des biscuits LOLO va à l’école Jules Ferry aujourd’hui pour rencontrer les élèves et présenter les activités de son entreprise. Il va offrir des biscuits aux enfants et aux professeurs, c’est sûr !
+</td>
+<td data-label="中文">LOLO 饼干公司的经理今天去 Jules Ferry 学校，见学生，并介绍他公司的业务。他肯定会给孩子们和老师们送饼干！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>企业进学校介绍。<br/>
+<strong>人物：</strong><strong>le directeur</strong> 经理。<br/>
+<strong>公司：</strong><strong>l’entreprise des biscuits LOLO</strong> LOLO 饼干公司。<br/>
+<strong>动作：</strong><br/>
+① <strong>rencontrer les élèves</strong>：见学生。<br/>
+② <strong>présenter les activités</strong>：介绍业务 / 活动。<br/>
+③ <strong>offrir des biscuits à...</strong>：给……饼干。<br/>
+<strong>结构：</strong><strong>va + infinitif</strong> = 最近将来时。
+</td>
+</tr>
+<tr data-row-index="24" data-search="activité 17 — 3 au marché, les nouveaux fruits de la saison sont arrivés. il y a des pommes et des bananes ! et grosse réduction sur les salades. le marché, c’est le samedi de 8 h à 13 h sur la place du village. 在市场上，当季新水果已经到了。有苹果和香蕉！沙拉也有大折扣。市场是星期六 8 点到 13 点，在村广场。 场景： 市场广告。 重点信息： ① les fruits de la saison ：当季水果。 ② sont arrivés ：已经到了。 ③ des pommes et des bananes ：苹果和香蕉。 ④ grosse réduction sur les salades ：沙拉大折扣。 ⑤ le samedi de 8 h à 13 h ：每周六 8 点到 13 点。 ⑥ sur la place du village ：在村广场。">
+<td data-label="法文" style="background:#d9d2e9;"><strong>Activité 17 — 3</strong><br/><br/>
+Au marché, les nouveaux fruits de la saison sont arrivés. Il y a des pommes et des bananes ! Et grosse réduction sur les salades. Le marché, c’est le samedi de 8 h à 13 h sur la place du village.
+</td>
+<td data-label="中文">在市场上，当季新水果已经到了。有苹果和香蕉！沙拉也有大折扣。市场是星期六 8 点到 13 点，在村广场。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>市场广告。<br/>
+<strong>重点信息：</strong><br/>
+① <strong>les fruits de la saison</strong>：当季水果。<br/>
+② <strong>sont arrivés</strong>：已经到了。<br/>
+③ <strong>des pommes et des bananes</strong>：苹果和香蕉。<br/>
+④ <strong>grosse réduction sur les salades</strong>：沙拉大折扣。<br/>
+⑤ <strong>le samedi de 8 h à 13 h</strong>：每周六 8 点到 13 点。<br/>
+⑥ <strong>sur la place du village</strong>：在村广场。
+</td>
+</tr>
+<tr data-row-index="25" data-search="activité 18, p. 15 — piste 18 — 1 le chanteur kendji girac est à toulouse pour un grand concert. aujourd’hui, vendredi 22 avril, kendji girac est avec nous. son concert est à 20 h, ce soir, dans la salle gainsbourg. 歌手 kendji girac 在图卢兹举办大型演唱会。今天，4 月 22 日星期五，kendji girac 和我们在一起。他的演唱会今晚 20 点在 gainsbourg 演出厅举行。 场景： 演唱会公告。 人物： le chanteur kendji girac 歌手 kendji girac。 地点： à toulouse 在图卢兹。 时间： vendredi 22 avril 4 月 22 日星期五； à 20 h 晚上 8 点。 地点细节： dans la salle gainsbourg 在 gainsbourg 演出厅。">
+<td data-label="法文" style="background:#c9daf8;"><strong>Activité 18, p. 15 — Piste 18 — 1</strong><br/><br/>
+Le chanteur Kendji Girac est à Toulouse pour un grand concert. Aujourd’hui, vendredi 22 avril, Kendji Girac est avec nous. Son concert est à 20 h, ce soir, dans la salle Gainsbourg.
+</td>
+<td data-label="中文">歌手 Kendji Girac 在图卢兹举办大型演唱会。今天，4 月 22 日星期五，Kendji Girac 和我们在一起。他的演唱会今晚 20 点在 Gainsbourg 演出厅举行。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>演唱会公告。<br/>
+<strong>人物：</strong><strong>le chanteur Kendji Girac</strong> 歌手 Kendji Girac。<br/>
+<strong>地点：</strong><strong>à Toulouse</strong> 在图卢兹。<br/>
+<strong>时间：</strong><strong>vendredi 22 avril</strong> 4 月 22 日星期五；<strong>à 20 h</strong> 晚上 8 点。<br/>
+<strong>地点细节：</strong><strong>dans la salle Gainsbourg</strong> 在 Gainsbourg 演出厅。
+</td>
+</tr>
+<tr data-row-index="26" data-search="activité 18 — 2 le cinéma terre’in présente le nouveau film de luc besson avec la présence des acteurs. c’est ce soir. vous pouvez acheter les billets sur le site internet du cinéma. terre’in 电影院放映 luc besson 的新电影，并且演员会到场。就是今晚。你们可以在电影院网站上买票。 场景： 电影放映公告。 重点： ① le cinéma ：电影院。 ② présente le nouveau film ：推出 / 放映新电影。 ③ avec la présence des acteurs ：演员到场。 ④ ce soir ：今晚。 ⑤ acheter les billets ：买票。 ⑥ sur le site internet du cinéma ：在电影院官网上。">
+<td data-label="法文" style="background:#c9daf8;"><strong>Activité 18 — 2</strong><br/><br/>
+Le cinéma Terre’in présente le nouveau film de Luc Besson avec la présence des acteurs. C’est ce soir. Vous pouvez acheter les billets sur le site internet du cinéma.
+</td>
+<td data-label="中文">Terre’in 电影院放映 Luc Besson 的新电影，并且演员会到场。就是今晚。你们可以在电影院网站上买票。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>电影放映公告。<br/>
+<strong>重点：</strong><br/>
+① <strong>le cinéma</strong>：电影院。<br/>
+② <strong>présente le nouveau film</strong>：推出 / 放映新电影。<br/>
+③ <strong>avec la présence des acteurs</strong>：演员到场。<br/>
+④ <strong>ce soir</strong>：今晚。<br/>
+⑤ <strong>acheter les billets</strong>：买票。<br/>
+⑥ <strong>sur le site internet du cinéma</strong>：在电影院官网上。
+</td>
+</tr>
+<tr data-row-index="27" data-search="activité 18 — 3 la poste est fermée ! vous ne pouvez plus envoyer de colis pendant les vacances. mais la boîte aux lettres est toujours disponible. vous pouvez donc envoyer vos lettres pendant les vacances. 邮局关门了！假期期间你们不能再寄包裹。但是信箱仍然可以使用。所以假期期间你们可以寄信。 场景： 邮局服务通知。 重点对比： ① la poste est fermée ：邮局关门。 ② ne pouvez plus envoyer de colis ：不能再寄包裹。 ③ la boîte aux lettres est toujours disponible ：信箱仍可使用。 ④ envoyer vos lettres ：寄信。 听力抓点： 包裹不行，信可以。">
+<td data-label="法文" style="background:#c9daf8;"><strong>Activité 18 — 3</strong><br/><br/>
+La poste est fermée ! Vous ne pouvez plus envoyer de colis pendant les vacances. Mais la boîte aux lettres est toujours disponible. Vous pouvez donc envoyer vos lettres pendant les vacances.
+</td>
+<td data-label="中文">邮局关门了！假期期间你们不能再寄包裹。但是信箱仍然可以使用。所以假期期间你们可以寄信。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>邮局服务通知。<br/>
+<strong>重点对比：</strong><br/>
+① <strong>La poste est fermée</strong>：邮局关门。<br/>
+② <strong>ne pouvez plus envoyer de colis</strong>：不能再寄包裹。<br/>
+③ <strong>la boîte aux lettres est toujours disponible</strong>：信箱仍可使用。<br/>
+④ <strong>envoyer vos lettres</strong>：寄信。<br/>
+<strong>听力抓点：</strong>包裹不行，信可以。
+</td>
+</tr>
+</tbody>
+</table>
+<h2 class="section-title" id="section-2">第 2 批：Activités 19–26</h2>
+<table class="study-table" id="table-2">
+<thead>
+<tr>
+<th style="background:#d9ead3; width:34%;"><strong>法文</strong></th>
+<th style="background:#d9ead3; width:30%;"><strong>中文</strong></th>
+<th style="background:#fff2cc; width:36%;"><strong>要点介绍</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr data-row-index="1" data-search="activité 19, p. 15 — piste 19 — 1 oui, c’est brigitte. je suis avec catherine. on mange. est-ce que tu viens au concert samedi ? appelle-moi ! à bientôt. 是的，我是 brigitte。我和 catherine 在一起。我们正在吃饭。你星期六来听音乐会吗？给我打电话！回头见。 场景： 电话留言 + 邀请。 核心信息： ① je suis avec catherine ：我和 catherine 在一起。 ② on mange ：我们在吃饭。 ③ tu viens au concert samedi ? ：你星期六来音乐会吗？ ④ appelle-moi ! ：给我打电话。 听力抓点： 邀请去的是 concert ，时间是 samedi 。">
+<td data-label="法文" style="background:#e8f4fd;"><strong>Activité 19, p. 15 — Piste 19 — 1</strong><br/><br/>
+Oui, c’est Brigitte. Je suis avec Catherine. On mange. Est-ce que tu viens au concert samedi ? Appelle-moi ! À bientôt.
+</td>
+<td data-label="中文">是的，我是 Brigitte。我和 Catherine 在一起。我们正在吃饭。你星期六来听音乐会吗？给我打电话！回头见。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>电话留言 + 邀请。<br/>
+<strong>核心信息：</strong><br/>
+① <strong>Je suis avec Catherine</strong>：我和 Catherine 在一起。<br/>
+② <strong>On mange</strong>：我们在吃饭。<br/>
+③ <strong>tu viens au concert samedi ?</strong>：你星期六来音乐会吗？<br/>
+④ <strong>Appelle-moi !</strong>：给我打电话。<br/>
+<strong>听力抓点：</strong>邀请去的是 <strong>concert</strong>，时间是 <strong>samedi</strong>。
+</td>
+</tr>
+<tr data-row-index="2" data-search="activité 19 — 2 salut, c’est samuel. je mange chez amélie et on se demande comment s’appelle ton école de théâtre. rappelle-nous. merci ! 你好，我是 samuel。我在 amélie 家吃饭，我们想知道你的戏剧学校叫什么名字。给我们回电话。谢谢！ 场景： 询问信息。 重点表达： ① manger chez amélie ：在 amélie 家吃饭。 ② on se demande... ：我们想知道…… ③ comment s’appelle... ：……叫什么名字。 ④ ton école de théâtre ：你的戏剧学校。 ⑤ rappelle-nous ：给我们回电话。 语法点： s’appeler 是代词式动词： elle s’appelle...">
+<td data-label="法文" style="background:#e8f4fd;"><strong>Activité 19 — 2</strong><br/><br/>
+Salut, c’est Samuel. Je mange chez Amélie et on se demande comment s’appelle ton école de théâtre. Rappelle-nous. Merci !
+</td>
+<td data-label="中文">你好，我是 Samuel。我在 Amélie 家吃饭，我们想知道你的戏剧学校叫什么名字。给我们回电话。谢谢！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>询问信息。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>manger chez Amélie</strong>：在 Amélie 家吃饭。<br/>
+② <strong>on se demande...</strong>：我们想知道……<br/>
+③ <strong>comment s’appelle...</strong>：……叫什么名字。<br/>
+④ <strong>ton école de théâtre</strong>：你的戏剧学校。<br/>
+⑤ <strong>Rappelle-nous</strong>：给我们回电话。<br/>
+<strong>语法点：</strong><strong>s’appeler</strong> 是代词式动词：<strong>elle s’appelle...</strong>
+</td>
+</tr>
+<tr data-row-index="3" data-search="activité 19 — 3 allô ! c’est lucie. je suis à la caisse. est-ce que j’achète de la viande pour ce soir ? appelle-moi vite ! bisous. 喂！我是 lucie。我在收银台。我买今晚吃的肉吗？快给我打电话！亲亲。 场景： 购物时临时确认。 重点表达： ① à la caisse ：在收银台。 ② acheter de la viande ：买肉。 ③ pour ce soir ：今晚用 / 今晚吃。 ④ vite ：快。 听力抓点： 她已经在收银台，所以问题很急。">
+<td data-label="法文" style="background:#e8f4fd;"><strong>Activité 19 — 3</strong><br/><br/>
+Allô ! C’est Lucie. Je suis à la caisse. Est-ce que j’achète de la viande pour ce soir ? Appelle-moi vite ! Bisous.
+</td>
+<td data-label="中文">喂！我是 Lucie。我在收银台。我买今晚吃的肉吗？快给我打电话！亲亲。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>购物时临时确认。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>à la caisse</strong>：在收银台。<br/>
+② <strong>acheter de la viande</strong>：买肉。<br/>
+③ <strong>pour ce soir</strong>：今晚用 / 今晚吃。<br/>
+④ <strong>vite</strong>：快。<br/>
+<strong>听力抓点：</strong>她已经在收银台，所以问题很急。
+</td>
+</tr>
+<tr data-row-index="4" data-search="activité 20, p. 15 — piste 20 — 1 mesdames, messieurs. nous vous rappelons que le poids maximum des bagages à main est de 12 kg. les autres bagages doivent être enregistrés avant de monter dans l’avion. merci. 女士们，先生们。我们提醒您，手提行李的最大重量是 12 公斤。其他行李必须在登机前托运。谢谢。 场景： 机场广播。 关键词： ① bagages à main ：手提行李。 ② poids maximum ：最大重量。 ③ 12 kg ：12 公斤。 ④ les autres bagages ：其他行李。 ⑤ être enregistrés ：被登记 / 被托运。 ⑥ avant de monter dans l’avion ：登机前。 语法点： doivent être enregistrés = 必须被托运，被动结构。">
+<td data-label="法文" style="background:#fce5cd;"><strong>Activité 20, p. 15 — Piste 20 — 1</strong><br/><br/>
+Mesdames, Messieurs. Nous vous rappelons que le poids maximum des bagages à main est de 12 kg. Les autres bagages doivent être enregistrés avant de monter dans l’avion. Merci.
+</td>
+<td data-label="中文">女士们，先生们。我们提醒您，手提行李的最大重量是 12 公斤。其他行李必须在登机前托运。谢谢。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>机场广播。<br/>
+<strong>关键词：</strong><br/>
+① <strong>bagages à main</strong>：手提行李。<br/>
+② <strong>poids maximum</strong>：最大重量。<br/>
+③ <strong>12 kg</strong>：12 公斤。<br/>
+④ <strong>les autres bagages</strong>：其他行李。<br/>
+⑤ <strong>être enregistrés</strong>：被登记 / 被托运。<br/>
+⑥ <strong>avant de monter dans l’avion</strong>：登机前。<br/>
+<strong>语法点：</strong><strong>doivent être enregistrés</strong> = 必须被托运，被动结构。
+</td>
+</tr>
+<tr data-row-index="5" data-search="activité 20 — 2 mesdames, messieurs. tous nos trains ont un bar pour acheter des boissons et des biscuits pendant votre voyage. merci de votre attention et bon voyage. 女士们，先生们。我们的所有火车都有一个吧台，供您在旅途中购买饮料和饼干。感谢您的注意，祝旅途愉快。 场景： 火车广播。 重点信息： ① tous nos trains ：我们的所有火车。 ② un bar ：吧台 / 餐饮区。 ③ acheter des boissons et des biscuits ：买饮料和饼干。 ④ pendant votre voyage ：在您的旅途中。 ⑤ bon voyage ：旅途愉快。 听力抓点： 这是火车服务信息，不是机场行李规定。">
+<td data-label="法文" style="background:#fce5cd;"><strong>Activité 20 — 2</strong><br/><br/>
+Mesdames, Messieurs. Tous nos trains ont un bar pour acheter des boissons et des biscuits pendant votre voyage. Merci de votre attention et bon voyage.
+</td>
+<td data-label="中文">女士们，先生们。我们的所有火车都有一个吧台，供您在旅途中购买饮料和饼干。感谢您的注意，祝旅途愉快。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>火车广播。<br/>
+<strong>重点信息：</strong><br/>
+① <strong>tous nos trains</strong>：我们的所有火车。<br/>
+② <strong>un bar</strong>：吧台 / 餐饮区。<br/>
+③ <strong>acheter des boissons et des biscuits</strong>：买饮料和饼干。<br/>
+④ <strong>pendant votre voyage</strong>：在您的旅途中。<br/>
+⑤ <strong>bon voyage</strong>：旅途愉快。<br/>
+<strong>听力抓点：</strong>这是火车服务信息，不是机场行李规定。
+</td>
+</tr>
+<tr data-row-index="6" data-search="activité 20 — 3 mesdames, messieurs. les quais 3 et 5 sont exceptionnellement fermés. tous les trains partent des quais 2 et 4. merci de votre attention. 女士们，先生们。3 号和 5 号站台临时关闭。所有火车从 2 号和 4 号站台出发。感谢您的注意。 场景： 火车站广播。 关键词： ① les quais 3 et 5 ：3 号和 5 号站台。 ② sont exceptionnellement fermés ：临时关闭。 ③ tous les trains partent... ：所有火车从……出发。 ④ des quais 2 et 4 ：从 2 号和 4 号站台。 听力抓点： 关闭的是 3、5；出发的是 2、4。">
+<td data-label="法文" style="background:#fce5cd;"><strong>Activité 20 — 3</strong><br/><br/>
+Mesdames, Messieurs. Les quais 3 et 5 sont exceptionnellement fermés. Tous les trains partent des quais 2 et 4. Merci de votre attention.
+</td>
+<td data-label="中文">女士们，先生们。3 号和 5 号站台临时关闭。所有火车从 2 号和 4 号站台出发。感谢您的注意。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>火车站广播。<br/>
+<strong>关键词：</strong><br/>
+① <strong>les quais 3 et 5</strong>：3 号和 5 号站台。<br/>
+② <strong>sont exceptionnellement fermés</strong>：临时关闭。<br/>
+③ <strong>tous les trains partent...</strong>：所有火车从……出发。<br/>
+④ <strong>des quais 2 et 4</strong>：从 2 号和 4 号站台。<br/>
+<strong>听力抓点：</strong>关闭的是 3、5；出发的是 2、4。
+</td>
+</tr>
+<tr data-row-index="7" data-search="activité 21, p. 16 — piste 21 — 1 c’est une grande maison ! 这是一栋大房子！ 语调训练： 感叹句。 句末符号： ! 听感： 语气更强，有惊讶、赞叹的感觉。 结构： c’est + article + adjectif + nom 。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 21, p. 16 — Piste 21 — 1</strong><br/><br/>
+C’est une grande maison !
+</td>
+<td data-label="中文">这是一栋大房子！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>语调训练：</strong>感叹句。<br/>
+<strong>句末符号：</strong><strong>!</strong><br/>
+<strong>听感：</strong>语气更强，有惊讶、赞叹的感觉。<br/>
+<strong>结构：</strong><strong>C’est + article + adjectif + nom</strong>。
+</td>
+</tr>
+<tr data-row-index="8" data-search="activité 21 — 2 c’est une grande maison ? 这是一栋大房子吗？ 语调训练： 疑问句。 句末符号： ? 听感： 句末上扬，表示确认信息。 注意： 法语口语里常用陈述句结构 + 上扬语调表达疑问。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 21 — 2</strong><br/><br/>
+C’est une grande maison ?
+</td>
+<td data-label="中文">这是一栋大房子吗？</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>语调训练：</strong>疑问句。<br/>
+<strong>句末符号：</strong><strong>?</strong><br/>
+<strong>听感：</strong>句末上扬，表示确认信息。<br/>
+<strong>注意：</strong>法语口语里常用陈述句结构 + 上扬语调表达疑问。
+</td>
+</tr>
+<tr data-row-index="9" data-search="activité 21 — 3 c’est une grande maison. 这是一栋大房子。 语调训练： 陈述句。 句末符号： . 听感： 句末平稳下降，表示陈述事实。 对比： 同一句话，标点不同，语调和意思不同。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 21 — 3</strong><br/><br/>
+C’est une grande maison.
+</td>
+<td data-label="中文">这是一栋大房子。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>语调训练：</strong>陈述句。<br/>
+<strong>句末符号：</strong><strong>.</strong><br/>
+<strong>听感：</strong>句末平稳下降，表示陈述事实。<br/>
+<strong>对比：</strong>同一句话，标点不同，语调和意思不同。
+</td>
+</tr>
+<tr data-row-index="10" data-search="activité 21 — 4 le voyage est long ? 旅程长吗？ 语调训练： 疑问句。 核心句： le voyage est long = 旅程很长。 问句方式： 句末上扬。 听力抓点： 不是看词序，而是听语调。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 21 — 4</strong><br/><br/>
+Le voyage est long ?
+</td>
+<td data-label="中文">旅程长吗？</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>语调训练：</strong>疑问句。<br/>
+<strong>核心句：</strong><strong>Le voyage est long</strong> = 旅程很长。<br/>
+<strong>问句方式：</strong>句末上扬。<br/>
+<strong>听力抓点：</strong>不是看词序，而是听语调。
+</td>
+</tr>
+<tr data-row-index="11" data-search="activité 21 — 5 le voyage est long. 旅程很长。 语调训练： 陈述句。 句末： 下降或平稳结束。 重点： 法语里 long 形容 le voyage ，因为 voyage 是阳性单数。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 21 — 5</strong><br/><br/>
+Le voyage est long.
+</td>
+<td data-label="中文">旅程很长。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>语调训练：</strong>陈述句。<br/>
+<strong>句末：</strong>下降或平稳结束。<br/>
+<strong>重点：</strong>法语里 <strong>long</strong> 形容 <strong>le voyage</strong>，因为 <strong>voyage</strong> 是阳性单数。
+</td>
+</tr>
+<tr data-row-index="12" data-search="activité 21 — 6 le voyage est long ! 旅程真长啊！ 语调训练： 感叹句。 语气： 比陈述句更强。 可表达： 惊讶、抱怨、强调。 三句对比： long ? 问长不长。 long. 陈述很长。 long ! 强调真长。">
+<td data-label="法文" style="background:#eadcf8;"><strong>Activité 21 — 6</strong><br/><br/>
+Le voyage est long !
+</td>
+<td data-label="中文">旅程真长啊！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>语调训练：</strong>感叹句。<br/>
+<strong>语气：</strong>比陈述句更强。<br/>
+<strong>可表达：</strong>惊讶、抱怨、强调。<br/>
+<strong>三句对比：</strong><br/>
+<strong>long ?</strong> 问长不长。<br/>
+<strong>long.</strong> 陈述很长。<br/>
+<strong>long !</strong> 强调真长。
+</td>
+</tr>
+<tr data-row-index="13" data-search="activité 22, p. 16 — piste 22 — 1 allô ? c’est rachida. je t’appelle pour te dire que je ne peux pas venir ce soir. je suis malade. je vais chez le médecin tout à l’heure. 喂？我是 rachida。我给你打电话是想告诉你，我今晚不能来。我病了。我一会儿要去看医生。 场景： 取消约定。 原因： je suis malade 我病了。 重点结构： ① je t’appelle pour te dire que... ：我给你打电话是为了告诉你…… ② je ne peux pas venir ：我不能来。 ③ ce soir ：今晚。 ④ chez le médecin ：去医生那里。 ⑤ tout à l’heure ：一会儿。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 22, p. 16 — Piste 22 — 1</strong><br/><br/>
+Allô ? C’est Rachida. Je t’appelle pour te dire que je ne peux pas venir ce soir. Je suis malade. Je vais chez le médecin tout à l’heure.
+</td>
+<td data-label="中文">喂？我是 Rachida。我给你打电话是想告诉你，我今晚不能来。我病了。我一会儿要去看医生。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>取消约定。<br/>
+<strong>原因：</strong><strong>Je suis malade</strong> 我病了。<br/>
+<strong>重点结构：</strong><br/>
+① <strong>je t’appelle pour te dire que...</strong>：我给你打电话是为了告诉你……<br/>
+② <strong>je ne peux pas venir</strong>：我不能来。<br/>
+③ <strong>ce soir</strong>：今晚。<br/>
+④ <strong>chez le médecin</strong>：去医生那里。<br/>
+⑤ <strong>tout à l’heure</strong>：一会儿。
+</td>
+</tr>
+<tr data-row-index="14" data-search="activité 22 — 2 salut ! je vais au brésil pendant les vacances ! c’est super ! je te raconte samedi. 你好！假期我要去巴西！太棒了！星期六我讲给你听。 场景： 分享旅行计划。 重点表达： ① aller au brésil ：去巴西。 ② pendant les vacances ：假期期间。 ③ c’est super ! ：太棒了！ ④ je te raconte samedi ：星期六我讲给你听。 介词点： brésil 是阳性国家名，所以说 au brésil 。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 22 — 2</strong><br/><br/>
+Salut ! Je vais au Brésil pendant les vacances ! C’est super ! Je te raconte samedi.
+</td>
+<td data-label="中文">你好！假期我要去巴西！太棒了！星期六我讲给你听。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>分享旅行计划。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>aller au Brésil</strong>：去巴西。<br/>
+② <strong>pendant les vacances</strong>：假期期间。<br/>
+③ <strong>C’est super !</strong>：太棒了！<br/>
+④ <strong>je te raconte samedi</strong>：星期六我讲给你听。<br/>
+<strong>介词点：</strong><strong>Brésil</strong> 是阳性国家名，所以说 <strong>au Brésil</strong>。
+</td>
+</tr>
+<tr data-row-index="15" data-search="activité 22 — 3 oh, tu ne viens pas à la fête ? moi, je veux y aller avec toi. allez, viens, s’il te plaît. 哦，你不来参加聚会吗？我想和你一起去。来吧，请你来。 场景： 劝别人来参加聚会。 重点表达： ① venir à la fête ：来参加聚会。 ② y aller ：去那里。 ③ avec toi ：和你一起。 ④ s’il te plaît ：请。 语法点： y 代替地点 / 去处： à la fête → y 。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 22 — 3</strong><br/><br/>
+Oh, tu ne viens pas à la fête ? Moi, je veux y aller avec toi. Allez, viens, s’il te plaît.
+</td>
+<td data-label="中文">哦，你不来参加聚会吗？我想和你一起去。来吧，请你来。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>劝别人来参加聚会。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>venir à la fête</strong>：来参加聚会。<br/>
+② <strong>y aller</strong>：去那里。<br/>
+③ <strong>avec toi</strong>：和你一起。<br/>
+④ <strong>s’il te plaît</strong>：请。<br/>
+<strong>语法点：</strong><strong>y</strong> 代替地点 / 去处：<strong>à la fête</strong> → <strong>y</strong>。
+</td>
+</tr>
+<tr data-row-index="16" data-search="activité 22 — 4 allô ? pourquoi tu ne réponds pas ? c’est important. tu es où ? appelle-moi ! 喂？你为什么不接 / 不回复？这很重要。你在哪儿？给我打电话！ 场景： 急事找人。 重点表达： ① pourquoi... ? ：为什么……？ ② tu ne réponds pas ：你不回复 / 不接。 ③ c’est important ：这很重要。 ④ tu es où ? ：你在哪儿？ ⑤ appelle-moi ! ：给我打电话。 听力抓点： 语气急，因为有重要事情。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 22 — 4</strong><br/><br/>
+Allô ? Pourquoi tu ne réponds pas ? C’est important. Tu es où ? Appelle-moi !
+</td>
+<td data-label="中文">喂？你为什么不接 / 不回复？这很重要。你在哪儿？给我打电话！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>急事找人。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>Pourquoi... ?</strong>：为什么……？<br/>
+② <strong>tu ne réponds pas</strong>：你不回复 / 不接。<br/>
+③ <strong>C’est important</strong>：这很重要。<br/>
+④ <strong>Tu es où ?</strong>：你在哪儿？<br/>
+⑤ <strong>Appelle-moi !</strong>：给我打电话。<br/>
+<strong>听力抓点：</strong>语气急，因为有重要事情。
+</td>
+</tr>
+<tr data-row-index="17" data-search="activité 22 — 5 oui, c’est moi. je ne peux pas aller au cinéma ce soir. j’ai beaucoup de travail. je suis très fatigué. 是我。我今晚不能去电影院。我有很多工作。我很累。 场景： 拒绝邀约。 拒绝原因： ① j’ai beaucoup de travail ：我有很多工作。 ② je suis très fatigué ：我很累。 重点结构： ne peux pas + infinitif = 不能做某事。 听力抓点： 不能去的是 au cinéma ce soir 。">
+<td data-label="法文" style="background:#d9ead3;"><strong>Activité 22 — 5</strong><br/><br/>
+Oui, c’est moi. Je ne peux pas aller au cinéma ce soir. J’ai beaucoup de travail. Je suis très fatigué.
+</td>
+<td data-label="中文">是我。我今晚不能去电影院。我有很多工作。我很累。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>拒绝邀约。<br/>
+<strong>拒绝原因：</strong><br/>
+① <strong>j’ai beaucoup de travail</strong>：我有很多工作。<br/>
+② <strong>je suis très fatigué</strong>：我很累。<br/>
+<strong>重点结构：</strong><strong>ne peux pas + infinitif</strong> = 不能做某事。<br/>
+<strong>听力抓点：</strong>不能去的是 <strong>au cinéma ce soir</strong>。
+</td>
+</tr>
+<tr data-row-index="18" data-search="activité 23, p. 16 — piste 23 — 1 chers clients, pendant 30 minutes, grande promotion sur tous les poissons avec 40 % de réduction ! oui, 40 % de réduction ! pendant seulement 30 minutes ! vite ! 亲爱的顾客们，接下来 30 分钟，所有鱼类大促销，打 40% 折！对，40% 折扣！只有 30 分钟！快来！ 场景： 超市 / 商店促销广播。 商品： tous les poissons 所有鱼。 折扣： 40 % de réduction 40% 折扣。 时间限制： pendant 30 minutes 30 分钟内。 语气词： vite ! 快！ 听力抓点： 商品、折扣、时长三件事。">
+<td data-label="法文" style="background:#f4cccc;"><strong>Activité 23, p. 16 — Piste 23 — 1</strong><br/><br/>
+Chers clients, pendant 30 minutes, grande promotion sur tous les poissons avec 40 % de réduction ! Oui, 40 % de réduction ! Pendant seulement 30 minutes ! Vite !
+</td>
+<td data-label="中文">亲爱的顾客们，接下来 30 分钟，所有鱼类大促销，打 40% 折！对，40% 折扣！只有 30 分钟！快来！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>超市 / 商店促销广播。<br/>
+<strong>商品：</strong><strong>tous les poissons</strong> 所有鱼。<br/>
+<strong>折扣：</strong><strong>40 % de réduction</strong> 40% 折扣。<br/>
+<strong>时间限制：</strong><strong>pendant 30 minutes</strong> 30 分钟内。<br/>
+<strong>语气词：</strong><strong>Vite !</strong> 快！<br/>
+<strong>听力抓点：</strong>商品、折扣、时长三件事。
+</td>
+</tr>
+<tr data-row-index="19" data-search="activité 23 — 2 après la réduction spéciale sur les pantalons, rendez-vous au rayon jouets pour les garçons. réduction de 20 % maintenant sur les jouets pour les garçons. pour les filles, c’est cet après-midi. 裤子的特别折扣之后，请到男孩玩具区。现在男孩玩具打 20% 折。女孩玩具是今天下午。 场景： 商场分区促销。 先后顺序： ① après la réduction spéciale sur les pantalons ：裤子特价之后。 ② maintenant ：现在。 ③ cet après-midi ：今天下午。 商品区： rayon jouets 玩具区。 折扣： 20 % 。 听力抓点： 现在是男孩玩具，女孩玩具是下午。">
+<td data-label="法文" style="background:#f4cccc;"><strong>Activité 23 — 2</strong><br/><br/>
+Après la réduction spéciale sur les pantalons, rendez-vous au rayon jouets pour les garçons. Réduction de 20 % maintenant sur les jouets pour les garçons. Pour les filles, c’est cet après-midi.
+</td>
+<td data-label="中文">裤子的特别折扣之后，请到男孩玩具区。现在男孩玩具打 20% 折。女孩玩具是今天下午。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>商场分区促销。<br/>
+<strong>先后顺序：</strong><br/>
+① <strong>après la réduction spéciale sur les pantalons</strong>：裤子特价之后。<br/>
+② <strong>maintenant</strong>：现在。<br/>
+③ <strong>cet après-midi</strong>：今天下午。<br/>
+<strong>商品区：</strong><strong>rayon jouets</strong> 玩具区。<br/>
+<strong>折扣：</strong><strong>20 %</strong>。<br/>
+<strong>听力抓点：</strong>现在是男孩玩具，女孩玩具是下午。
+</td>
+</tr>
+<tr data-row-index="20" data-search="activité 23 — 3 chers clients, rendez-vous à l’entrée du magasin pour découvrir nos promotions spéciales sur tous nos produits. ne partez pas ! rendez-vous à l’entrée ! 亲爱的顾客们，请到商店入口处，了解我们所有商品的特别促销。不要离开！请到入口处！ 场景： 商店广播。 地点： à l’entrée du magasin 商店入口处。 动作： découvrir nos promotions 了解我们的促销。 范围： sur tous nos produits 所有商品。 命令句： ne partez pas ! 不要走！ 听力抓点： 集合地点是入口。">
+<td data-label="法文" style="background:#f4cccc;"><strong>Activité 23 — 3</strong><br/><br/>
+Chers clients, rendez-vous à l’entrée du magasin pour découvrir nos promotions spéciales sur tous nos produits. Ne partez pas ! Rendez-vous à l’entrée !
+</td>
+<td data-label="中文">亲爱的顾客们，请到商店入口处，了解我们所有商品的特别促销。不要离开！请到入口处！</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>商店广播。<br/>
+<strong>地点：</strong><strong>à l’entrée du magasin</strong> 商店入口处。<br/>
+<strong>动作：</strong><strong>découvrir nos promotions</strong> 了解我们的促销。<br/>
+<strong>范围：</strong><strong>sur tous nos produits</strong> 所有商品。<br/>
+<strong>命令句：</strong><strong>Ne partez pas !</strong> 不要走！<br/>
+<strong>听力抓点：</strong>集合地点是入口。
+</td>
+</tr>
+<tr data-row-index="21" data-search="activité 24, p. 16 — piste 24 chers clients, bienvenue dans votre centre commercial. grande promotion sur les livres. la promotion commence à 10 h dans votre magasin fnac. 15 % de réduction sur tous les livres. après, réductions spéciales sur les légumes dans votre magasin prixfrancs. 亲爱的顾客们，欢迎来到您的购物中心。书籍大促销。促销 10 点在 fnac 商店开始。所有书籍 15% 折扣。之后，prixfrancs 商店的蔬菜有特别折扣。 场景： 购物中心广播。 第一段促销： ① les livres ：书。 ② magasin fnac ：fnac 商店。 ③ commence à 10 h ：10 点开始。 ④ 15 % de réduction ：15% 折扣。 第二段促销： ① les légumes ：蔬菜。 ② magasin prixfrancs ：prixfrancs 商店。 听力抓点： 书先打折，之后蔬菜有特别折扣。">
+<td data-label="法文" style="background:#cfe2f3;"><strong>Activité 24, p. 16 — Piste 24</strong><br/><br/>
+Chers clients, bienvenue dans votre centre commercial. Grande promotion sur les livres. La promotion commence à 10 h dans votre magasin Fnac. 15 % de réduction sur tous les livres. Après, réductions spéciales sur les légumes dans votre magasin PrixFrancs.
+</td>
+<td data-label="中文">亲爱的顾客们，欢迎来到您的购物中心。书籍大促销。促销 10 点在 Fnac 商店开始。所有书籍 15% 折扣。之后，PrixFrancs 商店的蔬菜有特别折扣。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>购物中心广播。<br/>
+<strong>第一段促销：</strong><br/>
+① <strong>les livres</strong>：书。<br/>
+② <strong>magasin Fnac</strong>：Fnac 商店。<br/>
+③ <strong>commence à 10 h</strong>：10 点开始。<br/>
+④ <strong>15 % de réduction</strong>：15% 折扣。<br/>
+<strong>第二段促销：</strong><br/>
+① <strong>les légumes</strong>：蔬菜。<br/>
+② <strong>magasin PrixFrancs</strong>：PrixFrancs 商店。<br/>
+<strong>听力抓点：</strong>书先打折，之后蔬菜有特别折扣。
+</td>
+</tr>
+<tr data-row-index="22" data-search="activité 25, p. 16 — piste 25 — 1 mesdames, messieurs, votre attention s’il vous plaît. le vol af793 à destination de rome partira porte h. 女士们，先生们，请注意。飞往罗马的 af793 航班将在 h 登机口出发。 场景： 机场广播。 关键词： ① votre attention s’il vous plaît ：请注意。 ② le vol af793 ：af793 航班。 ③ à destination de rome ：目的地是罗马。 ④ partira ：将出发。 ⑤ porte h ：h 登机口。 语法点： partira 是 partir 的简单将来时。">
+<td data-label="法文" style="background:#fff2cc;"><strong>Activité 25, p. 16 — Piste 25 — 1</strong><br/><br/>
+Mesdames, Messieurs, votre attention s’il vous plaît. Le vol AF793 à destination de Rome partira porte H.
+</td>
+<td data-label="中文">女士们，先生们，请注意。飞往罗马的 AF793 航班将在 H 登机口出发。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>机场广播。<br/>
+<strong>关键词：</strong><br/>
+① <strong>votre attention s’il vous plaît</strong>：请注意。<br/>
+② <strong>le vol AF793</strong>：AF793 航班。<br/>
+③ <strong>à destination de Rome</strong>：目的地是罗马。<br/>
+④ <strong>partira</strong>：将出发。<br/>
+⑤ <strong>porte H</strong>：H 登机口。<br/>
+<strong>语法点：</strong><strong>partira</strong> 是 <strong>partir</strong> 的简单将来时。
+</td>
+</tr>
+<tr data-row-index="23" data-search="activité 25 — 2 mesdames, messieurs, votre attention s’il vous plaît. le train tgv1210 à destination de nantes partira avec 10 minutes de retard. 女士们，先生们，请注意。开往南特的 tgv1210 列车将晚点 10 分钟出发。 场景： 火车站广播。 关键词： ① le train tgv1210 ：tgv1210 列车。 ② à destination de nantes ：目的地是南特。 ③ partira ：将出发。 ④ avec 10 minutes de retard ：晚点 10 分钟。 听力抓点： 目的地是 nantes，晚点 10 分钟。">
+<td data-label="法文" style="background:#fff2cc;"><strong>Activité 25 — 2</strong><br/><br/>
+Mesdames, Messieurs, votre attention s’il vous plaît. Le train TGV1210 à destination de Nantes partira avec 10 minutes de retard.
+</td>
+<td data-label="中文">女士们，先生们，请注意。开往南特的 TGV1210 列车将晚点 10 分钟出发。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>火车站广播。<br/>
+<strong>关键词：</strong><br/>
+① <strong>le train TGV1210</strong>：TGV1210 列车。<br/>
+② <strong>à destination de Nantes</strong>：目的地是南特。<br/>
+③ <strong>partira</strong>：将出发。<br/>
+④ <strong>avec 10 minutes de retard</strong>：晚点 10 分钟。<br/>
+<strong>听力抓点：</strong>目的地是 Nantes，晚点 10 分钟。
+</td>
+</tr>
+<tr data-row-index="24" data-search="activité 25 — 3 mesdames, messieurs, votre attention s’il vous plaît. le train tgv1002 à destination de rennes partira à 9 h 03. 女士们，先生们，请注意。开往雷恩的 tgv1002 列车将在 9 点 03 分出发。 场景： 火车站广播。 关键词： ① tgv1002 ：车次。 ② à destination de rennes ：目的地是 rennes。 ③ partira à 9 h 03 ：将在 9:03 出发。 听力抓点： 数字细节： 1002 和 9 h 03 。">
+<td data-label="法文" style="background:#fff2cc;"><strong>Activité 25 — 3</strong><br/><br/>
+Mesdames, Messieurs, votre attention s’il vous plaît. Le train TGV1002 à destination de Rennes partira à 9 h 03.
+</td>
+<td data-label="中文">女士们，先生们，请注意。开往雷恩的 TGV1002 列车将在 9 点 03 分出发。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>火车站广播。<br/>
+<strong>关键词：</strong><br/>
+① <strong>TGV1002</strong>：车次。<br/>
+② <strong>à destination de Rennes</strong>：目的地是 Rennes。<br/>
+③ <strong>partira à 9 h 03</strong>：将在 9:03 出发。<br/>
+<strong>听力抓点：</strong>数字细节：<strong>1002</strong> 和 <strong>9 h 03</strong>。
+</td>
+</tr>
+<tr data-row-index="25" data-search="activité 26, p. 17 — piste 26 — 1 bonjour. madame clara dupont au téléphone, secrétaire de madame la directrice. êtes-vous disponible pour un rendez-vous mardi ? j’attends votre appel. 您好。电话这边是 clara dupont 女士，校长女士的秘书。您星期二有空见面吗？我等您的电话。 场景： 正式电话留言。 身份： secrétaire de madame la directrice 女校长 / 女主任的秘书。 重点表达： ① au téléphone ：在电话中 / 来电者是…… ② être disponible pour... ：有空做…… ③ un rendez-vous mardi ：星期二的约见。 ④ j’attends votre appel ：我等您的来电。 语气： 比前面的朋友留言正式。">
+<td data-label="法文" style="background:#d9d2e9;"><strong>Activité 26, p. 17 — Piste 26 — 1</strong><br/><br/>
+Bonjour. Madame Clara Dupont au téléphone, secrétaire de madame la directrice. Êtes-vous disponible pour un rendez-vous mardi ? J’attends votre appel.
+</td>
+<td data-label="中文">您好。电话这边是 Clara Dupont 女士，校长女士的秘书。您星期二有空见面吗？我等您的电话。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>正式电话留言。<br/>
+<strong>身份：</strong><strong>secrétaire de madame la directrice</strong> 女校长 / 女主任的秘书。<br/>
+<strong>重点表达：</strong><br/>
+① <strong>au téléphone</strong>：在电话中 / 来电者是……<br/>
+② <strong>être disponible pour...</strong>：有空做……<br/>
+③ <strong>un rendez-vous mardi</strong>：星期二的约见。<br/>
+④ <strong>j’attends votre appel</strong>：我等您的来电。<br/>
+<strong>语气：</strong>比前面的朋友留言正式。
+</td>
+</tr>
+<tr data-row-index="26" data-search="activité 26 — 2 bonjour. monsieur legrand. je vous appelle pour prendre un rendez-vous pour parler des notes de votre fils. ses notes de mathématiques sont très basses. merci. 您好，legrand 先生。我给您打电话是为了约一个见面时间，谈谈您儿子的成绩。他的数学成绩很低。谢谢。 场景： 学校联系家长。 目的： prendre un rendez-vous 约见面。 话题： parler des notes de votre fils 谈您儿子的成绩。 问题： ses notes de mathématiques sont très basses 他的数学成绩很低。 搭配： parler de... = 谈论……；这里是 parler des notes ， des = de + les 。">
+<td data-label="法文" style="background:#d9d2e9;"><strong>Activité 26 — 2</strong><br/><br/>
+Bonjour. Monsieur Legrand. Je vous appelle pour prendre un rendez-vous pour parler des notes de votre fils. Ses notes de mathématiques sont très basses. Merci.
+</td>
+<td data-label="中文">您好，Legrand 先生。我给您打电话是为了约一个见面时间，谈谈您儿子的成绩。他的数学成绩很低。谢谢。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>学校联系家长。<br/>
+<strong>目的：</strong><strong>prendre un rendez-vous</strong> 约见面。<br/>
+<strong>话题：</strong><strong>parler des notes de votre fils</strong> 谈您儿子的成绩。<br/>
+<strong>问题：</strong><strong>ses notes de mathématiques sont très basses</strong> 他的数学成绩很低。<br/>
+<strong>搭配：</strong><strong>parler de...</strong> = 谈论……；这里是 <strong>parler des notes</strong>，<strong>des = de + les</strong>。
+</td>
+</tr>
+<tr data-row-index="27" data-search="activité 26 — 3 allô ? c’est madame fournier de l’agence pour l’emploi. votre rendez-vous de jeudi à 10 h au restaurant est confirmé. n’oubliez pas vos documents. merci. 喂？我是就业服务机构的 fournier 女士。您星期四 10 点在餐馆的约会已经确认。不要忘记您的文件。谢谢。 场景： 机构确认约会。 机构： l’agence pour l’emploi 就业服务机构。 时间： jeudi à 10 h 星期四 10 点。 地点： au restaurant 在餐馆。 状态： est confirmé 已确认。 提醒： n’oubliez pas vos documents 不要忘记文件。 听力抓点： 时间、地点、要带 documents。">
+<td data-label="法文" style="background:#d9d2e9;"><strong>Activité 26 — 3</strong><br/><br/>
+Allô ? C’est Madame Fournier de l’Agence pour l’emploi. Votre rendez-vous de jeudi à 10 h au restaurant est confirmé. N’oubliez pas vos documents. Merci.
+</td>
+<td data-label="中文">喂？我是就业服务机构的 Fournier 女士。您星期四 10 点在餐馆的约会已经确认。不要忘记您的文件。谢谢。</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+<strong>场景：</strong>机构确认约会。<br/>
+<strong>机构：</strong><strong>l’Agence pour l’emploi</strong> 就业服务机构。<br/>
+<strong>时间：</strong><strong>jeudi à 10 h</strong> 星期四 10 点。<br/>
+<strong>地点：</strong><strong>au restaurant</strong> 在餐馆。<br/>
+<strong>状态：</strong><strong>est confirmé</strong> 已确认。<br/>
+<strong>提醒：</strong><strong>N’oubliez pas vos documents</strong> 不要忘记文件。<br/>
+<strong>听力抓点：</strong>时间、地点、要带 documents。
+</td>
+</tr>
+</tbody>
+</table>
+<h2 class="section-title" id="section-3">高频听力场景汇总表</h2>
+<table class="study-table" id="table-3">
+<thead>
+<tr>
+<th style="background:#38761d; color:white; width:28%;"><strong>法文场景</strong></th>
+<th style="background:#38761d; color:white; width:28%;"><strong>中文场景</strong></th>
+<th style="background:#fce5cd; width:44%;"><strong>要点介绍</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr data-row-index="1" data-search="message téléphonique appelle-moi ! rappelle-nous ! j’attends votre appel. 电话留言 / 等回电 这类题常问：谁打电话、为什么打电话、要对方做什么。 听到 appelle-moi 是“给我打电话”； rappelle-nous 是“给我们回电话”； votre appel 是正式说法。">
+<td data-label="法文场景" style="background:#e2f0d9;"><strong>Message téléphonique</strong><br/>Appelle-moi !<br/>Rappelle-nous !<br/>J’attends votre appel.</td>
+<td data-label="中文场景">电话留言 / 等回电</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+这类题常问：谁打电话、为什么打电话、要对方做什么。<br/>
+听到 <strong>Appelle-moi</strong> 是“给我打电话”；<strong>Rappelle-nous</strong> 是“给我们回电话”；<strong>votre appel</strong> 是正式说法。
+</td>
+</tr>
+<tr data-row-index="2" data-search="invitation tu viens au concert ? on peut aller au cinéma ? rendez-vous à 11 h. 邀请 / 约见面 这类题重点抓 活动 + 时间 + 地点 。 比如 concert samedi，cinéma ce soir，rendez-vous à 11 h。 rendez-vous 不一定是“约会对象”，也可以是普通见面。">
+<td data-label="法文场景" style="background:#e2f0d9;"><strong>Invitation</strong><br/>Tu viens au concert ?<br/>On peut aller au cinéma ?<br/>Rendez-vous à 11 h.</td>
+<td data-label="中文场景">邀请 / 约见面</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+这类题重点抓 <strong>活动 + 时间 + 地点</strong>。<br/>
+比如 concert samedi，cinéma ce soir，rendez-vous à 11 h。<br/>
+<strong>rendez-vous</strong> 不一定是“约会对象”，也可以是普通见面。
+</td>
+</tr>
+<tr data-row-index="3" data-search="promotion commerciale 40 % de réduction grande promotion rendez-vous à l’entrée 商场促销 / 广播 这类题常考数字： 折扣比例、开始时间、持续时间、商品类别、商店位置 。 réduction 是折扣； pendant 30 minutes 是持续 30 分钟； à l’entrée 是入口处。">
+<td data-label="法文场景" style="background:#e2f0d9;"><strong>Promotion commerciale</strong><br/>40 % de réduction<br/>grande promotion<br/>rendez-vous à l’entrée</td>
+<td data-label="中文场景">商场促销 / 广播</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+这类题常考数字：<strong>折扣比例、开始时间、持续时间、商品类别、商店位置</strong>。<br/>
+<strong>réduction</strong> 是折扣；<strong>pendant 30 minutes</strong> 是持续 30 分钟；<strong>à l’entrée</strong> 是入口处。
+</td>
+</tr>
+<tr data-row-index="4" data-search="annonce de transport le vol partira porte h. le train partira avec 10 minutes de retard. les quais sont fermés. 机场 / 火车站广播 这类题信息密度很高。先抓交通工具： vol 航班， train 火车， quai 站台， porte 登机口。 然后抓目的地： à destination de rome / nantes / rennes 。 最后抓变更：晚点、站台关闭、登机口。">
+<td data-label="法文场景" style="background:#e2f0d9;"><strong>Annonce de transport</strong><br/>Le vol partira porte H.<br/>Le train partira avec 10 minutes de retard.<br/>Les quais sont fermés.</td>
+<td data-label="中文场景">机场 / 火车站广播</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+这类题信息密度很高。先抓交通工具：<strong>vol</strong> 航班，<strong>train</strong> 火车，<strong>quai</strong> 站台，<strong>porte</strong> 登机口。<br/>
+然后抓目的地：<strong>à destination de Rome / Nantes / Rennes</strong>。<br/>
+最后抓变更：晚点、站台关闭、登机口。
+</td>
+</tr>
+<tr data-row-index="5" data-search="météo il fait beau de la pluie de la neige des orages 天气预报 天气题常考地区配对。 au nord 北部； à l’est 东部； à l’ouest 西部； dans le sud 南部。 不要只听天气词，还要听它对应哪个地区。">
+<td data-label="法文场景" style="background:#e2f0d9;"><strong>Météo</strong><br/>il fait beau<br/>de la pluie<br/>de la neige<br/>des orages</td>
+<td data-label="中文场景">天气预报</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+天气题常考地区配对。<br/>
+<strong>au nord</strong> 北部；<strong>à l’est</strong> 东部；<strong>à l’ouest</strong> 西部；<strong>dans le sud</strong> 南部。<br/>
+不要只听天气词，还要听它对应哪个地区。
+</td>
+</tr>
+<tr data-row-index="6" data-search="rendez-vous officiel êtes-vous disponible ? prendre un rendez-vous est confirmé 正式约见 / 机构通知 这类题语气更正式，常出现 madame / monsieur / votre / vous 。 être disponible 是“有空”； prendre un rendez-vous 是“约时间”； est confirmé 是“已经确认”。">
+<td data-label="法文场景" style="background:#e2f0d9;"><strong>Rendez-vous officiel</strong><br/>Êtes-vous disponible ?<br/>prendre un rendez-vous<br/>est confirmé</td>
+<td data-label="中文场景">正式约见 / 机构通知</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+这类题语气更正式，常出现 <strong>Madame / Monsieur / votre / vous</strong>。<br/>
+<strong>être disponible</strong> 是“有空”；<strong>prendre un rendez-vous</strong> 是“约时间”；<strong>est confirmé</strong> 是“已经确认”。
+</td>
+</tr>
+</tbody>
+</table>
+<h2 class="section-title" id="section-4">高频表达速查表</h2>
+<table class="study-table" id="table-4">
+<thead>
+<tr>
+<th style="background:#073763; color:white; width:34%;"><strong>法文表达</strong></th>
+<th style="background:#073763; color:white; width:26%;"><strong>中文意思</strong></th>
+<th style="background:#fff2cc; width:40%;"><strong>要点介绍</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr data-row-index="1" data-search="être d’accord pour + infinitif 同意做某事 例句： tu es toujours d’accord pour aller au centre commercial ? 后面直接接动词原形： pour aller / pour acheter 。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>être d’accord pour + infinitif</strong></td>
+<td data-label="中文意思">同意做某事</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+例句：<strong>Tu es toujours d’accord pour aller au centre commercial ?</strong><br/>
+后面直接接动词原形：<strong>pour aller / pour acheter</strong>。
+</td>
+</tr>
+<tr data-row-index="2" data-search="faire des courses 购物 / 买日用品 不是“跑步比赛”。在生活场景里，通常是去商店买东西。 例句： je fais des courses au centre commercial.">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>faire des courses</strong></td>
+<td data-label="中文意思">购物 / 买日用品</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+不是“跑步比赛”。在生活场景里，通常是去商店买东西。<br/>
+例句：<strong>Je fais des courses au centre commercial.</strong>
+</td>
+</tr>
+<tr data-row-index="3" data-search="faire du vélo 骑自行车 固定搭配： faire de + 活动 。 vélo 是阳性，所以是 du = de + le 。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>faire du vélo</strong></td>
+<td data-label="中文意思">骑自行车</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+固定搭配：<strong>faire de + 活动</strong>。<br/>
+<strong>vélo</strong> 是阳性，所以是 <strong>du = de + le</strong>。
+</td>
+</tr>
+<tr data-row-index="4" data-search="n’oubliez pas + nom 不要忘记…… 常用于提醒。 例句： n’oubliez pas votre manteau / vos documents. 正式或复数对象用 vous 命令式： n’oubliez pas 。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>n’oubliez pas + nom</strong></td>
+<td data-label="中文意思">不要忘记……</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+常用于提醒。<br/>
+例句：<strong>N’oubliez pas votre manteau / vos documents.</strong><br/>
+正式或复数对象用 <strong>vous</strong> 命令式：<strong>n’oubliez pas</strong>。
+</td>
+</tr>
+<tr data-row-index="5" data-search="prendre les transports en commun 乘坐公共交通 交通提醒高频表达。 les transports en commun 指公交、地铁、轻轨等公共交通。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>prendre les transports en commun</strong></td>
+<td data-label="中文意思">乘坐公共交通</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+交通提醒高频表达。<br/>
+<strong>les transports en commun</strong> 指公交、地铁、轻轨等公共交通。
+</td>
+</tr>
+<tr data-row-index="6" data-search="à destination de + ville 目的地是某城市 机场、火车站广播常见。 例句： le vol af793 à destination de rome... 城市名前通常不加冠词： de rome, de nantes, de rennes 。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>à destination de + ville</strong></td>
+<td data-label="中文意思">目的地是某城市</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+机场、火车站广播常见。<br/>
+例句：<strong>Le vol AF793 à destination de Rome...</strong><br/>
+城市名前通常不加冠词：<strong>de Rome, de Nantes, de Rennes</strong>。
+</td>
+</tr>
+<tr data-row-index="7" data-search="avec ... minutes de retard 晚点……分钟 例句： le train partira avec 10 minutes de retard. 听力题常把 10 minutes 和 retard 放在一起考。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>avec ... minutes de retard</strong></td>
+<td data-label="中文意思">晚点……分钟</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+例句：<strong>Le train partira avec 10 minutes de retard.</strong><br/>
+听力题常把 <strong>10 minutes</strong> 和 <strong>retard</strong> 放在一起考。
+</td>
+</tr>
+<tr data-row-index="8" data-search="être disponible pour + nom 有空做某事 / 有空参加某事 例句： êtes-vous disponible pour un rendez-vous mardi ? 正式电话里常见，比 tu es libre ? 更正式。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>être disponible pour + nom</strong></td>
+<td data-label="中文意思">有空做某事 / 有空参加某事</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+例句：<strong>Êtes-vous disponible pour un rendez-vous mardi ?</strong><br/>
+正式电话里常见，比 <strong>tu es libre ?</strong> 更正式。
+</td>
+</tr>
+<tr data-row-index="9" data-search="prendre un rendez-vous 预约 / 约一个见面时间 可用于医生、学校、办公室、机构。 例句： je vous appelle pour prendre un rendez-vous.">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>prendre un rendez-vous</strong></td>
+<td data-label="中文意思">预约 / 约一个见面时间</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+可用于医生、学校、办公室、机构。<br/>
+例句：<strong>Je vous appelle pour prendre un rendez-vous.</strong>
+</td>
+</tr>
+<tr data-row-index="10" data-search="être confirmé 被确认 / 已确认 例句： votre rendez-vous est confirmé. 这是被动含义，中文直接说“已经确认”。">
+<td data-label="法文表达" style="background:#d9eaf7;"><strong>être confirmé</strong></td>
+<td data-label="中文意思">被确认 / 已确认</td>
+<td data-label="要点介绍" style="background:#fffaf0;">
+例句：<strong>Votre rendez-vous est confirmé.</strong><br/>
+这是被动含义，中文直接说“已经确认”。
+</td>
+</tr>
+</tbody>
+</table>
+    </main>
+
+    <div class="footer-note">文件为单文件 HTML：CSS 和 JS 都内嵌在页面里，不依赖网络。直接双击打开即可使用。</div>
+  </div>
+  <button class="backtop" onclick="window.scrollTo({top:0, behavior:'smooth'})" title="回到顶部">↑</button>
+
+<script>
+(function() {
+  const app = document.documentElement;
+  const tables = Array.from(document.querySelectorAll('table.study-table'));
+  const rows = Array.from(document.querySelectorAll('table.study-table tbody tr'));
+  const searchInput = document.getElementById('searchInput');
+  const clearSearch = document.getElementById('clearSearch');
+  const densityToggle = document.getElementById('densityToggle');
+  const emptyState = document.getElementById('emptyState');
+  const statTables = document.getElementById('statTables');
+  const statRows = document.getElementById('statRows');
+  const statVisible = document.getElementById('statVisible');
+  const toc = document.getElementById('toc');
+
+  // Wrap tables for horizontal scroll
+  tables.forEach((table) => {
+    if (!table.parentElement.classList.contains('table-wrap')) {
+      const wrap = document.createElement('div');
+      wrap.className = 'table-wrap';
+      table.parentNode.insertBefore(wrap, table);
+      wrap.appendChild(table);
+    }
+  });
+
+  // Build TOC from h2
+  Array.from(document.querySelectorAll('h2.section-title')).forEach((h, i) => {
+    const a = document.createElement('a');
+    a.href = '#' + h.id;
+    a.textContent = h.textContent.trim();
+    toc.appendChild(a);
+  });
+
+  function escapeRegExp(str) {
+    return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function clearMarks(root) {
+    root.querySelectorAll('mark.search-hit').forEach(mark => {
+      const parent = mark.parentNode;
+      parent.replaceChild(document.createTextNode(mark.textContent), mark);
+      parent.normalize();
+    });
+  }
+
+  function highlightCell(cell, query) {
+    if (!query) return;
+    const walker = document.createTreeWalker(cell, NodeFilter.SHOW_TEXT, {
+      acceptNode(node) {
+        if (!node.nodeValue.trim()) return NodeFilter.FILTER_REJECT;
+        if (node.parentElement && node.parentElement.closest('script, style, mark')) return NodeFilter.FILTER_REJECT;
+        return node.nodeValue.toLowerCase().includes(query.toLowerCase()) ? NodeFilter.FILTER_ACCEPT : NodeFilter.FILTER_REJECT;
+      }
+    });
+
+    const nodes = [];
+    while (walker.nextNode()) nodes.push(walker.currentNode);
+    const re = new RegExp('(' + escapeRegExp(query) + ')', 'ig');
+
+    nodes.forEach(node => {
+      const frag = document.createDocumentFragment();
+      const parts = node.nodeValue.split(re);
+      parts.forEach(part => {
+        if (part.toLowerCase() === query.toLowerCase()) {
+          const mark = document.createElement('mark');
+          mark.className = 'search-hit';
+          mark.textContent = part;
+          frag.appendChild(mark);
+        } else {
+          frag.appendChild(document.createTextNode(part));
+        }
+      });
+      node.parentNode.replaceChild(frag, node);
+    });
+  }
+
+  function applySearch() {
+    const q = searchInput.value.trim().toLowerCase();
+    let visible = 0;
+
+    rows.forEach(row => {
+      clearMarks(row);
+      const text = row.getAttribute('data-search') || row.textContent.toLowerCase();
+      const ok = !q || text.includes(q);
+      row.classList.toggle('is-hidden', !ok);
+      if (ok) {
+        visible++;
+        if (q) Array.from(row.cells).forEach(cell => highlightCell(cell, q));
+      }
+    });
+
+    // Hide table wrappers with no visible rows
+    tables.forEach(table => {
+      const bodyRows = Array.from(table.querySelectorAll('tbody tr'));
+      const hasVisible = bodyRows.some(r => !r.classList.contains('is-hidden'));
+      table.parentElement.style.display = hasVisible ? '' : 'none';
+    });
+
+    statVisible.textContent = visible;
+    emptyState.style.display = visible === 0 ? 'block' : 'none';
+  }
+
+  searchInput.addEventListener('input', applySearch);
+  clearSearch.addEventListener('click', () => {
+    searchInput.value = '';
+    applySearch();
+    searchInput.focus();
+  });
+
+  densityToggle.addEventListener('click', () => {
+    document.body.classList.toggle('compact');
+    densityToggle.textContent = document.body.classList.contains('compact') ? '宽松模式' : '紧凑模式';
+  });
+
+  statTables.textContent = tables.length;
+  statRows.textContent = rows.length;
+  statVisible.textContent = rows.length;
+})();
+</script>
+</body>
+</html>
