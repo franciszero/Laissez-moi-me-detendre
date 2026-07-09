@@ -1,0 +1,912 @@
+{
+  "lesson": "L28",
+  "source": "L28_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L28.species.json",
+    "expected_species_count": 13
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L28 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "le phénomène",
+          "pos": "nom",
+          "zh": "现象"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'affection",
+          "pos": "nom",
+          "zh": "感情；喜爱"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'apercevoir",
+          "pos": "verbe pronominal",
+          "zh": "发觉；意识到"
+        },
+        {
+          "type": "vocab",
+          "fr": "recevoir",
+          "pos": "verbe",
+          "zh": "收到；接待"
+        },
+        {
+          "type": "vocab",
+          "fr": "livrer",
+          "pos": "verbe",
+          "zh": "交付；送货；托付"
+        },
+        {
+          "type": "vocab",
+          "fr": "la livraison",
+          "pos": "nom",
+          "zh": "送货；交付"
+        },
+        {
+          "type": "vocab",
+          "fr": "le coin",
+          "pos": "nom",
+          "zh": "角落；一带"
+        },
+        {
+          "type": "vocab",
+          "fr": "vivre",
+          "pos": "verbe",
+          "zh": "生活；生存"
+        },
+        {
+          "type": "vocab",
+          "fr": "vécu",
+          "pos": "participe passé",
+          "zh": "vivre 的过去分词"
+        },
+        {
+          "type": "vocab",
+          "fr": "depuis",
+          "pos": "préposition",
+          "zh": "自从；从过去持续到现在"
+        },
+        {
+          "type": "vocab",
+          "fr": "pendant",
+          "pos": "préposition",
+          "zh": "在……期间；持续……"
+        },
+        {
+          "type": "vocab",
+          "fr": "vendre",
+          "pos": "verbe",
+          "zh": "卖；出售"
+        },
+        {
+          "type": "vocab",
+          "fr": "absent",
+          "pos": "adjectif",
+          "zh": "缺席的"
+        },
+        {
+          "type": "vocab",
+          "fr": "banal",
+          "pos": "adjectif",
+          "zh": "平常的；普通的"
+        },
+        {
+          "type": "vocab",
+          "fr": "inquiet",
+          "pos": "adjectif",
+          "zh": "担心的；不安的"
+        },
+        {
+          "type": "vocab",
+          "fr": "autour de",
+          "pos": "préposition",
+          "zh": "围绕；在……周围"
+        },
+        {
+          "type": "vocab",
+          "fr": "se débrouiller",
+          "pos": "verbe pronominal",
+          "zh": "设法应付；自己想办法"
+        },
+        {
+          "type": "vocab",
+          "fr": "se séparer de",
+          "pos": "verbe pronominal",
+          "zh": "与……分开"
+        },
+        {
+          "type": "vocab",
+          "fr": "séparer",
+          "pos": "verbe",
+          "zh": "把……分开"
+        },
+        {
+          "type": "vocab",
+          "fr": "se rendre",
+          "pos": "verbe pronominal",
+          "zh": "前往；到……去"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'ouverture",
+          "pos": "nom",
+          "zh": "开幕；开放；打开"
+        },
+        {
+          "type": "vocab",
+          "fr": "une centaine de",
+          "pos": "expression",
+          "zh": "一百来个；约一百个"
+        },
+        {
+          "type": "vocab",
+          "fr": "des milliers de",
+          "pos": "expression",
+          "zh": "成千上万的"
+        },
+        {
+          "type": "vocab",
+          "fr": "la faculté",
+          "pos": "nom",
+          "zh": "学院；大学院系"
+        },
+        {
+          "type": "vocab",
+          "fr": "en forme",
+          "pos": "expression",
+          "zh": "状态好；身体好"
+        },
+        {
+          "type": "vocab",
+          "fr": "en bonne santé",
+          "pos": "expression",
+          "zh": "身体健康"
+        },
+        {
+          "type": "vocab",
+          "fr": "en colère",
+          "pos": "expression",
+          "zh": "生气；愤怒"
+        },
+        {
+          "type": "vocab",
+          "fr": "la réunion",
+          "pos": "nom",
+          "zh": "会议"
+        },
+        {
+          "type": "vocab",
+          "fr": "reporter",
+          "pos": "verbe",
+          "zh": "推迟"
+        },
+        {
+          "type": "vocab",
+          "fr": "la mairie",
+          "pos": "nom",
+          "zh": "市政厅"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'exposition",
+          "pos": "nom",
+          "zh": "展览"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'association",
+          "pos": "nom",
+          "zh": "协会；社团"
+        },
+        {
+          "type": "vocab",
+          "fr": "supplémentaire",
+          "pos": "adjectif",
+          "zh": "额外的；补充的"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je vous rappelle que",
+          "pos": "expression",
+          "zh": "我提醒您……"
+        },
+        {
+          "type": "vocab",
+          "fr": "le biscuit",
+          "pos": "nom",
+          "zh": "饼干"
+        },
+        {
+          "type": "vocab",
+          "fr": "offrir",
+          "pos": "verbe",
+          "zh": "赠送；提供"
+        },
+        {
+          "type": "vocab",
+          "fr": "les transports en commun",
+          "pos": "nom",
+          "zh": "公共交通"
+        },
+        {
+          "type": "vocab",
+          "fr": "le centre-ville",
+          "pos": "nom",
+          "zh": "市中心"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'inauguration",
+          "pos": "nom",
+          "zh": "开幕；揭幕"
+        },
+        {
+          "type": "vocab",
+          "fr": "la réduction",
+          "pos": "nom",
+          "zh": "折扣；减少"
+        },
+        {
+          "type": "vocab",
+          "fr": "laisser",
+          "pos": "verbe",
+          "zh": "留下；让"
+        },
+        {
+          "type": "vocab",
+          "fr": "un animal domestique",
+          "pos": "nom",
+          "zh": "宠物；家养动物"
+        },
+        {
+          "type": "vocab",
+          "fr": "un oiseau",
+          "pos": "nom",
+          "zh": "鸟"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L28 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L28:species:sapercevoir-and-recevoir-keep-c-cedilla-before-a-o-u-forms",
+          "front": "recevoir, je -> `je ___`\n\ns'apercevoir, nous -> `nous ___`",
+          "back": "- recevoir: **je reçois**, nous recevons, vous recevez, ils reçoivent\n- s'apercevoir: je m'aperçois, **nous nous apercevons**\n\nç 是为了保持 /s/ 音；nous/vous 后面有 e，所以不需要 ç。",
+          "answer": null,
+          "source_species": "sapercevoir and recevoir keep c cedilla before a o u forms",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "pronunciation_spelling",
+            "pronominal_reflexive",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "je reçois",
+            "nous recevons",
+            "vous recevez",
+            "ils reçoivent",
+            "je m'aperçois",
+            "nous nous apercevons"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:368-383"
+          ],
+          "curated": true,
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:livrer-means-deliver-entrust-or-hand-over-rather-than-ordinary-give",
+          "front": "买了沙发，商店“送货到家”：应该用 `donner` 还是 `livrer`？名词“送货”怎么说？",
+          "back": "用 **livrer**，名词是 **la livraison**。\n\nlivrer 更像 deliver / hand over / entrust，不是普通 give。也可以说 `livrer quelque chose à quelqu'un`。",
+          "answer": null,
+          "source_species": "livrer means deliver entrust or hand over rather than ordinary give",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "requires_a",
+            "same_surface_diff_meaning",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "livrer quelque chose à quelqu'un",
+            "la livraison",
+            "se livrer à quelqu'un"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:386-399"
+          ],
+          "curated": true,
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:se-debrouiller-means-manage-or-figure-it-out-for-oneself",
+          "front": "“他会自己想办法/设法应付”：`Il va ___`",
+          "back": "**Il va se débrouiller.**\n\n要说应付某个局面，可以用 `se débrouiller de la situation`。这个词接近 figure it out / manage。",
+          "answer": "se débrouiller",
+          "source_species": "se debrouiller means manage or figure it out for oneself",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "requires_de",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "Il va se débrouiller",
+            "se débrouiller de la situation"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:485-492"
+          ],
+          "curated": true,
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:separer-a-de-b-differs-from-se-separer-de-b",
+          "front": "选择结构：\n\n1. 不应该把孩子和父母分开：`Il ne faut pas ___ les enfants ___ parents.`\n2. 他不想和父母分开：`Il ne veut pas ___ ses parents.`",
+          "back": "1. **séparer les enfants des parents**：把 A 和 B 分开。\n2. **se séparer de ses parents**：自己与某人分开。\n\n`se` 改变的是动作角色，不是装饰。",
+          "answer": null,
+          "source_species": "separer a de b differs from se separer de b",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "pronominal_reflexive",
+            "requires_de",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "séparer les enfants des parents",
+            "se séparer de ses parents",
+            "Il ne faut pas séparer A de B"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:506-535"
+          ],
+          "curated": true,
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:centaine-and-millier-are-quantity-nouns-followed-by-de",
+          "front": "补全：\n\n一百来个人：`___ personnes`\n成千上万游客：`___ visiteurs`",
+          "back": "**une centaine de personnes**\n\n**des milliers de visiteurs**\n\ncentaine / millier 是数量名词，像 a dozen of；复数时写 des centaines/des milliers，后面仍接 de。",
+          "answer": null,
+          "source_species": "centaine and millier are quantity nouns followed by de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "article",
+            "gender_number",
+            "A2"
+          ],
+          "french_items": [
+            "une centaine de",
+            "des centaines de",
+            "des milliers de"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:324-338"
+          ],
+          "curated": true,
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:reporter-means-postpone-in-schedule-contexts-not-report-news",
+          "front": "会议被推迟到下周：\n\n`La réunion est ___ à la semaine prochaine.`",
+          "back": "**La réunion est reportée à la semaine prochaine.**\n\n法语 `reporter` 在日程语境里是 postpone，不是英文 report “报道”。",
+          "answer": "reportée",
+          "source_species": "reporter means postpone in schedule contexts not report news",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "false_friend",
+            "passe_compose",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "la réunion",
+            "reporter",
+            "La réunion est reportée à la semaine prochaine",
+            "la semaine prochaine"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:779-800"
+          ],
+          "curated": true,
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-recevoir-je",
+          "front": "recevoir, je -> `je ___`",
+          "back": "ç 保持 /s/ 音：**je reçois**。",
+          "answer": "reçois",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "pronunciation_spelling"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-and-lexical-interfaces",
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-separer-enfants",
+          "front": "`Il ne faut pas ___ les enfants des parents.`",
+          "back": "把 A 和 B 分开：**séparer A de B**。",
+          "answer": "séparer",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface",
+            "requires_de"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-and-lexical-interfaces",
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-centaine",
+          "front": "一百来个人：`___ personnes`",
+          "back": "数量名词结构：**une centaine de personnes**。",
+          "answer": "une centaine de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "article",
+            "gender_number"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-and-lexical-interfaces",
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-reunion-reportee",
+          "front": "`La réunion est ___ à la semaine prochaine.`",
+          "back": "`reporter` 在日程语境是推迟：**reportée**。",
+          "answer": "reportée",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "false_friend",
+            "passe_compose"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "verb-and-lexical-interfaces",
+          "study_group": "verb-and-lexical-interfaces",
+          "study_group_label": "动词接口与词义边界",
+          "study_group_order": 10,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:depuis-marks-ongoing-duration-while-pendant-packages-completed-duration",
+          "front": "补全：\n\n现在还住：`Je ___ au Canada ___ cinq ans.`\n曾经住过五年：`J'___ vécu au Canada ___ cinq ans.`",
+          "back": "现在还住：**Je vis au Canada depuis cinq ans.**\n\n曾经住过：**J'ai vécu au Canada pendant cinq ans.**\n\ndepuis 默认延续到现在；pendant 可把已完成经历包装成一个完整时间段。",
+          "answer": null,
+          "source_species": "depuis marks ongoing duration while pendant packages completed duration",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "tense_system",
+            "present",
+            "passe_compose",
+            "preposition_interface",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "Je vis au Canada depuis cinq ans",
+            "J'ai vécu au Canada pendant cinq ans",
+            "J'ai vécu à Paris pendant trois ans"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:420-457"
+          ],
+          "curated": true,
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:avoir-lair-can-take-en-state-phrases-such-as-en-bonne-sante",
+          "front": "“她当时看起来身体健康”：\n\n`Elle ___ l'air ___ bonne santé.`",
+          "back": "**Elle avait l'air en bonne santé.**\n\n健康/生气这类状态常用 `en + nom`：en forme, en bonne santé, en colère。能修饰状态的介词短语也可以接在 `avoir l'air` 后。",
+          "answer": null,
+          "source_species": "avoir lair can take en state phrases such as en bonne sante",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "preposition_interface",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "avoir l'air en bonne santé",
+            "être en forme",
+            "être en bonne santé",
+            "être en colère"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:674-712"
+          ],
+          "curated": true,
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:passive-voice-uses-etre-plus-past-participle-with-par-for-the-agent",
+          "front": "补全：\n\n`Samedi devant la mairie, une grande exposition ___ organisée ___ l'association du village.`",
+          "back": "**est organisée par**\n\n法语被动态像英文 be done：être + participe passé。施事者本课先按 `par` 处理。",
+          "answer": null,
+          "source_species": "passive voice uses etre plus past participle with par for the agent",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "agreement",
+            "A2",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "Une grande exposition est organisée",
+            "par l'association du village",
+            "Samedi devant la mairie"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:1219-1388"
+          ],
+          "curated": true,
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:toute-information-supplementaire-and-je-vous-rappelle-que-are-notice-chunks",
+          "front": "`Pour toute information supplémentaire` 大致等于英文什么？听到 `Je vous rappelle que...` 时重点听哪里？",
+          "back": "`Pour toute information supplémentaire` = **for any supplementary information**。\n\n`Je vous rappelle que...` 是提醒套话，重点通常在 **que 后面的实质信息**。",
+          "answer": null,
+          "source_species": "toute information supplementaire and je vous rappelle que are notice chunks",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "formal",
+            "listening_keyword",
+            "B1"
+          ],
+          "french_items": [
+            "pour toute information supplémentaire",
+            "Je vous rappelle que",
+            "Nous vous rappelons que"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:1267-1309"
+          ],
+          "curated": true,
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-depuis-present",
+          "front": "现在还住：`Je ___ au Canada depuis cinq ans.`",
+          "back": "depuis 延续到现在，常配现在时：**Je vis au Canada depuis cinq ans.**",
+          "answer": "vis",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "present",
+            "tense_system"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tense-and-state-frames",
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-pendant-v-cu",
+          "front": "曾经住过五年：`J'___ au Canada pendant cinq ans.`",
+          "back": "已完成经历 + pendant：**J'ai vécu au Canada pendant cinq ans.**",
+          "answer": "ai vécu",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "passe_compose",
+            "tense_system"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tense-and-state-frames",
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-air-sante",
+          "front": "`Elle avait l'air ___ bonne santé.`",
+          "back": "状态名词短语用 **en bonne santé**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tense-and-state-frames",
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-passive-par",
+          "front": "`Une grande exposition est organisée ___ l'association du village.`",
+          "back": "被动态施事者本课先用 **par**。",
+          "answer": "par",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tense-and-state-frames",
+          "study_group": "tense-and-state-frames",
+          "study_group_label": "时间状语与状态句型",
+          "study_group_order": 20,
+          "study_order": 140,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:tcf-reading-uses-question-options-key-sentence-and-synonym-replacement",
+          "front": "TCF 阅读为什么不建议从头到尾慢慢读？做题顺序应该是什么？",
+          "back": "顺序：**题干 -> 选项 -> 原文定位关键句 -> 同义替换**。\n\n最大坑是脑补一个“合理后续”；只要原文没支持，就是错答案。",
+          "answer": null,
+          "source_species": "tcf reading uses question options key sentence and synonym replacement",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "B1",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "question",
+            "options",
+            "phrase clé",
+            "remplacement synonymique"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:836-884",
+            "L28_final_working.md:807-829"
+          ],
+          "curated": true,
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:a-de-pour-and-avec-map-long-sentence-complements",
+          "front": "把长句拆成介词角色：\n\n- `aux enfants et aux professeurs`\n- `de l'entreprise`\n- `pour rencontrer les élèves`\n- `avec 25 % de réduction`",
+          "back": "- **à / aux**：对象或地点，这里是给到谁\n- **de**：of/from，这里是所属\n- **pour**：目的，可以接不定式\n- **avec**：with，伴随/带有\n\n并列对象前介词通常要重复：aux enfants **et aux** professeurs。",
+          "answer": null,
+          "source_species": "a de pour and avec map long sentence complements",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_a",
+            "requires_de",
+            "sentence_frame",
+            "B1",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "offrir des biscuits aux enfants et aux professeurs",
+            "le directeur de l'entreprise",
+            "pour rencontrer les élèves",
+            "avec 25 % de réduction"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:1443-1549"
+          ],
+          "curated": true,
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:species:listening-improves-through-retelling-liaison-practice-and-preposition-tracking",
+          "front": "拿到听力文本反复听时，L28 给了哪三种消化方式？",
+          "back": "三件事：\n\n1. **复述造句**：逼自己拆主干和补语。\n2. **介词定位**：看 à/de/pour/avec 等短语承担什么角色。\n3. **连诵跟读**：grand exposition, quel animal, toute information 这类要放慢读熟。",
+          "answer": null,
+          "source_species": "listening improves through retelling liaison practice and preposition tracking",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "pronunciation_spelling",
+            "memory_hook",
+            "B1"
+          ],
+          "french_items": [
+            "grand exposition",
+            "quel animal avez-vous",
+            "laissez votre voiture chez vous",
+            "pour toute information supplémentaire"
+          ],
+          "evidence_refs": [
+            "L28_final_working.md:1169-1192",
+            "L28_final_working.md:1256-1267",
+            "L28_final_working.md:1566-1590"
+          ],
+          "curated": true,
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-offrir-aux",
+          "front": "`Il va offrir des biscuits ___ enfants et ___ professeurs.`",
+          "back": "offer/give something to somebody -> à；复数缩合：**aux enfants et aux professeurs**。",
+          "answer": "aux",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "requires_a",
+            "preposition_interface"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tcf-reading-and-listening",
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-purpose-pour",
+          "front": "为了见学生：`___ rencontrer les élèves`",
+          "back": "目的用 **pour + infinitif**。",
+          "answer": "pour",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tcf-reading-and-listening",
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-reading-order",
+          "front": "TCF 阅读的基本顺序：题干 -> 选项 -> ___ -> 同义替换。",
+          "back": "带着题目定位 **关键句**，不要脑补合理后续。",
+          "answer": "关键句",
+          "primary_class": "strategy",
+          "tags": [
+            "listening_keyword",
+            "memory_hook"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tcf-reading-and-listening",
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L28:practice:l28-liaison-plan",
+          "front": "连诵导致听不出时，下一步是继续盲听，还是放慢跟读？",
+          "back": "放慢跟读几遍，并以后自己也这样发；只盲听进步会慢。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "pronunciation_spelling",
+            "listening_keyword"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "tcf-reading-and-listening",
+          "study_group": "tcf-reading-and-listening",
+          "study_group_label": "TCF 阅读听力策略",
+          "study_group_order": 30,
+          "study_order": 140,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

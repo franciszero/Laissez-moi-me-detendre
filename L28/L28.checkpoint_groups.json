@@ -1,0 +1,152 @@
+{
+  "groups": [
+    {
+      "id": "verb-and-lexical-interfaces",
+      "label": "动词接口与词义边界",
+      "order": 10,
+      "species": [
+        {"source_species": "sapercevoir and recevoir keep c cedilla before a o u forms", "order": 10},
+        {"source_species": "livrer means deliver entrust or hand over rather than ordinary give", "order": 20},
+        {"source_species": "se debrouiller means manage or figure it out for oneself", "order": 30},
+        {"source_species": "separer a de b differs from se separer de b", "order": 40},
+        {"source_species": "centaine and millier are quantity nouns followed by de", "order": 50},
+        {"source_species": "reporter means postpone in schedule contexts not report news", "order": 60}
+      ],
+      "practice_cards": [
+        {
+          "id": "l28-recevoir-je",
+          "order": 110,
+          "front": "recevoir, je -> `je ___`",
+          "back": "ç 保持 /s/ 音：**je reçois**。",
+          "answer": "reçois",
+          "primary_class": "grammar_rule",
+          "tags": ["conjugation", "pronunciation_spelling"]
+        },
+        {
+          "id": "l28-separer-enfants",
+          "order": 120,
+          "front": "`Il ne faut pas ___ les enfants des parents.`",
+          "back": "把 A 和 B 分开：**séparer A de B**。",
+          "answer": "séparer",
+          "primary_class": "grammar_rule",
+          "tags": ["preposition_interface", "requires_de"]
+        },
+        {
+          "id": "l28-centaine",
+          "order": 130,
+          "front": "一百来个人：`___ personnes`",
+          "back": "数量名词结构：**une centaine de personnes**。",
+          "answer": "une centaine de",
+          "primary_class": "grammar_rule",
+          "tags": ["article", "gender_number"]
+        },
+        {
+          "id": "l28-reunion-reportee",
+          "order": 140,
+          "front": "`La réunion est ___ à la semaine prochaine.`",
+          "back": "`reporter` 在日程语境是推迟：**reportée**。",
+          "answer": "reportée",
+          "primary_class": "lexical_usage",
+          "tags": ["false_friend", "passe_compose"]
+        }
+      ]
+    },
+    {
+      "id": "tense-and-state-frames",
+      "label": "时间状语与状态句型",
+      "order": 20,
+      "species": [
+        {"source_species": "depuis marks ongoing duration while pendant packages completed duration", "order": 10},
+        {"source_species": "avoir lair can take en state phrases such as en bonne sante", "order": 20},
+        {"source_species": "passive voice uses etre plus past participle with par for the agent", "order": 30},
+        {"source_species": "toute information supplementaire and je vous rappelle que are notice chunks", "order": 40}
+      ],
+      "practice_cards": [
+        {
+          "id": "l28-depuis-present",
+          "order": 110,
+          "front": "现在还住：`Je ___ au Canada depuis cinq ans.`",
+          "back": "depuis 延续到现在，常配现在时：**Je vis au Canada depuis cinq ans.**",
+          "answer": "vis",
+          "primary_class": "grammar_rule",
+          "tags": ["present", "tense_system"]
+        },
+        {
+          "id": "l28-pendant-vécu",
+          "order": 120,
+          "front": "曾经住过五年：`J'___ au Canada pendant cinq ans.`",
+          "back": "已完成经历 + pendant：**J'ai vécu au Canada pendant cinq ans.**",
+          "answer": "ai vécu",
+          "primary_class": "grammar_rule",
+          "tags": ["passe_compose", "tense_system"]
+        },
+        {
+          "id": "l28-air-sante",
+          "order": 130,
+          "front": "`Elle avait l'air ___ bonne santé.`",
+          "back": "状态名词短语用 **en bonne santé**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": ["sentence_frame", "preposition_interface"]
+        },
+        {
+          "id": "l28-passive-par",
+          "order": 140,
+          "front": "`Une grande exposition est organisée ___ l'association du village.`",
+          "back": "被动态施事者本课先用 **par**。",
+          "answer": "par",
+          "primary_class": "grammar_rule",
+          "tags": ["sentence_frame"]
+        }
+      ]
+    },
+    {
+      "id": "tcf-reading-and-listening",
+      "label": "TCF 阅读听力策略",
+      "order": 30,
+      "species": [
+        {"source_species": "tcf reading uses question options key sentence and synonym replacement", "order": 10},
+        {"source_species": "a de pour and avec map long sentence complements", "order": 20},
+        {"source_species": "listening improves through retelling liaison practice and preposition tracking", "order": 30}
+      ],
+      "practice_cards": [
+        {
+          "id": "l28-offrir-aux",
+          "order": 110,
+          "front": "`Il va offrir des biscuits ___ enfants et ___ professeurs.`",
+          "back": "offer/give something to somebody -> à；复数缩合：**aux enfants et aux professeurs**。",
+          "answer": "aux",
+          "primary_class": "grammar_rule",
+          "tags": ["requires_a", "preposition_interface"]
+        },
+        {
+          "id": "l28-purpose-pour",
+          "order": 120,
+          "front": "为了见学生：`___ rencontrer les élèves`",
+          "back": "目的用 **pour + infinitif**。",
+          "answer": "pour",
+          "primary_class": "grammar_rule",
+          "tags": ["preposition_interface", "sentence_frame"]
+        },
+        {
+          "id": "l28-reading-order",
+          "order": 130,
+          "front": "TCF 阅读的基本顺序：题干 -> 选项 -> ___ -> 同义替换。",
+          "back": "带着题目定位 **关键句**，不要脑补合理后续。",
+          "answer": "关键句",
+          "primary_class": "strategy",
+          "tags": ["listening_keyword", "memory_hook"]
+        },
+        {
+          "id": "l28-liaison-plan",
+          "order": 140,
+          "front": "连诵导致听不出时，下一步是继续盲听，还是放慢跟读？",
+          "back": "放慢跟读几遍，并以后自己也这样发；只盲听进步会慢。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": ["pronunciation_spelling", "listening_keyword"]
+        }
+      ]
+    }
+  ]
+}

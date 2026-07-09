@@ -1,0 +1,67 @@
+{
+  "sapercevoir and recevoir keep c cedilla before a o u forms": {
+    "front": "recevoir, je -> `je ___`\n\ns'apercevoir, nous -> `nous ___`",
+    "back": "- recevoir: **je reçois**, nous recevons, vous recevez, ils reçoivent\n- s'apercevoir: je m'aperçois, **nous nous apercevons**\n\nç 是为了保持 /s/ 音；nous/vous 后面有 e，所以不需要 ç。",
+    "answer": null
+  },
+  "livrer means deliver entrust or hand over rather than ordinary give": {
+    "front": "买了沙发，商店“送货到家”：应该用 `donner` 还是 `livrer`？名词“送货”怎么说？",
+    "back": "用 **livrer**，名词是 **la livraison**。\n\nlivrer 更像 deliver / hand over / entrust，不是普通 give。也可以说 `livrer quelque chose à quelqu'un`。",
+    "answer": null
+  },
+  "depuis marks ongoing duration while pendant packages completed duration": {
+    "front": "补全：\n\n现在还住：`Je ___ au Canada ___ cinq ans.`\n曾经住过五年：`J'___ vécu au Canada ___ cinq ans.`",
+    "back": "现在还住：**Je vis au Canada depuis cinq ans.**\n\n曾经住过：**J'ai vécu au Canada pendant cinq ans.**\n\ndepuis 默认延续到现在；pendant 可把已完成经历包装成一个完整时间段。",
+    "answer": null
+  },
+  "se debrouiller means manage or figure it out for oneself": {
+    "front": "“他会自己想办法/设法应付”：`Il va ___`",
+    "back": "**Il va se débrouiller.**\n\n要说应付某个局面，可以用 `se débrouiller de la situation`。这个词接近 figure it out / manage。",
+    "answer": "se débrouiller"
+  },
+  "separer a de b differs from se separer de b": {
+    "front": "选择结构：\n\n1. 不应该把孩子和父母分开：`Il ne faut pas ___ les enfants ___ parents.`\n2. 他不想和父母分开：`Il ne veut pas ___ ses parents.`",
+    "back": "1. **séparer les enfants des parents**：把 A 和 B 分开。\n2. **se séparer de ses parents**：自己与某人分开。\n\n`se` 改变的是动作角色，不是装饰。",
+    "answer": null
+  },
+  "centaine and millier are quantity nouns followed by de": {
+    "front": "补全：\n\n一百来个人：`___ personnes`\n成千上万游客：`___ visiteurs`",
+    "back": "**une centaine de personnes**\n\n**des milliers de visiteurs**\n\ncentaine / millier 是数量名词，像 a dozen of；复数时写 des centaines/des milliers，后面仍接 de。",
+    "answer": null
+  },
+  "avoir lair can take en state phrases such as en bonne sante": {
+    "front": "“她当时看起来身体健康”：\n\n`Elle ___ l'air ___ bonne santé.`",
+    "back": "**Elle avait l'air en bonne santé.**\n\n健康/生气这类状态常用 `en + nom`：en forme, en bonne santé, en colère。能修饰状态的介词短语也可以接在 `avoir l'air` 后。",
+    "answer": null
+  },
+  "reporter means postpone in schedule contexts not report news": {
+    "front": "会议被推迟到下周：\n\n`La réunion est ___ à la semaine prochaine.`",
+    "back": "**La réunion est reportée à la semaine prochaine.**\n\n法语 `reporter` 在日程语境里是 postpone，不是英文 report “报道”。",
+    "answer": "reportée"
+  },
+  "tcf reading uses question options key sentence and synonym replacement": {
+    "front": "TCF 阅读为什么不建议从头到尾慢慢读？做题顺序应该是什么？",
+    "back": "顺序：**题干 -> 选项 -> 原文定位关键句 -> 同义替换**。\n\n最大坑是脑补一个“合理后续”；只要原文没支持，就是错答案。",
+    "answer": null
+  },
+  "passive voice uses etre plus past participle with par for the agent": {
+    "front": "补全：\n\n`Samedi devant la mairie, une grande exposition ___ organisée ___ l'association du village.`",
+    "back": "**est organisée par**\n\n法语被动态像英文 be done：être + participe passé。施事者本课先按 `par` 处理。",
+    "answer": null
+  },
+  "toute information supplementaire and je vous rappelle que are notice chunks": {
+    "front": "`Pour toute information supplémentaire` 大致等于英文什么？听到 `Je vous rappelle que...` 时重点听哪里？",
+    "back": "`Pour toute information supplémentaire` = **for any supplementary information**。\n\n`Je vous rappelle que...` 是提醒套话，重点通常在 **que 后面的实质信息**。",
+    "answer": null
+  },
+  "a de pour and avec map long sentence complements": {
+    "front": "把长句拆成介词角色：\n\n- `aux enfants et aux professeurs`\n- `de l'entreprise`\n- `pour rencontrer les élèves`\n- `avec 25 % de réduction`",
+    "back": "- **à / aux**：对象或地点，这里是给到谁\n- **de**：of/from，这里是所属\n- **pour**：目的，可以接不定式\n- **avec**：with，伴随/带有\n\n并列对象前介词通常要重复：aux enfants **et aux** professeurs。",
+    "answer": null
+  },
+  "listening improves through retelling liaison practice and preposition tracking": {
+    "front": "拿到听力文本反复听时，L28 给了哪三种消化方式？",
+    "back": "三件事：\n\n1. **复述造句**：逼自己拆主干和补语。\n2. **介词定位**：看 à/de/pour/avec 等短语承担什么角色。\n3. **连诵跟读**：grand exposition, quel animal, toute information 这类要放慢读熟。",
+    "answer": null
+  }
+}
