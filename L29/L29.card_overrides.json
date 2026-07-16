@@ -1,0 +1,187 @@
+{
+  "renseignement information gender": {
+    "front": "把 `une information` 换成近义词 renseignement，并保留正确冠词：`___ renseignement`",
+    "back": "答案：**un renseignement**。\n\n两词意义接近，但 renseignement 阳性、information 阴性；换词时冠词也要换。",
+    "answer": "un"
+  },
+  "oser infinitive": {
+    "front": "纠错并说明理由：`Il ose à parler devant la classe.`",
+    "back": "应写：**Il ose parler devant la classe.**\n\noser 直接接不定式，不加 à。",
+    "answer": null
+  },
+  "inferieur superieur a": {
+    "front": "补介词：`Ce résultat est inférieur ___ celui de l'année dernière.`",
+    "back": "答案：**à**。\n\ninférieur à / supérieur à 都用 à 引出比较基准。",
+    "answer": "à"
+  },
+  "produire forms": {
+    "front": "produire, nous：`Nous ___ davantage cette année.`",
+    "back": "答案：**produisons**。\n\nje/tu produis，il produit，nous produisons，vous produisez，ils produisent；过去分词 produit。",
+    "answer": "produisons"
+  },
+  "connector decision": {
+    "front": "选择连接词并解释：`___ je fais mes devoirs, mon frère joue aux jeux vidéo.`（普通同时 / 同时且有对立？）",
+    "back": "这里强调‘我学习、他却玩’的同时对立，用 **Alors que**。\n\n普通同时用 quand/lorsque；纯转折用 mais/cependant/pourtant；推翻前述预期用 au contraire。",
+    "answer": "Alors que"
+  },
+  "jouer aux jeux video": {
+    "front": "补全：`Il joue ___ jeux vidéo pendant que je travaille.`",
+    "back": "答案：**aux**。\n\njouer à + les jeux vidéo 必须缩合成 jouer aux jeux vidéo。",
+    "answer": "aux"
+  },
+  "pousser qqn a faire": {
+    "front": "补介词：`La lecture pousse les gens ___ découvrir d'autres cultures.`",
+    "back": "答案：**à**。\n\n框架是 pousser quelqu'un à faire quelque chose：人作直接宾语，行动由 à + 不定式引出。",
+    "answer": "à"
+  },
+  "on subject only": {
+    "front": "纠错：`La lecture pousse on à réfléchir.` 应怎样表达？为什么？",
+    "back": "可写：**La lecture pousse les gens / la population à réfléchir.**\n\non 是主语代词，不能放在 pousser 的宾语位置。",
+    "answer": null
+  },
+  "reading key sentence": {
+    "front": "一篇中长 TCF 阅读出现大量生词。请写出从拿到题目到作答的四步顺序，并说明何时可以停止读后文。",
+    "back": "顺序：**题干 → 选项 → 定位词/关键句 → 同义替换验证**。\n\n当关键句已经支持某一选项，且其余选项被排除时，可以停止逐词读后文。",
+    "answer": null
+  },
+  "il sagit de": {
+    "front": "补全：`___ ___ ___ un poste d'ingénieur.`",
+    "back": "答案：**Il s'agit d'un poste d'ingénieur.**\n\nIl s'agit de 用来说明主题、事项或性质，不给 il 寻找具体人物指代。",
+    "answer": null
+  },
+  "jusqua jusquen": {
+    "front": "分别补全：`jusqu'___ 2026`；`jusqu'___ 19 h 30`。并说明判断办法。",
+    "back": "答案：**jusqu'en 2026**；**jusqu'à 19 h 30**。\n\n先还原原时间表达：en 2026、à 19 h 30，再接 jusqu'。",
+    "answer": null
+  },
+  "chercher rechercher reflechir": {
+    "front": "选择：`Avant de répondre, il faut ___ à cette question.`（rechercher / réfléchir）",
+    "back": "答案：**réfléchir**。\n\nchercher/rechercher 是寻找；对问题进行思考、反思用 réfléchir à。",
+    "answer": "réfléchir"
+  },
+  "parse core and adverbials": {
+    "front": "拆句：`Une société recherche, pour faire un film, de jeunes mères.` 标出主语、动词、宾语和目的状语。",
+    "back": "主语：**Une société**；动词：**recherche**；宾语：**de jeunes mères**；目的状语：**pour faire un film**。\n\n先括起介词短语，再找主谓宾。",
+    "answer": null
+  },
+  "de quoi parler": {
+    "front": "把陈述句改成对内容提问：`Le directeur parle de l'organisation après les cours.`",
+    "back": "答案：**De quoi parle le directeur ?**\n\nparler de X 的 de 必须保留；‘和谁说话’才会问 à qui。",
+    "answer": null
+  },
+  "sauf sauf si": {
+    "front": "选择 sauf / sauf si：`Les parents viennent chercher les enfants, ___ ceux-ci restent pour une activité.`",
+    "back": "答案：**sauf si**。\n\n例外是完整条件时用 sauf si + 从句；只排除名词时用 sauf + nom。",
+    "answer": "sauf si"
+  },
+  "cuisine alimentation": {
+    "front": "文章整体讨论农业、食品与饮食，主题选 `cuisine` 还是 `alimentation`？说明范围差异。",
+    "back": "选 **alimentation**：它是广义食品与饮食概念。\n\ncuisine 更偏烹饪、做饭或菜系，例如 la cuisine française。",
+    "answer": "alimentation"
+  },
+  "concours context": {
+    "front": "判断两个 concours 的具体义：`participer à un concours photo`；`passer un concours de la fonction publique`。",
+    "back": "前者是**摄影竞赛**；后者是**正式竞争性选拔考试**。\n\n要靠投稿/奖品或学校/职业选拔语境判义。",
+    "answer": null
+  },
+  "proposer action": {
+    "front": "摄影比赛要求投稿，获胜者可赢巴黎之旅。题目问 `Que propose le concours ?`，应答投稿还是奖品？为什么？",
+    "back": "应答**投稿/参与者要做的行动**。\n\nproposer 问活动提供或安排什么；奖品属于 gagner 的结果。",
+    "answer": null
+  },
+  "faire partie participer": {
+    "front": "补介词并处理缩合：`Le sport fait partie ___ sa vie.`；`Il participe ___ concours.`",
+    "back": "答案：**fait partie de sa vie**；**participe au concours**。\n\n归属用 faire partie de；参加用 participer à，à + le = au。",
+    "answer": null
+  },
+  "sejour use": {
+    "front": "你因工作在巴黎停留两个月。用 `séjour` 写“我在巴黎停留期间”。",
+    "back": "可写：**pendant mon séjour à Paris**。\n\nséjour 只强调在某地的一段停留，不限定工作还是旅行。",
+    "answer": null
+  },
+  "professeur enseignant": {
+    "front": "阅读原文写 `rencontrer les enseignants`，选项写 `parler aux professeurs`。能否视为老师这一概念的同义替换？",
+    "back": "**可以。** 法语 professeur 在学校语境常泛指老师，不像英语 professor 那样只限大学教授。",
+    "answer": null
+  },
+  "pouvoir future": {
+    "front": "pouvoir, ils：`Que ___ faire les parents pendant cette journée ?`",
+    "back": "答案：**pourront**。\n\npouvoir 的 futur simple 词干是 pourr-：nous pourrons，ils pourront。",
+    "answer": "pourront"
+  },
+  "mes amis": {
+    "front": "纠错：`Je vais à la mer avec mon amis.`",
+    "back": "应写：**Je vais à la mer avec mes amis.**\n\n主有形容词按被拥有名词的数配合：mon ami，mes amis。",
+    "answer": null
+  },
+  "a base de": {
+    "front": "补全：`une crème solaire ___ chocolat`（以巧克力为基础/成分）",
+    "back": "答案：**à base de chocolat**。\n\nà base de + nom 表示以某成分为基础或由某成分制成。",
+    "answer": "à base de"
+  },
+  "consommation uses": {
+    "front": "把“少吃巧克力”改写成以 `consommation` 为中心的正式表达。",
+    "back": "可写：**diminuer la consommation de chocolat**。\n\nconsommation de 也可指能源、电力等日常消耗，不只商业消费。",
+    "answer": null
+  },
+  "suivre collocations": {
+    "front": "分别解释：`Suivez-moi`、`suivre un traitement`、`suivre un cours`。",
+    "back": "- Suivez-moi：**跟着我**\n- suivre un traitement：**接受/进行疗程**\n- suivre un cours：**修读/上课程**\n\n后两者不能逐字翻成身体跟随。",
+    "answer": null
+  },
+  "evidence over intuition": {
+    "front": "选项说“以巧克力为基础的防晒方案”，你觉得不合常识。文本却明确支持。应如何处理？",
+    "back": "以**文本证据**为准，不能只凭常识排除研究类反常识方案。\n\n还要识别选项可能把原文具体行动概括成抽象策略。",
+    "answer": null
+  },
+  "lun lautre": {
+    "front": "补介词：`Ils habitent à quarante kilomètres l'un ___ l'autre.`",
+    "back": "答案：**de**。\n\n中间介词按关系决定：距离用 l'un de l'autre；依次进入用 l'un après l'autre。",
+    "answer": "de"
+  },
+  "stage false friend": {
+    "front": "求职文章写 `la difficulté de trouver un stage`。这里 stage 是舞台还是实习？",
+    "back": "是**实习**。\n\n工作、培训、毕业生语境中的 un stage 是 internship，是英语 stage 的假朋友。",
+    "answer": "实习"
+  },
+  "diplome person": {
+    "front": "补全并配合：`de jeunes ___`（年轻毕业生们）",
+    "back": "答案：**diplômés**。\n\ndiplôme 是文凭；diplômé 可名词化为毕业生，并按性数变化。",
+    "answer": "diplômés"
+  },
+  "faible collocation": {
+    "front": "用更地道的搭配表达“收入低”：`un ___ revenu`",
+    "back": "答案：**un faible revenu**。\n\nfaible 不只表示身体虚弱，也常与 niveau、revenu、salaire 等表达低值。",
+    "answer": "faible"
+  },
+  "etablissement school": {
+    "front": "学校通知前文一直谈学生、家长和课堂，后文说 `venir dans l'établissement`。这里指什么？",
+    "back": "指**该学校**。\n\nétablissement 是正式、抽象的机构称呼；教育语境常回指学校。",
+    "answer": null
+  },
+  "supprimer surveiller": {
+    "front": "选择：手机上删除照片用 `supprimer` 还是 `surveiller`？看管孩子呢？",
+    "back": "删除照片用 **supprimer**；看管孩子用 **surveiller**。\n\nsupprimer = 删除/取消；surveiller = 监督/看管。",
+    "answer": null
+  },
+  "participle postmodifier": {
+    "front": "把“专精游泳的女教练”补完整：`une entraîneuse ___ ___ natation`",
+    "back": "答案：**une entraîneuse spécialisée en natation**。\n\n过去分词作后置定语要配合名词；专长领域用 spécialisé en。",
+    "answer": null
+  },
+  "encourager a": {
+    "front": "补介词：`Le programme encourage les enfants ___ faire du sport.`",
+    "back": "答案：**à**。\n\nencourager quelqu'un à faire：人作直接宾语，行动由 à + 不定式引出。",
+    "answer": "à"
+  },
+  "lookup triage": {
+    "front": "首遍阅读遇到十个生词。请按“必须现在查 / 可暂缓 / 值得课后背”三类说明你的判断标准。",
+    "back": "现在查：阻断**题干、选项或关键句**理解的词。\n\n可暂缓：不影响作答的超纲叙事细节。\n\n值得背：真题高频、会复现、可用于口语写作的词。",
+    "answer": null
+  },
+  "listening image options": {
+    "front": "图片题没有正式题干，A-D 直接由画中人物用第一人称说话。听之前和听每个选项时分别做什么？",
+    "back": "先观察人物状态与互动；听每项时把自己代入可能的说话者，判断哪句话最符合图片情境。不要等待不存在的正式题干。",
+    "answer": null
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "groups": [
+    {
+      "id": "forms-and-agreement",
+      "label": "变位、词形与配合",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "renseignement information gender",
+          "order": 10
+        },
+        {
+          "source_species": "produire forms",
+          "order": 20
+        },
+        {
+          "source_species": "pouvoir future",
+          "order": 30
+        },
+        {
+          "source_species": "mes amis",
+          "order": 40
+        },
+        {
+          "source_species": "diplome person",
+          "order": 50
+        },
+        {
+          "source_species": "participle postmodifier",
+          "order": 60
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l29-produire-nous",
+          "order": 110,
+          "front": "produire, nous：`Nous ___ davantage.`",
+          "back": "答案：**produisons**。",
+          "answer": "produisons",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "present"
+          ]
+        },
+        {
+          "id": "l29-pouvoir-ils",
+          "order": 120,
+          "front": "pouvoir, ils：`Ils ___ venir demain.`",
+          "back": "答案：**pourront**。",
+          "answer": "pourront",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "conjugation",
+            "futur_simple"
+          ]
+        },
+        {
+          "id": "l29-possessive-plural",
+          "order": 130,
+          "front": "`Je pars avec ___ amis.`",
+          "back": "复数 amis 用 **mes**。",
+          "answer": "mes",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "possessive",
+            "gender_number"
+          ]
+        },
+        {
+          "id": "l29-entraineuses-specialisees",
+          "order": 140,
+          "front": "`des entraîneuses ___ en natation`",
+          "back": "阴性复数配合：**spécialisées**。",
+          "answer": "spécialisées",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "agreement",
+            "past_participle_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "verb-and-preposition-interfaces",
+      "label": "动词、代词与介词接口",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "oser infinitive",
+          "order": 10
+        },
+        {
+          "source_species": "inferieur superieur a",
+          "order": 20
+        },
+        {
+          "source_species": "jouer aux jeux video",
+          "order": 30
+        },
+        {
+          "source_species": "pousser qqn a faire",
+          "order": 40
+        },
+        {
+          "source_species": "on subject only",
+          "order": 50
+        },
+        {
+          "source_species": "il sagit de",
+          "order": 60
+        },
+        {
+          "source_species": "jusqua jusquen",
+          "order": 70
+        },
+        {
+          "source_species": "de quoi parler",
+          "order": 80
+        },
+        {
+          "source_species": "faire partie participer",
+          "order": 90
+        },
+        {
+          "source_species": "lun lautre",
+          "order": 100
+        },
+        {
+          "source_species": "encourager a",
+          "order": 110
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l29-pousser-a",
+          "order": 210,
+          "front": "`La lecture pousse les gens ___ réfléchir.`",
+          "back": "pousser quelqu'un **à** faire。",
+          "answer": "à",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "requires_a",
+            "preposition_interface"
+          ]
+        },
+        {
+          "id": "l29-jusquen-year",
+          "order": 220,
+          "front": "`jusqu'___ 2026`",
+          "back": "原表达是 en 2026，所以 **jusqu'en**。",
+          "answer": "en",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface"
+          ]
+        },
+        {
+          "id": "l29-reciprocal-de",
+          "order": 230,
+          "front": "`Ils habitent loin l'un ___ l'autre.`",
+          "back": "距离关系：l'un **de** l'autre。",
+          "answer": "de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "pronoun",
+            "preposition_interface"
+          ]
+        },
+        {
+          "id": "l29-encourager-a",
+          "order": 240,
+          "front": "`encourager les enfants ___ lire`",
+          "back": "encourager quelqu'un **à** faire。",
+          "answer": "à",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "requires_a",
+            "transitive_direct"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lexical-context-and-collocations",
+      "label": "语境词义、假朋友与搭配",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "chercher rechercher reflechir",
+          "order": 10
+        },
+        {
+          "source_species": "cuisine alimentation",
+          "order": 20
+        },
+        {
+          "source_species": "concours context",
+          "order": 30
+        },
+        {
+          "source_species": "proposer action",
+          "order": 40
+        },
+        {
+          "source_species": "sejour use",
+          "order": 50
+        },
+        {
+          "source_species": "professeur enseignant",
+          "order": 60
+        },
+        {
+          "source_species": "a base de",
+          "order": 70
+        },
+        {
+          "source_species": "consommation uses",
+          "order": 80
+        },
+        {
+          "source_species": "suivre collocations",
+          "order": 90
+        },
+        {
+          "source_species": "stage false friend",
+          "order": 100
+        },
+        {
+          "source_species": "faible collocation",
+          "order": 110
+        },
+        {
+          "source_species": "etablissement school",
+          "order": 120
+        },
+        {
+          "source_species": "supprimer surveiller",
+          "order": 130
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l29-reflechir-question",
+          "order": 310,
+          "front": "`Il faut ___ à cette question.`",
+          "back": "思考问题：**réfléchir à**。",
+          "answer": "réfléchir",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "requires_a"
+          ]
+        },
+        {
+          "id": "l29-stage-internship",
+          "order": 320,
+          "front": "求职语境：`trouver un ___ en entreprise`",
+          "back": "法语 **stage** = 实习。",
+          "answer": "stage",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "false_friend"
+          ]
+        },
+        {
+          "id": "l29-faible-revenu",
+          "order": 330,
+          "front": "`un ___ revenu`",
+          "back": "低收入：**un faible revenu**。",
+          "answer": "faible",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "same_surface_diff_meaning"
+          ]
+        },
+        {
+          "id": "l29-supprimer-photo",
+          "order": 340,
+          "front": "删除照片：`___ une photo`",
+          "back": "删除/取消用 **supprimer**。",
+          "answer": "supprimer",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "teacher_corrected_error"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "connector-and-sentence-decisions",
+      "label": "连接关系与长句决策",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "connector decision",
+          "order": 10
+        },
+        {
+          "source_species": "parse core and adverbials",
+          "order": 20
+        },
+        {
+          "source_species": "sauf sauf si",
+          "order": 30
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l29-alors-que",
+          "order": 410,
+          "front": "我做作业时，他却玩游戏：`___ je fais mes devoirs, il joue.`",
+          "back": "同时且有鲜明对立：**Alors que**。",
+          "answer": "Alors que",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "comparison"
+          ]
+        },
+        {
+          "id": "l29-au-contraire",
+          "order": 420,
+          "front": "原以为有好处，结果恰恰相反：用哪个连接块？",
+          "back": "推翻前述预期：**au contraire**。",
+          "answer": "au contraire",
+          "primary_class": "expression",
+          "tags": [
+            "sentence_frame"
+          ]
+        },
+        {
+          "id": "l29-sauf-si",
+          "order": 430,
+          "front": "`Les parents viennent, ___ les enfants restent à l'école.`",
+          "back": "例外是完整条件：**sauf si**。",
+          "answer": "sauf si",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "negation"
+          ]
+        },
+        {
+          "id": "l29-find-core",
+          "order": 440,
+          "front": "在 `Une société recherche, pour faire un film, de jeunes mères` 中，真正宾语是什么？",
+          "back": "先括起目的状语；宾语是 **de jeunes mères**。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "sentence_frame",
+            "memory_hook"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tcf-reading-and-listening-strategy",
+      "label": "TCF 阅读、查词与图片听力",
+      "order": 50,
+      "species": [
+        {
+          "source_species": "reading key sentence",
+          "order": 10
+        },
+        {
+          "source_species": "evidence over intuition",
+          "order": 20
+        },
+        {
+          "source_species": "lookup triage",
+          "order": 30
+        },
+        {
+          "source_species": "listening image options",
+          "order": 40
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l29-reading-order",
+          "order": 510,
+          "front": "TCF 阅读基本顺序：题干 → 选项 → ___ → 同义替换。",
+          "back": "带着问题定位 **关键句**。",
+          "answer": "关键句",
+          "primary_class": "strategy",
+          "tags": [
+            "memory_hook",
+            "listening_keyword"
+          ]
+        },
+        {
+          "id": "l29-evidence-first",
+          "order": 520,
+          "front": "研究文本提出反常识方案。能否只凭常识排除？",
+          "back": "不能；先检查**文本证据**及选项是否为抽象同义概括。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "teacher_corrected_error",
+            "memory_hook"
+          ]
+        },
+        {
+          "id": "l29-lookup-priority",
+          "order": 530,
+          "front": "一个词不影响题干、选项和关键句理解；首遍是否必须查？",
+          "back": "**不必。** 先完成定位与作答，再决定是否值得课后背。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "memory_hook"
+          ]
+        },
+        {
+          "id": "l29-image-speaker",
+          "order": 540,
+          "front": "图片题 A-D 无前奏直接播出。判断时要代入谁？",
+          "back": "代入**画中可能说话的人物**，核对状态与互动。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "listening_keyword"
+          ]
+        }
+      ]
+    }
+  ]
+}
