@@ -586,5 +586,65 @@
     "raw": "handicapé",
     "fem": "handicapée",
     "fem_raw": "handicapée"
+  },
+  {
+    "lemma": "jusqu'à",
+    "pos": "préposition",
+    "zh": "直到……为止",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "J'ai une réunion jusqu'à 19 h 30.",
+    "raw": "jusqu'à",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "après",
+    "pos": "préposition",
+    "zh": "在……之后",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Que veut faire Lucie après 19 h 30 ?",
+    "raw": "après",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "la société",
+    "pos": "nom",
+    "zh": "公司；社会",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Une société de production recherche de jeunes mères.",
+    "raw": "la société",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "rechercher",
+    "pos": "verbe",
+    "zh": "寻找；搜寻",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Une société de production recherche de jeunes mères.",
+    "raw": "rechercher",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "une jeune mère",
+    "pos": "nom",
+    "zh": "年轻母亲",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "La société recherche de jeunes mères pour le film.",
+    "raw": "une jeune mère",
+    "fem": null,
+    "fem_raw": null
   }
 ]
