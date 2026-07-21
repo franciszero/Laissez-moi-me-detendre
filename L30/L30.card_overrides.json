@@ -1,0 +1,107 @@
+{
+  "laisser direct object": {
+    "front": "你想说“请把车留在家里”，补全祈使句：`___ votre voiture chez vous.`",
+    "back": "答案：**Laissez**。\n\n这里是 laisser + 直接宾语，表示“把某物留在某处”。\n\n自检：再口头造一个 `laisser + objet` 句子，比如留言或把钥匙留给别人。",
+    "answer": "Laissez"
+  },
+  "travail countable vs uncountable": {
+    "front": "道路正在施工，不是在说工作量。补全：`Il y a des ___ dans cette rue.`",
+    "back": "答案：**travaux**。\n\nun travail 是一份工作，beaucoup de travail 是工作量，复数 travaux 常指工程施工。\n\n自检：再分别口头说一遍 job / work / roadworks 三种场景。",
+    "answer": "travaux"
+  },
+  "il est interdit de": {
+    "front": "把“禁止停车”写成告示块：`Il est interdit de ___.`",
+    "back": "答案：**stationner**。\n\n`Il est interdit de + infinitif` 是正式告示里表达“禁止……”的固定框架。\n\n自检：再换一个公共场所动作，口头套一次这个框架。",
+    "answer": "stationner"
+  },
+  "merci de polite instruction": {
+    "front": "停车告示里要表达“请使用邮局后面的停车场”，补全：`Merci d'___ le parking derrière la poste.`",
+    "back": "答案：**utiliser**。\n\n告示里的 `merci de + inf` 常是礼貌指令，相当于“请……”，不是单纯在感谢。\n\n自检：再把一个“请勿/请用”的告示改写成 `merci de + inf`。",
+    "answer": "utiliser"
+  },
+  "laisser infinitive and laissez vous guider": {
+    "front": "旅游文案里“让自己被引导”写作：`Laissez-vous ___.`",
+    "back": "答案：**guider**。\n\n这里是 `laisser + infinitif` 的“让/任由”义；`laissez-vous guider` 要整体读成“让自己被引导”。\n\n自检：再口头对比一次 `laisser un message` 和 `laisser parler` 的差别。",
+    "answer": "guider"
+  },
+  "promenade not just walking": {
+    "front": "船上观光语境里，两小时半的海上漫游也可以说：`deux heures trente de ___.`",
+    "back": "答案：**promenade**。\n\n`promenade` 的核心是轻松观光/漫游，不一定局限于步行散步。\n\n自检：先问自己场景是不是 sightseeing，再决定要不要把它锁死成“散步”。",
+    "answer": "promenade"
+  },
+  "reserve a aux": {
+    "front": "补缩合：`Ces places sont réservées ___ enfants.`",
+    "back": "答案：**aux**。\n\n`réservé à` 引出对象；复数名词前要缩合成 `aux`。\n\n自检：再把对象换成单数名词，看看是否该回到 `à`。",
+    "answer": "aux"
+  },
+  "ouvert past participle adjective": {
+    "front": "`ouvrir` 的过去分词，也是“开着的”形容词：`Le centre est ___.`",
+    "back": "答案：**ouvert**。\n\n`ouvert` 既是 `ouvrir` 的过去分词，也能直接作形容词表示“开着的/开放的”。\n\n自检：再口头说一次阴性形式，确认你能按性数变化它。",
+    "answer": "ouvert"
+  },
+  "opened in spring not only in spring": {
+    "front": "原文只有 `Le centre a ouvert au printemps.` 若你真要表达“只在春天开放”，必须补哪个限定词：`Il est ouvert ___ au printemps.`",
+    "back": "答案：**seulement**。\n\n`a ouvert au printemps` 只给出发生时间；要表达“仅限春天”必须有排他标记，如 `seulement`。\n\n自检：做阅读题时先找没找见这种强限定词，再决定能不能推到“只有”。",
+    "answer": "seulement"
+  },
+  "reading eliminate wrong options": {
+    "front": "阅读单选先做什么？填核心动作：`先___明显错项。`",
+    "back": "答案：**排除**。\n\n常规阅读题更稳的动作是先排除与原文矛盾、无依据或偷换限定的选项，而不是脑补“最后一句最重要”。\n\n自检：做题时先标出哪一项错在哪里，再谈正确项。",
+    "answer": null
+  },
+  "avancer vs reporter rendez vous": {
+    "front": "你要把约会提前，而不是推迟。补全：`___ le rendez-vous`",
+    "back": "答案：**avancer**。\n\n`avancer le rendez-vous` = 提前；`reporter` = 推迟；`à l'avance` 只是副词短语，不是这个动词接口。\n\n自检：再口头对比一次提前会议和推迟会议两种说法。",
+    "answer": "avancer"
+  },
+  "service concerne prevenir": {
+    "front": "公司里要“通知同事”，补全：`___ ses collègues`",
+    "back": "答案：**prévenir**。\n\n公司语境里 `service` 常指部门，`concerné` 指相关的；通知相关人员常用 `prévenir/informer quelqu'un`。\n\n自检：再把受通知对象换成 `les personnes concernées` 说一遍。",
+    "answer": "prévenir"
+  },
+  "nouvelles updates": {
+    "front": "写信问朋友近况：`prendre des ___`",
+    "back": "答案：**nouvelles**。\n\n`nouvelles` 作名词时可指近况、消息、updates，不只限新闻节目。\n\n自检：再口头对比 `prendre des nouvelles` 和 `donner de ses nouvelles`。",
+    "answer": "nouvelles"
+  },
+  "reading ignore shared preposition and contextless gt": {
+    "front": "四个选项都带同一个由前文搭配决定的 `de`。做题时它应视为 `___` 信息。",
+    "back": "答案：**不区分**。\n\n共同介词如果只是搭配外壳，基本不提供区分信息；真正该看的，是变化的语义核。\n\n自检：查词时也先回上下文，不要被脱离语境的整段机翻带跑。",
+    "answer": null
+  },
+  "reserve a postposed participle": {
+    "front": "在 `un cours réservé aux jeunes` 里，真正被后置过去分词修饰的核心名词是：`___`",
+    "back": "答案：**cours**。\n\n这里的 `réservé aux jeunes` 是名词后的整体修饰块，不是新起一个谓语。\n\n自检：先抓核心名词，再把后面的过去分词短语整体挂回去理解。",
+    "answer": "cours"
+  },
+  "reading synonym replacement": {
+    "front": "阅读题里先抓哪种关系，而不是逐个啃高级词？填四字：`___`",
+    "back": "答案：**同义替换**。\n\n法语阅读常把原文意思换个更抽象的说法；先对齐核心含义，比逐字翻译更稳。\n\n自检：把一个高级选项压缩成最朴素的中文后，再回原文核对。",
+    "answer": null
+  },
+  "demarrer une activite professionnelle": {
+    "front": "创业语境里，`démarrer une activité professionnelle` 更自然地落回：`ouvrir son ___.`",
+    "back": "答案：**atelier**。\n\n这里不是抽象“启动职业活动”，而更接近开工作室、开店、开始自己的职业项目。\n\n自检：先把抽象词组还原成真实场景，再选最自然的理解。",
+    "answer": "atelier"
+  },
+  "artisan vs artiste": {
+    "front": "你想说“手艺人/工匠”，不是艺术家。填：`un ___.`",
+    "back": "答案：**artisan**。\n\n`artisan` 偏手艺人、工匠；`artiste` 才是艺术家。\n\n自检：再口头说一个需要 `artiste` 的场景，确认两词不混。",
+    "answer": "artisan"
+  },
+  "atelier polysemy": {
+    "front": "做手工并接客户的空间，更自然说：`mon ___.`",
+    "back": "答案：**atelier**。\n\n`atelier` 的中心概念是大家在一个场所做事，所以可扩成工坊、车间、工作室、学习小组。\n\n自检：再口头给出一个 `atelier de ...` 的学习或职业场景。",
+    "answer": "atelier"
+  },
+  "suivre collocation cluster": {
+    "front": "接受疗程这一搭配写作：`suivre un ___.`",
+    "back": "答案：**traitement**。\n\n这一组高频搭配要成簇记：`suivre une formation / un cours / un traitement`。\n\n自检：再把另外两个同组搭配口头复现一遍。",
+    "answer": "traitement"
+  },
+  "clustered memory strategy": {
+    "front": "遇到同组陌生搭配时，先靠什么把它猜回去？填两个字：`先靠___。`",
+    "back": "答案：**语境**。\n\n把重复考的搭配按组记住后，现场先借已知成员和上下文猜陌生项，再回文本核对。\n\n自检：不要每次从零背，把它放回同一动词家族里联想。",
+    "answer": null
+  }
+}

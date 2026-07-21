@@ -1,0 +1,1108 @@
+{
+  "lesson": "L30",
+  "source": "L30_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L30.species.json",
+    "expected_species_count": 21
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L30 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "le CV",
+          "pos": "nom",
+          "zh": "简历"
+        },
+        {
+          "type": "vocab",
+          "fr": "à l'avance",
+          "pos": "adverbe",
+          "zh": "提前；预先"
+        },
+        {
+          "type": "vocab",
+          "fr": "acheter",
+          "pos": "verbe",
+          "zh": "买；购买"
+        },
+        {
+          "type": "vocab",
+          "fr": "un animal domestique",
+          "pos": "nom",
+          "zh": "宠物；家养动物"
+        },
+        {
+          "type": "vocab",
+          "fr": "apporter",
+          "pos": "verbe",
+          "zh": "带来"
+        },
+        {
+          "type": "vocab",
+          "fr": "un artisan",
+          "pos": "nom",
+          "zh": "手艺人；工匠"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'atelier",
+          "pos": "nom",
+          "zh": "工坊；车间；工作室；学习小组"
+        },
+        {
+          "type": "vocab",
+          "fr": "au contraire",
+          "pos": "expression",
+          "zh": "相反；反而"
+        },
+        {
+          "type": "vocab",
+          "fr": "le bateau",
+          "pos": "nom",
+          "zh": "船"
+        },
+        {
+          "type": "vocab",
+          "fr": "le bâtiment",
+          "pos": "nom",
+          "zh": "建筑物"
+        },
+        {
+          "type": "vocab",
+          "fr": "cependant",
+          "pos": "conjonction",
+          "zh": "然而；不过"
+        },
+        {
+          "type": "vocab",
+          "fr": "un collègue",
+          "pos": "nom",
+          "zh": "同事"
+        },
+        {
+          "type": "vocab",
+          "fr": "considérable",
+          "pos": "adjectif",
+          "zh": "相当大的；可观的"
+        },
+        {
+          "type": "vocab",
+          "fr": "le courant marin",
+          "pos": "nom",
+          "zh": "海流；洋流"
+        },
+        {
+          "type": "vocab",
+          "fr": "démarrer",
+          "pos": "verbe",
+          "zh": "启动；开始"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'entreprise",
+          "pos": "nom",
+          "zh": "企业；公司"
+        },
+        {
+          "type": "vocab",
+          "fr": "un gagnant",
+          "pos": "nom",
+          "zh": "赢家；获胜者"
+        },
+        {
+          "type": "vocab",
+          "fr": "guider",
+          "pos": "verbe",
+          "zh": "引导；带领"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'hiver",
+          "pos": "nom",
+          "zh": "冬天"
+        },
+        {
+          "type": "vocab",
+          "fr": "imaginer",
+          "pos": "verbe",
+          "zh": "想象"
+        },
+        {
+          "type": "vocab",
+          "fr": "incroyable",
+          "pos": "adjectif",
+          "zh": "难以置信的；惊人的"
+        },
+        {
+          "type": "vocab",
+          "fr": "inférieur à",
+          "pos": "adjectif",
+          "zh": "低于；少于"
+        },
+        {
+          "type": "vocab",
+          "fr": "informer",
+          "pos": "verbe",
+          "zh": "通知；告知"
+        },
+        {
+          "type": "vocab",
+          "fr": "interdit",
+          "pos": "adjectif",
+          "zh": "被禁止的；不允许的"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'intégration",
+          "pos": "nom",
+          "zh": "融入；融合"
+        },
+        {
+          "type": "vocab",
+          "fr": "le jeu",
+          "pos": "nom",
+          "zh": "游戏；竞猜活动"
+        },
+        {
+          "type": "vocab",
+          "fr": "laisser",
+          "pos": "verbe",
+          "zh": "留下；让"
+        },
+        {
+          "type": "vocab",
+          "fr": "les nouvelles",
+          "pos": "nom",
+          "zh": "近况；消息"
+        },
+        {
+          "type": "vocab",
+          "fr": "offrir",
+          "pos": "verbe",
+          "zh": "提供；赠送"
+        },
+        {
+          "type": "vocab",
+          "fr": "oser",
+          "pos": "verbe",
+          "zh": "敢；敢于"
+        },
+        {
+          "type": "vocab",
+          "fr": "ouvrir",
+          "pos": "verbe",
+          "zh": "打开；开放"
+        },
+        {
+          "type": "vocab",
+          "fr": "prévenir",
+          "pos": "verbe",
+          "zh": "通知；提醒"
+        },
+        {
+          "type": "vocab",
+          "fr": "le prix",
+          "pos": "nom",
+          "zh": "价格；奖项"
+        },
+        {
+          "type": "vocab",
+          "fr": "la promenade",
+          "pos": "nom",
+          "zh": "散步；漫游；观光"
+        },
+        {
+          "type": "vocab",
+          "fr": "la publicité",
+          "pos": "nom",
+          "zh": "广告"
+        },
+        {
+          "type": "vocab",
+          "fr": "le renseignement",
+          "pos": "nom",
+          "zh": "信息；咨询"
+        },
+        {
+          "type": "vocab",
+          "fr": "reporter",
+          "pos": "verbe",
+          "zh": "推迟；延期"
+        },
+        {
+          "type": "vocab",
+          "fr": "réservé",
+          "pos": "adjectif",
+          "zh": "预留的；专供的"
+        },
+        {
+          "type": "vocab",
+          "fr": "le retour",
+          "pos": "nom",
+          "zh": "返回；归来"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'apercevoir",
+          "pos": "verbe pronominal",
+          "zh": "注意到；察觉到"
+        },
+        {
+          "type": "vocab",
+          "fr": "se garer",
+          "pos": "verbe pronominal",
+          "zh": "停车；把车停好"
+        },
+        {
+          "type": "vocab",
+          "fr": "le service",
+          "pos": "nom",
+          "zh": "服务；部门"
+        },
+        {
+          "type": "vocab",
+          "fr": "stationner",
+          "pos": "verbe",
+          "zh": "停车；停放"
+        },
+        {
+          "type": "vocab",
+          "fr": "supérieur à",
+          "pos": "adjectif",
+          "zh": "高于；优于"
+        },
+        {
+          "type": "vocab",
+          "fr": "supplémentaire",
+          "pos": "adjectif",
+          "zh": "额外的；补充的"
+        },
+        {
+          "type": "vocab",
+          "fr": "le travail",
+          "pos": "nom",
+          "zh": "工作；工作量"
+        },
+        {
+          "type": "vocab",
+          "fr": "les travaux",
+          "pos": "nom",
+          "zh": "工程；施工"
+        },
+        {
+          "type": "vocab",
+          "fr": "le vent",
+          "pos": "nom",
+          "zh": "风"
+        },
+        {
+          "type": "vocab",
+          "fr": "la visite",
+          "pos": "nom",
+          "zh": "参观；访问"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L30 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L30:species:laisser-direct-object",
+          "front": "你想说“请把车留在家里”，补全祈使句：`___ votre voiture chez vous.`",
+          "back": "答案：**Laissez**。\n\n这里是 laisser + 直接宾语，表示“把某物留在某处”。\n\n自检：再口头造一个 `laisser + objet` 句子，比如留言或把钥匙留给别人。",
+          "answer": "Laissez",
+          "source_species": "laisser direct object",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "laissez votre voiture chez vous",
+            "laisser un message"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:291-315"
+          ],
+          "curated": true,
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:il-est-interdit-de",
+          "front": "把“禁止停车”写成告示块：`Il est interdit de ___.`",
+          "back": "答案：**stationner**。\n\n`Il est interdit de + infinitif` 是正式告示里表达“禁止……”的固定框架。\n\n自检：再换一个公共场所动作，口头套一次这个框架。",
+          "answer": "stationner",
+          "source_species": "il est interdit de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Il est interdit de stationner."
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:328-333"
+          ],
+          "curated": true,
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:merci-de-polite-instruction",
+          "front": "停车告示里要表达“请使用邮局后面的停车场”，补全：`Merci d'___ le parking derrière la poste.`",
+          "back": "答案：**utiliser**。\n\n告示里的 `merci de + inf` 常是礼貌指令，相当于“请……”，不是单纯在感谢。\n\n自检：再把一个“请勿/请用”的告示改写成 `merci de + inf`。",
+          "answer": "utiliser",
+          "source_species": "merci de polite instruction",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Merci d'utiliser le parking derrière la poste."
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:329-337"
+          ],
+          "curated": true,
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:laisser-infinitive-and-laissez-vous-guider",
+          "front": "旅游文案里“让自己被引导”写作：`Laissez-vous ___.`",
+          "back": "答案：**guider**。\n\n这里是 `laisser + infinitif` 的“让/任由”义；`laissez-vous guider` 要整体读成“让自己被引导”。\n\n自检：再口头对比一次 `laisser un message` 和 `laisser parler` 的差别。",
+          "answer": "guider",
+          "source_species": "laisser infinitive and laissez vous guider",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Laissez parler.",
+            "Laissez faire.",
+            "Laissez-vous guider."
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:406-445"
+          ],
+          "curated": true,
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:promenade-not-just-walking",
+          "front": "船上观光语境里，两小时半的海上漫游也可以说：`deux heures trente de ___.`",
+          "back": "答案：**promenade**。\n\n`promenade` 的核心是轻松观光/漫游，不一定局限于步行散步。\n\n自检：先问自己场景是不是 sightseeing，再决定要不要把它锁死成“散步”。",
+          "answer": "promenade",
+          "source_species": "promenade not just walking",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "une promenade en ville",
+            "deux heures trente de promenade"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:386-445"
+          ],
+          "curated": true,
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:ouvert-past-participle-adjective",
+          "front": "`ouvrir` 的过去分词，也是“开着的”形容词：`Le centre est ___.`",
+          "back": "答案：**ouvert**。\n\n`ouvert` 既是 `ouvrir` 的过去分词，也能直接作形容词表示“开着的/开放的”。\n\n自检：再口头说一次阴性形式，确认你能按性数变化它。",
+          "answer": "ouvert",
+          "source_species": "ouvert past participle adjective",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "A2"
+          ],
+          "french_items": [
+            "ouvrir -> ouvert",
+            "il est ouvert"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:537-551"
+          ],
+          "curated": true,
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-laissez-voiture",
+          "front": "把车留在家里：`___ votre voiture chez vous.`",
+          "back": "这里不是停车动作词，而是 `laisser + objet`：**Laissez**。",
+          "answer": "Laissez",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "formal"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "signage-and-laisser-frames",
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-interdit-stationner",
+          "front": "禁止停车：`Il est interdit de ___.`",
+          "back": "正式告示框架：**stationner**。",
+          "answer": "stationner",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "formal"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "signage-and-laisser-frames",
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-laissez-vous-guider",
+          "front": "旅游文案：`Laissez-vous ___.`",
+          "back": "“让自己被引导”：**guider**。",
+          "answer": "guider",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "signage-and-laisser-frames",
+          "study_group": "signage-and-laisser-frames",
+          "study_group_label": "告示表达与 laisser 双用法",
+          "study_group_order": 10,
+          "study_order": 130,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:reserve-a-aux",
+          "front": "补缩合：`Ces places sont réservées ___ enfants.`",
+          "back": "答案：**aux**。\n\n`réservé à` 引出对象；复数名词前要缩合成 `aux`。\n\n自检：再把对象换成单数名词，看看是否该回到 `à`。",
+          "answer": "aux",
+          "source_species": "reserve a aux",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "Il est réservé aux écoles de Bretagne.",
+            "Ces places sont réservées aux animaux domestiques."
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:478-616"
+          ],
+          "curated": true,
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:opened-in-spring-not-only-in-spring",
+          "front": "原文只有 `Le centre a ouvert au printemps.` 若你真要表达“只在春天开放”，必须补哪个限定词：`Il est ouvert ___ au printemps.`",
+          "back": "答案：**seulement**。\n\n`a ouvert au printemps` 只给出发生时间；要表达“仅限春天”必须有排他标记，如 `seulement`。\n\n自检：做阅读题时先找没找见这种强限定词，再决定能不能推到“只有”。",
+          "answer": "seulement",
+          "source_species": "opened in spring not only in spring",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Le centre a ouvert au printemps.",
+            "Il est ouvert seulement au printemps."
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:588-596"
+          ],
+          "curated": true,
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:reading-eliminate-wrong-options",
+          "front": "阅读单选先做什么？填核心动作：`先___明显错项。`",
+          "back": "答案：**排除**。\n\n常规阅读题更稳的动作是先排除与原文矛盾、无依据或偷换限定的选项，而不是脑补“最后一句最重要”。\n\n自检：做题时先标出哪一项错在哪里，再谈正确项。",
+          "answer": null,
+          "source_species": "reading eliminate wrong options",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "先排除无文本依据或加了 seulement 等强限定的选项。"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:580-589"
+          ],
+          "curated": true,
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:reading-ignore-shared-preposition-and-contextless-gt",
+          "front": "四个选项都带同一个由前文搭配决定的 `de`。做题时它应视为 `___` 信息。",
+          "back": "答案：**不区分**。\n\n共同介词如果只是搭配外壳，基本不提供区分信息；真正该看的，是变化的语义核。\n\n自检：查词时也先回上下文，不要被脱离语境的整段机翻带跑。",
+          "answer": null,
+          "source_species": "reading ignore shared preposition and contextless gt",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "四个选项都有 de 时，de 可能只是前文搭配要求。",
+            "GT 把非固定组合误翻时，不代表核心词义错了。"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:763-789",
+            "L30_final_working.md:777-783"
+          ],
+          "curated": true,
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:reserve-a-postposed-participle",
+          "front": "在 `un cours réservé aux jeunes` 里，真正被后置过去分词修饰的核心名词是：`___`",
+          "back": "答案：**cours**。\n\n这里的 `réservé aux jeunes` 是名词后的整体修饰块，不是新起一个谓语。\n\n自检：先抓核心名词，再把后面的过去分词短语整体挂回去理解。",
+          "answer": "cours",
+          "source_species": "reserve a postposed participle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "un cours réservé aux jeunes"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:974-981"
+          ],
+          "curated": true,
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:reading-synonym-replacement",
+          "front": "阅读题里先抓哪种关系，而不是逐个啃高级词？填四字：`___`",
+          "back": "答案：**同义替换**。\n\n法语阅读常把原文意思换个更抽象的说法；先对齐核心含义，比逐字翻译更稳。\n\n自检：把一个高级选项压缩成最朴素的中文后，再回原文核对。",
+          "answer": null,
+          "source_species": "reading synonym replacement",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "longue distance -> 很远、长途",
+            "développement du tourisme de longue distance -> 长途旅游的发展 / 越来越多人去远途旅行"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:1002-1009"
+          ],
+          "curated": true,
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-reserve-aux-enfants",
+          "front": "`Ces places sont réservées ___ enfants.`",
+          "back": "复数对象前缩合成 **aux**。",
+          "answer": "aux",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reading-constraints-and-reservations",
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 210,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-seulement-spring",
+          "front": "若真要表达“只在春天开放”，必须补：`Il est ouvert ___ au printemps.`",
+          "back": "排他限定词要明说：**seulement**。",
+          "answer": "seulement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "memory_hook"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reading-constraints-and-reservations",
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 220,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-core-noun-cours",
+          "front": "在 `un cours réservé aux jeunes` 里，核心名词是：`___`",
+          "back": "先抓名词，再把过去分词短语挂回去：**cours**。",
+          "answer": "cours",
+          "primary_class": "strategy",
+          "tags": [
+            "memory_hook",
+            "sentence_frame"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reading-constraints-and-reservations",
+          "study_group": "reading-constraints-and-reservations",
+          "study_group_label": "阅读限定词与 réservé 结构",
+          "study_group_order": 20,
+          "study_order": 230,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:travail-countable-vs-uncountable",
+          "front": "道路正在施工，不是在说工作量。补全：`Il y a des ___ dans cette rue.`",
+          "back": "答案：**travaux**。\n\nun travail 是一份工作，beaucoup de travail 是工作量，复数 travaux 常指工程施工。\n\n自检：再分别口头说一遍 job / work / roadworks 三种场景。",
+          "answer": "travaux",
+          "source_species": "travail countable vs uncountable",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "trouver un travail",
+            "j'ai beaucoup de travail",
+            "des travaux"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:315-323"
+          ],
+          "curated": true,
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:avancer-vs-reporter-rendez-vous",
+          "front": "你要把约会提前，而不是推迟。补全：`___ le rendez-vous`",
+          "back": "答案：**avancer**。\n\n`avancer le rendez-vous` = 提前；`reporter` = 推迟；`à l'avance` 只是副词短语，不是这个动词接口。\n\n自检：再口头对比一次提前会议和推迟会议两种说法。",
+          "answer": "avancer",
+          "source_species": "avancer vs reporter rendez vous",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "avancer le rendez-vous",
+            "reporter le rendez-vous",
+            "à l'avance"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:691-702"
+          ],
+          "curated": true,
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:service-concerne-prevenir",
+          "front": "公司里要“通知同事”，补全：`___ ses collègues`",
+          "back": "答案：**prévenir**。\n\n公司语境里 `service` 常指部门，`concerné` 指相关的；通知相关人员常用 `prévenir/informer quelqu'un`。\n\n自检：再把受通知对象换成 `les personnes concernées` 说一遍。",
+          "answer": "prévenir",
+          "source_species": "service concerne prevenir",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "les services concernés",
+            "prévenir ses collègues",
+            "informer les personnes concernées"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:705-733"
+          ],
+          "curated": true,
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:nouvelles-updates",
+          "front": "写信问朋友近况：`prendre des ___`",
+          "back": "答案：**nouvelles**。\n\n`nouvelles` 作名词时可指近况、消息、updates，不只限新闻节目。\n\n自检：再口头对比 `prendre des nouvelles` 和 `donner de ses nouvelles`。",
+          "answer": "nouvelles",
+          "source_species": "nouvelles updates",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "donner de ses nouvelles",
+            "prendre des nouvelles"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:742-806"
+          ],
+          "curated": true,
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:suivre-collocation-cluster",
+          "front": "接受疗程这一搭配写作：`suivre un ___.`",
+          "back": "答案：**traitement**。\n\n这一组高频搭配要成簇记：`suivre une formation / un cours / un traitement`。\n\n自检：再把另外两个同组搭配口头复现一遍。",
+          "answer": "traitement",
+          "source_species": "suivre collocation cluster",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "A2"
+          ],
+          "french_items": [
+            "suivre une formation",
+            "suivre un cours",
+            "suivre un traitement"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:1757-1765"
+          ],
+          "curated": true,
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-travaux-rue",
+          "front": "道路施工：`Il y a des ___ dans cette rue.`",
+          "back": "这里说工程，不是 job 或 work：**travaux**。",
+          "answer": "travaux",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "work-scheduling-and-updates",
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 310,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-avancer-rdv",
+          "front": "把约会提前：`___ le rendez-vous`",
+          "back": "提前用 **avancer**；推迟才用 reporter。",
+          "answer": "avancer",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "work-scheduling-and-updates",
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 320,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-prendre-des-nouvelles",
+          "front": "问朋友近况：`prendre des ___`",
+          "back": "近况、消息用 **nouvelles**。",
+          "answer": "nouvelles",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "work-scheduling-and-updates",
+          "study_group": "work-scheduling-and-updates",
+          "study_group_label": "工作场景、约会改期与近况表达",
+          "study_group_order": 30,
+          "study_order": 330,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:demarrer-une-activite-professionnelle",
+          "front": "创业语境里，`démarrer une activité professionnelle` 更自然地落回：`ouvrir son ___.`",
+          "back": "答案：**atelier**。\n\n这里不是抽象“启动职业活动”，而更接近开工作室、开店、开始自己的职业项目。\n\n自检：先把抽象词组还原成真实场景，再选最自然的理解。",
+          "answer": "atelier",
+          "source_species": "demarrer une activite professionnelle",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "démarrer une activité professionnelle",
+            "ouvrir son atelier"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:1711-1758"
+          ],
+          "curated": true,
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:artisan-vs-artiste",
+          "front": "你想说“手艺人/工匠”，不是艺术家。填：`un ___.`",
+          "back": "答案：**artisan**。\n\n`artisan` 偏手艺人、工匠；`artiste` 才是艺术家。\n\n自检：再口头说一个需要 `artiste` 的场景，确认两词不混。",
+          "answer": "artisan",
+          "source_species": "artisan vs artiste",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "un artisan",
+            "un artiste"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:1725-1731"
+          ],
+          "curated": true,
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:atelier-polysemy",
+          "front": "做手工并接客户的空间，更自然说：`mon ___.`",
+          "back": "答案：**atelier**。\n\n`atelier` 的中心概念是大家在一个场所做事，所以可扩成工坊、车间、工作室、学习小组。\n\n自检：再口头给出一个 `atelier de ...` 的学习或职业场景。",
+          "answer": "atelier",
+          "source_species": "atelier polysemy",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "ouvrir mon atelier",
+            "un atelier de mode",
+            "un atelier de français"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:1731-1745"
+          ],
+          "curated": true,
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:species:clustered-memory-strategy",
+          "front": "遇到同组陌生搭配时，先靠什么把它猜回去？填两个字：`先靠___。`",
+          "back": "答案：**语境**。\n\n把重复考的搭配按组记住后，现场先借已知成员和上下文猜陌生项，再回文本核对。\n\n自检：不要每次从零背，把它放回同一动词家族里联想。",
+          "answer": null,
+          "source_species": "clustered memory strategy",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "培训 / 上课 / 接受治疗 作为同一动词家族一起记",
+            "看见同组搭配时先用语境猜，再核对"
+          ],
+          "evidence_refs": [
+            "L30_final_working.md:1764-1765"
+          ],
+          "curated": true,
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-un-artisan",
+          "front": "手艺人/工匠：`un ___.`",
+          "back": "不是 artiste，而是 **artisan**。",
+          "answer": "artisan",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "atelier-and-clustered-meaning",
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 410,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-mon-atelier",
+          "front": "自己的工作室/工坊：`mon ___.`",
+          "back": "创业或手工场景里常落到 **atelier**。",
+          "answer": "atelier",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "atelier-and-clustered-meaning",
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 420,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L30:practice:l30-guess-by-context",
+          "front": "同组陌生搭配先靠什么猜回去？`先靠___。`",
+          "back": "先借家族成员和上下文：**语境**。",
+          "answer": "语境",
+          "primary_class": "strategy",
+          "tags": [
+            "memory_hook",
+            "neutral"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "atelier-and-clustered-meaning",
+          "study_group": "atelier-and-clustered-meaning",
+          "study_group_label": "创业语境、atelier 多义与成组记忆",
+          "study_group_order": 40,
+          "study_order": 430,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

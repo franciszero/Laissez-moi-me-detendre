@@ -1,0 +1,268 @@
+{
+  "groups": [
+    {
+      "id": "signage-and-laisser-frames",
+      "label": "告示表达与 laisser 双用法",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "laisser direct object",
+          "order": 10
+        },
+        {
+          "source_species": "il est interdit de",
+          "order": 20
+        },
+        {
+          "source_species": "merci de polite instruction",
+          "order": 30
+        },
+        {
+          "source_species": "laisser infinitive and laissez vous guider",
+          "order": 40
+        },
+        {
+          "source_species": "promenade not just walking",
+          "order": 50
+        },
+        {
+          "source_species": "ouvert past participle adjective",
+          "order": 60
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l30-laissez-voiture",
+          "order": 110,
+          "front": "把车留在家里：`___ votre voiture chez vous.`",
+          "back": "这里不是停车动作词，而是 `laisser + objet`：**Laissez**。",
+          "answer": "Laissez",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "formal"
+          ]
+        },
+        {
+          "id": "l30-interdit-stationner",
+          "order": 120,
+          "front": "禁止停车：`Il est interdit de ___.`",
+          "back": "正式告示框架：**stationner**。",
+          "answer": "stationner",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "formal"
+          ]
+        },
+        {
+          "id": "l30-laissez-vous-guider",
+          "order": 130,
+          "front": "旅游文案：`Laissez-vous ___.`",
+          "back": "“让自己被引导”：**guider**。",
+          "answer": "guider",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "neutral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "reading-constraints-and-reservations",
+      "label": "阅读限定词与 réservé 结构",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "reserve a aux",
+          "order": 10
+        },
+        {
+          "source_species": "opened in spring not only in spring",
+          "order": 20
+        },
+        {
+          "source_species": "reading eliminate wrong options",
+          "order": 30
+        },
+        {
+          "source_species": "reading ignore shared preposition and contextless gt",
+          "order": 40
+        },
+        {
+          "source_species": "reserve a postposed participle",
+          "order": 50
+        },
+        {
+          "source_species": "reading synonym replacement",
+          "order": 60
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l30-reserve-aux-enfants",
+          "order": 210,
+          "front": "`Ces places sont réservées ___ enfants.`",
+          "back": "复数对象前缩合成 **aux**。",
+          "answer": "aux",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "preposition_interface",
+            "sentence_frame"
+          ]
+        },
+        {
+          "id": "l30-seulement-spring",
+          "order": 220,
+          "front": "若真要表达“只在春天开放”，必须补：`Il est ouvert ___ au printemps.`",
+          "back": "排他限定词要明说：**seulement**。",
+          "answer": "seulement",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "sentence_frame",
+            "memory_hook"
+          ]
+        },
+        {
+          "id": "l30-core-noun-cours",
+          "order": 230,
+          "front": "在 `un cours réservé aux jeunes` 里，核心名词是：`___`",
+          "back": "先抓名词，再把过去分词短语挂回去：**cours**。",
+          "answer": "cours",
+          "primary_class": "strategy",
+          "tags": [
+            "memory_hook",
+            "sentence_frame"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "work-scheduling-and-updates",
+      "label": "工作场景、约会改期与近况表达",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "travail countable vs uncountable",
+          "order": 10
+        },
+        {
+          "source_species": "avancer vs reporter rendez vous",
+          "order": 20
+        },
+        {
+          "source_species": "service concerne prevenir",
+          "order": 30
+        },
+        {
+          "source_species": "nouvelles updates",
+          "order": 40
+        },
+        {
+          "source_species": "suivre collocation cluster",
+          "order": 50
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l30-travaux-rue",
+          "order": 310,
+          "front": "道路施工：`Il y a des ___ dans cette rue.`",
+          "back": "这里说工程，不是 job 或 work：**travaux**。",
+          "answer": "travaux",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ]
+        },
+        {
+          "id": "l30-avancer-rdv",
+          "order": 320,
+          "front": "把约会提前：`___ le rendez-vous`",
+          "back": "提前用 **avancer**；推迟才用 reporter。",
+          "answer": "avancer",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ]
+        },
+        {
+          "id": "l30-prendre-des-nouvelles",
+          "order": 330,
+          "front": "问朋友近况：`prendre des ___`",
+          "back": "近况、消息用 **nouvelles**。",
+          "answer": "nouvelles",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "atelier-and-clustered-meaning",
+      "label": "创业语境、atelier 多义与成组记忆",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "demarrer une activite professionnelle",
+          "order": 10
+        },
+        {
+          "source_species": "artisan vs artiste",
+          "order": 20
+        },
+        {
+          "source_species": "atelier polysemy",
+          "order": 30
+        },
+        {
+          "source_species": "clustered memory strategy",
+          "order": 40
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l30-un-artisan",
+          "order": 410,
+          "front": "手艺人/工匠：`un ___.`",
+          "back": "不是 artiste，而是 **artisan**。",
+          "answer": "artisan",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ]
+        },
+        {
+          "id": "l30-mon-atelier",
+          "order": 420,
+          "front": "自己的工作室/工坊：`mon ___.`",
+          "back": "创业或手工场景里常落到 **atelier**。",
+          "answer": "atelier",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "word_family_confusion",
+            "neutral"
+          ]
+        },
+        {
+          "id": "l30-guess-by-context",
+          "order": 430,
+          "front": "同组陌生搭配先靠什么猜回去？`先靠___。`",
+          "back": "先借家族成员和上下文：**语境**。",
+          "answer": "语境",
+          "primary_class": "strategy",
+          "tags": [
+            "memory_hook",
+            "neutral"
+          ]
+        }
+      ]
+    }
+  ]
+}
