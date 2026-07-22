@@ -362,7 +362,7 @@
   {
     "lemma": "la naissance",
     "pos": "nom",
-    "zh": "出生；诞生",
+    "zh": "[T3Q1] 出生；诞生",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -374,7 +374,7 @@
   {
     "lemma": "le décès",
     "pos": "nom",
-    "zh": "死亡；去世",
+    "zh": "[T3Q1] 死亡；去世",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -386,7 +386,7 @@
   {
     "lemma": "le courriel",
     "pos": "nom",
-    "zh": "电子邮件",
+    "zh": "[T3Q6] 电子邮件",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -398,7 +398,7 @@
   {
     "lemma": "la cantine",
     "pos": "nom",
-    "zh": "食堂",
+    "zh": "[T3Q8] 食堂",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -590,7 +590,7 @@
   {
     "lemma": "jusqu'à",
     "pos": "préposition",
-    "zh": "直到……为止",
+    "zh": "[T3Q3] 直到……为止",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -602,7 +602,7 @@
   {
     "lemma": "après",
     "pos": "préposition",
-    "zh": "在……之后",
+    "zh": "[T3Q3] 在……之后",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -614,7 +614,7 @@
   {
     "lemma": "la société",
     "pos": "nom",
-    "zh": "公司；社会",
+    "zh": "[T3Q5] 公司；社会",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -626,7 +626,7 @@
   {
     "lemma": "rechercher",
     "pos": "verbe",
-    "zh": "寻找；搜寻",
+    "zh": "[T3Q5] 寻找；搜寻；追寻",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -638,7 +638,7 @@
   {
     "lemma": "une jeune mère",
     "pos": "nom",
-    "zh": "年轻母亲",
+    "zh": "[T3Q5] 年轻母亲",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -650,7 +650,7 @@
   {
     "lemma": "sauf",
     "pos": "préposition",
-    "zh": "除了；除非",
+    "zh": "[T3Q8] 除了；除……以外",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -662,7 +662,7 @@
   {
     "lemma": "le repos",
     "pos": "nom",
-    "zh": "休息；休养",
+    "zh": "[T3Q8] 休息；休养",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1244,6 +1244,114 @@
     "category": "CORE_VOCAB",
     "example": "La ville de Paris recueille l'avis des usagers et des riverains.",
     "raw": "recueillir l'avis des usagers",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "il s'agit de",
+    "pos": "locution verbale",
+    "zh": "[T3Q1] 涉及；说的是；是……",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Il s'agit d'un poste d'ingénieur.",
+    "raw": "il s'agit de",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "chercher",
+    "pos": "verbe",
+    "zh": "[T3Q5] 寻找；查找",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Je cherche les horaires du bus.",
+    "raw": "chercher",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "la recherche",
+    "pos": "nom",
+    "zh": "[T3Q5] 寻找；搜寻；研究",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "La recherche d'un emploi demande du temps.",
+    "raw": "la recherche",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "rentrer du travail",
+    "pos": "locution verbale",
+    "zh": "[T3Q6] 下班回来；下班回家",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Appelle-moi quand tu rentreras du travail.",
+    "raw": "rentrer du travail",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "sauf si",
+    "pos": "conjonction",
+    "zh": "[T3Q8] 除非；除了……这种情况",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Les parents peuvent venir après les cours, sauf si les enfants mangent à l'école.",
+    "raw": "sauf si",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "rester chez soi",
+    "pos": "locution verbale",
+    "zh": "[T3Q2 补] 待在家里 [Codex 建议：TCF 短信题常用，与 rester à la maison 构成同义替换]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "AUTRES",
+    "example": "Elle est malade et reste chez elle.",
+    "raw": "rester chez soi",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "faire de la figuration",
+    "pos": "locution verbale",
+    "zh": "[T3Q5 补] 当群众演员；做临时演员 [Codex 建议：影视招聘语境中的固定表达]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "AUTRES",
+    "example": "La société recherche de jeunes mères pour faire de la figuration dans un film.",
+    "raw": "faire de la figuration",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "penser à + infinitif",
+    "pos": "locution verbale",
+    "zh": "[T3Q6 补] 记得／想着做某事 [Codex 建议：通知和建议题中的高频指令结构]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "AUTRES",
+    "example": "Pense à prendre des vêtements chauds.",
+    "raw": "penser à + infinitif",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "venir chercher quelqu'un / quelque chose",
+    "pos": "locution verbale",
+    "zh": "[T3Q8 补] 来接某人；来领取某物 [Codex 建议：学校、短信和通知题中的高频接送／领取表达]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "AUTRES",
+    "example": "Les parents peuvent venir chercher leurs enfants après les cours.",
+    "raw": "venir chercher quelqu'un / quelque chose",
     "fem": null,
     "fem_raw": null
   }
