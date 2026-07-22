@@ -361,7 +361,7 @@
   },
   {
     "lemma": "la naissance",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q1] 出生；诞生",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -373,7 +373,7 @@
   },
   {
     "lemma": "le décès",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q1] 死亡；去世",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -385,7 +385,7 @@
   },
   {
     "lemma": "le courriel",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q6] 电子邮件",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -397,7 +397,7 @@
   },
   {
     "lemma": "la cantine",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q8] 食堂",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -409,7 +409,7 @@
   },
   {
     "lemma": "partager",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q10] 分享；分担",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -421,7 +421,7 @@
   },
   {
     "lemma": "la prise de vue",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q10] 拍摄；摄影作品",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -433,7 +433,7 @@
   },
   {
     "lemma": "gagner",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q10] 赢得；赚取",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -445,7 +445,7 @@
   },
   {
     "lemma": "diminuer",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q12] 减少；降低",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -457,7 +457,7 @@
   },
   {
     "lemma": "réduire",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q12] 减少；降低",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -469,7 +469,7 @@
   },
   {
     "lemma": "baisser",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q12] 下降；降低",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -480,20 +480,8 @@
     "fem_raw": null
   },
   {
-    "lemma": "la pilule",
-    "pos": "nom",
-    "zh": "药丸；药片",
-    "lesson": "L29",
-    "source_lesson": "L29",
-    "category": "CORE_VOCAB",
-    "example": "Elle prend une pilule chaque matin.",
-    "raw": "la pilule",
-    "fem": null,
-    "fem_raw": null
-  },
-  {
     "lemma": "s'exiler",
-    "pos": "verbe pronominal",
+    "pos": "verb pronominal",
     "zh": "[T3Q14] 流亡；远离家乡生活",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -505,7 +493,7 @@
   },
   {
     "lemma": "le manque",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14] 缺少；不足",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -517,7 +505,7 @@
   },
   {
     "lemma": "la formation",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14] 培训；教育；形成",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -529,7 +517,7 @@
   },
   {
     "lemma": "le salaire",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14] 工资；薪水",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -541,7 +529,7 @@
   },
   {
     "lemma": "faciliter",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q16] 使容易；促进",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -553,7 +541,7 @@
   },
   {
     "lemma": "la rencontre",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q16] 会面；相遇；比赛",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -565,7 +553,7 @@
   },
   {
     "lemma": "l'entraîneur",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q16] 教练；训练员",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -589,7 +577,7 @@
   },
   {
     "lemma": "jusqu'à",
-    "pos": "préposition",
+    "pos": "prep",
     "zh": "[T3Q3] 直到……为止",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -601,7 +589,7 @@
   },
   {
     "lemma": "après",
-    "pos": "préposition",
+    "pos": "prep",
     "zh": "[T3Q3] 在……之后",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -613,7 +601,7 @@
   },
   {
     "lemma": "la société",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q5] 公司；社会",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -625,7 +613,7 @@
   },
   {
     "lemma": "rechercher",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q5] 寻找；搜寻；追寻",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -637,7 +625,7 @@
   },
   {
     "lemma": "une jeune mère",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q5] 年轻母亲",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -649,7 +637,7 @@
   },
   {
     "lemma": "sauf",
-    "pos": "préposition",
+    "pos": "prep",
     "zh": "[T3Q8] 除了；除……以外",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -661,7 +649,7 @@
   },
   {
     "lemma": "le repos",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q8] 休息；休养",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -673,7 +661,7 @@
   },
   {
     "lemma": "l'alimentation",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q9/Q12] 饮食；食品供给",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -685,7 +673,7 @@
   },
   {
     "lemma": "faire partie de",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q10] 属于；是……的一部分",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -697,7 +685,7 @@
   },
   {
     "lemma": "participer à",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q10] 参加；参与",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -709,7 +697,7 @@
   },
   {
     "lemma": "le séjour",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q10] 逗留；住宿；旅行期间",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -721,7 +709,7 @@
   },
   {
     "lemma": "le concours",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q10] 竞赛；考试；选拔",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -733,7 +721,7 @@
   },
   {
     "lemma": "être l'occasion de + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q11] 是做某事的机会",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -745,7 +733,7 @@
   },
   {
     "lemma": "pouvoir",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q11] 能够；可以",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -757,7 +745,7 @@
   },
   {
     "lemma": "pendant",
-    "pos": "préposition",
+    "pos": "prep",
     "zh": "[T3Q11] 在……期间；持续",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -769,7 +757,7 @@
   },
   {
     "lemma": "dialoguer avec le personnel enseignant",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q11] 与教职人员交流",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -781,7 +769,7 @@
   },
   {
     "lemma": "une stratégie efficace",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q12] 有效策略",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -793,7 +781,7 @@
   },
   {
     "lemma": "l'une de l'autre",
-    "pos": "locution pronominale",
+    "pos": "expr",
     "zh": "[T3Q13] 彼此；一个离另一个",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -805,7 +793,7 @@
   },
   {
     "lemma": "la protection contre les rayons du soleil",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q12] 防护太阳光线；防晒",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -817,7 +805,7 @@
   },
   {
     "lemma": "utiliser",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q12] 使用；利用",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -829,7 +817,7 @@
   },
   {
     "lemma": "la crème solaire",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q12 补] 防晒霜 [Codex 建议：老师说可不背，但属于旅行和健康场景常见实物词]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -841,7 +829,7 @@
   },
   {
     "lemma": "avoir en commun",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q13] 有共同之处；共同拥有",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -853,7 +841,7 @@
   },
   {
     "lemma": "décider de + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q14] 决定做某事",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -865,7 +853,7 @@
   },
   {
     "lemma": "partir à l'étranger",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q14] 去国外；出国",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -877,7 +865,7 @@
   },
   {
     "lemma": "obtenir un emploi",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q14] 获得工作",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -889,7 +877,7 @@
   },
   {
     "lemma": "le stage",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14] 实习；培训期",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -901,7 +889,7 @@
   },
   {
     "lemma": "un jeune diplômé",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14] 年轻毕业生",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -913,7 +901,7 @@
   },
   {
     "lemma": "revenir en classe",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q15] 回到教室；返校上课",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -925,7 +913,7 @@
   },
   {
     "lemma": "faire ses devoirs",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q15] 做作业",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -937,7 +925,7 @@
   },
   {
     "lemma": "permettre à quelqu'un de + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q15] 允许某人做某事；使某人能够做某事",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -949,7 +937,7 @@
   },
   {
     "lemma": "faire son travail du soir",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q15] 完成晚间作业",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -961,7 +949,7 @@
   },
   {
     "lemma": "supprimer",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q15] 删除；取消；废除",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -973,7 +961,7 @@
   },
   {
     "lemma": "l'établissement",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q15] 机构；学校；场所",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -985,7 +973,7 @@
   },
   {
     "lemma": "permettre",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q16] 允许；使能够",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -997,7 +985,7 @@
   },
   {
     "lemma": "l'accès égal au sport",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q16] 平等参与体育运动的机会",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1009,7 +997,7 @@
   },
   {
     "lemma": "accompagner",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q16] 陪伴；协助",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1117,7 +1105,7 @@
   },
   {
     "lemma": "encourager quelqu'un à + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q16] 鼓励某人做某事",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1129,7 +1117,7 @@
   },
   {
     "lemma": "avoir de l'appétit pour + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q17 补] 渴望做某事；对做某事有兴致 [Codex 建议：语言学习主题中可把“好奇心”改写为对探索世界的兴趣；老师归属待确认]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1141,7 +1129,7 @@
   },
   {
     "lemma": "le livre",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q18 补] 书；书籍 [Codex 建议：教育与阅读材料题的常见载体词；保留既有词条]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1153,7 +1141,7 @@
   },
   {
     "lemma": "aider à + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q18 补] 帮助做某事 [Codex 建议：高频动词接口，适用于教育、工作与建议表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1165,7 +1153,7 @@
   },
   {
     "lemma": "définir un projet",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q18 补] 确定；规划一个项目 [Codex 建议：升学和职业规划主题的可复用搭配]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1177,7 +1165,7 @@
   },
   {
     "lemma": "une photocopie",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q19 补] 复印件 [Codex 建议：求职与行政通知中的高频文件词]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1189,7 +1177,7 @@
   },
   {
     "lemma": "le diplôme",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14] 文凭；毕业证书",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1201,7 +1189,7 @@
   },
   {
     "lemma": "les vœux de nouvel an",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q20 补] 新年祝福 [Codex 建议：书信目的题和节日表达中的固定搭配]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1213,7 +1201,7 @@
   },
   {
     "lemma": "recueillir l'avis des usagers",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q21 补] 收集使用者的意见 [Codex 建议：公共政策和问卷语境中的正式表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1225,7 +1213,7 @@
   },
   {
     "lemma": "il s'agit de",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q1] 涉及；说的是；是……",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1237,7 +1225,7 @@
   },
   {
     "lemma": "chercher",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q5] 寻找；查找",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1249,7 +1237,7 @@
   },
   {
     "lemma": "la recherche",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q5] 寻找；搜寻；研究",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1261,7 +1249,7 @@
   },
   {
     "lemma": "rentrer du travail",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q6] 下班回来；下班回家",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1273,7 +1261,7 @@
   },
   {
     "lemma": "sauf si",
-    "pos": "conjonction",
+    "pos": "conjunction",
     "zh": "[T3Q8] 除非；除了……这种情况",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1285,7 +1273,7 @@
   },
   {
     "lemma": "rester chez soi",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q2 补] 待在家里 [Codex 建议：TCF 短信题常用，与 rester à la maison 构成同义替换]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1297,7 +1285,7 @@
   },
   {
     "lemma": "faire de la figuration",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q5 补] 当群众演员；做临时演员 [Codex 建议：影视招聘语境中的固定表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1309,7 +1297,7 @@
   },
   {
     "lemma": "penser à + infinitif",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q6 补] 记得／想着做某事 [Codex 建议：通知和建议题中的高频指令结构]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1321,7 +1309,7 @@
   },
   {
     "lemma": "venir chercher quelqu'un / quelque chose",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q8 补] 来接某人；来领取某物 [Codex 建议：学校、短信和通知题中的高频接送／领取表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1333,7 +1321,7 @@
   },
   {
     "lemma": "la cuisine",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q9] 烹饪；菜肴；菜系",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1345,7 +1333,7 @@
   },
   {
     "lemma": "proposer",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q10] 提出；提供；建议",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1357,7 +1345,7 @@
   },
   {
     "lemma": "un enseignant",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q11] 教师；老师",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1369,7 +1357,7 @@
   },
   {
     "lemma": "enseigner",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q11] 教；教授",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1381,7 +1369,7 @@
   },
   {
     "lemma": "un chercheur",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q12] 研究人员；研究者",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1393,7 +1381,7 @@
   },
   {
     "lemma": "conseiller",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q12] 建议；劝告",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1405,7 +1393,7 @@
   },
   {
     "lemma": "le soleil",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q12] 太阳；阳光",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1417,7 +1405,7 @@
   },
   {
     "lemma": "à base de",
-    "pos": "locution prépositive",
+    "pos": "expr",
     "zh": "[T3Q12] 以……为原料；基于",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1429,7 +1417,7 @@
   },
   {
     "lemma": "la consommation",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q12] 消费；消耗；摄入量",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1441,7 +1429,7 @@
   },
   {
     "lemma": "quotidiennement",
-    "pos": "adverbe",
+    "pos": "adverb",
     "zh": "[T3Q12] 每天；日常地",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1453,7 +1441,7 @@
   },
   {
     "lemma": "suivre un traitement",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q12] 接受治疗；按疗程治疗",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1465,7 +1453,7 @@
   },
   {
     "lemma": "une jumelle",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q13] 双胞胎姐妹中的一个",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1477,7 +1465,7 @@
   },
   {
     "lemma": "l'un après l'autre / l'une après l'autre",
-    "pos": "locution pronominale",
+    "pos": "expr",
     "zh": "[T3Q13] 一个接一个；依次",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1489,7 +1477,7 @@
   },
   {
     "lemma": "faible",
-    "pos": "adjectif",
+    "pos": "adj",
     "zh": "[T3Q14] 弱的；低的；少的",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1501,7 +1489,7 @@
   },
   {
     "lemma": "le travail à la maison",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q15] 家庭作业；在家完成的学习任务",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1513,7 +1501,7 @@
   },
   {
     "lemma": "surveiller",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q15] 监督；看管",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1525,7 +1513,7 @@
   },
   {
     "lemma": "être spécialisé en + domaine",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q16] 专攻……；专门从事……",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1537,7 +1525,7 @@
   },
   {
     "lemma": "une journée portes ouvertes",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q11 补] 校园开放日；机构开放日 [Codex 建议：学校通知和活动公告的高频标题]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1549,7 +1537,7 @@
   },
   {
     "lemma": "la difficulté de + infinitif",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14 补] 做某事的困难 [Codex 建议：选项优先；议论文和主题概括题中的高频名词化结构]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1561,7 +1549,7 @@
   },
   {
     "lemma": "la nécessité de + infinitif",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q14 补] 做某事的必要性 [Codex 建议：选项优先；正式表达“必须做某事”的常见结构]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1573,7 +1561,7 @@
   },
   {
     "lemma": "alléger",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q15 补] 减轻；缓和 [Codex 建议：与原文 alourdir 构成负担轻重的高频反义组]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1585,7 +1573,7 @@
   },
   {
     "lemma": "alourdir",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q15 补] 加重；使负担更重 [Codex 建议：教育、工作量和社会议题中常与 alléger 对照]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1597,7 +1585,7 @@
   },
   {
     "lemma": "être en situation de handicap",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q16 补] 处于残障状态；身有残障 [Codex 建议：社会政策题中较中性、正式的常见表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1609,7 +1597,7 @@
   },
   {
     "lemma": "choisir une formation",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q18 补] 选择培训课程；选择专业 [Codex 建议：正确选项中的教育主题高频搭配]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1621,7 +1609,7 @@
   },
   {
     "lemma": "une démarche d'inscription",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q18 补] 注册手续；报名流程 [Codex 建议：选项优先；学校与行政通知中的常见表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1633,7 +1621,7 @@
   },
   {
     "lemma": "en fonction de + nom",
-    "pos": "locution prépositive",
+    "pos": "expr",
     "zh": "[T3Q18 补] 根据……；取决于…… [Codex 建议：阅读、口语和写作都常用的逻辑连接结构]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1645,7 +1633,7 @@
   },
   {
     "lemma": "chercher des documents",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q19 补] 查找文件 [Codex 建议：正确选项中的任务表达，行政和求职场景常见]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1657,7 +1645,7 @@
   },
   {
     "lemma": "annuler un rendez-vous",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q19 补] 取消预约；取消会面 [Codex 建议：选项优先；医疗、行政和求职场景高频]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1669,7 +1657,7 @@
   },
   {
     "lemma": "envoyer un curriculum vitæ",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q19 补] 发送简历 [Codex 建议：选项优先；求职主题固定搭配，curriculum vitæ 常缩写为 CV]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1681,7 +1669,7 @@
   },
   {
     "lemma": "téléphoner à l'entreprise",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q19 补] 给公司打电话 [Codex 建议：选项优先；同时巩固 téléphoner à 的介词接口]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1693,7 +1681,7 @@
   },
   {
     "lemma": "débuter",
-    "pos": "verbe",
+    "pos": "verb",
     "zh": "[T3Q20 补] 开始；起步 [Codex 建议：将非固定的 l'année qui débute 规范为更可迁移的动词原形]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1705,7 +1693,7 @@
   },
   {
     "lemma": "donner des nouvelles à quelqu'un",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q20 补] 向某人报近况 [Codex 建议：选项优先；私人书信和口语中的常用表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1717,7 +1705,7 @@
   },
   {
     "lemma": "voir le jour",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q20 补] 诞生；实现；问世 [Codex 建议：原文 projets voient le jour 是项目实现的常见书面表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1729,7 +1717,7 @@
   },
   {
     "lemma": "donner la priorité à + nom",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q21 补] 优先考虑…… [Codex 建议：选项优先；议论文和政策主题中的高频正式表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1741,7 +1729,7 @@
   },
   {
     "lemma": "la prise en compte de + nom",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q21 补] 对……的考虑；把……纳入考虑 [Codex 建议：正确选项与 recueillir l'avis 构成常见同义改写]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1753,7 +1741,7 @@
   },
   {
     "lemma": "le caractère provisoire de + nom",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q21 补] ……的临时性质 [Codex 建议：选项优先；正式文本中概括项目性质的常见结构]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1765,7 +1753,7 @@
   },
   {
     "lemma": "le mobilier urbain",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q21 补] 城市公共设施；街道家具 [Codex 建议：城市规划和公共空间主题的核心名词]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1777,7 +1765,7 @@
   },
   {
     "lemma": "faire son apparition",
-    "pos": "locution verbale",
+    "pos": "expr",
     "zh": "[T3Q21 补] 出现；亮相 [Codex 建议：新闻和说明文中替换 apparaître 的常见表达]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1789,7 +1777,7 @@
   },
   {
     "lemma": "un riverain",
-    "pos": "nom",
+    "pos": "noun",
     "zh": "[T3Q21 补] 附近居民；沿街居民 [Codex 建议：公共工程和邻里意见题中的高频角色词]",
     "lesson": "L29",
     "source_lesson": "L29",
@@ -1798,5 +1786,29 @@
     "raw": "un riverain",
     "fem": "une riveraine",
     "fem_raw": "une riveraine"
+  },
+  {
+    "lemma": "la consommation de chocolat",
+    "pos": "noun",
+    "zh": "[T3Q12] 巧克力的摄入量；巧克力消费量",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "NOMS",
+    "example": "Une consommation de chocolat pourrait être une stratégie efficace.",
+    "raw": "la consommation de chocolat",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "l'année qui débute",
+    "pos": "expr",
+    "zh": "[T3Q20 补] 刚开始的一年；新的一年 [Codex 建议：新年贺信中用来指刚刚开始的新一年]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "AUTRES",
+    "example": "Je vous souhaite beaucoup de bonheur avec cette année qui débute.",
+    "raw": "l'année qui débute",
+    "fem": null,
+    "fem_raw": null
   }
 ]
