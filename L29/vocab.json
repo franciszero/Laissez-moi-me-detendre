@@ -410,7 +410,7 @@
   {
     "lemma": "partager",
     "pos": "verbe",
-    "zh": "分享；分担",
+    "zh": "[T3Q10] 分享；分担",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -422,7 +422,7 @@
   {
     "lemma": "la prise de vue",
     "pos": "nom",
-    "zh": "拍摄；摄影作品",
+    "zh": "[T3Q10] 拍摄；摄影作品",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -434,7 +434,7 @@
   {
     "lemma": "gagner",
     "pos": "verbe",
-    "zh": "赢得；赚取",
+    "zh": "[T3Q10] 赢得；赚取",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -446,7 +446,7 @@
   {
     "lemma": "diminuer",
     "pos": "verbe",
-    "zh": "减少；降低",
+    "zh": "[T3Q12] 减少；降低",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -458,7 +458,7 @@
   {
     "lemma": "réduire",
     "pos": "verbe",
-    "zh": "减少；降低",
+    "zh": "[T3Q12] 减少；降低",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -470,7 +470,7 @@
   {
     "lemma": "baisser",
     "pos": "verbe",
-    "zh": "下降；降低",
+    "zh": "[T3Q12] 下降；降低",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -494,7 +494,7 @@
   {
     "lemma": "s'exiler",
     "pos": "verbe pronominal",
-    "zh": "流亡；远离家乡生活",
+    "zh": "[T3Q14] 流亡；远离家乡生活",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -506,7 +506,7 @@
   {
     "lemma": "le manque",
     "pos": "nom",
-    "zh": "缺少；不足",
+    "zh": "[T3Q14] 缺少；不足",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -518,7 +518,7 @@
   {
     "lemma": "la formation",
     "pos": "nom",
-    "zh": "培训；教育；形成",
+    "zh": "[T3Q14] 培训；教育；形成",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -530,7 +530,7 @@
   {
     "lemma": "le salaire",
     "pos": "nom",
-    "zh": "工资；薪水",
+    "zh": "[T3Q14] 工资；薪水",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -542,7 +542,7 @@
   {
     "lemma": "faciliter",
     "pos": "verbe",
-    "zh": "使容易；促进",
+    "zh": "[T3Q16] 使容易；促进",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -554,7 +554,7 @@
   {
     "lemma": "la rencontre",
     "pos": "nom",
-    "zh": "会面；相遇；比赛",
+    "zh": "[T3Q16] 会面；相遇；比赛",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -566,7 +566,7 @@
   {
     "lemma": "l'entraîneur",
     "pos": "nom",
-    "zh": "教练",
+    "zh": "[T3Q16] 教练；训练员",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -674,7 +674,7 @@
   {
     "lemma": "l'alimentation",
     "pos": "nom",
-    "zh": "饮食；食品供给",
+    "zh": "[T3Q9/Q12] 饮食；食品供给",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -686,7 +686,7 @@
   {
     "lemma": "faire partie de",
     "pos": "locution verbale",
-    "zh": "属于；是……的一部分",
+    "zh": "[T3Q10] 属于；是……的一部分",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -698,7 +698,7 @@
   {
     "lemma": "participer à",
     "pos": "locution verbale",
-    "zh": "参加；参与",
+    "zh": "[T3Q10] 参加；参与",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -710,7 +710,7 @@
   {
     "lemma": "le séjour",
     "pos": "nom",
-    "zh": "逗留；住宿；旅行期间",
+    "zh": "[T3Q10] 逗留；住宿；旅行期间",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -722,7 +722,7 @@
   {
     "lemma": "le concours",
     "pos": "nom",
-    "zh": "竞赛；考试；选拔",
+    "zh": "[T3Q10] 竞赛；考试；选拔",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -734,7 +734,7 @@
   {
     "lemma": "être l'occasion de + infinitif",
     "pos": "locution verbale",
-    "zh": "是做某事的机会",
+    "zh": "[T3Q11] 是做某事的机会",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -746,7 +746,7 @@
   {
     "lemma": "pouvoir",
     "pos": "verbe",
-    "zh": "能够；可以",
+    "zh": "[T3Q11] 能够；可以",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -758,7 +758,7 @@
   {
     "lemma": "pendant",
     "pos": "préposition",
-    "zh": "在……期间；持续",
+    "zh": "[T3Q11] 在……期间；持续",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -770,7 +770,7 @@
   {
     "lemma": "dialoguer avec le personnel enseignant",
     "pos": "locution verbale",
-    "zh": "与教职人员交流",
+    "zh": "[T3Q11] 与教职人员交流",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -780,21 +780,9 @@
     "fem_raw": null
   },
   {
-    "lemma": "la consommation de chocolat",
-    "pos": "nom",
-    "zh": "巧克力的摄入；食用巧克力",
-    "lesson": "L29",
-    "source_lesson": "L29",
-    "category": "CORE_VOCAB",
-    "example": "Une consommation de chocolat pourrait être une stratégie efficace.",
-    "raw": "la consommation de chocolat",
-    "fem": null,
-    "fem_raw": null
-  },
-  {
     "lemma": "une stratégie efficace",
     "pos": "nom",
-    "zh": "一种有效策略",
+    "zh": "[T3Q12] 有效策略",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -806,7 +794,7 @@
   {
     "lemma": "l'une de l'autre",
     "pos": "locution pronominale",
-    "zh": "彼此；两者相互",
+    "zh": "[T3Q13] 彼此；一个离另一个",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -818,7 +806,7 @@
   {
     "lemma": "la protection contre les rayons du soleil",
     "pos": "nom",
-    "zh": "防护太阳光线；防晒",
+    "zh": "[T3Q12] 防护太阳光线；防晒",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -830,7 +818,7 @@
   {
     "lemma": "utiliser",
     "pos": "verbe",
-    "zh": "使用；利用",
+    "zh": "[T3Q12] 使用；利用",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -842,7 +830,7 @@
   {
     "lemma": "la crème solaire",
     "pos": "nom",
-    "zh": "防晒霜",
+    "zh": "[T3Q12 补] 防晒霜 [Codex 建议：老师说可不背，但属于旅行和健康场景常见实物词]",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -854,7 +842,7 @@
   {
     "lemma": "avoir en commun",
     "pos": "locution verbale",
-    "zh": "有共同之处；共同拥有",
+    "zh": "[T3Q13] 有共同之处；共同拥有",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -866,7 +854,7 @@
   {
     "lemma": "décider de + infinitif",
     "pos": "locution verbale",
-    "zh": "决定做某事",
+    "zh": "[T3Q14] 决定做某事",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -878,7 +866,7 @@
   {
     "lemma": "partir à l'étranger",
     "pos": "locution verbale",
-    "zh": "去国外；出国",
+    "zh": "[T3Q14] 去国外；出国",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -890,7 +878,7 @@
   {
     "lemma": "obtenir un emploi",
     "pos": "locution verbale",
-    "zh": "获得工作",
+    "zh": "[T3Q14] 获得工作",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -902,7 +890,7 @@
   {
     "lemma": "le stage",
     "pos": "nom",
-    "zh": "实习；培训期",
+    "zh": "[T3Q14] 实习；培训期",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -914,7 +902,7 @@
   {
     "lemma": "un jeune diplômé",
     "pos": "nom",
-    "zh": "年轻毕业生",
+    "zh": "[T3Q14] 年轻毕业生",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -926,7 +914,7 @@
   {
     "lemma": "revenir en classe",
     "pos": "locution verbale",
-    "zh": "回到教室；返校上课",
+    "zh": "[T3Q15] 回到教室；返校上课",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -938,7 +926,7 @@
   {
     "lemma": "faire ses devoirs",
     "pos": "locution verbale",
-    "zh": "做作业",
+    "zh": "[T3Q15] 做作业",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -950,7 +938,7 @@
   {
     "lemma": "permettre à quelqu'un de + infinitif",
     "pos": "locution verbale",
-    "zh": "允许某人做某事；使某人能够做某事",
+    "zh": "[T3Q15] 允许某人做某事；使某人能够做某事",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -962,7 +950,7 @@
   {
     "lemma": "faire son travail du soir",
     "pos": "locution verbale",
-    "zh": "完成晚间作业",
+    "zh": "[T3Q15] 完成晚间作业",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -974,7 +962,7 @@
   {
     "lemma": "supprimer",
     "pos": "verbe",
-    "zh": "删除；取消；废除",
+    "zh": "[T3Q15] 删除；取消；废除",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -986,7 +974,7 @@
   {
     "lemma": "l'établissement",
     "pos": "nom",
-    "zh": "机构；学校；场所",
+    "zh": "[T3Q15] 机构；学校；场所",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -998,7 +986,7 @@
   {
     "lemma": "permettre",
     "pos": "verbe",
-    "zh": "允许；使能够",
+    "zh": "[T3Q16] 允许；使能够",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1010,7 +998,7 @@
   {
     "lemma": "l'accès égal au sport",
     "pos": "nom",
-    "zh": "平等参与体育运动的机会",
+    "zh": "[T3Q16] 平等参与体育运动的机会",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1022,7 +1010,7 @@
   {
     "lemma": "accompagner",
     "pos": "verbe",
-    "zh": "陪伴；协助",
+    "zh": "[T3Q16] 陪伴；协助",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1130,7 +1118,7 @@
   {
     "lemma": "encourager quelqu'un à + infinitif",
     "pos": "locution verbale",
-    "zh": "鼓励某人做某事",
+    "zh": "[T3Q16] 鼓励某人做某事",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1142,7 +1130,7 @@
   {
     "lemma": "avoir de l'appétit pour + infinitif",
     "pos": "locution verbale",
-    "zh": "渴望做某事；对做某事有兴致",
+    "zh": "[T3Q17 补] 渴望做某事；对做某事有兴致 [Codex 建议：语言学习主题中可把“好奇心”改写为对探索世界的兴趣；老师归属待确认]",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1202,7 +1190,7 @@
   {
     "lemma": "le diplôme",
     "pos": "nom",
-    "zh": "文凭；毕业证书",
+    "zh": "[T3Q14] 文凭；毕业证书",
     "lesson": "L29",
     "source_lesson": "L29",
     "category": "CORE_VOCAB",
@@ -1352,6 +1340,282 @@
     "category": "AUTRES",
     "example": "Les parents peuvent venir chercher leurs enfants après les cours.",
     "raw": "venir chercher quelqu'un / quelque chose",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "la cuisine",
+    "pos": "nom",
+    "zh": "[T3Q9] 烹饪；菜肴；菜系",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "J'aime la cuisine française.",
+    "raw": "la cuisine",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "proposer",
+    "pos": "verbe",
+    "zh": "[T3Q10] 提出；提供；建议",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Que propose ce concours ?",
+    "raw": "proposer",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "un enseignant",
+    "pos": "nom",
+    "zh": "[T3Q11] 教师；老师",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Les parents pourront dialoguer avec le personnel enseignant.",
+    "raw": "un enseignant",
+    "fem": "une enseignante",
+    "fem_raw": "une enseignante"
+  },
+  {
+    "lemma": "enseigner",
+    "pos": "verbe",
+    "zh": "[T3Q11] 教；教授",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Elle enseigne le français dans cette école.",
+    "raw": "enseigner",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "un chercheur",
+    "pos": "nom",
+    "zh": "[T3Q12] 研究人员；研究者",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "D'après les chercheurs, trois carrés de chocolat suffiraient.",
+    "raw": "un chercheur",
+    "fem": "une chercheuse",
+    "fem_raw": "une chercheuse"
+  },
+  {
+    "lemma": "conseiller",
+    "pos": "verbe",
+    "zh": "[T3Q12] 建议；劝告",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Que conseillent ces chercheurs pour se protéger du soleil ?",
+    "raw": "conseiller",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "le soleil",
+    "pos": "nom",
+    "zh": "[T3Q12] 太阳；阳光",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Il faut se protéger du soleil.",
+    "raw": "le soleil",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "à base de",
+    "pos": "locution prépositive",
+    "zh": "[T3Q12] 以……为原料；基于",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Cette crème est à base de cacao.",
+    "raw": "à base de",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "la consommation",
+    "pos": "nom",
+    "zh": "[T3Q12] 消费；消耗；摄入量",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Il faut diminuer sa consommation de chocolat.",
+    "raw": "la consommation",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "quotidiennement",
+    "pos": "adverbe",
+    "zh": "[T3Q12] 每天；日常地",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Il conseille de manger quotidiennement du chocolat.",
+    "raw": "quotidiennement",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "suivre un traitement",
+    "pos": "locution verbale",
+    "zh": "[T3Q12] 接受治疗；按疗程治疗",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Elle doit suivre un traitement pendant trois mois.",
+    "raw": "suivre un traitement",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "une jumelle",
+    "pos": "nom",
+    "zh": "[T3Q13] 双胞胎姐妹中的一个",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Ces jumelles se sont retrouvées vingt-neuf ans plus tard.",
+    "raw": "une jumelle",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "l'un après l'autre / l'une après l'autre",
+    "pos": "locution pronominale",
+    "zh": "[T3Q13] 一个接一个；依次",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Les élèves entrent l'un après l'autre.",
+    "raw": "l'un après l'autre / l'une après l'autre",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "faible",
+    "pos": "adjectif",
+    "zh": "[T3Q14] 弱的；低的；少的",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Les salaires proposés sont trop faibles.",
+    "raw": "faible",
+    "fem": "faible",
+    "fem_raw": "faible"
+  },
+  {
+    "lemma": "le travail à la maison",
+    "pos": "nom",
+    "zh": "[T3Q15] 家庭作业；在家完成的学习任务",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "L'école ne supprime pas totalement le travail à la maison.",
+    "raw": "le travail à la maison",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "surveiller",
+    "pos": "verbe",
+    "zh": "[T3Q15] 监督；看管",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Un enseignant surveille les élèves pendant leurs devoirs.",
+    "raw": "surveiller",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "être spécialisé en + domaine",
+    "pos": "locution verbale",
+    "zh": "[T3Q16] 专攻……；专门从事……",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Cet entraîneur est spécialisé en handisport.",
+    "raw": "être spécialisé en + domaine",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "une journée portes ouvertes",
+    "pos": "nom",
+    "zh": "[T3Q11 补] 校园开放日；机构开放日 [Codex 建议：学校通知和活动公告的高频标题]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "L'école organise une journée portes ouvertes samedi.",
+    "raw": "une journée portes ouvertes",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "la difficulté de + infinitif",
+    "pos": "nom",
+    "zh": "[T3Q14 补] 做某事的困难 [Codex 建议：选项优先；议论文和主题概括题中的高频名词化结构]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "L'article évoque la difficulté de trouver un premier emploi.",
+    "raw": "la difficulté de + infinitif",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "la nécessité de + infinitif",
+    "pos": "nom",
+    "zh": "[T3Q14 补] 做某事的必要性 [Codex 建议：选项优先；正式表达“必须做某事”的常见结构]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Le texte parle de la nécessité de s'exiler pour travailler.",
+    "raw": "la nécessité de + infinitif",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "alléger",
+    "pos": "verbe",
+    "zh": "[T3Q15 补] 减轻；缓和 [Codex 建议：与原文 alourdir 构成负担轻重的高频反义组]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Cette mesure pourrait alléger l'emploi du temps des professeurs.",
+    "raw": "alléger",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "alourdir",
+    "pos": "verbe",
+    "zh": "[T3Q15 补] 加重；使负担更重 [Codex 建议：教育、工作量和社会议题中常与 alléger 对照]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Les devoirs alourdissent des journées déjà longues.",
+    "raw": "alourdir",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "être en situation de handicap",
+    "pos": "locution verbale",
+    "zh": "[T3Q16 补] 处于残障状态；身有残障 [Codex 建议：社会政策题中较中性、正式的常见表达]",
+    "lesson": "L29",
+    "source_lesson": "L29",
+    "category": "CORE_VOCAB",
+    "example": "Le service accompagne ceux qui sont en situation de handicap.",
+    "raw": "être en situation de handicap",
     "fem": null,
     "fem_raw": null
   }
