@@ -2,7 +2,7 @@
   {
     "lemma": "le CV",
     "pos": "nom",
-    "zh": "简历",
+    "zh": "[T4Q11] 简历",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -14,7 +14,7 @@
   {
     "lemma": "à l'avance",
     "pos": "adverbe",
-    "zh": "提前；预先",
+    "zh": "[T4Q18] 提前；预先",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -26,7 +26,7 @@
   {
     "lemma": "acheter",
     "pos": "verbe",
-    "zh": "买；购买",
+    "zh": "[T4Q16] 买；购买",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -38,7 +38,7 @@
   {
     "lemma": "un animal domestique",
     "pos": "nom",
-    "zh": "宠物；家养动物",
+    "zh": "[T4Q13] 宠物；家养动物",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -50,7 +50,7 @@
   {
     "lemma": "apporter",
     "pos": "verbe",
-    "zh": "带来",
+    "zh": "[T4Q9] 带来",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -62,7 +62,7 @@
   {
     "lemma": "un artisan",
     "pos": "nom",
-    "zh": "手艺人；工匠",
+    "zh": "[T4Q20] 手艺人；工匠",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -74,7 +74,7 @@
   {
     "lemma": "l'atelier",
     "pos": "nom",
-    "zh": "工坊；车间；工作室；学习小组",
+    "zh": "[T4Q20] 工坊；车间；工作室；学习小组",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -86,7 +86,7 @@
   {
     "lemma": "au contraire",
     "pos": "expression",
-    "zh": "相反；反而",
+    "zh": "[L30课前复习] 相反；反而",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -98,7 +98,7 @@
   {
     "lemma": "le bateau",
     "pos": "nom",
-    "zh": "船",
+    "zh": "[T4Q5] 船",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -110,7 +110,7 @@
   {
     "lemma": "le bâtiment",
     "pos": "nom",
-    "zh": "建筑物",
+    "zh": "[T4Q4] 建筑物",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -122,7 +122,7 @@
   {
     "lemma": "cependant",
     "pos": "conjonction",
-    "zh": "然而；不过",
+    "zh": "[L30课前复习] 然而；不过",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -134,7 +134,7 @@
   {
     "lemma": "un collègue",
     "pos": "nom",
-    "zh": "同事",
+    "zh": "[T4Q9] 同事",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -146,7 +146,7 @@
   {
     "lemma": "considérable",
     "pos": "adjectif",
-    "zh": "相当大的；可观的",
+    "zh": "[L30课前复习] 相当大的；可观的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -158,7 +158,7 @@
   {
     "lemma": "le courant marin",
     "pos": "nom",
-    "zh": "海流；洋流",
+    "zh": "[T4Q5] 海流；洋流",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -170,7 +170,7 @@
   {
     "lemma": "démarrer",
     "pos": "verbe",
-    "zh": "启动；开始",
+    "zh": "[T4Q20] 启动；开始",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -182,7 +182,7 @@
   {
     "lemma": "l'entreprise",
     "pos": "nom",
-    "zh": "企业；公司",
+    "zh": "[T4Q11/Q17] 企业；公司",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -194,7 +194,7 @@
   {
     "lemma": "un gagnant",
     "pos": "nom",
-    "zh": "赢家；获胜者",
+    "zh": "[T4Q7] 赢家；获胜者",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -206,7 +206,7 @@
   {
     "lemma": "guider",
     "pos": "verbe",
-    "zh": "引导；带领",
+    "zh": "[T4Q5] 引导；带领",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -218,7 +218,7 @@
   {
     "lemma": "l'hiver",
     "pos": "nom",
-    "zh": "冬天",
+    "zh": "[T4Q6] 冬天",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -230,7 +230,7 @@
   {
     "lemma": "imaginer",
     "pos": "verbe",
-    "zh": "想象",
+    "zh": "[T4Q16] 想象",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -242,7 +242,7 @@
   {
     "lemma": "incroyable",
     "pos": "adjectif",
-    "zh": "难以置信的；惊人的",
+    "zh": "[L30课前复习] 难以置信的；惊人的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -254,7 +254,7 @@
   {
     "lemma": "inférieur à",
     "pos": "adjectif",
-    "zh": "低于；少于",
+    "zh": "[L30课前复习] 低于；少于",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -266,7 +266,7 @@
   {
     "lemma": "informer",
     "pos": "verbe",
-    "zh": "通知；告知",
+    "zh": "[T4Q6/Q9] 通知；告知",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -278,7 +278,7 @@
   {
     "lemma": "interdit",
     "pos": "adjectif",
-    "zh": "被禁止的；不允许的",
+    "zh": "[T4Q4] 被禁止的；不允许的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -290,7 +290,7 @@
   {
     "lemma": "l'intégration",
     "pos": "nom",
-    "zh": "融入；融合",
+    "zh": "[T4Q19] 融入；融合",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -302,7 +302,7 @@
   {
     "lemma": "le jeu",
     "pos": "nom",
-    "zh": "游戏；竞猜活动",
+    "zh": "[T4Q7] 游戏；竞猜活动",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -314,7 +314,7 @@
   {
     "lemma": "laisser",
     "pos": "verbe",
-    "zh": "留下；让",
+    "zh": "[T4Q4] 留下；让",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -326,7 +326,7 @@
   {
     "lemma": "les nouvelles",
     "pos": "nom",
-    "zh": "近况；消息",
+    "zh": "[T4Q10] 近况；消息",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -338,7 +338,7 @@
   {
     "lemma": "offrir",
     "pos": "verbe",
-    "zh": "提供；赠送",
+    "zh": "[T4Q13] 提供；赠送",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -350,7 +350,7 @@
   {
     "lemma": "oser",
     "pos": "verbe",
-    "zh": "敢；敢于",
+    "zh": "[L30课前复习] 敢；敢于",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -362,7 +362,7 @@
   {
     "lemma": "ouvrir",
     "pos": "verbe",
-    "zh": "打开；开放",
+    "zh": "[T4Q6] 打开；开放",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -374,7 +374,7 @@
   {
     "lemma": "prévenir",
     "pos": "verbe",
-    "zh": "通知；提醒",
+    "zh": "[T4Q9] 通知；提醒",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -386,7 +386,7 @@
   {
     "lemma": "le prix",
     "pos": "nom",
-    "zh": "价格；奖项",
+    "zh": "[T4Q7] 价格；奖项",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -398,7 +398,7 @@
   {
     "lemma": "la promenade",
     "pos": "nom",
-    "zh": "散步；漫游；观光",
+    "zh": "[T4Q5] 散步；漫游；观光",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -410,7 +410,7 @@
   {
     "lemma": "la publicité",
     "pos": "nom",
-    "zh": "广告",
+    "zh": "[T4Q7] 广告",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -422,7 +422,7 @@
   {
     "lemma": "le renseignement",
     "pos": "nom",
-    "zh": "信息；咨询",
+    "zh": "[T4Q5] 信息；咨询",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -434,7 +434,7 @@
   {
     "lemma": "reporter",
     "pos": "verbe",
-    "zh": "推迟；延期",
+    "zh": "[T4Q9] 推迟；延期",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -446,7 +446,7 @@
   {
     "lemma": "réservé",
     "pos": "adjectif",
-    "zh": "预留的；专供的",
+    "zh": "[T4Q6/Q11] 预留的；专供的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -458,7 +458,7 @@
   {
     "lemma": "le retour",
     "pos": "nom",
-    "zh": "返回；归来",
+    "zh": "[T4Q10] 返回；归来",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -470,7 +470,7 @@
   {
     "lemma": "s'apercevoir",
     "pos": "verbe pronominal",
-    "zh": "注意到；察觉到",
+    "zh": "[L30课前复习] 注意到；察觉到",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -482,7 +482,7 @@
   {
     "lemma": "se garer",
     "pos": "verbe pronominal",
-    "zh": "停车；把车停好",
+    "zh": "[T4Q4] 停车；把车停好",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -494,7 +494,7 @@
   {
     "lemma": "le service",
     "pos": "nom",
-    "zh": "服务；部门",
+    "zh": "[T4Q9] 服务；部门",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -506,7 +506,7 @@
   {
     "lemma": "stationner",
     "pos": "verbe",
-    "zh": "停车；停放",
+    "zh": "[T4Q4] 停车；停放",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -518,7 +518,7 @@
   {
     "lemma": "supérieur à",
     "pos": "adjectif",
-    "zh": "高于；优于",
+    "zh": "[L30课前复习] 高于；优于",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -530,7 +530,7 @@
   {
     "lemma": "supplémentaire",
     "pos": "adjectif",
-    "zh": "额外的；补充的",
+    "zh": "[L30课前复习] 额外的；补充的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -542,7 +542,7 @@
   {
     "lemma": "le travail",
     "pos": "nom",
-    "zh": "工作；工作量",
+    "zh": "[T4Q4] 工作；工作量",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -554,7 +554,7 @@
   {
     "lemma": "les travaux",
     "pos": "nom",
-    "zh": "工程；施工",
+    "zh": "[T4Q4] 工程；施工",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -566,7 +566,7 @@
   {
     "lemma": "le vent",
     "pos": "nom",
-    "zh": "风",
+    "zh": "[T4Q5] 风",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -578,7 +578,7 @@
   {
     "lemma": "la visite",
     "pos": "nom",
-    "zh": "参观；访问",
+    "zh": "[T4Q5/Q7] 参观；访问",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "CORE_VOCAB",
@@ -590,7 +590,7 @@
   {
     "lemma": "il est interdit de + infinitif",
     "pos": "expr",
-    "zh": "禁止做某事",
+    "zh": "[T4Q4] 禁止做某事",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -602,7 +602,7 @@
   {
     "lemma": "en mer",
     "pos": "expr",
-    "zh": "在海上；出海",
+    "zh": "[T4Q5] 在海上；出海",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -614,7 +614,7 @@
   {
     "lemma": "marin",
     "pos": "adj",
-    "zh": "海洋的；海上的",
+    "zh": "[T4Q5] 海洋的；海上的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "ADJECTIFS",
@@ -626,7 +626,7 @@
   {
     "lemma": "accueillir",
     "pos": "verb",
-    "zh": "接待；欢迎",
+    "zh": "[T4Q6] 接待；欢迎",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -638,7 +638,7 @@
   {
     "lemma": "gagner",
     "pos": "verb",
-    "zh": "赢得；获胜",
+    "zh": "[T4Q7] 赢得；获胜",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -650,7 +650,7 @@
   {
     "lemma": "dès maintenant",
     "pos": "expr",
-    "zh": "从现在开始；即刻起",
+    "zh": "[T4Q7] 从现在开始；即刻起",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -662,7 +662,7 @@
   {
     "lemma": "un cadeau",
     "pos": "noun",
-    "zh": "礼物",
+    "zh": "[T4Q7] 礼物",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -674,7 +674,7 @@
   {
     "lemma": "le concours",
     "pos": "noun",
-    "zh": "比赛；竞赛；考试",
+    "zh": "[T4Q8/Q20] 比赛；竞赛；考试",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -686,7 +686,7 @@
   {
     "lemma": "avancer un rendez-vous",
     "pos": "expr",
-    "zh": "把约会或预约提前",
+    "zh": "[T4Q9] 把约会或预约提前",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -698,7 +698,7 @@
   {
     "lemma": "concerné",
     "pos": "adj",
-    "zh": "相关的；有关的",
+    "zh": "[T4Q9] 相关的；有关的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "ADJECTIFS",
@@ -710,7 +710,7 @@
   {
     "lemma": "s'inscrire à un cours",
     "pos": "expr",
-    "zh": "报名参加课程",
+    "zh": "[T4Q11] 报名参加课程",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -722,7 +722,7 @@
   {
     "lemma": "lointain",
     "pos": "adj",
-    "zh": "遥远的",
+    "zh": "[T4Q12] 遥远的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "ADJECTIFS",
@@ -734,7 +734,7 @@
   {
     "lemma": "une aventure",
     "pos": "noun",
-    "zh": "冒险；奇遇",
+    "zh": "[T4Q12] 冒险；奇遇",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -746,7 +746,7 @@
   {
     "lemma": "le sondage",
     "pos": "noun",
-    "zh": "调查；民意调查",
+    "zh": "[T4Q12] 调查；民意调查",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -758,7 +758,7 @@
   {
     "lemma": "souffrir de",
     "pos": "expr",
-    "zh": "受……之苦；患有",
+    "zh": "[T4Q13] 受……之苦；患有",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -770,7 +770,7 @@
   {
     "lemma": "les personnes âgées",
     "pos": "noun",
-    "zh": "老年人",
+    "zh": "[T4Q13] 老年人",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -782,7 +782,7 @@
   {
     "lemma": "accompagner",
     "pos": "verb",
-    "zh": "陪伴；陪同",
+    "zh": "[T4Q13] 陪伴；陪同",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -794,7 +794,7 @@
   {
     "lemma": "le logement",
     "pos": "noun",
-    "zh": "住所；住房",
+    "zh": "[T4Q13] 住所；住房",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -806,7 +806,7 @@
   {
     "lemma": "quitter",
     "pos": "verb",
-    "zh": "离开（后直接接宾语）",
+    "zh": "[T4Q13] 离开（后直接接宾语）",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -818,7 +818,7 @@
   {
     "lemma": "la solitude",
     "pos": "noun",
-    "zh": "孤独；孤独状态",
+    "zh": "[T4Q13] 孤独；孤独状态",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -830,7 +830,7 @@
   {
     "lemma": "suivre un cours / une formation / un traitement",
     "pos": "expr",
-    "zh": "上课；参加培训；接受治疗",
+    "zh": "[T4Q13/Q20] 上课；参加培训；接受治疗",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -842,7 +842,7 @@
   {
     "lemma": "coûteux",
     "pos": "adj",
-    "zh": "昂贵的；成本高的",
+    "zh": "[T4Q13] 昂贵的；成本高的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "ADJECTIFS",
@@ -854,7 +854,7 @@
   {
     "lemma": "nécessiter",
     "pos": "verb",
-    "zh": "需要；必须要求",
+    "zh": "[T4Q13] 需要；必须要求",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -866,7 +866,7 @@
   {
     "lemma": "une assistance à domicile",
     "pos": "expr",
-    "zh": "居家协助；上门照护",
+    "zh": "[T4Q13] 居家协助；上门照护",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -878,7 +878,7 @@
   {
     "lemma": "une maison de retraite",
     "pos": "noun",
-    "zh": "养老院",
+    "zh": "[T4Q13] 养老院",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -890,7 +890,7 @@
   {
     "lemma": "avoir de l'appétit pour + infinitif",
     "pos": "expr",
-    "zh": "对做某事有强烈兴趣／渴望",
+    "zh": "[T4Q15] 对做某事有强烈兴趣／渴望",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -902,7 +902,7 @@
   {
     "lemma": "obéir",
     "pos": "verb",
-    "zh": "服从；听从",
+    "zh": "[T4Q15] 服从；听从",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -914,7 +914,7 @@
   {
     "lemma": "l'obéissance",
     "pos": "noun",
-    "zh": "服从；顺从",
+    "zh": "[T4Q15] 服从；顺从",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -926,7 +926,7 @@
   {
     "lemma": "la monnaie",
     "pos": "noun",
-    "zh": "零钱；货币；钱",
+    "zh": "[T4Q16] 零钱；货币；钱",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -938,7 +938,7 @@
   {
     "lemma": "contre",
     "pos": "prep",
-    "zh": "反对；与……交换",
+    "zh": "[T4Q16] 反对；与……交换",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -950,7 +950,7 @@
   {
     "lemma": "la passion",
     "pos": "noun",
-    "zh": "热爱；激情",
+    "zh": "[T4Q17] 热爱；激情",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -962,7 +962,7 @@
   {
     "lemma": "la motivation",
     "pos": "noun",
-    "zh": "动力；积极性",
+    "zh": "[T4Q17] 动力；积极性",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -974,7 +974,7 @@
   {
     "lemma": "l'enthousiasme",
     "pos": "noun",
-    "zh": "热情；热心",
+    "zh": "[T4Q17] 热情；热心",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -986,7 +986,7 @@
   {
     "lemma": "faire la preuve de",
     "pos": "expr",
-    "zh": "证明；展现",
+    "zh": "[T4Q17] 证明；展现",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -998,7 +998,7 @@
   {
     "lemma": "montrer",
     "pos": "verb",
-    "zh": "显示；展现；给……看",
+    "zh": "[T4Q17] 显示；展现；给……看",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -1010,7 +1010,7 @@
   {
     "lemma": "démontrer",
     "pos": "verb",
-    "zh": "证明；展现",
+    "zh": "[T4Q17] 证明；展现",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -1022,7 +1022,7 @@
   {
     "lemma": "avoir envie de + infinitif",
     "pos": "expr",
-    "zh": "想要做某事",
+    "zh": "[T4Q17] 想要做某事",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -1034,7 +1034,7 @@
   {
     "lemma": "le désir",
     "pos": "noun",
-    "zh": "愿望；渴望",
+    "zh": "[T4Q17] 愿望；渴望",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -1046,7 +1046,7 @@
   {
     "lemma": "décrocher un job",
     "pos": "expr",
-    "zh": "找到／拿下一份工作",
+    "zh": "[T4Q17] 找到／拿下一份工作",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -1058,7 +1058,7 @@
   {
     "lemma": "habituel",
     "pos": "adj",
-    "zh": "通常的；惯常的",
+    "zh": "[T4Q18] 通常的；惯常的",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "ADJECTIFS",
@@ -1070,7 +1070,7 @@
   {
     "lemma": "une famille nombreuse",
     "pos": "noun",
-    "zh": "多子女家庭",
+    "zh": "[T4Q18] 多子女家庭",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -1082,7 +1082,7 @@
   {
     "lemma": "le soir même",
     "pos": "expr",
-    "zh": "当天晚上",
+    "zh": "[T4Q18] 当天晚上",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
@@ -1094,7 +1094,7 @@
   {
     "lemma": "tenter",
     "pos": "verb",
-    "zh": "尝试；试图",
+    "zh": "[T4Q19] 尝试；试图",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "VERBES",
@@ -1106,7 +1106,7 @@
   {
     "lemma": "une association",
     "pos": "noun",
-    "zh": "协会；社团",
+    "zh": "[T4Q19] 协会；社团",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "NOMS",
@@ -1118,7 +1118,7 @@
   {
     "lemma": "vivre une expérience",
     "pos": "expr",
-    "zh": "体验一段经历",
+    "zh": "[T4Q19] 体验一段经历",
     "lesson": "L30",
     "source_lesson": "L30",
     "category": "AUTRES",
