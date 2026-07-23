@@ -1,0 +1,467 @@
+{
+  "groups": [
+    {
+      "id": "verb-interfaces-and-core-forms",
+      "label": "动词接口、现在时与时间词辨析",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "souffrir de interface",
+          "order": 10
+        },
+        {
+          "source_species": "souffrir present conjugation",
+          "order": 20
+        },
+        {
+          "source_species": "recevoir present conjugation",
+          "order": 30
+        },
+        {
+          "source_species": "se perdre present conjugation",
+          "order": 40
+        },
+        {
+          "source_species": "midi vs apres midi",
+          "order": 50
+        },
+        {
+          "source_species": "envoyer vs envier",
+          "order": 60
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l31-souffrir-de",
+          "order": 110,
+          "front": "补全：`Il souffre ___ stress.`",
+          "back": "固定接口 **souffrir de + nom**。",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_de",
+            "A2"
+          ],
+          "answer": "de"
+        },
+        {
+          "id": "l31-nous-recevons",
+          "order": 120,
+          "front": "补全：`Nous ___ votre message.`",
+          "back": "recevoir 现在时 nous 形式：**recevons**。",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "present",
+            "irregular",
+            "A2"
+          ],
+          "answer": "recevons"
+        },
+        {
+          "id": "l31-envoie-catalogue",
+          "order": 130,
+          "front": "补全：`Je vous ___ le catalogue.`",
+          "back": "表示“发送”用 **envoie**；envie 是 envier 的形式。",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "present",
+            "irregular",
+            "A2"
+          ],
+          "answer": "envoie"
+        }
+      ]
+    },
+    {
+      "id": "messages-services-and-travel-lexicon",
+      "label": "通知、服务与旅行语境词汇",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "send request inform purpose",
+          "order": 10
+        },
+        {
+          "source_species": "gouter specialties",
+          "order": 20
+        },
+        {
+          "source_species": "plat vs assiette",
+          "order": 30
+        },
+        {
+          "source_species": "de qualite postmodifier",
+          "order": 40
+        },
+        {
+          "source_species": "depart retraite word family",
+          "order": 50
+        },
+        {
+          "source_species": "message audience headers",
+          "order": 60
+        },
+        {
+          "source_species": "sejour vs journey",
+          "order": 70
+        },
+        {
+          "source_species": "restauration vs restaurant",
+          "order": 80
+        },
+        {
+          "source_species": "bas prix vs raisonnable",
+          "order": 90
+        },
+        {
+          "source_species": "vol flight theft context",
+          "order": 100
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l31-gouter-specialites",
+          "order": 210,
+          "front": "补全：`Je peux ___ des spécialités locales.`",
+          "back": "“品尝”用 **goûter**。",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "answer": "goûter"
+        },
+        {
+          "id": "l31-service-qualite",
+          "order": 220,
+          "front": "补全：`un service ___ qualité`",
+          "back": "后置品质说明是 **de qualité**。",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "answer": "de"
+        },
+        {
+          "id": "l31-restauration-sector",
+          "order": 230,
+          "front": "补全：`Elle travaille dans la ___.`",
+          "back": "行业/餐饮服务用 **restauration**。",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "answer": "restauration"
+        }
+      ]
+    },
+    {
+      "id": "reading-option-semantics",
+      "label": "阅读选项语义与篇章立场",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "tcf t3 opposing views",
+          "order": 10
+        },
+        {
+          "source_species": "voyage journey not tourism",
+          "order": 20
+        },
+        {
+          "source_species": "head noun before modifier",
+          "order": 30
+        },
+        {
+          "source_species": "couchette word family",
+          "order": 40
+        },
+        {
+          "source_species": "abstract option concrete evidence",
+          "order": 50
+        },
+        {
+          "source_species": "negation progression elimination",
+          "order": 60
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l31-head-noun-first",
+          "order": 310,
+          "front": "选项为 voyage / week-end / séjour / restauration 时，第一步看什么？",
+          "back": "先比较**中心名词**，再处理修饰语；不要被共享形容词带走。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ]
+        },
+        {
+          "id": "l31-couchette",
+          "order": 320,
+          "front": "夜车广告中的 `six couchettes` 是什么？",
+          "back": "是六个**卧铺位**，不是六节车厢。",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "same_surface_diff_meaning",
+            "A2"
+          ],
+          "answer": "卧铺位"
+        },
+        {
+          "id": "l31-negation-elimination",
+          "order": 330,
+          "front": "原文说“不仅仅在于时尚”，能否据此选择“流行服装”？",
+          "back": "不能。否定后的推进内容才是作者要强调的方向。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "B1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "education-events-and-participation",
+      "label": "教育、求职与活动参与表达",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "pratiquer a sport",
+          "order": 10
+        },
+        {
+          "source_species": "preparer vs se preparer",
+          "order": 20
+        },
+        {
+          "source_species": "quete recherche de",
+          "order": 30
+        },
+        {
+          "source_species": "orientation by life stage",
+          "order": 40
+        },
+        {
+          "source_species": "titulaire de degree",
+          "order": 50
+        },
+        {
+          "source_species": "souhaiter constructions",
+          "order": 60
+        },
+        {
+          "source_species": "assister vs participer",
+          "order": 70
+        },
+        {
+          "source_species": "piece room play",
+          "order": 80
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l31-titulaire-de",
+          "order": 410,
+          "front": "补全：`Je suis titulaire ___ une licence.`",
+          "back": "学历接口是 **titulaire de**。",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "transitive_direct",
+            "A2"
+          ],
+          "answer": "d'"
+        },
+        {
+          "id": "l31-assister-conference",
+          "order": 420,
+          "front": "只坐在台下听宣讲会，用 assister 还是 participer？",
+          "back": "用 **assister à**；participer à 强调参与其中。",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "requires_a",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "answer": "assister"
+        },
+        {
+          "id": "l31-se-preparer-a",
+          "order": 430,
+          "front": "补全：`Les skieurs se préparent ___ la compétition.`",
+          "back": "为某事做准备：**se préparer à**。",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "requires_de",
+            "A2"
+          ],
+          "answer": "à"
+        }
+      ]
+    },
+    {
+      "id": "habits-training-and-word-families",
+      "label": "习惯、训练与词族改写",
+      "order": 50,
+      "species": [
+        {
+          "source_species": "se fixer objectifs",
+          "order": 10
+        },
+        {
+          "source_species": "bouger movement exercise",
+          "order": 20
+        },
+        {
+          "source_species": "de facon maniere agreement",
+          "order": 30
+        },
+        {
+          "source_species": "se mettre remettre a",
+          "order": 40
+        },
+        {
+          "source_species": "noun verb paraphrase",
+          "order": 50
+        },
+        {
+          "source_species": "a la mode expression",
+          "order": 60
+        },
+        {
+          "source_species": "non traite word family",
+          "order": 70
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l31-fixer-objectifs",
+          "order": 510,
+          "front": "补全：`Il faut se ___ des objectifs réalistes.`",
+          "back": "固定搭配 **se fixer des objectifs**。",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "sentence_frame",
+            "A2"
+          ],
+          "answer": "fixer"
+        },
+        {
+          "id": "l31-facon-reguliere",
+          "order": 520,
+          "front": "补全：`bouger de façon ___`",
+          "back": "façon 为阴性，因此是 **régulière**。",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "same_surface_diff_meaning",
+            "A2"
+          ],
+          "answer": "régulière"
+        },
+        {
+          "id": "l31-remettre-a",
+          "order": 530,
+          "front": "补全：`Elle se remet ___ courir.`",
+          "back": "恢复做某事：**se remettre à + infinitif**。",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "agreement",
+            "gender_number",
+            "sentence_frame",
+            "A2"
+          ],
+          "answer": "à"
+        }
+      ]
+    },
+    {
+      "id": "dictionary-memory-and-timed-practice",
+      "label": "查词、记忆与限时阅读流程",
+      "order": 60,
+      "species": [
+        {
+          "source_species": "context imagery vocabulary",
+          "order": 10
+        },
+        {
+          "source_species": "targeted dictionary workflow",
+          "order": 20
+        },
+        {
+          "source_species": "memorize phrases word families",
+          "order": 30
+        },
+        {
+          "source_species": "staged timed reading practice",
+          "order": 40
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l31-context-image",
+          "order": 610,
+          "front": "查 `traité` 时，为什么不能只记一个中文词？",
+          "back": "它随语境改变；应同时记录当前意象、词族和搭配，例如 `fibre non traitée`。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "B1"
+          ]
+        },
+        {
+          "id": "l31-targeted-dictionary",
+          "order": 620,
+          "front": "四个选项都陌生时，查词顺序是什么？",
+          "back": "先看题干与中心名词，再查改变选项类别或语义方向的关键词，最后才补低影响词。",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ]
+        },
+        {
+          "id": "l31-timebox-reading",
+          "order": 630,
+          "front": "按 L31 的限时方案，20题整套最长不超过多少分钟？",
+          "back": "最长 **60** 分钟；目标是40分钟。前10题不查词，11–20题先独立分析后有限查词。",
+          "answer": "60",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "B1"
+          ]
+        }
+      ]
+    }
+  ]
+}

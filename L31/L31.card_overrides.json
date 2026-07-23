@@ -1,0 +1,191 @@
+{
+  "souffrir de interface": {
+    "front": "补全：Il souffre ___ stress.",
+    "back": "答案：**de**。\n\nsouffrir 接原因、疾病或困扰时使用 souffrir de + nom；de 是这个搭配的一部分。\n\n判断原则：表达“受某事折磨/患某病”时保留 de；不要只背 souffrir 的“受苦”而丢掉接口。\n\n例：souffrir de stress；souffrir d'une maladie\n\n自检：用 souffrir de 口头说一个健康或压力场景。",
+    "answer": "de"
+  },
+  "souffrir present conjugation": {
+    "front": "补全：Nous ___ de la chaleur.",
+    "back": "答案：**souffrons**。\n\nsouffrir 的现在时为 je souffre, tu souffres, il/elle souffre, nous souffrons, vous souffrez, ils/elles souffrent。\n\n判断原则：看到 souffrir 不按普通 -ir 第二组套 -issons；直接调用这组现在时词干。\n\n例：je souffre；nous souffrons；vous souffrez；ils souffrent\n\n自检：依次说出 je/nous/vous/ils 四个形式。",
+    "answer": "souffrons"
+  },
+  "recevoir present conjugation": {
+    "front": "补全：Nous ___ votre message.",
+    "back": "答案：**recevons**。\n\nrecevoir 的现在时在单数用 reçoi-，nous/vous 用 recev-，ils/elles 用 reçoiv-。\n\n判断原则：根据人称切换词干，不要把反身代词加到非代词式 recevoir 上。\n\n例：je reçois；tu reçois；nous recevons；vous recevez；ils reçoivent\n\n自检：写出 je / nous / ils 三个形式并圈出词干变化。",
+    "answer": "recevons"
+  },
+  "se perdre present conjugation": {
+    "front": "补全：Vous ___ souvent dans cette ville.",
+    "back": "答案：**vous vous perdez**。\n\nse perdre 现在时为 je me perds, tu te perds, il/elle se perd, nous nous perdons, vous vous perdez, ils/elles se perdent。\n\n判断原则：先选反身代词，再按 perdre 变位；nous/vous 不能照单数形式拼。\n\n例：je me perds；nous nous perdons；vous vous perdez；elles se perdent\n\n自检：把 je、nous、elles 三个人称口头变位。",
+    "answer": "vous vous perdez"
+  },
+  "midi vs apres midi": {
+    "front": "选择：餐厅 12 h–14 h 营业属于 midi 还是 après-midi？",
+    "back": "答案：**midi**。\n\nmidi 可指中午或十二点；l'après-midi 指下午。12 h–14 h 的午间服务不能因为含 midi 就理解成下午。\n\n判断原则：先看具体营业时间和场景；midi≈noon/12:00，après-midi≈afternoon。\n\n例：à midi；service de douze heures à quatorze heures；l'après-midi\n\n自检：翻译：Nous nous retrouvons à midi.",
+    "answer": "midi"
+  },
+  "envoyer vs envier": {
+    "front": "补全：Je vous ___ le catalogue.",
+    "back": "答案：**envoie**。\n\nenvoyer 表发送、寄送；envier 表羡慕或渴望。两者拼写相近，但句法角色与语义不同。\n\n判断原则：句子出现“谁给谁发目录/信息”时选择 envoyer；不要因相似拼写联想到愿望义。\n\n例：Je vous envoie notre catalogue.；envier quelqu'un\n\n自检：判断：envier quelqu'un 是发送还是羡慕？",
+    "answer": "envoie"
+  },
+  "send request inform purpose": {
+    "front": "给出一句 Je vous envoie…，判断作者是在请求还是提供。",
+    "back": "判断信件目的时，先还原谁给谁发什么：envoyer/fournir 是提供，demander 是请求，informer/renseigner 是告知。\n\n判断原则：不要被 catalogue 等名词带偏成“写说明书”；先看动词和参与者角色。\n\n例：Je vous envoie notre catalogue.；demander des renseignements；informer quelqu'un\n\n自检：列出施事、收件人和发送物，再选写信目的。"
+  },
+  "gouter specialties": {
+    "front": "补全：J'aime voyager parce que je peux ___ des spécialités locales.",
+    "back": "答案：**goûter**。\n\ngoûter 作动词表示品尝；goûter des spécialités 表示品尝当地特色/特产，可用于旅行与文化话题。\n\n判断原则：需要表达文化体验时整块调用 goûter des spécialités，而不只记孤立的 goûter。\n\n例：goûter des spécialités；Vous pourrez goûter des spécialités locales.\n\n自检：用该表达回答“为什么喜欢旅行？”",
+    "answer": "goûter"
+  },
+  "plat vs assiette": {
+    "front": "选择：一道菜用 plat 还是 assiette？",
+    "back": "答案：**plat**。\n\nplat 在餐饮语境中表示一道菜，plat du jour 是今日菜/主厨推荐；盘子是 assiette。\n\n判断原则：看到烹饪课、菜谱、餐厅菜单时优先读成菜，不要因英文 plate 联想到盘子。\n\n例：un plat；le plat du jour；une assiette\n\n自检：补全：Le chef prépare plusieurs ___.",
+    "answer": "plat"
+  },
+  "de qualite postmodifier": {
+    "front": "补全：Nous proposons un service ___ qualité.",
+    "back": "答案：**de**。\n\n名词 + de qualité 表示“高质量的……”，相当于 of quality。\n\n判断原则：阅读时把 de qualité 与前面的 recettes/plats 整体解释，不要把 qualité 当独立目的。\n\n例：des recettes de qualité；un service de qualité\n\n自检：把“优质菜谱”写成法语。",
+    "answer": "de"
+  },
+  "depart retraite word family": {
+    "front": "补全：Nous organisons une fête pour son départ à la ___.",
+    "back": "答案：**retraite**。\n\nun départ à la retraite 指退休/退休离岗这一事件；un retraité/une retraitée 指退休人员。\n\n判断原则：听力出现庆祝、同事离开工作岗位时，优先判断 départ à la retraite，而不是普通离职。\n\n例：fêter un départ à la retraite；un retraité；une retraitée\n\n自检：选择：退休人员用 retraite 还是 retraité？",
+    "answer": "retraite"
+  },
+  "message audience headers": {
+    "front": "看到 Chers collègues 与 La direction du lycée，判断受众。",
+    "back": "题干 à qui s'adresse ce message / à qui est adressé le message 问的是受众；有抬头和落款时先读称呼与署名。\n\n判断原则：称呼 Chers collègues 加落款 La direction du lycée 指向教职员工；正文提到家长会不等于写给家长。\n\n例：À qui s'adresse ce message ?；Chers collègues；La direction du lycée\n\n自检：写出受众题的两步证据检查。"
+  },
+  "sejour vs journey": {
+    "front": "判断：坐夜车从 A 到 B 是否等于 faire un séjour à A？",
+    "back": "séjour 指在某地停留的一段时间，可因旅游、出差等原因；从一个市中心坐车到另一个市中心描述的是旅程，不证明在市中心逗留。\n\n判断原则：区分“在某处待着”和“交通工具经过/连接某处”，不要只因地名相同就做同义替换。\n\n例：pendant mon séjour à Beijing；un court séjour en centre-ville；un voyage de ville en ville\n\n自检：用 pendant mon séjour 造句。"
+  },
+  "restauration vs restaurant": {
+    "front": "补全：Elle travaille dans la ___.",
+    "back": "答案：**restauration**。\n\nun restaurant 是具体餐馆；la restauration 可指餐饮业或餐饮服务。\n\n判断原则：题目问行业或服务类型时选择 restauration，不把所有相关表达都缩成 restaurant。\n\n例：travailler dans la restauration；un service de restauration efficace；aller au restaurant\n\n自检：判断：service de restauration 指餐馆还是餐饮服务？",
+    "answer": "restauration"
+  },
+  "bas prix vs raisonnable": {
+    "front": "选择：低价航班用 à bas prix 还是 raisonnable？",
+    "back": "答案：**à bas prix**。\n\nà bas prix / low cost 明确表示低价；un prix raisonnable 表价格合理，未必很低。\n\n判断原则：选项要求 low cost 时必须看到低价概念，不能用 raisonnable 自动替换。\n\n例：un voyage à bas prix；un prix raisonnable；une compagnie low cost\n\n自检：解释合理价为何不必是低价。",
+    "answer": "à bas prix"
+  },
+  "vol flight theft context": {
+    "front": "判断：un vol à bas prix 中 vol 是航班还是盗窃？",
+    "back": "vol 可表示航班/飞行，也可表示盗窃；在航空公司、机场、low cost 语境中应读作 flight。\n\n判断原则：用 compagnie aérienne、aéroport 等共现词定词义，不因 voler 的“偷”义误判。\n\n例：un vol à bas prix；une compagnie aérienne；un vol dans un magasin\n\n自检：列出一个能支持航班义的上下文词。"
+  },
+  "tcf t3 opposing views": {
+    "front": "给“廉航利弊”列出双方观点和自己的三个理由。",
+    "back": "T3 给出同一主题的两篇相反观点短文；第一段概括双方，后续明确自己的立场并给出理由。\n\n判断原则：先辨主题和双方立场，不必逐句翻译；自己的段落按观点＋理由组织并遵守字数上下限。\n\n例：Le premier document estime que…；Le second document considère au contraire que…；À mon avis…\n\n自检：口头说出 T3 的段落顺序。"
+  },
+  "voyage journey not tourism": {
+    "front": "判断：通勤者乘夜车是否也可称 voyageur？",
+    "back": "voyage 可指旅行，也可指一次旅程/行程；voyageur 是乘客或旅客，不一定是观光游客。\n\n判断原则：交通工具、出发地和目的地语境下，先读成 journey/trip，不要自动加上旅游目的。\n\n例：un voyage en train；un voyageur；faire un voyage\n\n自检：用 voyage en train 造句。"
+  },
+  "head noun before modifier": {
+    "front": "四个选项宾语分别是旅程、周末、停留、餐饮：先排哪一层？",
+    "back": "题干问 proposer/vendre/offrir 什么时，先比较选项的核心名词；核心对象不同可先排除，只有对象相同或同义时再检查修饰语。\n\n判断原则：先主谓宾、后补语；“修饰语关键词相同”不能挽救一个错误宾语。\n\n例：proposer un voyage en train；vendre des vêtements en tissu non traité；vendre des produits alimentaires biologiques\n\n自检：解释为什么 biologique 相同仍可能是错项。"
+  },
+  "couchette word family": {
+    "front": "夜车有 six couchettes，指六个什么？",
+    "back": "une couchette 是卧铺/铺位，可用 coucher（躺下、睡觉）建立词族记忆。\n\n判断原则：夜车语境看到 couchette 时，用睡觉/躺卧的词族推断卧铺。\n\n例：une couchette；un train avec couchettes；se coucher\n\n自检：说出 couchette 的记忆钩子。"
+  },
+  "pratiquer a sport": {
+    "front": "补全：Elle ___ le ski depuis deux ans.",
+    "back": "答案：**pratique**。\n\npratiquer 在运动语境可表示做、从事某项运动，不必局限为“训练/练习”。\n\n判断原则：句子说以不同方式进行滑雪时，把 pratiquer 理解为 do/practice the sport。\n\n例：pratiquer un sport；pratiquer le ski d'une autre façon\n\n自检：把“以不同方式进行这项运动”说成法语。",
+    "answer": "pratique"
+  },
+  "preparer vs se preparer": {
+    "front": "补全：Les skieurs se préparent ___ la compétition.",
+    "back": "答案：**à**。\n\npréparer + objet 是准备某物；se préparer à + nom/infinitif 是让自己为某事做好准备。\n\n判断原则：先看主语是否在准备自己，再决定是否使用反身形式和 à。\n\n例：préparer des plats；se préparer à une compétition；se préparer à partir\n\n自检：判断 préparer le repas 与 se préparer 的宾语角色。",
+    "answer": "à"
+  },
+  "abstract option concrete evidence": {
+    "front": "把“一边滑雪一边看风景”概括成一个抽象选项。",
+    "back": "原文可能描写慢慢滑雪、欣赏风景，选项却概括成“以不同方式进行运动”；要把具体行为上卷到抽象概念。\n\n判断原则：不要只找逐字重复；先总结原文发生了什么，再匹配选项的概括层级。\n\n例：滑雪时欣赏风景 → pratiquer le sport d'une autre façon；speed/performance → niveau de pratique\n\n自检：指出原文证据如何支持选项而非逐字对应。"
+  },
+  "quete recherche de": {
+    "front": "补全：Elle est à la recherche ___ un emploi.",
+    "back": "答案：**d'**。\n\nen quête de 与 à la recherche de 都可表示 looking for，后面直接接名词。\n\n判断原则：作为介词短语整体记忆，不拆开分别猜 quête/recherche。\n\n例：un étudiant en quête d'un stage；un informaticien à la recherche d'un emploi\n\n自检：把“寻找实习的学生”写成法语。",
+    "answer": "d'"
+  },
+  "orientation by life stage": {
+    "front": "高中生的 orientation 通常指什么？",
+    "back": "orientation 的核心是方向选择：高中语境是选科/升学方向，大学语境是专业方向，求职语境是职业方向。\n\n判断原则：根据人物阶段解释，不机械翻成空间方向。\n\n例：l'orientation scolaire；choisir son orientation；l'orientation professionnelle\n\n自检：给大学生和求职者各写一个对应解释。"
+  },
+  "titulaire de degree": {
+    "front": "补全：Je suis titulaire ___ une licence en informatique.",
+    "back": "答案：**d'**。\n\nêtre titulaire de + diplôme/licence/master 表持有某项学历或证书。\n\n判断原则：在申请升学的正式文本中，把 titulaire de 理解为 holder of，而不是职位名称。\n\n例：être titulaire d'une licence；être titulaire d'un diplôme\n\n自检：把“持有某项文凭”改写成该结构。",
+    "answer": "d'"
+  },
+  "souhaiter constructions": {
+    "front": "补全：Je ___ que vous réussissiez.",
+    "back": "答案：**souhaite**。\n\nsouhaiter quelque chose à quelqu'un 表祝愿；souhaiter que + proposition 表希望某事。\n\n判断原则：先判断是向某人送祝愿，还是表达一个命题愿望，再选宾语结构或 que 从句。\n\n例：Je te souhaite un joyeux Noël.；Je souhaite que tout se passe bien.\n\n自检：用 souhaiter 向朋友祝节日快乐。",
+    "answer": "souhaite"
+  },
+  "assister vs participer": {
+    "front": "选择：只坐在台下听宣讲会，用 assister 还是 participer？",
+    "back": "答案：**assister**。\n\nassister à 侧重出席、观看、旁听；participer à 表作为参与者投入活动。\n\n判断原则：坐在台下听会议/看演出用 assister à；真正做事、成为活动一员用 participer à。\n\n例：assister à une réunion；assister à un spectacle；participer à un projet\n\n自检：补全：Elle participe ___ ce projet.",
+    "answer": "assister"
+  },
+  "piece room play": {
+    "front": "判断：une pièce classique 在剧院广告里是什么？",
+    "back": "pièce 是阴性名词，可指一间房，也可在 théâtre 语境指一出剧。\n\n判断原则：看 appartement/deux pièces 或 théâtre/comédie 等场景词选择词义。\n\n例：un appartement de deux pièces；une pièce de théâtre；voir une pièce\n\n自检：翻译：一套两居室。"
+  },
+  "se fixer objectifs": {
+    "front": "补全：Il faut se ___ des objectifs réalistes.",
+    "back": "答案：**fixer**。\n\nse fixer un/des objectif(s) 是固定表达，表示给自己设定目标。\n\n判断原则：不要按“把自己固定”直译；反身形式标记目标由主语为自己设立。\n\n例：se fixer des objectifs élevés；Je me fixe un objectif réaliste.\n\n自检：给自己设一个学习目标并用该表达说出。",
+    "answer": "fixer"
+  },
+  "bouger movement exercise": {
+    "front": "翻译：不要动。",
+    "back": "答案：**Ne bougez pas.**。\n\nbouger≈move，既可表示不要移动，也可泛指活动身体、运动起来。\n\n判断原则：健康建议里不必硬译成某项体育运动，理解为规律活动即可。\n\n例：Ne bougez pas.；Il faut bouger davantage.；Bougez-vous !\n\n自检：用 bouger 表达“你应该多活动”。",
+    "answer": "Ne bougez pas."
+  },
+  "de facon maniere agreement": {
+    "front": "补全：Il faut bouger de façon ___.",
+    "back": "答案：**régulière**。\n\nde façon + adjectif 和 de manière + adjectif 表“以……方式”；façon/manière 都是阴性，所以形容词用阴性。\n\n判断原则：先选 façon/manière，再让后置形容词做阴性配合。\n\n例：de façon régulière；de manière raisonnable；Il a expliqué le problème de façon claire.\n\n自检：把“以清晰的方式”写成两种表达。",
+    "answer": "régulière"
+  },
+  "se mettre remettre a": {
+    "front": "补全：Après l'hiver, elle se remet ___ courir.",
+    "back": "答案：**à**。\n\nse mettre à + infinitif 表开始做；se remettre à + infinitif 表重新开始做，相当于 recommencer à。\n\n判断原则：关注 re- 是否表示恢复/重新，不要把 mettre 的实体“放置”义带进来。\n\n例：se mettre à bouger；se remettre à faire du sport；se remettre à travailler\n\n自检：区分第一次开始与恢复运动。",
+    "answer": "à"
+  },
+  "noun verb paraphrase": {
+    "front": "把 s'entraîner 改写成名词短语。",
+    "back": "答案：**faire de l'entraînement**。\n\n阅读题的同义替换不只换词，也会把原文动词改成选项名词，或反过来。\n\n判断原则：识别共同词根和动作关系，不因词性不同就排除正确选项。\n\n例：s'entraîner ↔ un entraînement；améliorer ↔ une amélioration；demander ↔ une demande\n\n自检：指出 améliorer 与 amélioration 的共同语义。",
+    "answer": "faire de l'entraînement"
+  },
+  "a la mode expression": {
+    "front": "补全：Elle porte des vêtements ___ la mode.",
+    "back": "答案：**à**。\n\nà la mode 是固定表达，表示时髦、流行；mode 与 monde 拼写/发音角色不同。\n\n判断原则：服装选项出现 à la mode 时整体理解成 fashionable。\n\n例：des vêtements à la mode；La mode change vite.\n\n自检：区分 mode 和 monde。",
+    "answer": "à"
+  },
+  "non traite word family": {
+    "front": "补全：une fibre non ___.",
+    "back": "答案：**traitée**。\n\ntraiter 可表示处理事情或对待某人；non traité 作过去分词形容词表示未经处理，随名词配合。\n\n判断原则：天然纤维/织物语境中，non traité 指未经化学处理，不是“没有治疗”。\n\n例：un tissu non traité；une fibre non traitée；traiter quelqu'un avec respect\n\n自检：判断 tissu non traité 在环保服装里是什么意思。",
+    "answer": "traitée"
+  },
+  "negation progression elimination": {
+    "front": "句子说“不仅仅在于时尚”，能否选择“流行服装”？说明理由。",
+    "back": "ne…pas seulement / non seulement…mais aussi、否定句和递进关系常直接否掉一个看似匹配的选项。\n\n判断原则：先读逻辑连接和被否定的命题，再决定关键词相似是否仍有效。\n\n例：Ce n'est pas seulement une question de mode.；non seulement… mais aussi…\n\n自检：从一段话中圈出否定与递进信号。"
+  },
+  "context imagery vocabulary": {
+    "front": "为 traité 写一个当前语境意象，而不是唯一中文。",
+    "back": "阅读中遇到多义词，可先记它在当前语境的作用和意象，不必强求一个永远固定的一对一中文。\n\n判断原则：用上下文、同义词和反义关系建立可检索的语义边界，再在后续使用中细化。\n\n例：non traité ≈ naturel / sans produit chimique；vol + compagnie aérienne ≈ flight\n\n自检：用两个上下文词限定 vol 的航班义。"
+  },
+  "targeted dictionary workflow": {
+    "front": "面对四个陌生选项，列出查词顺序。",
+    "back": "先看题干和选项；看不懂时先查作宾语的核心名词，再查定位关键句中的词，只有宾语相近时才查修饰语。\n\n判断原则：不要整篇翻译或把全文扔给模型；每次查询都服务于一个待判定选项。\n\n例：题干 → 选项宾语 → 关键句 → 修饰成分；不查全文，只查决定答案的词\n\n自检：说明什么时候才需要查修饰语。"
+  },
+  "memorize phrases word families": {
+    "front": "把 en quête de 设计成一个整体记忆卡。",
+    "back": "课堂讲过的词优先；固定词组按整体记；同词族多词并列时先牢牢记住一个，再用词形联系识别其他形式。\n\n判断原则：词组以词组形式出现就不拆成孤立词义；词族的目的先是识别迁移，不要求一次掌握所有派生。\n\n例：en quête de / à la recherche de；assister à；s'entraîner / un entraînement；de façon régulière\n\n自检：遇到动词/名词词族时说明现阶段先背什么。"
+  },
+  "staged timed reading practice": {
+    "front": "为下一套20题写出时间盒和查词上限。",
+    "back": "前十题独立完成；11–20题先自行分析，再按题干/选项/关键句分层查词；20题目标40分钟，最多不超过一小时。\n\n判断原则：既不给自己无限纠结，也不在完全看不懂时硬猜；用时间盒和有限查询保留真实训练。\n\n例：前10题：不查词；11–20题：先分析后有限查词；20题：40–60分钟\n\n自检：做到第12题完全看不懂时，按流程说下一步。"
+  }
+}
