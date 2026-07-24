@@ -9,7 +9,20 @@
     "example": "On peut se garer ici.",
     "raw": "se garer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q4",
+        "teacher_action": "review",
+        "selection_reason": "上一课停车题的核心同义词，L31 开场再次要求口头回忆。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "14:30-15:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "le courant marin",
@@ -21,7 +34,20 @@
     "example": "Le courant marin change rapidement.",
     "raw": "le courant marin",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q5",
+        "teacher_action": "review",
+        "selection_reason": "复习上一课海上观光题时，老师让学生从遗忘状态恢复“洋流／海上水流”的含义。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "14:30-15:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "le bâtiment",
@@ -33,7 +59,20 @@
     "example": "Ce bâtiment date du XIXe siècle.",
     "raw": "le bâtiment",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q4",
+        "teacher_action": "review",
+        "selection_reason": "上一课位置题中的中心名词，L31 开场再次复述为“房屋、建筑”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "15:00-15:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "accueillir",
@@ -45,7 +84,20 @@
     "example": "Le centre accueille des classes du primaire.",
     "raw": "accueillir",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q6",
+        "teacher_action": "correction",
+        "selection_reason": "复习题面“接待班级”时，老师用 welcome 解释词义并专门纠正读音。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "15:00-16:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "gagner",
@@ -57,7 +109,20 @@
     "example": "Vous êtes l'heureux gagnant de notre grand jeu de l'été.",
     "raw": "gagner",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q7",
+        "teacher_action": "word_family",
+        "selection_reason": "老师从题面 gagnant 回溯到动词 gagner，并联系比赛语境解释“赢得”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "15:30-16:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "le service",
@@ -69,7 +134,20 @@
     "example": "Elle travaille au service marketing.",
     "raw": "le service",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q9",
+        "teacher_action": "explain",
+        "selection_reason": "复习公司语境时，老师确认它既可表示“服务”，也可表示“部门”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "15:30-16:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "reporter",
@@ -81,7 +159,20 @@
     "example": "Ils vont reporter le rendez-vous.",
     "raw": "reporter",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q9",
+        "teacher_action": "contrast",
+        "selection_reason": "老师在调整预约时间的题目中解释“推迟”，并与 avancer 的“提前”形成方向对比。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "15:30-16:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "avancer",
@@ -93,7 +184,20 @@
     "example": "Nous avançons lentement.",
     "raw": "avancer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q9",
+        "teacher_action": "contrast",
+        "selection_reason": "开场听写后，老师把普通“前进”义连接到“把预约提前”，并与 reporter 对比。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "02:00-02:30; 15:30-16:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "un concours",
@@ -105,7 +209,20 @@
     "example": "Elle prépare un concours important.",
     "raw": "un concours",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q8/Q20",
+        "teacher_action": "explain",
+        "selection_reason": "老师在听写和释义复盘中确认它既可指比赛，也可指选拔考试。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "02:00-02:30; 16:00-16:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "une promenade",
@@ -117,7 +234,20 @@
     "example": "Nous faisons une promenade en bateau.",
     "raw": "une promenade",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q5",
+        "teacher_action": "explain",
+        "selection_reason": "老师复习海上观光题时强调此处不仅是步行，也可表示游览参观。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "02:00-03:00; 16:00-16:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "les travaux",
@@ -129,7 +259,20 @@
     "example": "Les travaux commencent lundi.",
     "raw": "les travaux",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q4",
+        "teacher_action": "correction",
+        "selection_reason": "施工告示复习中，老师同时强调复数词形和“工程／施工”的场景义。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "02:30-03:00; 16:00-16:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "la nécessité",
@@ -141,7 +284,20 @@
     "example": "Il comprend la nécessité de pratiquer.",
     "raw": "la nécessité",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q13",
+        "teacher_action": "word_family",
+        "selection_reason": "老师从题面 nécessitent 和 nécessaire 回收到名词 nécessité，建立“必要”词族。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "03:00-03:30; 16:00-17:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "accompagner",
@@ -153,7 +309,20 @@
     "example": "Elle accompagne sa mère chez le médecin.",
     "raw": "accompagner",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q13",
+        "teacher_action": "review",
+        "selection_reason": "上一课老人陪伴题的明确学习词，L31 开场再次听写并解释“陪伴”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "03:00-04:00; 16:30-17:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "lointain",
@@ -165,7 +334,20 @@
     "example": "Les touristes découvrent des pays lointains.",
     "raw": "lointain",
     "fem": "lointaine",
-    "fem_raw": "lointaine"
+    "fem_raw": "lointaine",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q12",
+        "teacher_action": "synonym",
+        "selection_reason": "老师在长途旅行题中把它作为“遥远／长途”语义的替换词复习。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "03:30-04:00; 16:30-17:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "le logement",
@@ -177,7 +359,20 @@
     "example": "Je cherche un logement dans cette ville.",
     "raw": "le logement",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q13",
+        "teacher_action": "contrast",
+        "selection_reason": "老师解释它是“住的地方”，并辨析它不等于某一种特定房型。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "03:30-04:00; 16:30-17:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "coûteux",
@@ -189,7 +384,20 @@
     "example": "Ces traitements sont très coûteux.",
     "raw": "coûteux",
     "fem": "coûteuse",
-    "fem_raw": "coûteuse"
+    "fem_raw": "coûteuse",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q13",
+        "teacher_action": "word_family",
+        "selection_reason": "老师结合 coûter／coût 词族复习题面 traitements coûteux 的高成本含义。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "03:30-04:30; 17:00-17:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "une aventure",
@@ -201,7 +409,20 @@
     "example": "Ce voyage en Afrique est une aventure.",
     "raw": "une aventure",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q12/Q19",
+        "teacher_action": "explain",
+        "selection_reason": "老师用英语 adventure 和 tenter une aventure 复习，把旅游主题连接到尝试新体验。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "04:00-04:30; 17:00-18:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "souffrir de",
@@ -213,7 +434,20 @@
     "example": "Certaines personnes âgées souffrent de solitude.",
     "raw": "souffrir de",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q13",
+        "teacher_action": "correction",
+        "selection_reason": "老师反复听写并继续做变位，重点要求把动词和介词 de 作为完整接口保留。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "04:00-05:00; 19:00+",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "suivre",
@@ -225,7 +459,20 @@
     "example": "Ils ont recommencé leur exercice car ils n'avaient pas bien suivi la consigne.",
     "raw": "suivre",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q13/Q20",
+        "teacher_action": "explain",
+        "selection_reason": "老师用 follow 复习，并要求把 suivre un cours／une formation／un traitement 成组理解。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "04:30-05:00; 17:00-17:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'obéissance",
@@ -237,7 +484,20 @@
     "example": "L'obéissance n'est pas le sujet principal de ce texte.",
     "raw": "l'obéissance",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q15",
+        "teacher_action": "word_family",
+        "selection_reason": "老师复习选项名词“遵从／服从”，并把它回连到动词 obéir 的词族。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "05:00-06:00; 17:00-17:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "la monnaie",
@@ -249,7 +509,20 @@
     "example": "Les bouteilles vides sont utilisées comme monnaie.",
     "raw": "la monnaie",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q16",
+        "teacher_action": "explain",
+        "selection_reason": "老师用原题把空瓶当作钱的场景，帮助恢复“货币／零钱”的多义。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "17:00-18:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "tenter",
@@ -261,7 +534,20 @@
     "example": "Ils veulent tenter une nouvelle aventure.",
     "raw": "tenter",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q19",
+        "teacher_action": "synonym",
+        "selection_reason": "老师解释 tenter une nouvelle aventure，并把 tenter 与“尝试／体验”作同义连接。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "05:30-06:00; 17:30-18:00",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "faire la preuve de",
@@ -273,7 +559,20 @@
     "example": "Il faut faire la preuve de son désir de travailler.",
     "raw": "faire la preuve de",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q17",
+        "teacher_action": "synonym",
+        "selection_reason": "讲上一课选项关键词时，老师明确补充它等于 montrer／show，是可复用的同义表达。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "06:00-06:30; 17:30-18:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'atelier",
@@ -285,7 +584,20 @@
     "example": "L'atelier ouvre à neuf heures.",
     "raw": "l'atelier",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q20",
+        "teacher_action": "explain",
+        "selection_reason": "老师再次复习这个多场景名词，覆盖工作室、工坊和学习小组等常见用法。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "06:30; 18:00-18:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'intégration",
@@ -297,7 +609,20 @@
     "example": "L'intégration prend du temps.",
     "raw": "l'intégration",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q19",
+        "teacher_action": "review",
+        "selection_reason": "移民／社会融入题的主题词，老师再次提问并说明以后还会遇到。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "06:30-07:00; 18:30-19:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "s'intégrer",
@@ -309,7 +634,20 @@
     "example": "Elle s'intègre bien dans son équipe.",
     "raw": "s'intégrer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L31:opening-review:L30:T4Q19",
+        "teacher_action": "word_family",
+        "selection_reason": "老师从名词 intégration 回溯到表示“融入”动作的产出型动词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "18:30-19:30",
+          "lines": "230-295"
+        }
+      }
+    ]
   },
   {
     "lemma": "inviter",
@@ -513,7 +851,20 @@
     "example": "Quel est le plat du jour ?",
     "raw": "le plat du jour",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q8:option-A",
+        "teacher_action": "contrast",
+        "selection_reason": "学生把 plat 误当成盘子时，老师用餐厅的 plat du jour 纠正“菜”义，并与 assiette 区分。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "33:30-34:30",
+          "lines": "492-505"
+        }
+      }
+    ]
   },
   {
     "lemma": "une assiette",
@@ -573,7 +924,21 @@
     "example": "Ce retraité voyage souvent.",
     "raw": "un retraité",
     "fem": "une retraitée",
-    "fem_raw": "une retraitée"
+    "fem_raw": "une retraitée",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q9",
+        "teacher_action": "word_family",
+        "selection_reason": "老师从原文 départ à la retraite 派生出“退休人员”，用于建立同一词族。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "37:00-38:00",
+          "lines": "541-554"
+        },
+        "learning_note": "本题优先掌握核心名词 la retraite；此词作为词族扩展理解。"
+      }
+    ]
   },
   {
     "lemma": "le collège",
@@ -681,7 +1046,20 @@
     "example": "Notre vol part ce soir.",
     "raw": "un vol",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "explain",
+        "selection_reason": "讲 à bas prix 引出的廉航语境时，老师说明考试出行话题中通常指 flight，并补充“盗窃”义。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "50:30-52:00",
+          "lines": "734-754"
+        }
+      }
+    ]
   },
   {
     "lemma": "une compagnie aérienne",
@@ -693,7 +1071,20 @@
     "example": "Cette compagnie aérienne propose des vols directs.",
     "raw": "une compagnie aérienne",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "explain",
+        "selection_reason": "老师把它与 vol à bas prix／compagnie low cost 放在同一旅行语境中讲解。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "51:30-52:00",
+          "lines": "748-754"
+        }
+      }
+    ]
   },
   {
     "lemma": "un voyage",
@@ -717,7 +1108,20 @@
     "example": "Les voyageurs montent dans le train.",
     "raw": "un voyageur",
     "fem": "une voyageuse",
-    "fem_raw": "une voyageuse"
+    "fem_raw": "une voyageuse",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "word_family",
+        "selection_reason": "老师用“乘交通工具的人都是旅客”建立 voyage 是旅程而不一定是旅游的含义。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "54:00-54:30",
+          "lines": "776-782"
+        }
+      }
+    ]
   },
   {
     "lemma": "une couchette",
@@ -729,7 +1133,21 @@
     "example": "J'ai réservé une couchette dans le train de nuit.",
     "raw": "une couchette",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11:option-D",
+        "teacher_action": "word_family",
+        "selection_reason": "选项 D 的关键词；老师用 se coucher 解释 train couchettes 中的“卧铺”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "54:30-57:00",
+          "lines": "790-825"
+        },
+        "learning_note": "老师明确说当前不用背；保留为题目重连线索，不列为强制记忆边界。"
+      }
+    ]
   },
   {
     "lemma": "améliorer",
@@ -825,7 +1243,20 @@
     "example": "Il souhaite poursuivre ses études dans l'enseignement supérieur.",
     "raw": "l'enseignement supérieur",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13:option-A",
+        "teacher_action": "explain",
+        "selection_reason": "正确选项“高等教育申请人”的中心词，老师直接解释为高等教育。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:03:00-1:03:30",
+          "lines": "913-919"
+        }
+      }
+    ]
   },
   {
     "lemma": "en quête de",
@@ -861,7 +1292,20 @@
     "example": "Cet informaticien cherche un emploi.",
     "raw": "un informaticien",
     "fem": "une informaticienne",
-    "fem_raw": "une informaticienne"
+    "fem_raw": "une informaticienne",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13:option-C",
+        "teacher_action": "contrast",
+        "selection_reason": "老师用“程序员／信息技术人员”解释错误选项，并与申请高等教育的人作身份对比。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:03:00-1:04:00",
+          "lines": "913-926"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'orientation",
@@ -885,7 +1329,21 @@
     "example": "Elle est titulaire d'une licence.",
     "raw": "être titulaire de",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "explain",
+        "selection_reason": "老师用 holder of 解释原文 Titulaire d'une licence，帮助识别申请人已有的学历。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:05:30-1:07:00",
+          "lines": "948-968"
+        },
+        "learning_note": "老师说明即使不会这个表达也能靠其他关键词做题；作为原文理解扩展保留。"
+      }
+    ]
   },
   {
     "lemma": "une licence",
@@ -897,7 +1355,20 @@
     "example": "Il est titulaire d'une licence en informatique.",
     "raw": "une licence",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "explain",
+        "selection_reason": "原文学历关键词，用来判断申请人已有学士学位、正在申请 master。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:06:00-1:07:00",
+          "lines": "955-968"
+        }
+      }
+    ]
   },
   {
     "lemma": "un master",
@@ -909,7 +1380,20 @@
     "example": "Elle souhaite préparer un master.",
     "raw": "un master",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "explain",
+        "selection_reason": "老师指出认识 master 就能判断人物在申请更高阶段学习，是本题身份判断的破题词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:05:00-1:08:30",
+          "lines": "941-990"
+        }
+      }
+    ]
   },
   {
     "lemma": "souhaiter",
@@ -969,7 +1453,20 @@
     "example": "Nous suivons une visite guidée du musée.",
     "raw": "une visite guidée",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14:option-D",
+        "teacher_action": "contrast",
+        "selection_reason": "老师逐项排除选项时，把它解释为有导游的参观，并与看演出、见演员等活动区分。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:10:00-1:11:00",
+          "lines": "1014-1027"
+        }
+      }
+    ]
   },
   {
     "lemma": "une pièce",
@@ -1065,7 +1562,20 @@
     "example": "Elle travaille de manière efficace.",
     "raw": "de manière",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q15:option-D",
+        "teacher_action": "synonym",
+        "selection_reason": "讲正确选项 de façon régulière 时，老师补充 de manière 是同义结构，并说明后接阴性形容词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:22:00-1:22:30",
+          "lines": "1184-1190"
+        }
+      }
+    ]
   },
   {
     "lemma": "régulier",
@@ -1077,7 +1587,20 @@
     "example": "Une pratique régulière aide à progresser.",
     "raw": "régulier",
     "fem": "régulière",
-    "fem_raw": "régulière"
+    "fem_raw": "régulière",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15:option-D",
+        "teacher_action": "memorize",
+        "selection_reason": "正确选项的方式修饰语；老师要求把 de façon régulière 作为可产出的完整表达掌握。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:20:00-1:25:30",
+          "lines": "1157-1231"
+        }
+      }
+    ]
   },
   {
     "lemma": "se mettre à",
@@ -1089,7 +1612,21 @@
     "example": "",
     "raw": "se mettre à",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L31:T5Q15:option-D",
+        "teacher_action": "contrast",
+        "selection_reason": "为解释前缀 re-，老师用 se mettre à“开始”对比 se remettre à“重新开始”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:20:00-1:25:30",
+          "lines": "1157-1231"
+        },
+        "learning_note": "不属于选项的完整表层词形，是老师为讲清选项关键词补充的对比基础。"
+      }
+    ]
   },
   {
     "lemma": "se remettre à",
@@ -1101,7 +1638,21 @@
     "example": "Il se remet à faire du sport.",
     "raw": "se remettre à",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15:option-D",
+        "teacher_action": "contrast",
+        "selection_reason": "题面原词，老师解释为 recommencer à，并与 se mettre à 对比。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:24:30-1:25:30",
+          "lines": "1218-1231"
+        },
+        "learning_note": "老师明确说当前词多，可以暂时不记；保留为题目重连和以后复习线索。"
+      }
+    ]
   },
   {
     "lemma": "un entraînement",
@@ -1137,7 +1688,20 @@
     "example": "Quel genre de produit vend ce magasin ?",
     "raw": "un genre",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "题干 Quel genre de produits 的中心问法，老师先解释“类别／类型”以明确题目在问什么。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:28:00-1:29:00",
+          "lines": "1266-1279"
+        }
+      }
+    ]
   },
   {
     "lemma": "la mode",
@@ -1221,7 +1785,20 @@
     "example": "Ils utilisent des fibres naturelles.",
     "raw": "naturel",
     "fem": "naturelle",
-    "fem_raw": "naturelle"
+    "fem_raw": "naturelle",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16:option-C",
+        "teacher_action": "contrast",
+        "selection_reason": "老师一方面解释 engrais naturels，另一方面用“天然／无化学处理”帮助对齐正确选项 D。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:30:00-1:31:00; 1:41:00-1:42:30",
+          "lines": "1297-1310; 1454-1474"
+        }
+      }
+    ]
   },
   {
     "lemma": "chimique",
@@ -1281,7 +1858,20 @@
     "example": "Ces produits protègent l'écosystème.",
     "raw": "l'écosystème",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "correction",
+        "selection_reason": "老师用原文生态系统主题纠正“主题相似就选食品”的误判，强调中心名词仍要对齐。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:34:30-1:35:30",
+          "lines": "1360-1373"
+        }
+      }
+    ]
   },
   {
     "lemma": "traité",
@@ -1293,7 +1883,20 @@
     "example": "Ce tissu n'est pas traité chimiquement.",
     "raw": "traité",
     "fem": "traitée",
-    "fem_raw": "traitée"
+    "fem_raw": "traitée",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16:option-D",
+        "teacher_action": "memorize",
+        "selection_reason": "区分选项 A/D 的关键词；老师解释 tissus non traités 是未经化学处理，并要求优先记住。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:31:30-1:32:30; 1:41:00-1:42:00",
+          "lines": "1318-1331; 1454-1467"
+        }
+      }
+    ]
   },
   {
     "lemma": "traiter",
@@ -1317,7 +1920,20 @@
     "example": "Cette fibre naturelle est résistante.",
     "raw": "une fibre",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "synonym",
+        "selection_reason": "老师把原文 fibre naturelle 与选项 tissu non traité 对齐，作为原文到答案的证据链。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:36:30-1:37:30; 1:41:00-1:41:30",
+          "lines": "1388-1401; 1454-1460"
+        }
+      }
+    ]
   },
   {
     "lemma": "tactile",
@@ -1329,7 +1945,21 @@
     "example": "L'appareil possède un écran tactile.",
     "raw": "tactile",
     "fem": "tactile",
-    "fem_raw": "tactile"
+    "fem_raw": "tactile",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q17",
+        "teacher_action": "word_family",
+        "selection_reason": "老师从反复出现的 écran tactile 中抽取形容词，并用“触屏／接触”解释整组。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
+          "time": "1:46:00-1:49:00",
+          "lines": "1523-1564"
+        },
+        "learning_note": "8501 已有更完整的 un écran tactile；此项保留用于识别形容词和词族。"
+      }
+    ]
   },
   {
     "lemma": "un écran tactile",
