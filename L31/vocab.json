@@ -446,7 +446,7 @@
   {
     "lemma": "un spectacle",
     "pos": "nom",
-    "zh": "[T5Q7] 演出；表演",
+    "zh": "[T5Q7/Q14] 演出；表演",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -614,7 +614,7 @@
   {
     "lemma": "un séjour",
     "pos": "nom",
-    "zh": "逗留；停留期",
+    "zh": "[T5Q11] 逗留；停留期",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -626,7 +626,7 @@
   {
     "lemma": "la restauration",
     "pos": "nom",
-    "zh": "餐饮业；餐饮服务",
+    "zh": "[T5Q11] 餐饮业；餐饮服务",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -638,7 +638,7 @@
   {
     "lemma": "efficace",
     "pos": "adj",
-    "zh": "有效的；高效的",
+    "zh": "[T5Q11] 有效的；高效的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -650,7 +650,7 @@
   {
     "lemma": "à bas prix",
     "pos": "locution adjectivale",
-    "zh": "低价的",
+    "zh": "[T5Q11] 低价的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -662,7 +662,7 @@
   {
     "lemma": "raisonnable",
     "pos": "adjectif",
-    "zh": "合理的；适度的",
+    "zh": "[T5Q11/Q15] 合理的；适度的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -698,7 +698,7 @@
   {
     "lemma": "un voyage",
     "pos": "nom",
-    "zh": "旅行；旅程",
+    "zh": "[T5Q11] 旅行；旅程",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -734,7 +734,7 @@
   {
     "lemma": "améliorer",
     "pos": "verbe",
-    "zh": "改善；提高",
+    "zh": "[T5Q12] 改善；提高",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -746,7 +746,7 @@
   {
     "lemma": "le niveau",
     "pos": "noun",
-    "zh": "水平，程度",
+    "zh": "[T5Q12/Q15] 水平；程度",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -758,7 +758,7 @@
   {
     "lemma": "une compétence",
     "pos": "nom",
-    "zh": "能力；技能",
+    "zh": "[T5Q12] 能力；技能",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -770,7 +770,7 @@
   {
     "lemma": "pratiquer",
     "pos": "verbe",
-    "zh": "练习；从事",
+    "zh": "[T5Q12] 练习；从事",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -782,7 +782,7 @@
   {
     "lemma": "préparer",
     "pos": "verbe",
-    "zh": "准备",
+    "zh": "[T5Q12] 准备",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -794,7 +794,7 @@
   {
     "lemma": "se préparer à",
     "pos": "expression",
-    "zh": "为……做准备",
+    "zh": "[T5Q12] 为……做准备",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -806,7 +806,7 @@
   {
     "lemma": "un candidat",
     "pos": "nom",
-    "zh": "候选人；申请者；考生",
+    "zh": "[T5Q13] 候选人；申请者；考生",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -830,7 +830,7 @@
   {
     "lemma": "en quête de",
     "pos": "expression",
-    "zh": "寻找……",
+    "zh": "[T5Q13] 寻找……",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -842,7 +842,7 @@
   {
     "lemma": "à la recherche de",
     "pos": "expression",
-    "zh": "寻找……",
+    "zh": "[T5Q13] 寻找……",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -866,7 +866,7 @@
   {
     "lemma": "l'orientation",
     "pos": "nom",
-    "zh": "方向选择；升学/职业规划",
+    "zh": "[T5Q13] 方向选择；升学／职业规划",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -914,7 +914,7 @@
   {
     "lemma": "souhaiter",
     "pos": "verbe",
-    "zh": "希望；祝愿",
+    "zh": "[T5Q13] 希望；祝愿",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -926,7 +926,7 @@
   {
     "lemma": "assister à",
     "pos": "verb",
-    "zh": "出席；参加",
+    "zh": "[T5Q14] 出席；旁听；观看",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -938,7 +938,7 @@
   {
     "lemma": "participer à",
     "pos": "expr",
-    "zh": "参加；参与",
+    "zh": "[T5Q14] 参加；参与",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -950,7 +950,7 @@
   {
     "lemma": "obtenir",
     "pos": "verbe",
-    "zh": "获得",
+    "zh": "[T5Q14] 获得",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -974,7 +974,7 @@
   {
     "lemma": "une pièce",
     "pos": "nom",
-    "zh": "房间；一出戏；一件",
+    "zh": "[T5Q14] 房间；一出戏；一件",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -986,7 +986,7 @@
   {
     "lemma": "une pièce de théâtre",
     "pos": "nom",
-    "zh": "一出戏剧",
+    "zh": "[T5Q14] 一出戏剧",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -998,7 +998,7 @@
   {
     "lemma": "plutôt que",
     "pos": "conjonction",
-    "zh": "而不是；宁可",
+    "zh": "[T5Q14] 而不是；宁可",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1010,7 +1010,7 @@
   {
     "lemma": "se fixer un objectif",
     "pos": "expression",
-    "zh": "给自己设定目标",
+    "zh": "[T5Q15] 给自己设定目标",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1022,7 +1022,7 @@
   {
     "lemma": "élevé",
     "pos": "adjectif",
-    "zh": "高的；高昂的",
+    "zh": "[T5Q15] 高的；高昂的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1034,7 +1034,7 @@
   {
     "lemma": "bouger",
     "pos": "verbe",
-    "zh": "移动；活动身体",
+    "zh": "[T5Q15] 移动；活动身体",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1046,7 +1046,7 @@
   {
     "lemma": "de façon",
     "pos": "locution adverbiale",
-    "zh": "以……方式",
+    "zh": "[T5Q15] 以……方式",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1106,7 +1106,7 @@
   {
     "lemma": "un entraînement",
     "pos": "nom",
-    "zh": "训练",
+    "zh": "[T5Q15] 训练",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1118,7 +1118,7 @@
   {
     "lemma": "s'entraîner",
     "pos": "verbe pronominal",
-    "zh": "训练；练习",
+    "zh": "[T5Q15] 训练；练习",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1142,7 +1142,7 @@
   {
     "lemma": "la mode",
     "pos": "nom",
-    "zh": "时尚；流行",
+    "zh": "[T5Q16] 时尚；流行",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1154,7 +1154,7 @@
   {
     "lemma": "à la mode",
     "pos": "locution adjectivale",
-    "zh": "时髦的；流行的",
+    "zh": "[T5Q16] 时髦的；流行的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1166,7 +1166,7 @@
   {
     "lemma": "un vêtement",
     "pos": "nom",
-    "zh": "衣服；服装",
+    "zh": "[T5Q16] 衣服；服装",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1178,7 +1178,7 @@
   {
     "lemma": "une tenue",
     "pos": "nom",
-    "zh": "服装；穿搭",
+    "zh": "[T5Q16] 服装；穿搭",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1190,7 +1190,7 @@
   {
     "lemma": "un produit alimentaire",
     "pos": "nom",
-    "zh": "食品",
+    "zh": "[T5Q16] 食品",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1202,7 +1202,7 @@
   {
     "lemma": "un engrais",
     "pos": "nom",
-    "zh": "肥料",
+    "zh": "[T5Q16] 肥料",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1226,7 +1226,7 @@
   {
     "lemma": "chimique",
     "pos": "adjectif",
-    "zh": "化学的",
+    "zh": "[T5Q16] 化学的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1238,7 +1238,7 @@
   {
     "lemma": "un tissu",
     "pos": "nom",
-    "zh": "织物；布料",
+    "zh": "[T5Q16] 织物；布料",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1250,7 +1250,7 @@
   {
     "lemma": "le textile",
     "pos": "nom",
-    "zh": "纺织品；纺织业",
+    "zh": "[T5Q16] 纺织品；纺织业",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1262,7 +1262,7 @@
   {
     "lemma": "prendre conscience de",
     "pos": "expression",
-    "zh": "意识到……",
+    "zh": "[T5Q16] 意识到……",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1298,7 +1298,7 @@
   {
     "lemma": "traiter",
     "pos": "verbe",
-    "zh": "处理；对待",
+    "zh": "[T5Q16] 处理；对待",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1334,7 +1334,7 @@
   {
     "lemma": "un écran tactile",
     "pos": "nom",
-    "zh": "触摸屏",
+    "zh": "[T5Q17] 触摸屏",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1346,7 +1346,7 @@
   {
     "lemma": "un contact",
     "pos": "nom",
-    "zh": "接触；联系",
+    "zh": "[T5Q17] 接触；联系",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1358,7 +1358,7 @@
   {
     "lemma": "équipé",
     "pos": "adjectif",
-    "zh": "配备齐全的",
+    "zh": "[T5Q17] 配备齐全的；装有……的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1388,6 +1388,18 @@
     "category": "AUTRES",
     "example": "Vous pourrez goûter des spécialités d'Irlande.",
     "raw": "goûter des spécialités",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "se vêtir",
+    "pos": "verbe pronominal",
+    "zh": "[T5Q16] 穿衣；穿着",
+    "lesson": "L31",
+    "source_lesson": "L31",
+    "category": "AUTRES",
+    "example": "Bien se vêtir, ce n’est pas seulement succomber au dernier cri de la mode.",
+    "raw": "se vêtir",
     "fem": null,
     "fem_raw": null
   }
