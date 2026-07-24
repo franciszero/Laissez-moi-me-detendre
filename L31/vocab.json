@@ -314,7 +314,7 @@
   {
     "lemma": "inviter",
     "pos": "verbe",
-    "zh": "邀请",
+    "zh": "[T5Q2] 邀请",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -326,7 +326,7 @@
   {
     "lemma": "goûter",
     "pos": "verbe",
-    "zh": "品尝",
+    "zh": "[T5Q2] 品尝",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -338,7 +338,7 @@
   {
     "lemma": "un collègue",
     "pos": "nom",
-    "zh": "同事",
+    "zh": "[T5Q10] 同事",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -350,7 +350,7 @@
   {
     "lemma": "midi",
     "pos": "nom",
-    "zh": "中午；十二点",
+    "zh": "[T5Q2] 中午；十二点",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -362,7 +362,7 @@
   {
     "lemma": "l'après-midi",
     "pos": "nom",
-    "zh": "下午",
+    "zh": "[T5Q2] 下午",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -374,7 +374,7 @@
   {
     "lemma": "envoyer",
     "pos": "verb",
-    "zh": "寄；发送",
+    "zh": "[T5Q3] 寄；发送",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -386,7 +386,7 @@
   {
     "lemma": "envier",
     "pos": "verbe",
-    "zh": "羡慕；渴望",
+    "zh": "[T5Q3] 羡慕；渴望",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -398,7 +398,7 @@
   {
     "lemma": "demander",
     "pos": "verb",
-    "zh": "问；要求",
+    "zh": "[T5Q3] 问；要求",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -410,7 +410,7 @@
   {
     "lemma": "informer",
     "pos": "verbe",
-    "zh": "通知；告知",
+    "zh": "[T5Q3] 通知；告知",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -422,7 +422,7 @@
   {
     "lemma": "un concert",
     "pos": "nom",
-    "zh": "音乐会",
+    "zh": "[T5Q7] 音乐会",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -434,7 +434,7 @@
   {
     "lemma": "une association",
     "pos": "noun",
-    "zh": "协会；社团",
+    "zh": "[T5Q7] 协会；社团",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -446,7 +446,7 @@
   {
     "lemma": "un spectacle",
     "pos": "nom",
-    "zh": "演出；表演",
+    "zh": "[T5Q7] 演出；表演",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -458,7 +458,7 @@
   {
     "lemma": "une boisson",
     "pos": "nom",
-    "zh": "饮料",
+    "zh": "[T5Q7] 饮料",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -470,7 +470,7 @@
   {
     "lemma": "une spécialité",
     "pos": "nom",
-    "zh": "特色菜；特产；专长",
+    "zh": "[T5Q7] 特色菜；特产；专长",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -482,7 +482,7 @@
   {
     "lemma": "gratuit",
     "pos": "adjectif",
-    "zh": "免费的",
+    "zh": "[T5Q7] 免费的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -494,7 +494,7 @@
   {
     "lemma": "un plat",
     "pos": "nom",
-    "zh": "一道菜",
+    "zh": "[T5Q8] 一道菜",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -518,7 +518,7 @@
   {
     "lemma": "une assiette",
     "pos": "nom",
-    "zh": "盘子；一盘食物",
+    "zh": "[T5Q8] 盘子；一盘食物",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -530,7 +530,7 @@
   {
     "lemma": "une recette",
     "pos": "nom",
-    "zh": "菜谱；配方",
+    "zh": "[T5Q8] 菜谱；配方",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -542,7 +542,7 @@
   {
     "lemma": "de qualité",
     "pos": "locution adjectivale",
-    "zh": "优质的；高质量的",
+    "zh": "[T5Q8] 优质的；高质量的",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -554,7 +554,7 @@
   {
     "lemma": "la retraite",
     "pos": "nom",
-    "zh": "退休；退休生活",
+    "zh": "[T5Q9] 退休；退休生活",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -578,7 +578,7 @@
   {
     "lemma": "le collège",
     "pos": "nom",
-    "zh": "初中",
+    "zh": "[T5Q10] 初中",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -590,7 +590,7 @@
   {
     "lemma": "le lycée",
     "pos": "noun",
-    "zh": "中学（一般指高中）",
+    "zh": "[T5Q10] 中学（一般指高中）",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -602,7 +602,7 @@
   {
     "lemma": "la direction",
     "pos": "nom",
-    "zh": "管理层；方向",
+    "zh": "[T5Q10] 管理层；方向",
     "lesson": "L31",
     "source_lesson": "L31",
     "category": "CORE_VOCAB",
@@ -1366,6 +1366,29 @@
     "raw": "équipé",
     "fem": "équipée",
     "fem_raw": "équipée"
+  },
+  {
+    "lemma": "le renseignement",
+    "pos": "noun",
+    "zh": "[T5Q3] 信息；资料",
+    "lesson": "L31",
+    "source_lesson": "L31",
+    "category": "NOMS",
+    "example": "Elle demande un renseignement.",
+    "raw": "le renseignement",
+    "fem": null,
+    "fem_raw": null
+  },
+  {
+    "lemma": "goûter des spécialités",
+    "pos": "expression",
+    "zh": "[T5Q7] 品尝特色菜／当地特产",
+    "lesson": "L31",
+    "source_lesson": "L31",
+    "category": "AUTRES",
+    "example": "Vous pourrez goûter des spécialités d'Irlande.",
+    "raw": "goûter des spécialités",
+    "fem": null,
+    "fem_raw": null
   }
 ]
-
