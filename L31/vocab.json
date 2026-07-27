@@ -659,7 +659,20 @@
     "example": "J'invite mes collègues à déjeuner.",
     "raw": "inviter",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q2",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：用英语 invite 帮助识别。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "22:30-26:30",
+          "lines": "33"
+        }
+      }
+    ]
   },
   {
     "lemma": "goûter",
@@ -671,7 +684,20 @@
     "example": "Nous voulons goûter des spécialités locales.",
     "raw": "goûter",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q2",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确说“先记这个动词”，以后会经常用。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "22:30-26:30",
+          "lines": "34"
+        }
+      }
+    ]
   },
   {
     "lemma": "un collègue",
@@ -683,7 +709,20 @@
     "example": "Je parle avec un collègue.",
     "raw": "un collègue",
     "fem": "une collègue",
-    "fem_raw": "une collègue"
+    "fem_raw": "une collègue",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q10",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：抬头 `Chers collègues` 指向教师受众。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "38:00-41:00",
+          "lines": "54"
+        }
+      }
+    ]
   },
   {
     "lemma": "midi",
@@ -695,7 +734,20 @@
     "example": "Le restaurant ouvre à midi.",
     "raw": "midi",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q2",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：既可表示十二点，也可泛指中午。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "22:30-26:30",
+          "lines": "35"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'après-midi",
@@ -707,7 +759,20 @@
     "example": "Je travaille l'après-midi.",
     "raw": "l'après-midi",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q2",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 `midi` 详细对比。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "22:30-26:30",
+          "lines": "36"
+        }
+      }
+    ]
   },
   {
     "lemma": "envoyer",
@@ -719,7 +784,20 @@
     "example": "",
     "raw": "envoyer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q3",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：对应英语 send，逐句确认谁给谁发什么。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "26:30-29:30",
+          "lines": "37"
+        }
+      }
+    ]
   },
   {
     "lemma": "envier",
@@ -731,7 +809,20 @@
     "example": "J'envie son courage.",
     "raw": "envier",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q3",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 `envoyer` 近形但意义不同。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "26:30-29:30",
+          "lines": "38"
+        }
+      }
+    ]
   },
   {
     "lemma": "demander",
@@ -743,7 +834,20 @@
     "example": "Il te demande ce que tu feras quand tu auras vingt ans.",
     "raw": "demander",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q3",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：直接解释为 ask。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "26:30-29:30",
+          "lines": "39"
+        }
+      }
+    ]
   },
   {
     "lemma": "informer",
@@ -755,7 +859,20 @@
     "example": "Nous devons informer les clients.",
     "raw": "informer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q3",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：解释为 give someone information。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "26:30-29:30",
+          "lines": "41"
+        }
+      }
+    ]
   },
   {
     "lemma": "un concert",
@@ -767,7 +884,20 @@
     "example": "Nous assistons à un concert gratuit.",
     "raw": "un concert",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：用英法同形词确认。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "42"
+        }
+      }
+    ]
   },
   {
     "lemma": "une association",
@@ -779,7 +909,20 @@
     "example": "Elle participe à la vie d'une association locale.",
     "raw": "une association",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：说明该组织通常带公益性质。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "43"
+        }
+      }
+    ]
   },
   {
     "lemma": "un spectacle",
@@ -791,7 +934,31 @@
     "example": "Ce spectacle commence à vingt heures.",
     "raw": "un spectacle",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：明确解释为“演出”。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "44"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7/Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：Q14 回指 Q7 已讲过的演出义。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30; 1:09:00-1:17:00",
+          "lines": "111"
+        }
+      }
+    ]
   },
   {
     "lemma": "une boisson",
@@ -803,7 +970,20 @@
     "example": "Ils vendent des boissons après le spectacle.",
     "raw": "une boisson",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：逐词确认饮料售卖。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "45"
+        }
+      }
+    ]
   },
   {
     "lemma": "une spécialité",
@@ -815,7 +995,20 @@
     "example": "Goûtez cette spécialité régionale.",
     "raw": "une spécialité",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：当前语境指当地特色食物。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "46"
+        }
+      }
+    ]
   },
   {
     "lemma": "gratuit",
@@ -827,7 +1020,20 @@
     "example": "L'entrée est gratuite.",
     "raw": "gratuit",
     "fem": "gratuite",
-    "fem_raw": "gratuite"
+    "fem_raw": "gratuite",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确说“不认识就要记”，会多次考。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "48"
+        }
+      }
+    ]
   },
   {
     "lemma": "un plat",
@@ -839,7 +1045,20 @@
     "example": "Ce plat est délicieux.",
     "raw": "un plat",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q8",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 `assiette`（盘子）区分。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "32:30-35:30",
+          "lines": "49"
+        }
+      }
+    ]
   },
   {
     "lemma": "le plat du jour",
@@ -876,7 +1095,20 @@
     "example": "Posez le plat sur cette assiette.",
     "raw": "une assiette",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q8",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：用来纠正把 `plat` 理解成盘子的错误。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "32:30-35:30",
+          "lines": "50"
+        }
+      }
+    ]
   },
   {
     "lemma": "une recette",
@@ -888,7 +1120,20 @@
     "example": "Le chef explique une recette simple.",
     "raw": "une recette",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q8",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：当前语境为烹饪菜谱。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "32:30-35:30",
+          "lines": "51"
+        }
+      }
+    ]
   },
   {
     "lemma": "de qualité",
@@ -900,7 +1145,20 @@
     "example": "Nous proposons des recettes de qualité.",
     "raw": "de qualité",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q8",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：解释为 “of quality”，后置修饰菜谱。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "32:30-35:30",
+          "lines": "52"
+        }
+      }
+    ]
   },
   {
     "lemma": "la retraite",
@@ -912,7 +1170,20 @@
     "example": "Il part à la retraite cette année.",
     "raw": "la retraite",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q9",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：强调非常重要，TCF 口语也会考。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "35:30-38:00",
+          "lines": "53"
+        }
+      }
+    ]
   },
   {
     "lemma": "un retraité",
@@ -950,7 +1221,20 @@
     "example": "Il enseigne dans un collège.",
     "raw": "le collège",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q10",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：明确纠正为初中，不是高中。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "38:00-41:00",
+          "lines": "55"
+        }
+      }
+    ]
   },
   {
     "lemma": "le lycée",
@@ -962,7 +1246,20 @@
     "example": "",
     "raw": "le lycée",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q10",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：落款中的 `lycée` 指高中。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "38:00-41:00",
+          "lines": "56"
+        }
+      }
+    ]
   },
   {
     "lemma": "la direction",
@@ -974,7 +1271,20 @@
     "example": "La direction du lycée écrit aux enseignants.",
     "raw": "la direction",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q10",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：解释为学校管理层，而非字面“领导”。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "38:00-41:00",
+          "lines": "57"
+        }
+      }
+    ]
   },
   {
     "lemma": "un séjour",
@@ -986,7 +1296,20 @@
     "example": "Pendant mon séjour, j'ai visité la ville.",
     "raw": "un séjour",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：可因旅游、出差等在某地待一段时间，不必很短。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "42:00-57:30",
+          "lines": "92"
+        }
+      }
+    ]
   },
   {
     "lemma": "la restauration",
@@ -998,7 +1321,20 @@
     "example": "Elle travaille dans la restauration.",
     "raw": "la restauration",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 restaurant 区分，当前指餐饮服务／行业。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "42:00-57:30",
+          "lines": "88"
+        }
+      }
+    ]
   },
   {
     "lemma": "efficace",
@@ -1010,7 +1346,20 @@
     "example": "",
     "raw": "efficace",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确说重要、需要背。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "42:00-57:30",
+          "lines": "89"
+        }
+      }
+    ]
   },
   {
     "lemma": "à bas prix",
@@ -1022,7 +1371,20 @@
     "example": "La compagnie propose des vols à bas prix.",
     "raw": "à bas prix",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：作为整体固定表达，可后置修饰旅游等名词。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "42:00-57:30",
+          "lines": "90"
+        }
+      }
+    ]
   },
   {
     "lemma": "raisonnable",
@@ -1034,7 +1396,20 @@
     "example": "Le prix reste raisonnable.",
     "raw": "raisonnable",
     "fem": "raisonnable",
-    "fem_raw": "raisonnable"
+    "fem_raw": "raisonnable",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11/Q15",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：明确说明合理价格不等于低价；后又用于 `de façon raisonnable`。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "42:00-57:30; 1:17:00-1:28:30",
+          "lines": "91"
+        }
+      }
+    ]
   },
   {
     "lemma": "un vol",
@@ -1096,7 +1471,20 @@
     "example": "Le voyage en train dure six heures.",
     "raw": "un voyage",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q11",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：本题强调交通旅程，不保证在市中心逗留。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "42:00-57:30",
+          "lines": "93"
+        }
+      }
+    ]
   },
   {
     "lemma": "un voyageur",
@@ -1159,7 +1547,20 @@
     "example": "Je veux améliorer mon niveau de français.",
     "raw": "améliorer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q12",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确说改善/提高/降低等趋势词一定要记。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "58:00-1:03:00",
+          "lines": "94"
+        }
+      }
+    ]
   },
   {
     "lemma": "le niveau",
@@ -1171,7 +1572,20 @@
     "example": "",
     "raw": "le niveau",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q12/Q15",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：以 `niveau de vie` 帮助建立 level 义。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "58:00-1:03:00; 1:17:00-1:28:30",
+          "lines": "95"
+        }
+      }
+    ]
   },
   {
     "lemma": "une compétence",
@@ -1183,7 +1597,20 @@
     "example": "Cette activité développe de nouvelles compétences.",
     "raw": "une compétence",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q12",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：与 `niveau` 组合成能力水平。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "58:00-1:03:00",
+          "lines": "96"
+        }
+      }
+    ]
   },
   {
     "lemma": "pratiquer",
@@ -1195,7 +1622,20 @@
     "example": "Elle pratique le ski chaque hiver.",
     "raw": "pratiquer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q12",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：在运动语境指从事／做这项运动。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "58:00-1:03:00",
+          "lines": "97"
+        }
+      }
+    ]
   },
   {
     "lemma": "préparer",
@@ -1207,7 +1647,20 @@
     "example": "Le chef prépare plusieurs plats.",
     "raw": "préparer",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q12",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与反身形式对比：准备菜等外部对象。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "58:00-1:03:00",
+          "lines": "98"
+        }
+      }
+    ]
   },
   {
     "lemma": "se préparer à",
@@ -1219,7 +1672,20 @@
     "example": "Il se prépare à une compétition.",
     "raw": "se préparer à",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q12",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：让自己为比赛／行动做好准备，后接 `à`。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "58:00-1:03:00",
+          "lines": "99"
+        }
+      }
+    ]
   },
   {
     "lemma": "un candidat",
@@ -1231,7 +1697,20 @@
     "example": "Chaque candidat envoie son dossier.",
     "raw": "un candidat",
     "fem": "une candidate",
-    "fem_raw": "une candidate"
+    "fem_raw": "une candidate",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：当前指申请高等教育的人。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:03:00-1:09:00",
+          "lines": "100"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'enseignement supérieur",
@@ -1268,7 +1747,20 @@
     "example": "Elle est en quête d'un stage.",
     "raw": "en quête de",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：要求作为整体固定表达记忆。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:03:00-1:09:00",
+          "lines": "101"
+        }
+      }
+    ]
   },
   {
     "lemma": "à la recherche de",
@@ -1280,7 +1772,20 @@
     "example": "Il est à la recherche d'un emploi.",
     "raw": "à la recherche de",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 `en quête de` 对照为 looking for。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:03:00-1:09:00",
+          "lines": "102"
+        }
+      }
+    ]
   },
   {
     "lemma": "un informaticien",
@@ -1317,7 +1822,20 @@
     "example": "L'élève réfléchit à son orientation.",
     "raw": "l'orientation",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：学生可指选科／专业，工作者可指职业方向。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:03:00-1:09:00",
+          "lines": "103"
+        }
+      }
+    ]
   },
   {
     "lemma": "être titulaire de",
@@ -1405,7 +1923,20 @@
     "example": "Je vous souhaite une bonne journée.",
     "raw": "souhaiter",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确要求掌握，并讲 `souhaiter à` 与 `souhaiter que`。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:03:00-1:09:00",
+          "lines": "104"
+        }
+      }
+    ]
   },
   {
     "lemma": "assister à",
@@ -1417,7 +1948,20 @@
     "example": "Je dois assister à une réunion.",
     "raw": "assister à",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：侧重坐在台下听／看，没有参与行动。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:09:00-1:17:00",
+          "lines": "105"
+        }
+      }
+    ]
   },
   {
     "lemma": "participer à",
@@ -1429,7 +1973,20 @@
     "example": "Participez au concours « Europe en images ».",
     "raw": "participer à",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：作为活动一员实际做事。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:09:00-1:17:00",
+          "lines": "106"
+        }
+      }
+    ]
   },
   {
     "lemma": "obtenir",
@@ -1441,7 +1998,20 @@
     "example": "Il veut obtenir une réduction.",
     "raw": "obtenir",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：直接解释为 obtain／获得。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:09:00-1:17:00",
+          "lines": "107"
+        }
+      }
+    ]
   },
   {
     "lemma": "une visite guidée",
@@ -1478,7 +2048,20 @@
     "example": "Ils vivent dans un appartement de deux pièces.",
     "raw": "une pièce",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：明确讲阴性名词的房间和戏剧义。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:09:00-1:17:00",
+          "lines": "108"
+        }
+      }
+    ]
   },
   {
     "lemma": "une pièce de théâtre",
@@ -1490,7 +2073,20 @@
     "example": "Nous allons voir une pièce de théâtre.",
     "raw": "une pièce de théâtre",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：戏剧义的明确组合。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:09:00-1:17:00",
+          "lines": "109"
+        }
+      }
+    ]
   },
   {
     "lemma": "plutôt que",
@@ -1502,7 +2098,20 @@
     "example": "Je préfère marcher plutôt que conduire.",
     "raw": "plutôt que",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：首次见，解释为 rather than。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:09:00-1:17:00",
+          "lines": "110"
+        }
+      }
+    ]
   },
   {
     "lemma": "se fixer un objectif",
@@ -1514,7 +2123,20 @@
     "example": "Je me fixe un objectif réaliste.",
     "raw": "se fixer un objectif",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：从 fixer“固定”解释为给自己设立目标。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:17:00-1:28:30",
+          "lines": "112"
+        }
+      }
+    ]
   },
   {
     "lemma": "élevé",
@@ -1526,7 +2148,20 @@
     "example": "Elle se fixe un objectif élevé.",
     "raw": "élevé",
     "fem": "élevée",
-    "fem_raw": "élevée"
+    "fem_raw": "élevée",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确说高低、提高降低属于必备词。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:17:00-1:28:30",
+          "lines": "113"
+        }
+      }
+    ]
   },
   {
     "lemma": "bouger",
@@ -1538,7 +2173,20 @@
     "example": "Il faut bouger régulièrement.",
     "raw": "bouger",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确要求记，既可说不要动，也可泛指运动起来。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:17:00-1:28:30",
+          "lines": "114"
+        }
+      }
+    ]
   },
   {
     "lemma": "de façon",
@@ -1550,7 +2198,20 @@
     "example": "Il répond de façon claire.",
     "raw": "de façon",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 `de manière` 对照；完整配合规则已有知识卡。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:17:00-1:28:30",
+          "lines": "115"
+        }
+      }
+    ]
   },
   {
     "lemma": "de manière",
@@ -1664,7 +2325,20 @@
     "example": "Un entraînement régulier améliore le niveau.",
     "raw": "un entraînement",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与反身动词作为词族对照。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:17:00-1:28:30",
+          "lines": "116"
+        }
+      }
+    ]
   },
   {
     "lemma": "s'entraîner",
@@ -1676,7 +2350,20 @@
     "example": "Elle s'entraîne trois fois par semaine.",
     "raw": "s'entraîner",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q15",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：老师说词族先牢牢记住一个形式即可。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:17:00-1:28:30",
+          "lines": "117"
+        }
+      }
+    ]
   },
   {
     "lemma": "un genre",
@@ -1713,7 +2400,20 @@
     "example": "La mode change rapidement.",
     "raw": "la mode",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂讲解：与 `monde` 区分。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "118"
+        }
+      }
+    ]
   },
   {
     "lemma": "à la mode",
@@ -1725,7 +2425,20 @@
     "example": "Elle porte des vêtements à la mode.",
     "raw": "à la mode",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：明确作为整体固定表达。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "119"
+        }
+      }
+    ]
   },
   {
     "lemma": "un vêtement",
@@ -1737,7 +2450,20 @@
     "example": "Ce vêtement est fabriqué en France.",
     "raw": "un vêtement",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "word_family",
+        "selection_reason": "课堂讲解：与 `se vêtir/s’habiller` 连接。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "120"
+        }
+      }
+    ]
   },
   {
     "lemma": "une tenue",
@@ -1749,7 +2475,20 @@
     "example": "Cette tenue est simple et élégante.",
     "raw": "une tenue",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：当前指成套服装／穿搭。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "121"
+        }
+      }
+    ]
   },
   {
     "lemma": "un produit alimentaire",
@@ -1761,7 +2500,20 @@
     "example": "Le magasin vend des produits alimentaires.",
     "raw": "un produit alimentaire",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：老师强调核心是 `alimentaire` 的食品义，保留现有完整学习单元。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "122"
+        }
+      }
+    ]
   },
   {
     "lemma": "un engrais",
@@ -1773,7 +2525,20 @@
     "example": "Cette ferme utilise un engrais naturel.",
     "raw": "un engrais",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：直接解释天然肥料／化肥。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "123"
+        }
+      }
+    ]
   },
   {
     "lemma": "naturel",
@@ -1810,7 +2575,20 @@
     "example": "Ce produit ne contient aucun élément chimique.",
     "raw": "chimique",
     "fem": "chimique",
-    "fem_raw": "chimique"
+    "fem_raw": "chimique",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确让记，并与 `chimie` 联系。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "124"
+        }
+      }
+    ]
   },
   {
     "lemma": "un tissu",
@@ -1822,7 +2600,20 @@
     "example": "Cette chemise est faite dans un tissu léger.",
     "raw": "un tissu",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：当前为衣物布料。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "125"
+        }
+      }
+    ]
   },
   {
     "lemma": "le textile",
@@ -1834,7 +2625,20 @@
     "example": "La production du textile doit respecter l'environnement.",
     "raw": "le textile",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：解释为织物／纺织材料。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "126"
+        }
+      }
+    ]
   },
   {
     "lemma": "prendre conscience de",
@@ -1846,7 +2650,20 @@
     "example": "Il faut prendre conscience des conséquences.",
     "raw": "prendre conscience de",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：逐句解释为 become aware of。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "127"
+        }
+      }
+    ]
   },
   {
     "lemma": "l'écosystème",
@@ -1908,7 +2725,20 @@
     "example": "Nous devons traiter ce problème rapidement.",
     "raw": "traiter",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确要求记；环保语境指未经化学处理。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "128"
+        }
+      }
+    ]
   },
   {
     "lemma": "une fibre",
@@ -1971,7 +2801,20 @@
     "example": "Ces gants fonctionnent avec un écran tactile.",
     "raw": "un écran tactile",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q17",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：明确说屏幕时间主题反复出现，非常重要。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:46:00-1:50:00",
+          "lines": "130"
+        }
+      }
+    ]
   },
   {
     "lemma": "un contact",
@@ -1983,7 +2826,20 @@
     "example": "Gardons le contact.",
     "raw": "un contact",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q17",
+        "teacher_action": "explain",
+        "selection_reason": "课堂讲解：当前指手套与触摸屏的直接接触。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:46:00-1:50:00",
+          "lines": "131"
+        }
+      }
+    ]
   },
   {
     "lemma": "équipé",
@@ -1995,7 +2851,20 @@
     "example": "Le logement est bien équipé.",
     "raw": "équipé",
     "fem": "équipée",
-    "fem_raw": "équipée"
+    "fem_raw": "équipée",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q17",
+        "teacher_action": "word_family",
+        "selection_reason": "课堂讲解：连接英语 equipped，说明设备／装备义。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:46:00-1:50:00",
+          "lines": "132"
+        }
+      }
+    ]
   },
   {
     "lemma": "le renseignement",
@@ -2007,7 +2876,20 @@
     "example": "Elle demande un renseignement.",
     "raw": "le renseignement",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q3",
+        "teacher_action": "word_family",
+        "selection_reason": "课堂讲解：与 information 联系，表示所请求的信息。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "26:30-29:30",
+          "lines": "40"
+        }
+      }
+    ]
   },
   {
     "lemma": "goûter des spécialités",
@@ -2019,7 +2901,20 @@
     "example": "Vous pourrez goûter des spécialités d'Irlande.",
     "raw": "goûter des spécialités",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "memorize",
+        "selection_reason": "课堂讲解：要求把整个表达记下来，并指出口语、写作均可复用。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "29:30-32:30",
+          "lines": "47"
+        }
+      }
+    ]
   },
   {
     "lemma": "se vêtir",
@@ -2031,6 +2926,19 @@
     "example": "Bien se vêtir, ce n’est pas seulement succomber au dernier cri de la mode.",
     "raw": "se vêtir",
     "fem": null,
-    "fem_raw": null
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q16",
+        "teacher_action": "word_family",
+        "selection_reason": "课堂讲解：从 `vêtement` 与 `s’habiller` 建立词义联系。",
+        "evidence": {
+          "file": "L31/L31.screenshot-vocab-review.md",
+          "time": "1:28:30-1:42:30",
+          "lines": "129"
+        }
+      }
+    ]
   }
 ]
