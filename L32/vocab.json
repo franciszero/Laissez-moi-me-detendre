@@ -1,0 +1,777 @@
+[
+  {
+    "lemma": "avoir envie de",
+    "pos": "expr",
+    "zh": "想要；很想",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "J'ai envie de voyager cet été.",
+    "raw": "avoir envie de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "review",
+        "selection_reason": "开场词表复习时反复报读并要求口头回忆，属于本课要正式记住的常用表达。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "15:00-16:30",
+          "lines": "231-248"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les renseignements",
+    "pos": "nom",
+    "zh": "信息；咨询资料",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je voudrais des renseignements sur ce cours.",
+    "raw": "les renseignements",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "review",
+        "selection_reason": "开场让学生逐词说意思时单独回忆 renseignements 的含义，适合并入本课词表。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "15:00-16:30",
+          "lines": "231-248"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "gratuit",
+    "pos": "adj",
+    "zh": "免费的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "L'entrée est gratuite aujourd'hui.",
+    "raw": "gratuit, e",
+    "fem": "gratuite",
+    "fem_raw": "e",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "review",
+        "selection_reason": "老师在开场复盘里直接确认 gratuit=免费，后面阅读里也再次回到这一义项。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "15:30-16:00",
+          "lines": "237-242"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le plat",
+    "pos": "nom",
+    "zh": "菜；一道菜",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ce plat est délicieux.",
+    "raw": "le plat",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "contrast",
+        "selection_reason": "学生把 plat 说成“盘子，菜”，后续课堂又继续把它拉回食物语境，值得作为词义边界记忆项。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "15:30-16:30",
+          "lines": "237-246"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un collègue",
+    "pos": "nom",
+    "zh": "同事",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Mon collègue travaille au centre-ville.",
+    "raw": "un collègue",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "contrast",
+        "selection_reason": "老师把 collègue 和 collège 连着区分，帮助学生稳住“同事”这个义项。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "15:30-16:30",
+          "lines": "237-246"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un séjour",
+    "pos": "nom",
+    "zh": "停留；逗留",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Nous faisons un séjour de trois jours à Lyon.",
+    "raw": "un séjour",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "explain",
+        "selection_reason": "老师明确纠正 séjour 不是狭义“旅游”，而是停留、逗留期，这个边界值得保留进词表。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "16:00-16:30",
+          "lines": "244-248"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "à bas prix",
+    "pos": "expr",
+    "zh": "低价地；价格低",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ils vendent des billets à bas prix.",
+    "raw": "à bas prix",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "review",
+        "selection_reason": "课堂把它直接对应到 low price，属于本课反复回收的价格表达。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "251-255"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "améliorer",
+    "pos": "verbe",
+    "zh": "改善；改进",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je veux améliorer mon français.",
+    "raw": "améliorer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "review",
+        "selection_reason": "学生在开场复习里专门回忆 améliorer，后面又把它纳入“上升/改善”词群，值得正式收录。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "16:30-17:00; 01:25:00-01:25:30",
+          "lines": "251-255; 1212-1217"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "obtenir",
+    "pos": "verbe",
+    "zh": "获得；得到",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Elle veut obtenir ce diplôme.",
+    "raw": "obtenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:dictation-recall",
+        "teacher_action": "review",
+        "selection_reason": "开场报词里把 obtenir 单独重复多次，适合作为本课正式记忆词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "04:00-04:30",
+          "lines": "91-95"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "se vêtir",
+    "pos": "verbe pronominal",
+    "zh": "穿衣；打扮",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il faut se vêtir chaudement en hiver.",
+    "raw": "se vêtir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:dictation-recall",
+        "teacher_action": "review",
+        "selection_reason": "老师在报词与后续释义中都把 se vêtir 放在穿衣语境里反复确认，属于本课纯词汇项。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "04:30-05:30; 18:00-19:30",
+          "lines": "97-108; 271-289"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les vêtements",
+    "pos": "nom",
+    "zh": "衣服；服装",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Les vêtements d'hiver sont prêts.",
+    "raw": "les vêtements",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:dictation-recall",
+        "teacher_action": "word_family",
+        "selection_reason": "课堂把 vêtements 和 se vêtir 放在同一组里反复对照，适合作为词族成员保留。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "05:00-06:30; 18:30-19:30",
+          "lines": "104-122; 279-289"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "alimentaire",
+    "pos": "adj",
+    "zh": "食物的；食品的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Un produit alimentaire local.",
+    "raw": "alimentaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "explain",
+        "selection_reason": "老师专门把 alimentaire 解释成“食物的”，并和服装相关词放在一起做区分。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "18:30-19:30",
+          "lines": "278-289"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le contact",
+    "pos": "nom",
+    "zh": "接触；联系",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Garde le contact avec l'agence.",
+    "raw": "le contact",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L32:opening-review:vocab-recall",
+        "teacher_action": "contrast",
+        "selection_reason": "课堂把 contact 和“合同”类误听连续对照，帮助学生稳住“接触/联系”这个义项。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "19:30-20:00",
+          "lines": "291-296"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la terminale",
+    "pos": "nom",
+    "zh": "毕业班；高中最后一年",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il est en terminale cette année.",
+    "raw": "la terminale",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:reunion-note",
+        "teacher_action": "explain",
+        "selection_reason": "老师在同学 reunion 题里专门解释 terminale=毕业班，这是解题的核心词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "35:30-36:30",
+          "lines": "514-525"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un ancien élève",
+    "pos": "nom",
+    "zh": "老同学；以前的学生",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "C'est un ancien élève du lycée.",
+    "raw": "un ancien élève",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:reunion-note",
+        "teacher_action": "explain",
+        "selection_reason": "老师明确说明 ancien élève 是“以前的同学/学生”，不是按年龄理解的“老”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "36:30-37:30",
+          "lines": "528-540"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le lendemain",
+    "pos": "expr",
+    "zh": "第二天",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le lendemain, je reviens à quatorze heures.",
+    "raw": "le lendemain",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:availability-note",
+        "teacher_action": "memorize",
+        "selection_reason": "老师直接点名“这个词要记”，并把它和 demain 的记忆关系讲清楚。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "42:30-43:00",
+          "lines": "613-620"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le soir même",
+    "pos": "expr",
+    "zh": "当天晚上",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le soir même, nous avons reparlé du problème.",
+    "raw": "le soir même",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:availability-note",
+        "teacher_action": "contrast",
+        "selection_reason": "老师把 le soir même 和“今天晚上/当天晚上”的语境差别专门讲透，适合作为时间表达单独保留。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "43:00-43:30",
+          "lines": "620-625"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le poste",
+    "pos": "nom",
+    "zh": "职位；岗位",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Elle cherche un poste de responsable.",
+    "raw": "le poste",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:job-note",
+        "teacher_action": "contrast",
+        "selection_reason": "老师用 le poste / la poste 的双义对照解释“职位”，这个义项需要和邮局义一起区分记忆。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "29:30-31:30",
+          "lines": "431-460"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "prévenir",
+    "pos": "verbe",
+    "zh": "通知；告知",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je vais prévenir les voisins avant la fête.",
+    "raw": "prévenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:neighbor-note",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在邻居告示题里直接说“这个词要背”，并把它作为判断文本目的的关键线索。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "50:00-51:00",
+          "lines": "720-732"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un locataire",
+    "pos": "nom",
+    "zh": "租户；房客",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le locataire habite au deuxième étage.",
+    "raw": "un locataire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:neighbor-note",
+        "teacher_action": "memorize",
+        "selection_reason": "老师把 locataire 和 prévenir 一起点名为查出来就能做题的关键词，适合作为本课新词保存。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "50:00-51:00",
+          "lines": "720-732"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le savoir-faire",
+    "pos": "nom",
+    "zh": "技艺；手艺；行家本领",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ce marché montre le savoir-faire de la région.",
+    "raw": "le savoir-faire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:market-ad",
+        "teacher_action": "explain",
+        "selection_reason": "老师在 marché des saveurs 一题里把 savoir-faire 解释成地区手艺/本领，是理解广告主线的核心词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:15:00-01:16:00",
+          "lines": "1071-1084"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "écologique",
+    "pos": "adj",
+    "zh": "环保的；生态的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ils vendent des produits écologiques.",
+    "raw": "écologique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:market-ad",
+        "teacher_action": "contrast",
+        "selection_reason": "老师专门把 écologique 和 economic 区分，提醒不要把 eco 误读成“经济的”。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:15:00-01:15:30",
+          "lines": "1071-1076"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "nuire à",
+    "pos": "verbe",
+    "zh": "损害；对……有害",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le bruit peut nuire à la concentration.",
+    "raw": "nuire à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:airplane-meal-study",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说 nuisance 本身很难，不要求背名词，但明确要求记它的动词形式 nuire à。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:22:30-01:23:30",
+          "lines": "1179-1186"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "réduire",
+    "pos": "verbe",
+    "zh": "减少；降低",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il faut réduire le bruit dans la cabine.",
+    "raw": "réduire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:decrease-word-family",
+        "teacher_action": "word_family",
+        "selection_reason": "老师在总结“下降/减少”词群时把 réduire 放在第一个位置，属于本课重点词族成员。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:24:30-01:26:30",
+          "lines": "1205-1231"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "diminuer",
+    "pos": "verbe",
+    "zh": "减少；变少",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "La sensation de faim peut diminuer en avion.",
+    "raw": "diminuer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:decrease-word-family",
+        "teacher_action": "word_family",
+        "selection_reason": "课堂专门开了一个“下降有哪些词”的小结，diminuer 是老师首批要求并列记忆的动词之一。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:24:30-01:25:00",
+          "lines": "1205-1210"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "augmenter",
+    "pos": "verbe",
+    "zh": "增加；上升",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Les ventes peuvent augmenter cet été.",
+    "raw": "augmenter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:decrease-word-family",
+        "teacher_action": "word_family",
+        "selection_reason": "老师把 augmenter 和“下降词群”放在一起对照，作为相反方向的核心动词回收。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:24:30-01:25:30",
+          "lines": "1205-1217"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "se dégrader",
+    "pos": "verbe pronominal",
+    "zh": "恶化；变差",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "La qualité des aliments peut se dégrader en altitude.",
+    "raw": "se dégrader",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:decrease-word-family",
+        "teacher_action": "synonym",
+        "selection_reason": "老师把 se dégrader 和“降级/恶化”的同义替换关系讲清，适合保留为阅读高频词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:25:30-01:26:30",
+          "lines": "1219-1231"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une réclamation",
+    "pos": "nom",
+    "zh": "投诉；申诉",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il envoie une réclamation au service client.",
+    "raw": "une réclamation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:return-email",
+        "teacher_action": "explain",
+        "selection_reason": "老师在最后一题先拆选项时把 réclamation 解释成购物投诉/申诉，帮助学生和 refund 区分。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:27:00-01:29:30",
+          "lines": "1240-1273"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "rendre",
+    "pos": "verbe",
+    "zh": "归还；退回",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je souhaite rendre ce téléphone.",
+    "raw": "rendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:return-email",
+        "teacher_action": "explain",
+        "selection_reason": "老师把 rendre 直接解释成“归还/退回”，并用它锁定退款主题，是最后一题的核心动词。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:29:30-01:30:00",
+          "lines": "1275-1280"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la course à pied",
+    "pos": "expr",
+    "zh": "跑步；跑步运动",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "La course à pied demande un entraînement régulier.",
+    "raw": "la course à pied",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:marathon-advice",
+        "teacher_action": "explain",
+        "selection_reason": "老师在马拉松题里专门确认 course 单数在这里就是“跑步”，并说明 à pied 只是把动作落到脚上。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:09:30-01:10:30",
+          "lines": "991-1006"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "surmonter",
+    "pos": "verbe",
+    "zh": "克服；战胜",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il faut surmonter la douleur pendant la course.",
+    "raw": "surmonter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:reading:marathon-advice",
+        "teacher_action": "memorize",
+        "selection_reason": "老师明确说 surmonter 不要拆词硬猜，直接背成 overcome/克服即可，是本课纯词汇收获。",
+        "evidence": {
+          "file": "VibeVoice/docker-data/outputs/L32/L32_final_working.md",
+          "time": "01:07:00-01:08:00",
+          "lines": "957-968"
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "groups": [
+    {
+      "id": "notice-logic-and-purpose",
+      "label": "通知题：主干、日期与动作角色",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "assister versus participer",
+          "order": 10
+        },
+        {
+          "source_species": "main clause before familiar word",
+          "order": 20
+        },
+        {
+          "source_species": "date needs day not just month",
+          "order": 30
+        },
+        {
+          "source_species": "party note informs neighbors",
+          "order": 40
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l32-ascenseur-ferme",
+          "order": 110,
+          "front": "补全：`Ce n'est pas la station qui est fermée, c'est ___.`",
+          "back": "notice 题先抽句子主干；这里真正关闭的是 **l'ascenseur**。",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "answer": "l'ascenseur"
+        },
+        {
+          "id": "l32-date-complete",
+          "order": 120,
+          "front": "补全：`En juin à 14 h` 还不是完整 `la date`，因为少了具体的 `___`。",
+          "back": "`la date` 要有几号；月份和时间只是在补充日期信息。",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "answer": "jour"
+        }
+      ]
+    },
+    {
+      "id": "reunion-time-and-polysemy",
+      "label": "聚会时间轴与同形异义",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "ancien eleve reunion not school year end",
+          "order": 10
+        },
+        {
+          "source_species": "nouvelle boutique implies opening",
+          "order": 20
+        },
+        {
+          "source_species": "le lendemain versus le soir meme",
+          "order": 30
+        },
+        {
+          "source_species": "le poste versus la poste",
+          "order": 40
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l32-le-lendemain",
+          "order": 210,
+          "front": "补全：`Lundi absent, mardi disponible a partir de 14 h`，这里该选 `___`。",
+          "back": "相对时间要绑在当前叙述锚点上；周一之后的第二天就是 **le lendemain**。",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "answer": "le lendemain"
+        },
+        {
+          "id": "l32-la-poste",
+          "order": 220,
+          "front": "补全：`Je vais a ___ poste avant de chercher un poste.`",
+          "back": "邮局用 **la poste**；职位用 **un/le poste**。",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "same_surface_diff_meaning",
+            "gender_trap",
+            "A2"
+          ],
+          "answer": "la"
+        }
+      ]
+    },
+    {
+      "id": "email-purpose-and-advertising",
+      "label": "邮件主题与广告主线判断",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "catalogue versus bon de commande",
+          "order": 10
+        },
+        {
+          "source_species": "marche des saveurs core purpose",
+          "order": 20
+        },
+        {
+          "source_species": "rendre plus money means refund",
+          "order": 30
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l32-bon-de-commande",
+          "order": 310,
+          "front": "补全：只有写明页码、产品和数量时，才是在填 `bon de ___`。",
+          "back": "附上 catalogue 只是介绍产品；真正的下单动作才是 **bon de commande**。",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "answer": "commande"
+        }
+      ]
+    },
+    {
+      "id": "study-conclusion-and-writing",
+      "label": "研究结论与 TCF T1 写作顺序",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "d apres une etude noise conclusion",
+          "order": 10
+        },
+        {
+          "source_species": "tcf t1 purpose first and realistic details",
+          "order": 20
+        }
+      ],
+      "practice_cards": [
+        {
+          "id": "l32-t1-purpose-order",
+          "order": 410,
+          "front": "TCF T1 自评：不用背全文，先口头说出 `目的句 -> 细节句 -> 诉求句` 的顺序，并举一个目的句。",
+          "back": "固定顺序就是：\n\n1. 第一个正文句先写写信目的。\n2. 接着补 1–2 个真实细节。\n3. 再提出诉求或请求。\n\n可直接复用：`Je t'ecris ce courrier pour te faire savoir que ...`",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "answer": null
+        }
+      ]
+    }
+  ]
+}

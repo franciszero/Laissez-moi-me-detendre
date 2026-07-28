@@ -1,0 +1,67 @@
+{
+  "assister versus participer": {
+    "front": "选择更合适的结构：只是到场露面，用 `___`；真正加入活动，才用 `participer à`。",
+    "back": "答案：**assister à**。\n\nassister à 表出席、到场；participer à 表真正参与活动过程。两者都带 `à`，但动作角色不同。\n\n判断原则：会议、典礼、spectacle 这类“露面即可”的场景先想 `assister à`；atelier、projet 这类要实际加入的场景再想 `participer à`。\n\n例：assister à une réunion；assister à une cérémonie；participer à un atelier\n\n自检：把“我明天去出席毕业典礼”说成法语。",
+    "answer": "assister à"
+  },
+  "main clause before familiar word": {
+    "front": "补全：`Ce n'est pas la station qui est fermée, c'est ___.`",
+    "back": "答案：**l'ascenseur**。\n\n这题的陷阱是看到 `station de métro` 就停下，但真正被陈述的是“电梯关了”。\n\n判断原则：先抽 `主语 + 谓语 + 补语`，再处理熟悉词。熟悉名词只能提示话题，不能代替句子主干。\n\n例：`l'ascenseur est fermé`；不是 `la station est fermée`\n\n自检：下次做 notice 题时，先用中文说出“谁怎么样了”。",
+    "answer": "l'ascenseur"
+  },
+  "date needs day not just month": {
+    "front": "补全：`En juin à 14 h`, 还不是完整的 `la date`，因为缺少具体的 `___`。",
+    "back": "答案：**jour**。\n\n`la date` 需要有具体几号。只有月份、时间、地点或学科，都不能单独算完整日期。\n\n判断原则：题目问 `la date` 时，先检查有没有 `几月几号`；看到 `juin` 不能自动当成日期完整。\n\n例：`le 12 juin à 14 h` 才是完整日期；`en juin à 14 h` 还差一天。\n\n自检：把“6 月 12 日下午两点”说成法语。",
+    "answer": "jour"
+  },
+  "ancien eleve reunion not school year end": {
+    "front": "补全：`Dix ans après le lycée`, 这里更像一场 réunion d'`___`，不是学年末聚餐。",
+    "back": "答案：**anciens élèves**。\n\n`terminale` 指毕业班，`ancien élève` 指 former student。`dix ans après le lycée` 已经把时间轴锁死在“毕业多年后重聚”。\n\n判断原则：看到 `terminale`、`après le lycée`、`ancien élève` 这组三线索时，优先读成校友/老同学重聚，不要改写成学年快结束时的聚餐。\n\n例：une réunion d'anciens élèves；la terminale；dix ans après le lycée\n\n自检：解释为什么这不是 `fête de fin d'année scolaire`。",
+    "answer": "anciens élèves"
+  },
+  "nouvelle boutique implies opening": {
+    "front": "语义改写：`Nouvelle boutique vous attend.` 这句话最贴近的核心意思是店铺 `___`。",
+    "back": "答案：**l'ouverture**。\n\n题目没有直接给 `ouvrir`，但“新店在等你”已经是在说店刚开张、欢迎顾客。\n\n判断原则：广告题先抓结果型表达，不死等原词复现。`nouvelle boutique` 一出现，核心就是开业/开始营业。\n\n例：une nouvelle boutique；l'ouverture d'un commerce；ouvrir un magasin\n\n自检：把 `Nouveau restaurant vous attend` 也改写成一个名词。",
+    "answer": "l'ouverture"
+  },
+  "party note informs neighbors": {
+    "front": "补全：这张 fête note 的直接目的不是邀请加入，而是 informer `___`。",
+    "back": "答案：**les voisins**。\n\n正文围绕噪音、宾客几点离开、如果太吵可以来找我们，这些都是“提前告知周边住户”的信号。\n\n判断原则：看到 `anniversaire` 或 `fête` 先别自动判成邀请；先看文本是否在管理影响、解释安排、安抚可能受影响的人。\n\n例：`Les invités partiront vers deux heures.`；`N'hésitez pas à venir nous voir si le bruit vous gêne.`\n\n自检：说出这类 note 最关键的两条证据。",
+    "answer": "les voisins"
+  },
+  "le lendemain versus le soir meme": {
+    "front": "补全：周一不在、周二 14 h 后可见时，`___` 指的就是第二天。",
+    "back": "答案：**le lendemain**。\n\n`le lendemain` 是第二天；`le soir même` 是同一天晚上。它们都要挂在上下文时间锚点上理解。\n\n判断原则：先找叙述起点。若当前锚点是 lundi，`le lendemain` 就是 mardi；`le soir même` 仍然是 lundi soir。\n\n例：lundi absent → mardi disponible = le lendemain；ce soir = le soir même\n\n自检：把“当天晚上”和“第二天”各说一遍。",
+    "answer": "le lendemain"
+  },
+  "le poste versus la poste": {
+    "front": "补全：`Je vais à ___ poste avant de chercher un poste.`",
+    "back": "答案：**la**。\n\n`la poste` 是邮局；`le poste` 是职位。这个词的冠词不是装饰，而是词义开关。\n\n判断原则：把冠词和名词一起背。说去邮局时用 `à la poste`；说找工作岗位时用 `un poste` 或 `le poste`。\n\n例：aller à la poste；chercher un poste de responsable\n\n自检：再造一个同时出现 `la poste` 和 `un poste` 的句子。",
+    "answer": "la"
+  },
+  "catalogue versus bon de commande": {
+    "front": "补全：只有写明产品、页码和数量时，才真正进入 `___` 的语境。",
+    "back": "答案：**bon de commande**。\n\n`catalogue` 只是介绍产品；真正下单要出现具体产品、数量、页码等执行信息。\n\n判断原则：邮件目的题先看作者眼下在做什么。附上目录是介绍产品，不等于已经下单；只有明确订购动作才是 `bon de commande`。\n\n例：`Je vous joins notre catalogue.`；`Je commande 20 bouteilles, page 4.`\n\n自检：判断“附上目录”为什么只是最近一步目的。",
+    "answer": "bon de commande"
+  },
+  "marche des saveurs core purpose": {
+    "front": "补全：`Au marché des saveurs`, 读到 `spécialités`、`plats`、`goûter/déguster` 后，主线已经是发现 `___`。",
+    "back": "答案：**les spécialités locales**。\n\n前半段高密度地给出 `saveur`、`savoir-faire de notre région`、`plats` 等食物线索，已经足够锁定主旨。\n\n判断原则：主旨题先抓最先出现、最密集的主线，不必把后文附带的 artisanat 或珠宝细节抬到同一层。\n\n例：`découvrir le savoir-faire de notre région`；`des spécialités`；`des plats`\n\n自检：说出两个能快速锁定“本地风味/特色食品”的词。",
+    "answer": "les spécialités locales"
+  },
+  "d apres une etude noise conclusion": {
+    "front": "补全：`D'après une étude`, 真正被推出的结论是 `___` 会改变乘客的味觉敏感度。",
+    "back": "答案：**les nuisances sonores**。\n\n研究类题最该盯的是引导词后面的结论句。这里不是情绪、不是食品质量，而是声音环境影响味觉。\n\n判断原则：看到 `d'après une étude` 立即切到“找研究结论”模式，再把选项按 `情绪 / 食品 / 噪音 / 其他` 分类，缩短搜索路径。\n\n例：`les nuisances sonores`；`la pollution sonore`；`nuire à`\n\n自检：说出为什么读到结论后，后面很多句子都可以不再细抠。",
+    "answer": "les nuisances sonores"
+  },
+  "rendre plus money means refund": {
+    "front": "补全：`Je souhaite le rendre`，而且还提到把钱拿回来，这封信的主题就是 demander un `___`。",
+    "back": "答案：**remboursement**。\n\n`rendre` 在这里是“归还商品”；归还商品再把钱要回去，主线就是退款，不是换货、邮寄手机或一般投诉。\n\n判断原则：信件主题题先抓作者动作。return signal 和 money signal 连在一起时，就优先锁 `remboursement`。\n\n例：`Je souhaite le rendre.`；`Je voudrais être remboursé.`\n\n自检：解释为什么 `réclamation` 和 `échange` 都不是最近一步主线。",
+    "answer": "remboursement"
+  },
+  "tcf t1 purpose first and realistic details": {
+    "front": "TCF T1 自评：先不看答案，口头说出正文开头三步的顺序，并用一句示例开头说明写信目的。",
+    "back": "第一步先直接写**写信目的**，不要先自我介绍。\n\n推荐开头：`Je t'écris ce courrier pour te faire savoir que ...` 或同类 purpose-first 句。\n\n第二步补 1–2 个**看起来真实的细节**：时间、地点、停留时长、来意等，不必全写，但要具体。\n\n第三步再进入**诉求/请求**，完成题目第二个任务点。\n\n判断原则：T1 是 60–120 词的真实场景 message；顺序是 `目的句 -> 细节句 -> 诉求句`，不是“我是谁 + 寒暄 + 再慢慢说正事”。\n\n自检：用纽约/参会/待五天这类细节，自己口头拼一个 3 句开头。",
+    "answer": null
+  }
+}

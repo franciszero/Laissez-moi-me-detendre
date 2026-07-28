@@ -1,0 +1,697 @@
+{
+  "lesson": "L32",
+  "source": "L32_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L32.species.json",
+    "expected_species_count": 13
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L32 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "avoir envie de",
+          "pos": "expr",
+          "zh": "想要；很想"
+        },
+        {
+          "type": "vocab",
+          "fr": "les renseignements",
+          "pos": "nom",
+          "zh": "信息；咨询资料"
+        },
+        {
+          "type": "vocab",
+          "fr": "gratuit",
+          "pos": "adj",
+          "zh": "免费的"
+        },
+        {
+          "type": "vocab",
+          "fr": "le plat",
+          "pos": "nom",
+          "zh": "菜；一道菜"
+        },
+        {
+          "type": "vocab",
+          "fr": "un collègue",
+          "pos": "nom",
+          "zh": "同事"
+        },
+        {
+          "type": "vocab",
+          "fr": "un séjour",
+          "pos": "nom",
+          "zh": "停留；逗留"
+        },
+        {
+          "type": "vocab",
+          "fr": "à bas prix",
+          "pos": "expr",
+          "zh": "低价地；价格低"
+        },
+        {
+          "type": "vocab",
+          "fr": "améliorer",
+          "pos": "verbe",
+          "zh": "改善；改进"
+        },
+        {
+          "type": "vocab",
+          "fr": "obtenir",
+          "pos": "verbe",
+          "zh": "获得；得到"
+        },
+        {
+          "type": "vocab",
+          "fr": "se vêtir",
+          "pos": "verbe pronominal",
+          "zh": "穿衣；打扮"
+        },
+        {
+          "type": "vocab",
+          "fr": "les vêtements",
+          "pos": "nom",
+          "zh": "衣服；服装"
+        },
+        {
+          "type": "vocab",
+          "fr": "alimentaire",
+          "pos": "adj",
+          "zh": "食物的；食品的"
+        },
+        {
+          "type": "vocab",
+          "fr": "le contact",
+          "pos": "nom",
+          "zh": "接触；联系"
+        },
+        {
+          "type": "vocab",
+          "fr": "la terminale",
+          "pos": "nom",
+          "zh": "毕业班；高中最后一年"
+        },
+        {
+          "type": "vocab",
+          "fr": "un ancien élève",
+          "pos": "nom",
+          "zh": "老同学；以前的学生"
+        },
+        {
+          "type": "vocab",
+          "fr": "le lendemain",
+          "pos": "expr",
+          "zh": "第二天"
+        },
+        {
+          "type": "vocab",
+          "fr": "le soir même",
+          "pos": "expr",
+          "zh": "当天晚上"
+        },
+        {
+          "type": "vocab",
+          "fr": "le poste",
+          "pos": "nom",
+          "zh": "职位；岗位"
+        },
+        {
+          "type": "vocab",
+          "fr": "prévenir",
+          "pos": "verbe",
+          "zh": "通知；告知"
+        },
+        {
+          "type": "vocab",
+          "fr": "un locataire",
+          "pos": "nom",
+          "zh": "租户；房客"
+        },
+        {
+          "type": "vocab",
+          "fr": "le savoir-faire",
+          "pos": "nom",
+          "zh": "技艺；手艺；行家本领"
+        },
+        {
+          "type": "vocab",
+          "fr": "écologique",
+          "pos": "adj",
+          "zh": "环保的；生态的"
+        },
+        {
+          "type": "vocab",
+          "fr": "nuire à",
+          "pos": "verbe",
+          "zh": "损害；对……有害"
+        },
+        {
+          "type": "vocab",
+          "fr": "réduire",
+          "pos": "verbe",
+          "zh": "减少；降低"
+        },
+        {
+          "type": "vocab",
+          "fr": "diminuer",
+          "pos": "verbe",
+          "zh": "减少；变少"
+        },
+        {
+          "type": "vocab",
+          "fr": "augmenter",
+          "pos": "verbe",
+          "zh": "增加；上升"
+        },
+        {
+          "type": "vocab",
+          "fr": "se dégrader",
+          "pos": "verbe pronominal",
+          "zh": "恶化；变差"
+        },
+        {
+          "type": "vocab",
+          "fr": "une réclamation",
+          "pos": "nom",
+          "zh": "投诉；申诉"
+        },
+        {
+          "type": "vocab",
+          "fr": "rendre",
+          "pos": "verbe",
+          "zh": "归还；退回"
+        },
+        {
+          "type": "vocab",
+          "fr": "la course à pied",
+          "pos": "expr",
+          "zh": "跑步；跑步运动"
+        },
+        {
+          "type": "vocab",
+          "fr": "surmonter",
+          "pos": "verbe",
+          "zh": "克服；战胜"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L32 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L32:species:assister-versus-participer",
+          "front": "选择更合适的结构：只是到场露面，用 `___`；真正加入活动，才用 `participer à`。",
+          "back": "答案：**assister à**。\n\nassister à 表出席、到场；participer à 表真正参与活动过程。两者都带 `à`，但动作角色不同。\n\n判断原则：会议、典礼、spectacle 这类“露面即可”的场景先想 `assister à`；atelier、projet 这类要实际加入的场景再想 `participer à`。\n\n例：assister à une réunion；assister à une cérémonie；participer à un atelier\n\n自检：把“我明天去出席毕业典礼”说成法语。",
+          "answer": "assister à",
+          "source_species": "assister versus participer",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "assister à une réunion",
+            "assister à une cérémonie",
+            "participer à un atelier"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:98-102",
+            "L32_final_working.md:257-276"
+          ],
+          "curated": true,
+          "study_group": "notice-logic-and-purpose",
+          "study_group_label": "通知题：主干、日期与动作角色",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:main-clause-before-familiar-word",
+          "front": "补全：`Ce n'est pas la station qui est fermée, c'est ___.`",
+          "back": "答案：**l'ascenseur**。\n\n这题的陷阱是看到 `station de métro` 就停下，但真正被陈述的是“电梯关了”。\n\n判断原则：先抽 `主语 + 谓语 + 补语`，再处理熟悉词。熟悉名词只能提示话题，不能代替句子主干。\n\n例：`l'ascenseur est fermé`；不是 `la station est fermée`\n\n自检：下次做 notice 题时，先用中文说出“谁怎么样了”。",
+          "answer": "l'ascenseur",
+          "source_species": "main clause before familiar word",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "l'ascenseur est fermé",
+            "la station de métro",
+            "le sujet + le verbe + le complément"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:382-397",
+            "L32_final_working.md:418-425"
+          ],
+          "curated": true,
+          "study_group": "notice-logic-and-purpose",
+          "study_group_label": "通知题：主干、日期与动作角色",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:date-needs-day-not-just-month",
+          "front": "补全：`En juin à 14 h`, 还不是完整的 `la date`，因为缺少具体的 `___`。",
+          "back": "答案：**jour**。\n\n`la date` 需要有具体几号。只有月份、时间、地点或学科，都不能单独算完整日期。\n\n判断原则：题目问 `la date` 时，先检查有没有 `几月几号`；看到 `juin` 不能自动当成日期完整。\n\n例：`le 12 juin à 14 h` 才是完整日期；`en juin à 14 h` 还差一天。\n\n自检：把“6 月 12 日下午两点”说成法语。",
+          "answer": "jour",
+          "source_species": "date needs day not just month",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "la date de la réunion",
+            "en juin",
+            "à 14 h"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:474-485"
+          ],
+          "curated": true,
+          "study_group": "notice-logic-and-purpose",
+          "study_group_label": "通知题：主干、日期与动作角色",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:party-note-informs-neighbors",
+          "front": "补全：这张 fête note 的直接目的不是邀请加入，而是 informer `___`。",
+          "back": "答案：**les voisins**。\n\n正文围绕噪音、宾客几点离开、如果太吵可以来找我们，这些都是“提前告知周边住户”的信号。\n\n判断原则：看到 `anniversaire` 或 `fête` 先别自动判成邀请；先看文本是否在管理影响、解释安排、安抚可能受影响的人。\n\n例：`Les invités partiront vers deux heures.`；`N'hésitez pas à venir nous voir si le bruit vous gêne.`\n\n自检：说出这类 note 最关键的两条证据。",
+          "answer": "les voisins",
+          "source_species": "party note informs neighbors",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "Nous allons fêter notre quarantième anniversaire.",
+            "N'hésitez pas à venir nous voir si le bruit vous gêne.",
+            "Les invités partiront vers deux heures."
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:704-732"
+          ],
+          "curated": true,
+          "study_group": "notice-logic-and-purpose",
+          "study_group_label": "通知题：主干、日期与动作角色",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:practice:l32-ascenseur-ferme",
+          "front": "补全：`Ce n'est pas la station qui est fermée, c'est ___.`",
+          "back": "notice 题先抽句子主干；这里真正关闭的是 **l'ascenseur**。",
+          "answer": "l'ascenseur",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "notice-logic-and-purpose",
+          "study_group": "notice-logic-and-purpose",
+          "study_group_label": "通知题：主干、日期与动作角色",
+          "study_group_order": 10,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:practice:l32-date-complete",
+          "front": "补全：`En juin à 14 h` 还不是完整 `la date`，因为少了具体的 `___`。",
+          "back": "`la date` 要有几号；月份和时间只是在补充日期信息。",
+          "answer": "jour",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "notice-logic-and-purpose",
+          "study_group": "notice-logic-and-purpose",
+          "study_group_label": "通知题：主干、日期与动作角色",
+          "study_group_order": 10,
+          "study_order": 120,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:ancien-eleve-reunion-not-school-year-end",
+          "front": "补全：`Dix ans après le lycée`, 这里更像一场 réunion d'`___`，不是学年末聚餐。",
+          "back": "答案：**anciens élèves**。\n\n`terminale` 指毕业班，`ancien élève` 指 former student。`dix ans après le lycée` 已经把时间轴锁死在“毕业多年后重聚”。\n\n判断原则：看到 `terminale`、`après le lycée`、`ancien élève` 这组三线索时，优先读成校友/老同学重聚，不要改写成学年快结束时的聚餐。\n\n例：une réunion d'anciens élèves；la terminale；dix ans après le lycée\n\n自检：解释为什么这不是 `fête de fin d'année scolaire`。",
+          "answer": "anciens élèves",
+          "source_species": "ancien eleve reunion not school year end",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "la terminale",
+            "dix ans après le lycée",
+            "un ancien élève"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:515-540"
+          ],
+          "curated": true,
+          "study_group": "reunion-time-and-polysemy",
+          "study_group_label": "聚会时间轴与同形异义",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:nouvelle-boutique-implies-opening",
+          "front": "语义改写：`Nouvelle boutique vous attend.` 这句话最贴近的核心意思是店铺 `___`。",
+          "back": "答案：**l'ouverture**。\n\n题目没有直接给 `ouvrir`，但“新店在等你”已经是在说店刚开张、欢迎顾客。\n\n判断原则：广告题先抓结果型表达，不死等原词复现。`nouvelle boutique` 一出现，核心就是开业/开始营业。\n\n例：une nouvelle boutique；l'ouverture d'un commerce；ouvrir un magasin\n\n自检：把 `Nouveau restaurant vous attend` 也改写成一个名词。",
+          "answer": "l'ouverture",
+          "source_species": "nouvelle boutique implies opening",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Nouvelle boutique vous attend.",
+            "ouvrir un commerce",
+            "une ouverture"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:569-590"
+          ],
+          "curated": true,
+          "study_group": "reunion-time-and-polysemy",
+          "study_group_label": "聚会时间轴与同形异义",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:le-lendemain-versus-le-soir-meme",
+          "front": "补全：周一不在、周二 14 h 后可见时，`___` 指的就是第二天。",
+          "back": "答案：**le lendemain**。\n\n`le lendemain` 是第二天；`le soir même` 是同一天晚上。它们都要挂在上下文时间锚点上理解。\n\n判断原则：先找叙述起点。若当前锚点是 lundi，`le lendemain` 就是 mardi；`le soir même` 仍然是 lundi soir。\n\n例：lundi absent → mardi disponible = le lendemain；ce soir = le soir même\n\n自检：把“当天晚上”和“第二天”各说一遍。",
+          "answer": "le lendemain",
+          "source_species": "le lendemain versus le soir meme",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [
+            "le lendemain",
+            "le soir même",
+            "demain soir"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:613-625"
+          ],
+          "curated": true,
+          "study_group": "reunion-time-and-polysemy",
+          "study_group_label": "聚会时间轴与同形异义",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:le-poste-versus-la-poste",
+          "front": "补全：`Je vais à ___ poste avant de chercher un poste.`",
+          "back": "答案：**la**。\n\n`la poste` 是邮局；`le poste` 是职位。这个词的冠词不是装饰，而是词义开关。\n\n判断原则：把冠词和名词一起背。说去邮局时用 `à la poste`；说找工作岗位时用 `un poste` 或 `le poste`。\n\n例：aller à la poste；chercher un poste de responsable\n\n自检：再造一个同时出现 `la poste` 和 `un poste` 的句子。",
+          "answer": "la",
+          "source_species": "le poste versus la poste",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "same_surface_diff_meaning",
+            "gender_trap",
+            "A2"
+          ],
+          "french_items": [
+            "un poste de responsable",
+            "aller à la poste",
+            "chercher un poste"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:432-460"
+          ],
+          "curated": true,
+          "study_group": "reunion-time-and-polysemy",
+          "study_group_label": "聚会时间轴与同形异义",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:practice:l32-le-lendemain",
+          "front": "补全：`Lundi absent, mardi disponible a partir de 14 h`，这里该选 `___`。",
+          "back": "相对时间要绑在当前叙述锚点上；周一之后的第二天就是 **le lendemain**。",
+          "answer": "le lendemain",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "memory_hook",
+            "A2"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reunion-time-and-polysemy",
+          "study_group": "reunion-time-and-polysemy",
+          "study_group_label": "聚会时间轴与同形异义",
+          "study_group_order": 20,
+          "study_order": 210,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:practice:l32-la-poste",
+          "front": "补全：`Je vais a ___ poste avant de chercher un poste.`",
+          "back": "邮局用 **la poste**；职位用 **un/le poste**。",
+          "answer": "la",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "same_surface_diff_meaning",
+            "gender_trap",
+            "A2"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "reunion-time-and-polysemy",
+          "study_group": "reunion-time-and-polysemy",
+          "study_group_label": "聚会时间轴与同形异义",
+          "study_group_order": 20,
+          "study_order": 220,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:catalogue-versus-bon-de-commande",
+          "front": "补全：只有写明产品、页码和数量时，才真正进入 `___` 的语境。",
+          "back": "答案：**bon de commande**。\n\n`catalogue` 只是介绍产品；真正下单要出现具体产品、数量、页码等执行信息。\n\n判断原则：邮件目的题先看作者眼下在做什么。附上目录是介绍产品，不等于已经下单；只有明确订购动作才是 `bon de commande`。\n\n例：`Je vous joins notre catalogue.`；`Je commande 20 bouteilles, page 4.`\n\n自检：判断“附上目录”为什么只是最近一步目的。",
+          "answer": "bon de commande",
+          "source_species": "catalogue versus bon de commande",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Je vous envoie notre catalogue.",
+            "un bon de commande",
+            "commander dix articles"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:683-687"
+          ],
+          "curated": true,
+          "study_group": "email-purpose-and-advertising",
+          "study_group_label": "邮件主题与广告主线判断",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:marche-des-saveurs-core-purpose",
+          "front": "补全：`Au marché des saveurs`, 读到 `spécialités`、`plats`、`goûter/déguster` 后，主线已经是发现 `___`。",
+          "back": "答案：**les spécialités locales**。\n\n前半段高密度地给出 `saveur`、`savoir-faire de notre région`、`plats` 等食物线索，已经足够锁定主旨。\n\n判断原则：主旨题先抓最先出现、最密集的主线，不必把后文附带的 artisanat 或珠宝细节抬到同一层。\n\n例：`découvrir le savoir-faire de notre région`；`des spécialités`；`des plats`\n\n自检：说出两个能快速锁定“本地风味/特色食品”的词。",
+          "answer": "les spécialités locales",
+          "source_species": "marche des saveurs core purpose",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "le marché des saveurs",
+            "goûter des spécialités locales",
+            "le savoir-faire de notre région"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:1044-1105"
+          ],
+          "curated": true,
+          "study_group": "email-purpose-and-advertising",
+          "study_group_label": "邮件主题与广告主线判断",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:rendre-plus-money-means-refund",
+          "front": "补全：`Je souhaite le rendre`，而且还提到把钱拿回来，这封信的主题就是 demander un `___`。",
+          "back": "答案：**remboursement**。\n\n`rendre` 在这里是“归还商品”；归还商品再把钱要回去，主线就是退款，不是换货、邮寄手机或一般投诉。\n\n判断原则：信件主题题先抓作者动作。return signal 和 money signal 连在一起时，就优先锁 `remboursement`。\n\n例：`Je souhaite le rendre.`；`Je voudrais être remboursé.`\n\n自检：解释为什么 `réclamation` 和 `échange` 都不是最近一步主线。",
+          "answer": "remboursement",
+          "source_species": "rendre plus money means refund",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "Je souhaite le rendre.",
+            "un remboursement",
+            "une réclamation"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:1241-1280"
+          ],
+          "curated": true,
+          "study_group": "email-purpose-and-advertising",
+          "study_group_label": "邮件主题与广告主线判断",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:practice:l32-bon-de-commande",
+          "front": "补全：只有写明页码、产品和数量时，才是在填 `bon de ___`。",
+          "back": "附上 catalogue 只是介绍产品；真正的下单动作才是 **bon de commande**。",
+          "answer": "commande",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "email-purpose-and-advertising",
+          "study_group": "email-purpose-and-advertising",
+          "study_group_label": "邮件主题与广告主线判断",
+          "study_group_order": 30,
+          "study_order": 310,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:d-apres-une-etude-noise-conclusion",
+          "front": "补全：`D'après une étude`, 真正被推出的结论是 `___` 会改变乘客的味觉敏感度。",
+          "back": "答案：**les nuisances sonores**。\n\n研究类题最该盯的是引导词后面的结论句。这里不是情绪、不是食品质量，而是声音环境影响味觉。\n\n判断原则：看到 `d'après une étude` 立即切到“找研究结论”模式，再把选项按 `情绪 / 食品 / 噪音 / 其他` 分类，缩短搜索路径。\n\n例：`les nuisances sonores`；`la pollution sonore`；`nuire à`\n\n自检：说出为什么读到结论后，后面很多句子都可以不再细抠。",
+          "answer": "les nuisances sonores",
+          "source_species": "d apres une etude noise conclusion",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "A2"
+          ],
+          "french_items": [
+            "d'après une étude",
+            "les nuisances sonores",
+            "la sensibilité du goût"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:1122-1203"
+          ],
+          "curated": true,
+          "study_group": "study-conclusion-and-writing",
+          "study_group_label": "研究结论与 TCF T1 写作顺序",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:species:tcf-t1-purpose-first-and-realistic-details",
+          "front": "TCF T1 自评：先不看答案，口头说出正文开头三步的顺序，并用一句示例开头说明写信目的。",
+          "back": "第一步先直接写**写信目的**，不要先自我介绍。\n\n推荐开头：`Je t'écris ce courrier pour te faire savoir que ...` 或同类 purpose-first 句。\n\n第二步补 1–2 个**看起来真实的细节**：时间、地点、停留时长、来意等，不必全写，但要具体。\n\n第三步再进入**诉求/请求**，完成题目第二个任务点。\n\n判断原则：T1 是 60–120 词的真实场景 message；顺序是 `目的句 -> 细节句 -> 诉求句`，不是“我是谁 + 寒暄 + 再慢慢说正事”。\n\n自检：用纽约/参会/待五天这类细节，自己口头拼一个 3 句开头。",
+          "answer": null,
+          "source_species": "tcf t1 purpose first and realistic details",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "Je t'écris ce courrier pour te faire savoir que...",
+            "Je resterai cinq jours sur place.",
+            "Pourrais-tu me conseiller quelques endroits à ne pas manquer ?"
+          ],
+          "evidence_refs": [
+            "L32_final_working.md:1306-1338",
+            "L32_final_working.md:1465-1524"
+          ],
+          "curated": true,
+          "study_group": "study-conclusion-and-writing",
+          "study_group_label": "研究结论与 TCF T1 写作顺序",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L32:practice:l32-t1-purpose-order",
+          "front": "TCF T1 自评：不用背全文，先口头说出 `目的句 -> 细节句 -> 诉求句` 的顺序，并举一个目的句。",
+          "back": "固定顺序就是：\n\n1. 第一个正文句先写写信目的。\n2. 接着补 1–2 个真实细节。\n3. 再提出诉求或请求。\n\n可直接复用：`Je t'ecris ce courrier pour te faire savoir que ...`",
+          "answer": null,
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "study-conclusion-and-writing",
+          "study_group": "study-conclusion-and-writing",
+          "study_group_label": "研究结论与 TCF T1 写作顺序",
+          "study_group_order": 40,
+          "study_order": 410,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}
