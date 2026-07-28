@@ -52,7 +52,7 @@
   {
     "lemma": "gratuit",
     "pos": "adj",
-    "zh": "免费的",
+    "zh": "[T6Q4] 免费的",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -71,6 +71,17 @@
           "time": "15:30-16:00",
           "lines": "237-242"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q4:option-A",
+        "teacher_action": "explain",
+        "selection_reason": "课堂再次释义并强调该词在考试中反复出现。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "28:30-31:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
@@ -177,7 +188,7 @@
   {
     "lemma": "améliorer",
     "pos": "verbe",
-    "zh": "改善；改进",
+    "zh": "[T6Q19] 改善；改进",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -196,6 +207,17 @@
           "time": "16:30-17:00; 01:25:00-01:25:30",
           "lines": "251-255; 1212-1217"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "word_family",
+        "selection_reason": "和提高方向词群一起复习。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
@@ -327,7 +349,7 @@
   {
     "lemma": "la terminale",
     "pos": "nom",
-    "zh": "毕业班；高中最后一年",
+    "zh": "[T6Q6] 毕业班；高中最后一年",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -346,13 +368,24 @@
           "time": "35:30-36:30",
           "lines": "514-525"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q6",
+        "teacher_action": "explain",
+        "selection_reason": "同学聚餐题中解释为 lycée 的最后一年。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "34:30-37:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "un ancien élève",
     "pos": "nom",
-    "zh": "老同学；以前的学生",
+    "zh": "[T6Q6] 老同学；以前的学生",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -371,13 +404,24 @@
           "time": "36:30-37:30",
           "lines": "528-540"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q6:option-B",
+        "teacher_action": "contrast",
+        "selection_reason": "明确纠正 ancien 不是年龄老，而是 former student。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "34:30-37:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "le lendemain",
     "pos": "expr",
-    "zh": "第二天",
+    "zh": "[T6Q8] 第二天",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -396,13 +440,24 @@
           "time": "42:30-43:00",
           "lines": "613-620"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q8:option-B",
+        "teacher_action": "memorize",
+        "selection_reason": "老师直接点名要记，并和 demain 建立联系。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "41:30-44:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "le soir même",
     "pos": "expr",
-    "zh": "当天晚上",
+    "zh": "[T6Q8] 当天晚上",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -421,13 +476,24 @@
           "time": "43:00-43:30",
           "lines": "620-625"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q8",
+        "teacher_action": "contrast",
+        "selection_reason": "与 this evening 对比，强调依赖语境的同一天晚上。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "41:30-44:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "le poste",
     "pos": "nom",
-    "zh": "职位；岗位",
+    "zh": "[T6Q4] 职位；岗位",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -446,13 +512,24 @@
           "time": "29:30-31:30",
           "lines": "431-460"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q4:option-B",
+        "teacher_action": "contrast",
+        "selection_reason": "详细讲阳性职位义并与同形异义词区分。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "28:30-31:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "prévenir",
     "pos": "verbe",
-    "zh": "通知；告知",
+    "zh": "[T6Q11] 通知；告知；提醒",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -471,13 +548,24 @@
           "time": "50:00-51:00",
           "lines": "720-732"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q11:option-C",
+        "teacher_action": "memorize",
+        "selection_reason": "老师明确说要背，并以邻居告示作为解题关键词。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "48:30-51:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "un locataire",
     "pos": "nom",
-    "zh": "租户；房客",
+    "zh": "[T6Q11] 租户；房客",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -496,13 +584,24 @@
           "time": "50:00-51:00",
           "lines": "720-732"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q11:option-B",
+        "teacher_action": "memorize",
+        "selection_reason": "与 prévenir 一起点名为查出即可做题的关键词。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "48:30-51:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "le savoir-faire",
     "pos": "nom",
-    "zh": "技艺；手艺；行家本领",
+    "zh": "[T6Q18] 技艺；手艺；行家本领",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -521,13 +620,24 @@
           "time": "01:15:00-01:16:00",
           "lines": "1071-1084"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q18",
+        "teacher_action": "explain",
+        "selection_reason": "地区风味市场题中解释为本地技艺和本领。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:12:30-01:17:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "écologique",
     "pos": "adj",
-    "zh": "环保的；生态的",
+    "zh": "[T6Q18] 环保的；生态的",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -546,13 +656,24 @@
           "time": "01:15:00-01:15:30",
           "lines": "1071-1076"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q18:option-C",
+        "teacher_action": "contrast",
+        "selection_reason": "明确和 economic 区分。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:12:30-01:17:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "nuire à",
     "pos": "verbe",
-    "zh": "损害；对……有害",
+    "zh": "[T6Q19] 损害；对……有害",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -571,13 +692,24 @@
           "time": "01:22:30-01:23:30",
           "lines": "1179-1186"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "memorize",
+        "selection_reason": "明确排除难名词 nuisance，改背动词及介词接口。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "réduire",
     "pos": "verbe",
-    "zh": "减少；降低",
+    "zh": "[T6Q19] 减少；降低",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -596,13 +728,24 @@
           "time": "01:24:30-01:26:30",
           "lines": "1205-1231"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "word_family",
+        "selection_reason": "升降词群的核心动词。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "diminuer",
     "pos": "verbe",
-    "zh": "减少；变少",
+    "zh": "[T6Q19] 减少；变少",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -621,13 +764,24 @@
           "time": "01:24:30-01:25:00",
           "lines": "1205-1210"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-A",
+        "teacher_action": "word_family",
+        "selection_reason": "与 réduire、baisser 并列回收。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "augmenter",
     "pos": "verbe",
-    "zh": "增加；上升",
+    "zh": "[T6Q19] 增加；上升",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -646,13 +800,24 @@
           "time": "01:24:30-01:25:30",
           "lines": "1205-1217"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "contrast",
+        "selection_reason": "与下降词群对照复习。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "se dégrader",
     "pos": "verbe pronominal",
-    "zh": "恶化；变差",
+    "zh": "[T6Q19] 恶化；变差",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -671,13 +836,24 @@
           "time": "01:25:30-01:26:30",
           "lines": "1219-1231"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "synonym",
+        "selection_reason": "与 se détériorer 作同义替换。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "une réclamation",
     "pos": "nom",
-    "zh": "投诉；申诉",
+    "zh": "[T6Q20] 投诉；申诉",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -696,13 +872,24 @@
           "time": "01:27:00-01:29:30",
           "lines": "1240-1273"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q20:option-D",
+        "teacher_action": "explain",
+        "selection_reason": "作为 complaint/claim 解释并要求和退款区分。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:27:00-01:30:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "rendre",
     "pos": "verbe",
-    "zh": "归还；退回",
+    "zh": "[T6Q20] 归还；退回",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -721,13 +908,24 @@
           "time": "01:29:30-01:30:00",
           "lines": "1275-1280"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q20",
+        "teacher_action": "explain",
+        "selection_reason": "原文动作词，与退款主线直接相连。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:27:00-01:30:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "la course à pied",
     "pos": "expr",
-    "zh": "跑步；跑步运动",
+    "zh": "[T6Q17] 跑步；跑步运动",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -746,13 +944,24 @@
           "time": "01:09:30-01:10:30",
           "lines": "991-1006"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q17:option-B",
+        "teacher_action": "explain",
+        "selection_reason": "解释单数 course 在本题就是跑步。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:06:00-01:12:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   },
   {
     "lemma": "surmonter",
     "pos": "verbe",
-    "zh": "克服；战胜",
+    "zh": "[T6Q17] 克服；战胜",
     "lesson": "L32",
     "source_lesson": "L32",
     "category": "CORE_VOCAB",
@@ -771,6 +980,667 @@
           "time": "01:07:00-01:08:00",
           "lines": "957-968"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q17",
+        "teacher_action": "memorize",
+        "selection_reason": "明确要求不要拆词猜，直接背成 overcome。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:06:00-01:12:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'occuper de",
+    "pos": "expr",
+    "zh": "[T6Q6] 照顾；负责；处理",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Claude s'occupe des entrées.",
+    "raw": "s'occuper de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q6",
+        "teacher_action": "memorize",
+        "selection_reason": "老师直接说这个表达要背，并对应 take care of。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "34:30-37:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "passer une commande",
+    "pos": "expr",
+    "zh": "[T6Q9] 下订单",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je voudrais passer une commande.",
+    "raw": "passer une commande",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q9:option-B",
+        "teacher_action": "explain",
+        "selection_reason": "解释必须出现具体订购动作，不等同于发送产品目录。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "44:00-48:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "ouvrir un commerce",
+    "pos": "expr",
+    "zh": "[T6Q13] 开店；开设商店",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Elle veut ouvrir un commerce.",
+    "raw": "ouvrir un commerce",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q13:option-C",
+        "teacher_action": "explain",
+        "selection_reason": "解释法语表达 ouvrir un commerce 即开店。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "53:00-56:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "les soldes",
+    "pos": "nom",
+    "zh": "[T6Q13] 打折期；季节性促销",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Les soldes d'été débutent demain.",
+    "raw": "les soldes",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q13:option-D",
+        "teacher_action": "explain",
+        "selection_reason": "解释 soldes d'été 为夏季打折期。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "53:00-56:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "le code",
+    "pos": "nom",
+    "zh": "[T6Q15] 规则；规范；代码",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il faut comprendre les codes du travail.",
+    "raw": "le code",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q15:option-A",
+        "teacher_action": "contrast",
+        "selection_reason": "在职场语境解释为规则/惯例，并补充密码或代码义。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:02:00-01:03:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "la formation",
+    "pos": "nom",
+    "zh": "[T6Q15] 培训；教育；培养",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Cette formation prépare au métier.",
+    "raw": "la formation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q15:option-B",
+        "teacher_action": "explain",
+        "selection_reason": "解释实习、大学教育等都可落到培训/培养义。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:02:00-01:03:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "un donateur",
+    "pos": "nom",
+    "zh": "[T6Q16] 捐助者；捐赠者",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Les donateurs soutiennent le sportif.",
+    "raw": "un donateur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q16",
+        "teacher_action": "word_family",
+        "selection_reason": "从 donner 解释题干中的捐助角色。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:03:30-01:06:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "espérer",
+    "pos": "verbe",
+    "zh": "[T6Q16] 希望；期待",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ils espèrent une victoire.",
+    "raw": "espérer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q16",
+        "teacher_action": "explain",
+        "selection_reason": "直接对应 expect/hope，决定题干动作。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:03:30-01:06:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "une séance",
+    "pos": "nom",
+    "zh": "[T6Q16] 一场；一次课程或活动",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Nous avons une séance de badminton.",
+    "raw": "une séance",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q16:option-C",
+        "teacher_action": "explain",
+        "selection_reason": "用电影场次和打一场羽毛球说明 séance。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:03:30-01:06:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "une épreuve",
+    "pos": "nom",
+    "zh": "[T6Q17] 考验；考试；比赛项目",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il veut terminer l'épreuve.",
+    "raw": "une épreuve",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q17:option-A",
+        "teacher_action": "explain",
+        "selection_reason": "解释阅读中可表示考试、比赛项目或考验。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:06:00-01:12:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'entraîner",
+    "pos": "verbe pronominal",
+    "zh": "[T6Q17] 训练；练习",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il s'entraîne pour le marathon.",
+    "raw": "s'entraîner",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q17",
+        "teacher_action": "explain",
+        "selection_reason": "文章与正确选项共同指向有规律训练。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:06:00-01:12:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "régulièrement",
+    "pos": "adverbe",
+    "zh": "[T6Q17] 经常地；有规律地",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Elle court régulièrement.",
+    "raw": "régulièrement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q17",
+        "teacher_action": "word_family",
+        "selection_reason": "和 régulier 词族相连，并用于排除干扰项。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:06:00-01:12:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "hebdomadaire",
+    "pos": "adj",
+    "zh": "[T6Q17] 每周的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il suit un entraînement hebdomadaire.",
+    "raw": "hebdomadaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q17",
+        "teacher_action": "memorize",
+        "selection_reason": "老师单独停下来讲该词，直接释义为 weekly。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:06:00-01:12:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "le bruit",
+    "pos": "nom",
+    "zh": "[T6Q19] 噪音；声响",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le bruit altère le goût.",
+    "raw": "le bruit",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-C",
+        "teacher_action": "memorize",
+        "selection_reason": "老师指明它对应 noise，并要求和形容词一起记。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "sonore",
+    "pos": "adj",
+    "zh": "[T6Q19] 声音的；声学的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "La pollution sonore nuit à la santé.",
+    "raw": "sonore",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "memorize",
+        "selection_reason": "明确要求记，并给出 pollution sonore。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "baisser",
+    "pos": "verbe",
+    "zh": "[T6Q19] 下降；降低",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "La température baisse.",
+    "raw": "baisser",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "word_family",
+        "selection_reason": "老师列入下降词群。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "élever",
+    "pos": "verbe",
+    "zh": "[T6Q19] 提高；抬高",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Il faut élever le niveau.",
+    "raw": "élever",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19",
+        "teacher_action": "word_family",
+        "selection_reason": "学生课堂笔记与音频共同确认的提高方向词。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "se détériorer",
+    "pos": "verbe pronominal",
+    "zh": "[T6Q19] 恶化；变坏",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "La qualité se détériore en altitude.",
+    "raw": "se détériorer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-B",
+        "teacher_action": "explain",
+        "selection_reason": "选项中的较书面恶化词，课堂逐项解释。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "altérer",
+    "pos": "verbe",
+    "zh": "[T6Q19] 改变；损害；使变质",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le bruit altère le sens du goût.",
+    "raw": "altérer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-C",
+        "teacher_action": "explain",
+        "selection_reason": "用英语 alter 解释，出现在正确选项。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "le goût",
+    "pos": "nom",
+    "zh": "[T6Q19] 味觉；味道",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le bruit altère le goût.",
+    "raw": "le goût",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-C",
+        "teacher_action": "explain",
+        "selection_reason": "解释 sens du goût 的核心名词。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "manquer de",
+    "pos": "expr",
+    "zh": "[T6Q19] 缺少；缺乏",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ce plat manque de saveur.",
+    "raw": "manquer de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-D",
+        "teacher_action": "explain",
+        "selection_reason": "解释 manquent de saveur，并指出该接口反复出现。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "la saveur",
+    "pos": "nom",
+    "zh": "[T6Q19] 味道；风味",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Ce plat a beaucoup de saveur.",
+    "raw": "la saveur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q19:option-D",
+        "teacher_action": "correction",
+        "selection_reason": "纠正学生把 saveur 写成 savoir 的拼写和意义混淆。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:17:30-01:27:00"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "un article",
+    "pos": "nom",
+    "zh": "[T6Q20] 商品；物品；文章",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je souhaite rendre cet article.",
+    "raw": "un article",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q20:option-A",
+        "teacher_action": "contrast",
+        "selection_reason": "说明本题是 item 义而不是文章义。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:27:00-01:30:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "le remboursement",
+    "pos": "nom",
+    "zh": "[T6Q20] 退款；偿还",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Je demande le remboursement de l'article.",
+    "raw": "le remboursement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q20:option-A",
+        "teacher_action": "memorize",
+        "selection_reason": "结尾明确点名需要背，且为正确主题。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:27:00-01:30:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "un échange",
+    "pos": "nom",
+    "zh": "[T6Q20] 交换；换货；交流",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "Le client demande un échange.",
+    "raw": "un échange",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q20:option-B",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说也可以背，并解释 exchange 义。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:27:00-01:30:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      }
+    ]
+  },
+  {
+    "lemma": "un envoi",
+    "pos": "nom",
+    "zh": "[T6Q20] 寄送；发送；寄件",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "CORE_VOCAB",
+    "example": "L'envoi du téléphone se fait par la poste.",
+    "raw": "un envoi",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q20:option-C",
+        "teacher_action": "word_family",
+        "selection_reason": "解释为 envoyer 的名词形式。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:27:00-01:30:30"
+        },
+        "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
   }
