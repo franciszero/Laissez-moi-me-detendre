@@ -1,0 +1,59 @@
+{
+  "groups": [
+    {
+      "id": "vocabulary-boundaries",
+      "label": "词义、搭配与词形边界",
+      "order": 10,
+      "species": [
+        {"source_species": "la poste versus le poste", "order": 10},
+        {"source_species": "passer une commande means ordering", "order": 20},
+        {"source_species": "concours singular plural same form", "order": 30}
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-logic-and-control",
+      "label": "写作逻辑、宾语接口与可控表达",
+      "order": 20,
+      "species": [
+        {"source_species": "cause connector instead of mais", "order": 10},
+        {"source_species": "avoid repeating logement appartement", "order": 20},
+        {"source_species": "aider quelquun a infinitive", "order": 30},
+        {"source_species": "familiar forms before conditionnel showmanship", "order": 40}
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "pronouns-and-spoken-recognition",
+      "label": "代词顺序与口语识别",
+      "order": 30,
+      "species": [
+        {"source_species": "je le trouve interessant object pronoun", "order": 10},
+        {"source_species": "me la offert double clitic order", "order": 20},
+        {"source_species": "tas lair recognition production boundary", "order": 30},
+        {"source_species": "pronoun chunks over accent imitation", "order": 40}
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "staged-exam-practice",
+      "label": "分阶段听阅与考试策略",
+      "order": 40,
+      "species": [
+        {"source_species": "one to twenty intensive reproduction", "order": 10},
+        {"source_species": "twentyone to thirtynine near exam priority", "order": 20}
+      ],
+      "practice_cards": [
+        {
+          "id": "l33-late-section-timing",
+          "order": 110,
+          "front": "补全：21–39 题建议在考前 `___` 再集中背。",
+          "back": "答案：**一到两个月**。\n\n当前先把 1–20 做到理解、精听、复述和造句；临近考试再用去重、分级题库集中处理高难题。",
+          "primary_class": "strategy",
+          "tags": ["core", "B1"],
+          "answer": "一到两个月"
+        }
+      ]
+    }
+  ]
+}

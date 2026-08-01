@@ -1,0 +1,67 @@
+{
+  "la poste versus le poste": {
+    "front": "补全：`Je vais à ___ poste avant de chercher un poste.`",
+    "back": "答案：**la**。\n\n`la poste` 是邮局；`le poste` 是职位、岗位。这里冠词直接决定词义，必须和名词一起记。\n\n自检：分别用 la poste 和 un poste 造句。",
+    "answer": "la"
+  },
+  "passer une commande means ordering": {
+    "front": "把“我想下一个订单”补全：`Je voudrais ___ une commande.`",
+    "back": "答案：**passer**。\n\n`passer une commande` 在购物、餐厅、商业语境中表示下单或订购，不是字面上的“发布命令”。",
+    "answer": "passer"
+  },
+  "concours singular plural same form": {
+    "front": "补全：一场考试是 `___ concours`；多场考试是 `des concours`。",
+    "back": "答案：**un**。\n\n`concours` 单复数同形，词尾的 s 不能删；数量由 `un/des` 等冠词表示。",
+    "answer": "un"
+  },
+  "cause connector instead of mais": {
+    "front": "补全因果关系：`___ je ne sais pas comment trouver un logement, pouvez-vous m'aider ?`",
+    "back": "答案：**Comme**。\n\n这里后句解释求助的原因，不是和前句转折。先判断真实逻辑，再选 `comme/parce que` 或 `mais`。",
+    "answer": "Comme"
+  },
+  "avoid repeating logement appartement": {
+    "front": "合并成一句：我想租一个靠近地铁站的小公寓。",
+    "back": "参考答案：**Je voudrais louer un petit appartement près d'une station de métro.**\n\n同一段不要每加一个需求就重复 logement/appartement；把地点、网络等属性并入核心句。",
+    "answer": "Je voudrais louer un petit appartement près d'une station de métro."
+  },
+  "aider quelquun a infinitive": {
+    "front": "写出“帮助某人做某事”的完整结构。",
+    "back": "答案：**aider quelqu'un à faire quelque chose**。\n\n被帮助的人是直接宾语，动作接 `à + infinitif`。例如：`Pouvez-vous m'aider à le rechercher ?`",
+    "answer": "aider quelqu'un à faire quelque chose"
+  },
+  "familiar forms before conditionnel showmanship": {
+    "front": "把住房请求写成一个稳妥、委婉而不炫技的句子：我想租一个公寓。",
+    "back": "参考答案：**Je voudrais louer un appartement.**\n\n条件式的价值是委婉，不是堆复杂度。T1 先保证正确、自然、可控；不熟的形式不要临时查整句来硬上。",
+    "answer": "Je voudrais louer un appartement."
+  },
+  "je le trouve interessant object pronoun": {
+    "front": "把 `I find it interesting` 翻成法语。",
+    "back": "答案：**Je le trouve intéressant.**\n\n`it` 指阳性单数对象时用前置直宾 `le`。`Je me trouve...` 会变成“我觉得我自己……”。",
+    "answer": "Je le trouve intéressant."
+  },
+  "me la offert double clitic order": {
+    "front": "把 `My sister offered it to me` 翻成法语。",
+    "back": "答案：**Ma sœur me l'a offert.**\n\n两个代词都放在助动词前，顺序是收礼人 `me` + 被赠物 `l'` + `a offert`。",
+    "answer": "Ma sœur me l'a offert."
+  },
+  "tas lair recognition production boundary": {
+    "front": "把听力里的 `T'as l'air fatigué` 还原成考试口语优先使用的规范形式。",
+    "back": "答案：**Tu as l'air fatigué.**\n\n`t'as` 是自然口语里的压缩形式：听力要能认，正式考试产出优先回到完整形式。",
+    "answer": "Tu as l'air fatigué."
+  },
+  "pronoun chunks over accent imitation": {
+    "front": "自评：遇到代词很多、连读重的听力句，按顺序说出三个处理动作。",
+    "back": "推荐流程：\n\n1. 对照文本找到完整代词块。\n2. 自己写两遍。\n3. 自己读两遍并作为完整表达记忆。\n\n目标是稳定识别和调用，不是模仿口音。",
+    "answer": null
+  },
+  "one to twenty intensive reproduction": {
+    "front": "自评：为什么听力/阅读 1–20 题不能半听半蒙做对就停？请说出至少三个后续动作。",
+    "back": "因为 1–20 的目标是为口语和写作积累输入。做完还要：\n\n- 听懂每个选项；\n- 复述原句；\n- 用其中词汇自己造句；\n- 再检查正确率。",
+    "answer": null
+  },
+  "twentyone to thirtynine near exam priority": {
+    "front": "自评：21–39 题应该什么时候开始集中背？届时按什么顺序处理？",
+    "back": "考前 **1–2 个月** 再集中处理。使用能去重、分级的题库，优先高分值和后段题。\n\n当前阶段先把 1–20 做到理解、精听、复述和造句，避免高难背题挤占基础训练。",
+    "answer": null
+  }
+}
