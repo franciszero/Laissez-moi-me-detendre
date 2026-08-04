@@ -14,7 +14,7 @@
       "word_max": 120,
       "status": "teacher_reviewed",
       "time_limit_minutes": 20,
-      "reference_text": "",
+      "reference_text": "⚠️ **产地：三篇全部 AI 起草，老师从未核验过。**语法我负责，但**不是**老师的范文。\n本课全程未见老师给出或核验过的完整参考全文——他只逐句改了你那一篇。\n等你改完再交一版、老师批回来，那一版才是这道题第一份有出处的参考全文。\n\n---\n\n### 版本 A · 简单稳妥　:gray[句法最简单，题目要求全覆盖，最不容易出错]\n\n**Objet : Recherche d'un logement à Montréal**\n\nSalut Marie,\n\nJe vais commencer mes études à Montréal le 1er septembre et j'ai besoin de ton aide pour trouver un logement. Je cherche une chambre meublée en colocation, de préférence près du métro. Mon budget maximal est de 800 dollars par mois, charges comprises. Je voudrais louer cette chambre pendant huit mois.\n\nPourrais-tu demander autour de toi et m'envoyer les annonces intéressantes ? J'aimerais aussi avoir l'adresse et les coordonnées du propriétaire.\n\nMerci beaucoup pour ton aide. À très bientôt !\n\nFrancis\n\n---\n\n### 版本 B · 自然，有朋友之间的感觉　:gray[多了「首选＋替代方案」的层次]\n\n**Objet : Besoin d'aide pour trouver un logement**\n\nCoucou Thomas,\n\nJ'espère que tu vas bien. Je t'écris car je vais suivre une formation de français à Québec à partir du 1er juillet. Comme tu connais bien la ville, je me tourne vers toi pour m'aider à trouver un logement.\n\nL'idéal serait un studio meublé près des transports en commun. Mon budget est de 900 dollars par mois, charges comprises, et je voudrais le louer pendant trois mois. Une chambre en colocation pourrait également me convenir.\n\nSi tu vois une annonce intéressante, pourrais-tu m'envoyer quelques photos et les coordonnées du propriétaire ?\n\nMerci d'avance et à très bientôt !\n\nFrancis\n\n亮点：`Comme tu connais bien la ville` · `je me tourne vers toi` · `L'idéal serait` · 有首选也有退路。\n\n---\n\n### 版本 C · 信息最完整　:gray[值得模仿的不是难词，是「条件有层次」]\n\n**Objet : Mon installation à Montréal**\n\nCoucou Léa,\n\nComme tu le sais, je commencerai un stage à Montréal le 15 octobre. Puisque tu habites sur place, j'aurais besoin de ton aide pour trouver un logement.\n\nJe cherche surtout un studio meublé dans un quartier calme et bien desservi. Je peux consacrer jusqu'à 1 100 dollars par mois au loyer, charges comprises, et je souhaiterais rester six mois. Toutefois, je suis prêt à envisager une colocation si le logement est proche du métro.\n\nPourrais-tu demander autour de toi et me transmettre les annonces qui correspondent à ces critères ?\n\nMerci beaucoup pour ton aide. J'ai hâte de te revoir !\n\nAmitiés,\nFrancis\n\n层次：首选 studio → 可接受 colocation → **但必须靠近 métro**。这让内容显得真实，而不是机械罗列题目关键词。",
       "sources": [
         {
           "lesson": "L33",
@@ -46,7 +46,7 @@
           "path": "L33/doc/L32 写作作业讲解 重写.pdf",
           "locator": "p.1 正文",
           "verify": "verified",
-          "note": "用户原稿（可选文字层，逐字可读）。⚠️ 证据缺口：文件名含「重写」，但页面呈现的是原稿+批注叠加，全课未见独立、干净的用户重写稿，也未见老师核验过的参考全文——这就是 reference_text 留空的原因。老师本课要求「改好了之后再发一个版本给我」（转录 424 行），那一版批回来后才是第一份合格的参考全文。"
+          "note": "用户原稿（可选文字层，逐字可读）。⚠️ 证据缺口：文件名含「重写」，但页面呈现的是原稿+批注叠加，全课未见独立、干净的用户重写稿，**也未见老师核验过的参考全文**。reference_text 里现有三篇范文全部为 AI 起草（已在正文首行标明），老师本课要求「改好了之后再发一个版本给我」（转录 424 行），那一版批回来后才是第一份有出处的参考全文，届时应替换或并列。"
         },
         {
           "lesson": "L33",
@@ -189,7 +189,8 @@
             "locator": "287-424",
             "verify": "needs_review",
             "note": "骨架顺序由老师逐段修改意见整理而成；每一步的原始依据见对应槽位与语言弹药条目。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-out2",
@@ -208,7 +209,8 @@
             "locator": "438-448",
             "verify": "needs_review",
             "note": "老师原话大意，ASR 中 unfolding 重复出现、可信；中文表述为转录原文。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-out3",
@@ -227,7 +229,8 @@
             "locator": "576-586",
             "verify": "needs_review",
             "note": "ASR 把 objet 听成 book in / option，语义可从上下文确认，用词待核对。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-log1",
@@ -236,7 +239,7 @@
           "title": "因果优先于转折：Mais → Comme",
           "body": "老师当场否掉 « Mais je ne sais pas comment trouver un logement »：「你不用改成转折，改成因果关系」「由于我不知道该如何去找房子……」〔师〕\n\n**判断法**：前后两句是「所以」关系就别用 mais。你这次错在把「我不知道怎么找」当成了转折——它其实是你求助的**原因**。\n\n可用的因果连接词成组见弹药库「衔接词①原因」。",
           "review": "teacher_reviewed",
-          "order": 10,
+          "order": 142,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -266,7 +269,8 @@
             "locator": "332, 347, 375, 389, 431",
             "verify": "needs_review",
             "note": "三分法为整理，老师是分三处口头指出的；同义链为 AI 补充，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-log3",
@@ -285,7 +289,8 @@
             "locator": "600",
             "verify": "needs_review",
             "note": "老师原话针对邀请范文；迁移到本题的例子为 AI 补充，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-con1",
@@ -294,11 +299,11 @@
           "title": "【预算】必答项——你上次唯一漏掉的",
           "body": "**五条刻意用了五个不同的核心词**（budget / loyer / charges / dépasser / prix），避免词汇重复。任选一条，数字换你自己的。〔AI〕\n\n- Mon **budget** est d'environ 1 200 dollars par mois.\n- Je peux payer jusqu'à 1 000 dollars de **loyer**.\n- Je cherche quelque chose entre 900 et 1 200 dollars, **charges comprises**.\n- Je ne veux pas **dépasser** 1 100 dollars par mois.\n- Côté **prix**, je compte environ 1 000 dollars.\n\n**配套词**：le loyer 房租（阳）／les charges 杂费（阴·复）／charges comprises 含杂费／par mois 每月",
           "review": "ai_draft",
-          "order": 23,
+          "order": 170,
           "modality": "both",
           "conditions": "",
           "source": null,
-          "step": "6"
+          "step": "7"
         },
         {
           "support_id": "L33-W1-con2",
@@ -307,7 +312,7 @@
           "title": "【房型】可替换素材",
           "body": "- un petit appartement 〔师·原稿保留〕\n- un studio 〔AI〕\n- une chambre dans une colocation 〔AI〕\n- un logement meublé / non meublé 〔AI〕\n- un appartement d'une chambre 〔AI〕\n\n**组合模板**：Je voudrais louer + 房型 + 位置 + 配置。\n\n⚠️ 注意性别：appartement、logement、studio 都是**阳性**；chambre、colocation 是**阴性**。这正是你上次栽的地方，见「性数配合」。",
           "review": "teacher_reviewed",
-          "order": 20,
+          "order": 150,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -318,7 +323,7 @@
             "verify": "needs_review",
             "note": "只有 « un petit appartement » 是老师改稿保留的；其余为 AI 扩充，正文逐行已标。"
           },
-          "step": "6"
+          "step": "5"
         },
         {
           "support_id": "L33-W1-con3",
@@ -327,7 +332,7 @@
           "title": "【位置】可替换素材",
           "body": "- près d'**une station** de métro 〔师·当场订正，原稿写的是 près du métro〕\n- dans un quartier calme 〔AI〕\n- pas trop loin du centre-ville 〔AI〕\n- bien desservi par les transports 〔AI〕\n- proche de mon lieu de travail 〔AI〕\n\n**配套词**：un quartier 街区（阳）／une station 车站（阴）／les transports 交通（阳·复）",
           "review": "teacher_reviewed",
-          "order": 21,
+          "order": 160,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -347,7 +352,7 @@
           "title": "【配置】可替换素材",
           "body": "- avec une connexion Internet 〔师·原稿保留，老师只改了句式没改内容〕\n- meublé / non meublé 〔AI〕\n- avec une machine à laver 〔AI〕\n- lumineux et au calme 〔AI〕\n- avec un balcon 〔AI〕\n\n**配套词**：une connexion 网络（阴）／les meubles 家具（阳·复）／une machine à laver 洗衣机（阴）\n\n⚠️ 形容词要跟着名词配合：un appartement **lumineux** / une chambre **lumineuse**。",
           "review": "teacher_reviewed",
-          "order": 22,
+          "order": 161,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -367,7 +372,7 @@
           "title": "【日期】可替换素材",
           "body": "**五条用了五个不同的时间表达法**〔第一条师，其余 AI〕：\n\n- **dès** le mois prochain 〔师·明确肯定：「写的挺好的」「disponible 用的很好」〕\n- **à partir du** 1er septembre 〔AI〕\n- **avant la fin** du mois 〔AI〕\n- Je dois **emménager avant de** commencer mon travail. 〔AI〕\n- **le plus tôt possible** 〔AI〕\n\n**配套词**：emménager 搬进（动）／la date d'entrée 入住日（阴）／disponible 可用的（形，阴阳同形）",
           "review": "teacher_reviewed",
-          "order": 24,
+          "order": 180,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -378,7 +383,7 @@
             "verify": "needs_review",
             "note": "只有第一条是老师肯定过的；其余为 AI 扩充，正文逐行已标。"
           },
-          "step": "6"
+          "step": "8"
         },
         {
           "support_id": "L33-W1-con6",
@@ -387,7 +392,7 @@
           "title": "【背景】为什么要搬到蒙特利尔",
           "body": "老师改稿后的主线：我要去蒙特利尔**工作** → 所以要找房。他指出你原稿「我要来蒙特利尔旅游」和后面找房是矛盾的——**背景必须和请求对得上**。〔师〕\n\n- Je vais travailler à Montréal. 〔师·保留〕\n- Je viens de trouver un emploi là-bas. 〔AI〕\n- Je déménage pour le travail. 〔AI〕\n- C'est la première fois que je vais vivre dans cette ville. 〔AI〕\n- Je ne connais pas encore le quartier. 〔AI〕",
           "review": "teacher_reviewed",
-          "order": 25,
+          "order": 130,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -397,7 +402,8 @@
             "locator": "318, 325",
             "verify": "needs_review",
             "note": "「旅游 vs 找房不搭」出自转录 318-325 行老师原话大意（ASR 较噪）；例句除第一条外为 AI 扩充，正文逐行已标。"
-          }
+          },
+          "step": "3"
         },
         {
           "support_id": "L33-W1-rep0",
@@ -409,7 +415,8 @@
           "order": 30,
           "modality": "writing",
           "conditions": "",
-          "source": null
+          "source": null,
+          "step": ""
         },
         {
           "support_id": "L33-W1-drl1",
@@ -428,7 +435,8 @@
             "locator": "p.1 « J'aurais besoin d'une appartement »",
             "verify": "verified",
             "note": "错误本身在原稿里客观存在、逐字可读（verified）。但「这是性数错误」是 AI 的独立观察——老师口头讲的是名词重复，未单独讲性数。规律与词表为 AI 编写。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-drl2",
@@ -440,7 +448,8 @@
           "order": 32,
           "modality": "writing",
           "conditions": "",
-          "source": null
+          "source": null,
+          "step": ""
         },
         {
           "support_id": "L33-W1-drl3",
@@ -452,7 +461,8 @@
           "order": 33,
           "modality": "writing",
           "conditions": "",
-          "source": null
+          "source": null,
+          "step": ""
         },
         {
           "support_id": "L33-W1-cnj1",
@@ -461,7 +471,7 @@
           "title": "🔗 衔接词 ① 原因",
           "body": "本题主力，因为你的求助逻辑就是因果。〔Comme 师，其余 AI〕\n\n- **Comme** + 句子（放句首）：Comme je ne connais pas la ville, j'ai besoin de ton aide. 〔师·当场改的就是这个〕\n- **parce que** + 句子（放句中）：J'ai besoin de ton aide parce que je ne connais personne là-bas.\n- **puisque** + 句子（对方已知的原因）：Puisque tu connais bien la ville, je me tourne vers toi.\n- **car** + 句子（书面，句中）：Je te contacte car je vais déménager.\n- **C'est pourquoi** + 句子（结论）：C'est pourquoi je t'écris.\n- **Étant donné que** + 句子（较正式）：Étant donné que je commence en septembre, …\n\n⚠️ Comme 只能放句首，parce que 只能放句中——这是最常见的位置错误。",
           "review": "teacher_reviewed",
-          "order": 40,
+          "order": 143,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -484,7 +494,8 @@
           "order": 41,
           "modality": "both",
           "conditions": "本题不建议使用；主要供 T3",
-          "source": null
+          "source": null,
+          "step": ""
         },
         {
           "support_id": "L33-W1-cnj3",
@@ -493,7 +504,7 @@
           "title": "🔗 衔接词 ③ 请求（按礼貌度排）",
           "body": "全部按 **tu**（本题语域）给出。〔公式 aider qn à + inf. 是师；具体句为 AI〕\n\n**由直接到委婉**：\n- **Peux-tu** m'aider à + inf. ?（直接，朋友之间够用）\n- **Pourrais-tu** m'aider à + inf. ?（委婉，一个条件式够了）\n- **Est-ce que tu pourrais** me donner un coup de main ?（口语，自然）\n- **Si tu as le temps,** peux-tu … ?（加条件更客气，且用的是安全的 si + 现在时）\n\n**配套收尾**：\n- Merci d'avance pour ton aide.\n- Ce serait vraiment gentil de ta part.\n\n⚠️ 两个纪律：\n1. **aider qn à + inf.**，à 不能漏 〔师·PDF 明写公式〕\n2. **人称别混**——你上次通篇 tu 却写了 Pouvez-vous。选定 tu 就一路 tu（见槽位 s12）。",
           "review": "teacher_reviewed",
-          "order": 42,
+          "order": 140,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -504,7 +515,7 @@
             "verify": "needs_review",
             "note": "公式 « aider qn à + inf. » 手写清楚，转录 347、354 行为第二重证据。⚠️ 具体请求句为 AI 起草：老师复述时一直沿用 « Pouvez-vous »，未把人称改成 tu，人称问题属 AI 观察（槽位 s12）。"
           },
-          "step": "5"
+          "step": "4"
         },
         {
           "support_id": "L33-W1-cnj4",
@@ -523,7 +534,8 @@
             "locator": "684",
             "verify": "needs_review",
             "note": "「模板化地方固定下来」及 d'abord/en plus/enfin、d'abord/ensuite/enfin 两套均为老师原话点名；第三套与单个补充词为 AI 扩充，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-cnj5",
@@ -532,7 +544,7 @@
           "title": "🔗 衔接词 ⑤ 结尾",
           "body": "老师的纪律：结尾别再多加一层请求（他整句否掉了「快去问问你的朋友和同事」）〔师〕。结尾只做两件事：**表达期待 + 等回复**。\n\n**期待句**〔AI〕：\n- J'ai hâte de découvrir cette ville.\n- J'ai hâte de te revoir.\n- Ce serait vraiment super.\n\n**等回复**〔AI〕：\n- J'attends ta réponse.\n- Tiens-moi au courant.\n- Merci d'avance !\n\n**落款**〔师·原稿保留〕：\nÀ très bientôt ! / Bisous, / Amicalement, （朋友之间前两个都行）\n\n⚠️ **J'ai hâte de** 后面接**不定式**，不接从句——J'ai hâte de te voir，不是 J'ai hâte que je te vois。",
           "review": "teacher_reviewed",
-          "order": 44,
+          "order": 190,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -543,7 +555,7 @@
             "verify": "needs_review",
             "note": "「结尾别多加请求」这一判断证据清楚（老师整句否掉）。老师给的替代原句因 ASR 三路打架无法可靠还原，见单列条目「⚠️ 待你核实的三条」；此处列出的期待/等回复句均为 AI 起草，正文已标。"
           },
-          "step": "7"
+          "step": "9"
         },
         {
           "support_id": "L33-W1-lan1",
@@ -552,7 +564,7 @@
           "title": "Objet：名词格（老师第一条修改）",
           "body": "❌ Objet: M'aider rechercher un logement à Montréal\n✅ **Objet: Recherche d'un logement à Montréal** 〔师〕\n\n老师：「我们的 Objet 最好写成名词格，还记得吗？」并当场把动词 rechercher 圈掉换成名词 recherche；PDF 批注旁写了 n.（nom）。他补充：à Montréal「要不要，其实都行」。〔师〕\n\n**同款名词格主题行**〔AI〕：\n- Demande d'information sur…\n- Invitation à…\n- Réservation d'une chambre\n\n**动词→名词的换法**：rechercher → la recherche／demander → la demande／inviter → l'invitation／réserver → la réservation",
           "review": "teacher_reviewed",
-          "order": 50,
+          "order": 110,
           "modality": "writing",
           "conditions": "",
           "source": {
@@ -572,7 +584,7 @@
           "title": "开头说明目的：删掉重复，用 que 引从句",
           "body": "**老师的动作**〔师〕：把 « Je te contacte pour te faire part de mon prochain voyage à Montréal. » 中间那段划掉——因为下一句还要再说一次 Montréal——并在上方加了 que，「加个 que 后面就可以加从句了」。\n\n方向明确：**一句话说清目的，别把地点说两遍。**\n\n**可用开头**〔AI·老师没口述完整句，这三条是我按他的方向起草的〕：\n- Je te contacte parce que je vais bientôt m'installer à Montréal.\n- Je t'écris pour t'annoncer que je vais travailler à Montréal.\n- J'ai une bonne nouvelle : je vais travailler à Montréal.\n\n⚠️ 我没有把 « faire part que » 写进推荐句——标准搭配是 faire part **de** qch，接从句用 t'annoncer que / te dire que 更稳。",
           "review": "teacher_reviewed",
-          "order": 51,
+          "order": 131,
           "modality": "writing",
           "conditions": "",
           "source": {
@@ -592,7 +604,7 @@
           "title": "je devrai + inf.（不是 j'aurai rechercher）",
           "body": "❌ et j'aurai rechercher un logement\n✅ et **je devrai** rechercher un logement 〔师·PDF 批注写 devrai〕\n\n老师当场追问「你为什么这个地方考虑到 j'aurais？」\n\n**表「不得不 / 需要做」的安全说法**〔AI〕：\n- **je devrai** + inf.（我将必须……）\n- **j'aurai besoin de** + 名词／+ inf.\n- ⛔ il faudra que je + 虚拟式 —— 雷区，绕开（见「从句组合」）",
           "review": "teacher_reviewed",
-          "order": 52,
+          "order": 132,
           "modality": "writing",
           "conditions": "",
           "source": {
@@ -612,7 +624,7 @@
           "title": "aider quelqu'un à + infinitif（本课重点公式）",
           "body": "❌ Pouvez-vous m'aider **le** rechercher ?\n✅ … m'aider **à le** rechercher ? 〔师·PDF 直接写下公式 « aider qn à + inf. »〕\n\n老师连着举了一串同构：à dégager, à faire, à garder, à choisir。他还提醒：这里宾语已经有了（m'），所以是 aider **qn** à faire qch。〔师〕\n\n**具体请求句见「衔接词③请求」**（那里按礼貌度排好了，并且统一用 tu）。",
           "review": "teacher_reviewed",
-          "order": 53,
+          "order": 141,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -623,7 +635,7 @@
             "verify": "needs_review",
             "note": "公式手写清楚；转录 347、354 行为第二重证据。本条已把 AI 起草的请求句移到「衔接词③请求」，此条只留老师内容。"
           },
-          "step": "5"
+          "step": "4"
         },
         {
           "support_id": "L33-W1-lan5",
@@ -632,7 +644,7 @@
           "title": "把两句合成一句：Je voudrais louer…",
           "body": "老师：原稿 « Je préférerais habiter près du métro et je voudrais louer un petit appartement » 两句写成这样「很奇怪」，直接合成一句——〔师〕\n\n✅ **Je voudrais louer un (petit) appartement près d'une station de métro.**\n\n两个要点：\n1. 删掉 Je préférerais（少一个条件式，见「条件式降级」）；\n2. près du métro → **près d'une station de métro**。〔师·PDF 手写同〕\n\n这一句是考场曲目第 6 条，建议背死。",
           "review": "teacher_reviewed",
-          "order": 54,
+          "order": 151,
           "modality": "writing",
           "conditions": "",
           "source": {
@@ -643,7 +655,7 @@
             "verify": "needs_review",
             "note": "老师口述了这句改写，PDF 上亦手写 « près d'une station de métro »，双证据吻合。"
           },
-          "step": "6"
+          "step": "5"
         },
         {
           "support_id": "L33-W1-lan6",
@@ -652,7 +664,7 @@
           "title": "提需求不重复名词：J'aurais besoin d'avoir…",
           "body": "❌ J'aurais besoin d'une appartement avec connexion Internet（appartement 第三次出现，而且性别还错了）\n✅ **J'aurais besoin d'avoir une connexion Internet.** 〔师〕\n\n老师：「你可以说什么呢？J'espère… 或者你就直接 J'aurais besoin… avoir une connexion internet」——把重复的名词整个拿掉。\n\n**同型**〔AI〕：\n- J'aurais besoin d'avoir + 名词\n- J'espère avoir + 名词\n- ⛔ Il me faudrait + 名词（条件式，不熟别用）\n\n⚠️ 更简洁的写法是 **J'aurais besoin d'une connexion Internet**（besoin de 直接接名词）。老师给的 d'avoir 版本也对，只是多一个词。两个都能用，挑你顺手的背一个。〔AI 补充说明〕",
           "review": "teacher_reviewed",
-          "order": 55,
+          "order": 162,
           "modality": "writing",
           "conditions": "",
           "source": {
@@ -672,7 +684,7 @@
           "title": "条件式别乱用：不熟就降级",
           "body": "老师本课的重要取舍〔师·转录清楚〕：「我们 T1 没必要用这么多条件式」「与其去查，还不如就用普通的」「你要是会用当然无所谓，你炫个技无所谓的，但如果你不是那么熟……」\n\n**这条和你的「选用结构内零错」是同一件事。**\n\n**安全替代**〔AI〕：\n- ❌ J'espère que ce **serait** disponible…（espérer que 不接条件式）\n- ✅ **Ce sera parfait si c'est disponible dès le mois prochain.**\n- ✅ **J'espère que ce sera disponible dès le mois prochain.**\n\n**全文条件式配额建议**〔AI〕：只留 **je voudrais** 一个（你已经很熟），其余全部降级成现在时/将来时。\n\n⚠️ 老师当场给的那句降级原话是什么，无法从证据可靠还原——见「⚠️ 待你核实的三条」。上面两条 ✅ 是我按语法规则写的，不是老师原话。",
           "review": "teacher_reviewed",
-          "order": 56,
+          "order": 191,
           "modality": "writing",
           "conditions": "",
           "source": {
@@ -683,7 +695,7 @@
             "verify": "needs_review",
             "note": "「T1 不必多用条件式、不熟就用普通形式」为老师原话大意，转录清楚。两条 ✅ 例句与配额建议为 AI 编写（语法我负责），正文已标；老师原话版本见 recon1 条目。"
           },
-          "step": "7"
+          "step": "9"
         },
         {
           "support_id": "L33-W1-recon1",
@@ -702,7 +714,8 @@
             "locator": "396-410, 417, 621",
             "verify": "needs_review",
             "note": "三条全部为高不确定重构，已单列成独立条目并整条标 needs_review，不混入 teacher_reviewed 弹药。这是本文件里唯一「产地不明」的内容。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-lan8",
@@ -721,7 +734,8 @@
             "locator": "1002, 1075, 1101, 1168, 1294-1301",
             "verify": "needs_review",
             "note": "每条都是老师本课讲过的表达，connaître la ville 一条他明确说「写作也可以用」；汇成写作清单与末尾介词提醒为整理/AI 补充，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip1",
@@ -740,7 +754,8 @@
             "locator": "410",
             "verify": "needs_review",
             "note": "老师原话，转录清楚；「你自己承认查了」见转录 280 行与 361 行。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip2",
@@ -759,7 +774,8 @@
             "locator": "670",
             "verify": "needs_review",
             "note": "老师原话，转录清楚。「为什么 10 分钟重要」的三题时间分配论证为 AI 补充，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip3",
@@ -778,7 +794,8 @@
             "locator": "677-698",
             "verify": "needs_review",
             "note": "老师原话大意，转录清楚（含 ChatGPT 反面案例）。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip4",
@@ -797,7 +814,8 @@
             "locator": "684-691",
             "verify": "needs_review",
             "note": "老师原话，转录清楚。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip5",
@@ -816,7 +834,8 @@
             "locator": "455-469, 586",
             "verify": "needs_review",
             "note": "老师原话大意，转录清楚；「迁移到本题」为 AI 整理，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip6",
@@ -835,7 +854,8 @@
             "locator": "543-621",
             "verify": "needs_review",
             "note": "老师逐条分析范文的内容，ASR 对 sala/salle、equipment 等词有失真，条目为语义整理而非原词照抄；末段方法迁移为 AI 补充，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip7",
@@ -854,7 +874,8 @@
             "locator": "424, 431",
             "verify": "needs_review",
             "note": "老师原话，转录清楚；「这一版就是未来的参考全文」为 AI 补充的产品说明，正文已标。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip8",
@@ -873,7 +894,8 @@
             "locator": "1301, 1510",
             "verify": "needs_review",
             "note": "老师原话，转录清楚（production 一词重复出现，可信）。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-tip9",
@@ -892,7 +914,8 @@
             "locator": "1545-1566",
             "verify": "needs_review",
             "note": "老师原话大意；末段澄清为 AI 补充，正文已标。ASR 在分数段落有重复与跳字，分数-CLB 对应需人工复核。"
-          }
+          },
+          "step": ""
         },
         {
           "support_id": "L33-W1-lan0",
@@ -901,7 +924,7 @@
           "title": "称呼（朋友之间）",
           "body": "- **Coucou** Pierre, 〔师·原稿保留，老师未改〕\n- **Salut** Marie, 〔AI〕\n- **Cher** Pierre, 〔AI·偏正式，本题语域用不上〕\n\n⚠️ 选定 tu 就一路 tu——你上次通篇 tu 却在请求句写了 Pouvez-vous（见槽位 s12）。",
           "review": "teacher_reviewed",
-          "order": 45,
+          "order": 120,
           "modality": "both",
           "conditions": "",
           "source": {
@@ -913,6 +936,84 @@
             "note": "« Coucou Pierre, » 是原稿逐字可读的内容，老师全程未改动。其余两条为 AI 扩充，正文已标。"
           },
           "step": "2"
+        },
+        {
+          "support_id": "L33-W1-sce0",
+          "scope": "task",
+          "category": "content_ammo",
+          "title": "🎬 先选一个情境　:gray[选定后下面每一格都跟着定]",
+          "body": "**别凭空编故事。**从下面挑一个，后面 9 格全部照它填，内容自然一致。〔AI〕\n\n| | 身份 / 去干嘛 | 房型 | 预算 | 位置 | 日期与租期 |\n|---|---|---|---|---|---|\n| **A** | 去蒙特利尔**读书** | 带家具合租房间 | 800 加元/月 | 近学校或地铁 | 9/1 入住，住 8 个月 |\n| **B** | 去巴黎**实习**半年 | 小型带家具单间 | 1 000 欧/月 | 通勤 ≤30 分钟 | 10/15 入住 |\n| **C** | 在里昂**找到新工作** | 安静一居室 | 900 欧/月 | 近公共交通 | 下月初入住，至少一年 |\n| **D** | 去魁北克**语言培训**（预算紧） | 单间，也接受合租 | 750 加元/月，最好包水电网 | 可稍远但交通要方便 | 7 月入住，住 3 个月 |\n| **E** | **两个人**一起住（有特殊需求） | 要能养猫、有厨房洗衣 | 1 400 加元/月封顶 | — | 条件合适可立即签 |\n\n⚠️ 选定之后**不要中途换**——预算、日期、房型三项必须互相对得上，这是判卷人一眼能看出的破绽。",
+          "review": "ai_draft",
+          "order": 100,
+          "modality": "writing",
+          "conditions": "",
+          "source": null,
+          "step": "0"
+        },
+        {
+          "support_id": "L33-W1-act1",
+          "scope": "task",
+          "category": "language_ammo",
+          "title": "📣 希望朋友具体做什么　:gray[最容易漏的一格]",
+          "body": "**光说「帮帮我」不够，要告诉朋友怎么帮。**这一格漏掉，任务完成度直接掉分。〔AI〕\n\n**让他打听**\n- Pourrais-tu demander autour de toi ?\n- Connais-tu quelqu'un qui loue une chambre ?\n- N'hésite pas à parler de ma recherche à tes amis et à tes collègues.\n\n**让他转广告**\n- Pourrais-tu consulter quelques annonces pour moi ?\n- Si tu vois une annonce intéressante, pourrais-tu me l'envoyer ?\n\n**让他牵线**\n- Peux-tu me transmettre les coordonnées du propriétaire ?\n- Pourrais-tu me mettre en contact avec le propriétaire ?\n\n**让他代看/核实**\n- Si tu as le temps, pourrais-tu visiter le logement à ma place ?\n- J'aimerais recevoir quelques photos avant de prendre une décision.\n- Peux-tu vérifier si les charges sont comprises ?\n- Pourrais-tu demander le montant du dépôt de garantie ?\n\n**一句打包（最省事）**\n:orange-background[Si tu trouves une annonce intéressante, pourrais-tu m'envoyer quelques photos, l'adresse et les coordonnées du propriétaire ?]\n\n⚠️ 老师否掉的是你上次那句 `N'hésite pas à parler de ma recherche à tes amis et à tes collègues.` 放在**结尾之后**当额外请求——但把它放在**行动这一格里**是完全正确的。位置问题，不是句子问题。",
+          "review": "ai_draft",
+          "order": 190,
+          "modality": "writing",
+          "conditions": "",
+          "source": null,
+          "step": "9"
+        },
+        {
+          "support_id": "L33-W1-tpl1",
+          "scope": "task",
+          "category": "outline",
+          "title": "✏️ 半开放模板　:gray[你只需要做选择题]",
+          "body": "填完就是一篇。空格从上面各步的弹药里挑，或直接照情境表填。〔AI〕\n\n---\n\n**Objet : Recherche d'un logement à \\_\\_\\_\\_\\_\\_**\n\nSalut \\_\\_\\_\\_\\_\\_,\n\nJ'espère que tu vas bien. Je t'écris car je vais \\_\\_\\_\\_\\_\\_ à \\_\\_\\_\\_\\_\\_ à partir du \\_\\_\\_\\_\\_\\_.\nComme tu connais bien la ville, j'aurais besoin de ton aide pour trouver un logement.\n\nJe cherche \\_\\_\\_\\_\\_\\_, de préférence \\_\\_\\_\\_\\_\\_. Mon budget maximal est de \\_\\_\\_\\_\\_\\_ par mois,\ncharges comprises. Je voudrais emménager le \\_\\_\\_\\_\\_\\_ et rester pendant \\_\\_\\_\\_\\_\\_.\n\nPourrais-tu \\_\\_\\_\\_\\_\\_ ? Si tu vois une annonce intéressante, pourrais-tu m'envoyer \\_\\_\\_\\_\\_\\_ ?\n\nMerci d'avance pour ton aide. À très bientôt !\n\n\\_\\_\\_\\_\\_\\_\n\n---\n\n**七个选择题，答完作文就出来了：**\n为什么去？ · 什么房？ · 哪里？ · 多少钱？ · 什么时候？ · 住多久？ · 让朋友具体做什么？",
+          "review": "ai_draft",
+          "order": 300,
+          "modality": "writing",
+          "conditions": "",
+          "source": null,
+          "step": ""
+        },
+        {
+          "support_id": "L33-W1-frm1",
+          "scope": "task",
+          "category": "outline",
+          "title": "🧱 七个万能骨架　:gray[带槽，换个题目也能用]",
+          "body": "〔AI〕\n\n1. **直接型**　Je t'écris car je vais bientôt m'installer à **[城市]** et j'aurais besoin de ton aide pour trouver **[房型]**.\n2. **借朋友的本地优势**　Comme tu connais bien **[城市]**, je me tourne vers toi pour m'aider dans ma recherche de logement.\n3. **理想条件**　L'idéal serait **[房型]**, situé **[地点]**, avec **[设施]**.\n4. **预算弹性**　Je peux consacrer jusqu'à **[金额]** par mois au loyer, charges comprises.\n5. **首选＋退路**　Mon premier choix serait **[首选]**, mais je reste ouvert à **[替代方案]**.\n6. **让朋友行动**　Si tu vois une annonce qui correspond à ces critères, pourrais-tu me l'envoyer ?\n7. **结束期待**　J'espère trouver rapidement quelque chose grâce à ton aide et j'ai hâte de te revoir.\n\n⚠️ 骨架 5「首选＋退路」最值得练——它让内容显得真实，而不是机械罗列题目关键词。",
+          "review": "ai_draft",
+          "order": 301,
+          "modality": "writing",
+          "conditions": "",
+          "source": null,
+          "step": ""
+        },
+        {
+          "support_id": "L33-W1-err1",
+          "scope": "task_type",
+          "category": "teacher_tip",
+          "title": "🚫 这类题的通用易错　:gray[体裁级，不是你的个人错因]",
+          "body": "〔AI·体裁通则，非本课老师所讲〕\n\n1. **`chercher` 后面直接接东西**　✅ Je cherche un logement.　❌ Je cherche **pour** un logement.\n   （名词结构可以：Je fais des recherches **pour** trouver un logement.）\n2. **向某人求助 vs 要求某人做某事**\n   　demander de l'aide **à** quelqu'un\n   　demander **à** quelqu'un **de** faire quelque chose\n3. **`faire part` 和 `faire savoir` 不要混**\n   　✅ te faire part **de mon projet**　✅ te faire savoir **que je serai à Paris**\n   　❌ faire part **que** je serai…\n4. **搬入 vs 搬走**　emménager（搬进新住处）／ déménager（搬离旧住处）。本题用 **emménager**。\n5. **预算的自然说法**　Mon budget est **de** 900 euros. ／ Je peux aller **jusqu'à** 900. ／ Je ne voudrais pas **dépasser** 900.\n6. **人称必须全程统一**　给朋友写就一路 tu / te / ton / tes / pourrais-tu，中途别换 vous。",
+          "review": "ai_draft",
+          "order": 302,
+          "modality": "writing",
+          "conditions": "",
+          "source": null,
+          "step": ""
+        },
+        {
+          "support_id": "L33-W1-chk1",
+          "scope": "task_type",
+          "category": "teacher_tip",
+          "title": "⏱️ 交卷前十秒　:gray[圈得出这七项就完整了]",
+          "body": "交卷前扫一遍，能在文章里**迅速圈出**这七项，任务就算完整完成。〔AI〕\n\n- [ ] **type**　studio / chambre / colocation —— 房型说清楚了没有\n- [ ] **budget**　金额 + `par mois`（最好带 charges comprises）\n- [ ] **date**　`à partir du` / `le 1er septembre` —— :red-background[你上次漏的是预算，不是日期，但两个都要点]\n- [ ] **demande**　有没有一句明确的 `Pourrais-tu… ?`\n- [ ] **action**　有没有告诉朋友**具体**怎么帮（发广告 / 问朋友 / 联系房东）\n- [ ] **tu**　全程朋友语体，没混进 vous\n- [ ] **问候 + 结尾 + 署名**　三样齐不齐\n\n七项全在 = 任务完成度满格。剩下的分靠语法准确和词汇不重复。",
+          "review": "ai_draft",
+          "order": 303,
+          "modality": "writing",
+          "conditions": "",
+          "source": null,
+          "step": ""
         }
       ]
     }
