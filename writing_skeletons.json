@@ -1,0 +1,59 @@
+{
+  "schema": 1,
+  "_note": "体裁骨架：属于 tcf_task_type，跨课共用，不放进任何一课的 writing_tasks.json。kind 三态：fixed=文章结构的一格（素材按 function 挂上来）；slots=文章结构的一格，子格由该题的 slots 在运行时展开；flow=练习流程动作，不产出文章内容。",
+  "skeletons": {
+    "tache_1": {
+      "name": "TCF 写作 Tâche 1 · la structure du mail",
+      "_evidence": "六段结构逐字取自老师板书幻灯片「tâche 1 · la structure du mail」（L32/doc/1.jpg 第 1-2 项、2.jpg 第 3-4 项、3.jpg 第 5-6 项）。板书另附两篇老师范文：exemple 1 求助建议（4.jpg / 6.jpg，标有 objectif général、Détails）、exemple 2 邀请（5.jpg）。L33 转录 543-621 行是老师对 exemple 2 的逐段讲解，与板书互为印证。",
+      "_provenance": "teacher_slide",
+      "flow": [
+        {
+          "step_id": "pick_scenario",
+          "name": "选一个情境",
+          "kind": "flow"
+        },
+        {
+          "step_id": "use_template",
+          "name": "半开放模板（快速通道）",
+          "kind": "flow"
+        },
+        {
+          "step_id": "en_tete",
+          "name": "1. En-tête · 邮件头",
+          "kind": "fixed",
+          "optional": true
+        },
+        {
+          "step_id": "salutations",
+          "name": "2. Salutations · 问候",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "objectif_general",
+          "name": "3. Objectif général · 亮明目的",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "details",
+          "name": "4. Détails · 展开细节",
+          "kind": "slots"
+        },
+        {
+          "step_id": "attentes_souhaits",
+          "name": "5. Attentes et souhaits · 期待与愿望",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "formules_conclusion",
+          "name": "6. Formules de conclusion · 结束语",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "final_check",
+          "name": "交卷前检查",
+          "kind": "flow"
+        }
+      ]
+    }
+  }
+}
