@@ -1,2880 +1,3000 @@
 [
- {
-  "lemma": "un tarif",
-  "pos": "nom",
-  "zh": "[L34课前复习] 价目；收费标准",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Les recettes sont proposées au tarif normal.",
-  "raw": "un tarif",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:tarif",
-    "teacher_action": "correction",
-    "selection_reason": "开课听写词，核对时学生说成“免费”，老师当场纠正为“定价”，属于必须固化的错误。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "16:00-17:00",
-     "lines": "239-250"
-    },
-    "learning_note": "tarif 是要收钱的一侧，和 gratuit 语义相反。"
-   }
-  ]
- },
- {
-  "lemma": "gratuit",
-  "pos": "adj",
-  "zh": "[L34课前复习] 免费的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "L'entrée est gratuite.",
-  "raw": "gratuit",
-  "fem": "gratuite",
-  "fem_raw": "gratuite",
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:gratuit",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时与 tarif 成对讲解，用来确定“免费”只能由 gratuit 承担。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "16:00-17:00",
-     "lines": "239-250"
-    }
-   }
-  ]
- },
- {
-  "lemma": "afficher",
-  "pos": "verbe",
-  "zh": "[L34课前复习] 张贴；公告；显示",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Les horaires sont affichés à l'entrée.",
-  "raw": "afficher",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:afficher",
-    "teacher_action": "explain",
-    "selection_reason": "开课听写词，老师核对时把动词 afficher 和名词 affiche 并列讲解。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "16:30-17:00",
-     "lines": "245-250"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une affiche",
-  "pos": "nom",
-  "zh": "[L34课前复习] 海报；招贴",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Cette affiche annonce une grande marche.",
-  "raw": "une affiche",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:affiche",
-    "teacher_action": "contrast",
-    "selection_reason": "与 afficher 成对讲解的名词形式，考试里换词性就必须认得出。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "16:30-17:00",
-     "lines": "245-250"
-    }
-   }
-  ]
- },
- {
-  "lemma": "s'inscrire",
-  "pos": "verbe pronominal",
-  "zh": "[L34课前复习] 登记；注册；报名",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Je voudrais m'inscrire à un cours de langue.",
-  "raw": "s'inscrire",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:s-inscrire",
-    "teacher_action": "memorize",
-    "selection_reason": "开课听写词，老师核对时给出“登记、注册”的确定义。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "17:00-17:30",
-     "lines": "252-257"
-    }
-   }
-  ]
- },
- {
-  "lemma": "essayer",
-  "pos": "verbe",
-  "zh": "[L34课前复习] 尝试；试",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Essayer un régime.",
-  "raw": "essayer",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:essayer",
-    "teacher_action": "memorize",
-    "selection_reason": "开课听写词，核对时确认词义为 try。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "17:00-17:30",
-     "lines": "252-257"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un stage",
-  "pos": "nom",
-  "zh": "[L34课前复习] 实习",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Je souhaite faire un stage dans votre maison d'édition.",
-  "raw": "un stage",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:stage",
-    "teacher_action": "correction",
-    "selection_reason": "开课听写词，学生只记得“跟工作有关”，老师明确为“实习”，同一节课的求职信阅读题也直接考到。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "17:00-17:30",
-     "lines": "252-257"
-    }
-   }
-  ]
- },
- {
-  "lemma": "le réveillon",
-  "pos": "nom",
-  "zh": "[L34课前复习] 节庆前夕的聚餐；年夜饭",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "le réveillon de Noël",
-  "raw": "le réveillon",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:reveillon",
-    "teacher_action": "correction",
-    "selection_reason": "开课听写词，学生记成“固定节日的庆祝”，老师纠正为节日前夕的那顿聚餐。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "17:30-18:00",
-     "lines": "258-264"
-    },
-    "learning_note": "对应年夜饭、平安夜聚餐，不能泛指节庆活动。"
-   }
-  ]
- },
- {
-  "lemma": "un métier",
-  "pos": "nom",
-  "zh": "[L34课前复习] 职业；工作",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Quel est votre métier ?",
-  "raw": "un métier",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:metier",
-    "teacher_action": "correction",
-    "selection_reason": "开课听写词，学生记成“小手工业者”，老师纠正为职业并给出问职业的句型。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "17:30-18:30",
-     "lines": "258-271"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un atelier",
-  "pos": "nom",
-  "zh": "[L34课前复习] 工坊；工作室；学习小组",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "un atelier de poterie",
-  "raw": "un atelier",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:opening-dictation:metier",
-    "teacher_action": "contrast",
-    "selection_reason": "学生把 métier 误记为工坊后主动追问，老师补出 atelier 作为对照词。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "18:00-18:30",
-     "lines": "265-271"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une recette",
-  "pos": "nom",
-  "zh": "[L34课前复习] 菜谱；食谱",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "des recettes régionales variées",
-  "raw": "une recette",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:recette",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时确认为菜谱；同节课阅读题的餐厅广告里再次出现。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "18:30-19:00",
-     "lines": "272-277"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une nuance",
-  "pos": "nom",
-  "zh": "[L34课前复习] 细微差别",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "une nuance de sens",
-  "raw": "une nuance",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:nuance",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时学生自己给出“微小差别”并被确认。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "18:30-19:00",
-     "lines": "272-277"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un objectif",
-  "pos": "nom",
-  "zh": "[L34课前复习] 目标；目的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Quel est l'objectif de ce texte ?",
-  "raw": "un objectif",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:objectif",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，且本课多道阅读题的题干正是 Quel est l'objectif…，必须稳。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "18:30-19:00",
-     "lines": "272-277"
-    }
-   }
-  ]
- },
- {
-  "lemma": "éviter",
-  "pos": "verbe",
-  "zh": "[L34课前复习] 避免",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Cette démarche permet d'éviter qu'une invention soit commercialisée par d'autres.",
-  "raw": "éviter",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:eviter",
-    "teacher_action": "memorize",
-    "selection_reason": "开课听写词；讲 INPI 阅读题时老师又指出它今天听写过，要求重新背一遍。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "18:30-19:00; 01:00:00-01:00:30",
-     "lines": "272-277; 861-866"
-    },
-    "learning_note": "éviter que 后面接虚拟式，本阶段只需能认出，不要求主动使用。"
-   }
-  ]
- },
- {
-  "lemma": "une œuvre",
-  "pos": "nom",
-  "zh": "[L34课前复习] 作品",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "l'œuvre d'un écrivain",
-  "raw": "une œuvre",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:oeuvre",
-    "teacher_action": "correction",
-    "selection_reason": "开课听写词，学生完全不认识，老师直接给出“作品”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "19:00-19:30",
-     "lines": "278-284"
-    }
-   }
-  ]
- },
- {
-  "lemma": "être en contact avec",
-  "pos": "expr",
-  "zh": "[L34课前复习] 与……保持联系",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "rester en contact avec ses anciens collègues",
-  "raw": "être en contact avec",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:en-contact-avec",
-    "teacher_action": "memorize",
-    "selection_reason": "开课听写的固定搭配，核对时确认为“保持联系”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "19:00-19:30",
-     "lines": "278-284"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une séance",
-  "pos": "nom",
-  "zh": "[L34课前复习] 一场；一次（课程或活动）",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "une séance de sport",
-  "raw": "une séance",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:seance",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时以英文 session 定位词义。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "19:00-19:30",
-     "lines": "278-284"
-    }
-   }
-  ]
- },
- {
-  "lemma": "rencontrer",
-  "pos": "verbe",
-  "zh": "[L34课前复习] 遇到；碰见",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "J'ai rencontré un ami hier.",
-  "raw": "rencontrer",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:rencontrer",
-    "teacher_action": "correction",
-    "selection_reason": "开课听写词，学生把 se rencontrer 当成“互相认识”，老师纠正并给出 se connaître。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "19:00-20:00",
-     "lines": "278-290"
-    },
-    "learning_note": "se rencontrer 是相遇；互相认识要用 se connaître。"
-   }
-  ]
- },
- {
-  "lemma": "la circulation",
-  "pos": "nom",
-  "zh": "[L34课前复习] 交通；通行",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "la circulation est dense le matin",
-  "raw": "la circulation",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:circulation",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时确认为交通。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "19:30-20:00",
-     "lines": "285-290"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la sécurité",
-  "pos": "nom",
-  "zh": "[L34课前复习] 安全；安保",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "la sécurité routière",
-  "raw": "la sécurité",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:securite",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时确认为安全、安保。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "19:30-20:00",
-     "lines": "285-290"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une spécialité",
-  "pos": "nom",
-  "zh": "[L34课前复习] 特色菜；特产；专长",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "une spécialité locale",
-  "raw": "une spécialité",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:specialite",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时以“特色菜”确定义。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "20:00-20:30",
-     "lines": "295-300"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un spectacle",
-  "pos": "nom",
-  "zh": "[L34课前复习] 演出；表演",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "assister à un spectacle musical",
-  "raw": "un spectacle",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "opening_review",
-    "source_ref": "L34:opening-dictation:spectacle",
-    "teacher_action": "review",
-    "selection_reason": "开课听写词，核对时确认为 show、表演。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "20:00-20:30",
-     "lines": "295-300"
-    }
-   }
-  ]
- },
- {
-  "lemma": "les cheveux",
-  "pos": "nom",
-  "zh": "[T8Q2] 头发",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "un homme avec les cheveux longs",
-  "raw": "les cheveux",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q2",
-    "teacher_action": "explain",
-    "selection_reason": "讲第 2 题模特广告时，老师逐词讲解学生看不懂的 cheveux 并给出常用搭配。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "23:00-23:30",
-     "lines": "335-341"
-    }
-   }
-  ]
- },
- {
-  "lemma": "bon état général",
-  "pos": "expr",
-  "zh": "[T8Q4] 整体状态良好",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Bon état général, 2100 euros.",
-  "raw": "bon état général",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q4",
-    "teacher_action": "memorize",
-    "selection_reason": "卖车广告里老师明确说“这里面你真的需要记下来的单词是这里”，因为写作考过卖二手物品的真题。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "26:00-27:00",
-     "lines": "377-397"
-    },
-    "learning_note": "同段的 climatiseur、vitre、auto radio 老师明确说可以不用记。"
-   }
-  ]
- },
- {
-  "lemma": "varié",
-  "pos": "adj",
-  "zh": "[T8Q10] 多种多样的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "des recettes régionales variées",
-  "raw": "varié",
-  "fem": "variée",
-  "fem_raw": "variée",
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q10",
-    "teacher_action": "memorize",
-    "selection_reason": "讲餐厅广告题时老师说“这个词可以背一下”，并指出它是形容词。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "32:30-33:00",
-     "lines": "470-475"
-    }
-   }
-  ]
- },
- {
-  "lemma": "laid",
-  "pos": "adj",
-  "zh": "[T8Q12] 丑的；难看的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "les modèles les plus laids",
-  "raw": "laid",
-  "fem": "laide",
-  "fem_raw": "laide",
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q12",
-    "teacher_action": "memorize",
-    "selection_reason": "车展题的题眼，老师专门停下说“记一个词，laid，丑的”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "35:00-35:30",
-     "lines": "504-510"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un aspirateur",
-  "pos": "nom",
-  "zh": "[T8Q12] 吸尘器",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "un aspirateur sur quatre roues",
-  "raw": "un aspirateur",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q12",
-    "teacher_action": "memorize",
-    "selection_reason": "车展题里老师说其他看不懂无所谓，但“最重要是记这个单词，可以背一下吸尘器”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "35:30-36:00",
-     "lines": "511-517"
-    }
-   }
-  ]
- },
- {
-  "lemma": "faciliter",
-  "pos": "verbe",
-  "zh": "[T8Q13] 使更容易；简化；促进",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Elle facilite la socialisation.",
-  "raw": "faciliter",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "correction",
-    "selection_reason": "学生查成“舒适”导致选错，老师要求跟 facile 一起记，不要单独背派生词。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "37:30-38:30",
-     "lines": "539-551"
-    }
-   }
-  ]
- },
- {
-  "lemma": "le cerveau",
-  "pos": "nom",
-  "zh": "[T8Q13] 大脑",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "bénéfique pour le cerveau",
-  "raw": "le cerveau",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "explain",
-    "selection_reason": "学生不认识这个词并因此把选项理解成社交，老师直接给出词义。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "38:30-39:00",
-     "lines": "553-559"
-    }
-   }
-  ]
- },
- {
-  "lemma": "lutter",
-  "pos": "verbe",
-  "zh": "[T8Q13] 斗争；抗争",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "lutter contre certaines maladies",
-  "raw": "lutter",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "memorize",
-    "selection_reason": "老师说这个词“你会见到它非常多次”，并给出 lutter pour / lutter contre 两个介词接口。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "39:00-39:30",
-     "lines": "560-566"
-    },
-    "learning_note": "lutter pour（为……而斗争）／lutter contre（对抗……）。"
-   }
-  ]
- },
- {
-  "lemma": "une maladie",
-  "pos": "nom",
-  "zh": "[T8Q13] 疾病",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "lutter contre certaines maladies",
-  "raw": "une maladie",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "explain",
-    "selection_reason": "学生不认识，老师给出词义并强调只记字面义、不必细分病种。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "39:30-40:00",
-     "lines": "567-573"
-    }
-   }
-  ]
- },
- {
-  "lemma": "malade",
-  "pos": "adj",
-  "zh": "[T8Q13] 生病的；（名词）病人",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Il est malade.",
-  "raw": "malade",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "contrast",
-    "selection_reason": "老师追问 malade 与 maladie 的区别，明确 malade 是形容词也可作名词。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "39:30-40:00",
-     "lines": "567-573"
-    }
-   }
-  ]
- },
- {
-  "lemma": "donner",
-  "pos": "verbe",
-  "zh": "[T8Q14] 给；给予",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "donner deux tickets de métro",
-  "raw": "donner",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "memorize",
-    "selection_reason": "老师说“这词必须要会，它是一个第一组动词”，属于点名必背的基础动词。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "41:30-42:00",
-     "lines": "598-604"
-    }
-   }
-  ]
- },
- {
-  "lemma": "mettre",
-  "pos": "verbe",
-  "zh": "[T8Q14] 放置；放",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "mettre un objet sur la table",
-  "raw": "mettre",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "explain",
-    "selection_reason": "老师用 mettre 讲 re- 前缀构词，指出认识词根就能推出 remettre。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "42:00-42:30",
-     "lines": "605-611"
-    }
-   }
-  ]
- },
- {
-  "lemma": "revendre",
-  "pos": "verbe",
-  "zh": "[T8Q14] 转售；再次售卖",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Elle les revend d'occasion.",
-  "raw": "revendre",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "memorize",
-    "selection_reason": "老师收尾时说“你就记下来 revendre 和 d'occasion”，是这题明确点名的两个必背项之一。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "42:00-43:00",
-     "lines": "605-618"
-    },
-    "learning_note": "revendre 只表示再次售卖，不等于“二手的”。"
-   }
-  ]
- },
- {
-  "lemma": "d'occasion",
-  "pos": "expr",
-  "zh": "[T8Q14] 二手的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "une voiture d'occasion",
-  "raw": "d'occasion",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "memorize",
-    "selection_reason": "老师明确指出“真正的二手是这个”，是固定后缀式表达，与 revendre 一起点名必背。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "42:30-43:00",
-     "lines": "612-618"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une brocante",
-  "pos": "nom",
-  "zh": "[L34课外题] 旧货市场；二手市集",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Cette annonce présente une brocante.",
-  "raw": "une brocante",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:CE-test8:extra-question",
-    "teacher_action": "memorize",
-    "selection_reason": "老师临时补的一道旧货市场真题的题眼，说“你先把这个词背下来”，并约定课后发相关写作题。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "43:30-44:30",
-     "lines": "626-639"
-    },
-    "learning_note": "转录此处 ASR 拼写失真（bogongt/bohagont 等），词义由老师中文解释“旧货市场”确定。"
-   }
-  ]
- },
- {
-  "lemma": "un événement",
-  "pos": "nom",
-  "zh": "[L34课外题] 事件；活动",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "un événement public",
-  "raw": "un événement",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:CE-test8:extra-question",
-    "teacher_action": "memorize",
-    "selection_reason": "老师说“把它背下来，这个词是很重要的，写作里面会遇到它很多次”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "45:00-45:30",
-     "lines": "647-653"
-    }
-   }
-  ]
- },
- {
-  "lemma": "s'adresser à",
-  "pos": "verbe pronominal",
-  "zh": "[T8Q18] 面向；针对（某类受众）",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "À qui s'adresse ce message ?",
-  "raw": "s'adresser à",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q18",
-    "teacher_action": "explain",
-    "selection_reason": "老师指出看到 s'adresse à 就是在问受众，这是阅读题干的固定信号词。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "45:30-46:00",
-     "lines": "654-660"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une norme",
-  "pos": "nom",
-  "zh": "[T8Q14] 标准；规范",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "mettre les appareils aux normes",
-  "raw": "une norme",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "memorize",
-    "selection_reason": "老师说“norme 要背下来，跟英文 norm 一样，背了很好用”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "48:30-49:00",
-     "lines": "695-701"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un droit",
-  "pos": "nom",
-  "zh": "[T8Q16] 权利",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "la protection des droits",
-  "raw": "un droit",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "correction",
-    "selection_reason": "老师明确纠正：这个“权”不是 power，是 a right 的那个权利。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "57:00-57:30",
-     "lines": "817-823"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la rédaction",
-  "pos": "nom",
-  "zh": "[T8Q16] 撰写；草拟；编辑",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "la rédaction des notices",
-  "raw": "la rédaction",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "correction",
-    "selection_reason": "学生按英文 reduction 理解成“减少”，老师纠正为撰写、草拟。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "57:30-58:00",
-     "lines": "824-830"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une notice",
-  "pos": "nom",
-  "zh": "[T8Q16] 说明；须知",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "la rédaction des notices",
-  "raw": "une notice",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "explain",
-    "selection_reason": "与 rédaction 同一选项里讲解，老师用英文 notice 定位词义。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "57:30-58:00",
-     "lines": "824-830"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une démarche",
-  "pos": "nom",
-  "zh": "[T8Q16] 步骤；措施；办法",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Cette démarche permet d'éviter…",
-  "raw": "une démarche",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "explain",
-    "selection_reason": "定位 INPI 那题答案的关键词，老师单独拎出来解释为步骤、措施、方法。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "59:30-01:00:00",
-     "lines": "851-857"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la propriété",
-  "pos": "nom",
-  "zh": "[T8Q16] 所有权；财产",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "la propriété intellectuelle",
-  "raw": "la propriété",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "explain",
-    "selection_reason": "老师要求把 propriété 和 propriétaire 放到一起记，并用 propriété intellectuelle 解释 INPI。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:00:30-01:01:00",
-     "lines": "868-874"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un propriétaire",
-  "pos": "nom",
-  "zh": "[T8Q16] 物主；所有者；房东",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "devenir l'unique propriétaire de votre invention",
-  "raw": "un propriétaire",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "word_family",
-    "selection_reason": "与 propriété 同根，老师明确要求两个词一起记。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:00:30-01:01:30",
-     "lines": "868-880"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une capacité",
-  "pos": "nom",
-  "zh": "[T8Q20] 能力",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "améliorer les capacités physiques",
-  "raw": "une capacité",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "correction",
-    "selection_reason": "学生说成“规模”，老师纠正为能力并要求直接记中文更准。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:02:00-01:03:00",
-     "lines": "888-901"
-    },
-    "learning_note": "capacité physique 指体能；法语 physique 不包含脑力。"
-   }
-  ]
- },
- {
-  "lemma": "maintenir",
-  "pos": "verbe",
-  "zh": "[T8Q20] 保持；维持",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "maintenir les performances de la mémoire",
-  "raw": "maintenir",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "correction",
-    "selection_reason": "学生把选项读成“保证”，老师纠正 maintenir 是保持。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:04:00-01:04:30",
-     "lines": "916-922"
-    }
-   }
-  ]
- },
- {
-  "lemma": "à court terme",
-  "pos": "expr",
-  "zh": "[T8Q20] 短期的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "notre mémoire à court terme",
-  "raw": "à court terme",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "contrast",
-    "selection_reason": "老师把 à court terme 和 à long terme 成对给出，并提示 court 就是短。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:09:00-01:09:30",
-     "lines": "984-990"
-    },
-    "learning_note": "与 à long terme（长期的）配对记忆。"
-   }
-  ]
- },
- {
-  "lemma": "Je ne sais pas trop comment m'y prendre",
-  "pos": "expr",
-  "zh": "[L34写作T1] 我不太知道该从何着手",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "CORE_VOCAB",
-  "example": "Je vais bientôt travailler à Montréal. Je ne sais pas trop comment m'y prendre.",
-  "raw": "Je ne sais pas trop comment m'y prendre",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:writing-T1:logement",
-    "teacher_action": "memorize",
-    "selection_reason": "批改租房信时老师明确说“你把这句话背下来就可以了”，并指出 s'y prendre 是很高级的用法。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:21:00-01:23:00",
-     "lines": "1154-1180"
-    },
-    "learning_note": "任何求助类写作都能用；转录此处 ASR 把 m'y prendre 拼成 S'apporter à，词形以老师中文解释“从何着手”为准。"
-   }
-  ]
- },
- {
-  "lemma": "aller chercher quelqu'un",
-  "pos": "expr",
-  "zh": "[T8Q1 补] 去接某人；去取某物 [Opus5 建议：短信和通知题里最常见的“去接/去取”动作，Q1 全靠它定位答案]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Tu peux aller la chercher à la gare ?",
-  "raw": "aller chercher quelqu'un",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q1",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q1 的正确答案完全由这个动作决定：去车站接同事。短信题反复考“去接某人”，值得作为固定表达记住。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "老师本题未逐题讲解，属补充词。"
-   }
-  ]
- },
- {
-  "lemma": "un mannequin",
-  "pos": "nom",
-  "zh": "[T8Q2 补] 模特 [Opus5 建议：Q2 的正确答案词；四个选项里有生词这题就做不出来]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Cette annonce propose de devenir mannequin.",
-  "raw": "un mannequin",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q2",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "本题正确选项 B 的核心词。老师课上强调四个选项必须全认识，否则题做不出来。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une coiffure",
-  "pos": "nom",
-  "zh": "[T8Q2 补] 发型 [Opus5 建议：Q2 干扰项，学生正是被“头发”带偏才在 A 上打问号]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "De changer de coiffure.",
-  "raw": "une coiffure",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q2",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "学生在选项 A 上标了问号，说明没分清 cheveux 与 coiffure。认得这个干扰项才能稳定排除。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un régime",
-  "pos": "nom",
-  "zh": "[T8Q2 补] 节食；饮食方式 [Opus5 建议：健康与饮食主题高频词，也是 Q2 的干扰项]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Essayer un régime.",
-  "raw": "un régime",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q2",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q2 选项 D 的核心词，且在饮食健康类阅读中复现率高。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une entrée",
-  "pos": "nom",
-  "zh": "[T8Q3/Q6 补] 入口；入场（费）；（餐）前菜 [Opus5 建议：同一份卷子里两个义项各考一次，是典型的一词多义陷阱]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Claude s'occupe des entrées.",
-  "raw": "une entrée",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q3/Q6",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q3 选项 A 的 entrée 是“入场费”，Q6 原文的 entrées 是“前菜”。同卷两义并存，必须一起记。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "看语境定义项：付钱语境＝入场费，餐食语境＝前菜。"
-   }
-  ]
- },
- {
-  "lemma": "un acheteur",
-  "pos": "nom",
-  "zh": "[T8Q4 补] 买主；买家 [Opus5 建议：Q4 的正确答案词，学生答错就是没读出“卖车的人在找谁”]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Pierre cherche un acheteur.",
-  "raw": "un acheteur",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q4",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "卷面上 D 被划掉、另标 A，而转录 25:00-25:30 老师原话“对，选A呀”确认答案是 A；失分点正是这个词与角色转换。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "配合知识卡「看清题目问的是谁」一起复习。"
-   }
-  ]
- },
- {
-  "lemma": "un bijou",
-  "pos": "nom",
-  "zh": "[T8Q5] 首饰；珠宝",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "choisir un bijou pour Marie",
-  "raw": "un bijou",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q5",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "学生在题面上给 bijou 标了问号。它是理解 Q5“具体词被上位词包住”的前提。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   },
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q5",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记在 Nadia 短信旁红笔注出中文，属他挑选的词；由 Opus5 补充档升级为老师要求档。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un cadeau",
-  "pos": "nom",
-  "zh": "[T8Q5] 礼物",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Acheter un cadeau.",
-  "raw": "un cadeau",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q5",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "与 bijou 成对，构成本课知识卡「上位词选项可以包住原文的具体词」的实例。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   },
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q5",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记在选项 A 下红笔注“礼物”并加下划线，属他挑选的词；由 Opus5 补充档升级为老师要求档。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "apporter",
-  "pos": "verbe",
-  "zh": "[T8Q6 补] 带来；捎来 [Opus5 建议：聚餐、邀请类短信的高频动词]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Tu peux apporter le dessert jeudi soir ?",
-  "raw": "apporter",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q6",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q6 短信的首个动作词，聚会分工类题目反复出现。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un plat principal",
-  "pos": "expr",
-  "zh": "[T8Q6 补] 主菜 [Opus5 建议：与 entrée、dessert、boisson 构成餐食四件套，主题词族一起记最省力]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "moi du plat principal",
-  "raw": "un plat principal",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q6",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q6 用整套餐食分工来判断“谁在组织什么”，成套记忆比逐词记效率高。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un ancien élève",
-  "pos": "expr",
-  "zh": "[T8Q6 补] 老同学；校友 [Opus5 建议：Q6 正确答案词，与原文 copains de notre terminale 是同义替换]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Cuisiner entre anciens élèves.",
-  "raw": "un ancien élève",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q6",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "正确选项用 anciens élèves 替换原文的 copains de notre terminale S3，是典型的同义替换考点。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "convier",
-  "pos": "verbe",
-  "zh": "[T8Q7 补] 邀请 [Opus5 建议：inviter 的正式版，正式邀请函和题干里常用]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "À quoi sont conviés Madame et Monsieur Mroussi ?",
-  "raw": "convier",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q7",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "出现在题干里而不是原文里；题干生词直接导致读不懂在问什么。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "语域比 inviter 正式。"
-   }
-  ]
- },
- {
-  "lemma": "une tenue de soirée",
-  "pos": "expr",
-  "zh": "[T8Q7 补] 晚礼服 [Opus5 建议：Tenue de soirée exigée 是邀请函固定套语，见到就知道是正式场合]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Tenue de soirée exigée.",
-  "raw": "une tenue de soirée",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q7",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "这条套语本身就是判断“正式晚宴”的信号，直接支撑正确选项 repas officiel。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "exiger",
-  "pos": "verbe",
-  "zh": "[T8Q7 补] 要求；必须 [Opus5 建议：通知类文本表示强制要求的标志词]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Tenue de soirée exigée.",
-  "raw": "exiger",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q7",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "与 demander 的差别在于强制性，通知和规章类阅读高频。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "défendre",
-  "pos": "verbe",
-  "zh": "[T8Q8 补] 保护；捍卫 [Opus5 建议：你在卷面上注了“保护就业”，说明当时读懂了；固化下来避免和 défendre de（禁止）混]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Grande marche pour défendre nos emplois.",
-  "raw": "défendre",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q8",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "学生在海报旁手写“保护 / 就业”，是自己已经读出的义项，值得固化。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "défendre qqch＝保护；défendre à qqn de faire＝禁止某人做某事，两义须分开。"
-   }
-  ]
- },
- {
-  "lemma": "un emploi",
-  "pos": "nom",
-  "zh": "[T8Q8 补] 工作；就业；岗位 [Opus5 建议：与 chômage、employeur 构成求职主题核心词族]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "défendre nos emplois",
-  "raw": "un emploi",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q8",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "学生手写注了“就业”。求职与社会议题两类阅读都绕不开这个词。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une manifestation",
-  "pos": "nom",
-  "zh": "[T8Q8 补] 示威游行 [Opus5 建议：Q8 正确答案词；你给 marche 注“游行”时打了问号，这个才是标准说法]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Une manifestation sociale.",
-  "raw": "une manifestation",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q8",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "学生手写“游行 ?”带问号，说明当时不确定；manifestation 正是该概念的规范词，也是本题答案。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "海报用 marche（游行队伍），选项用 manifestation，属同义替换。"
-   }
-  ]
- },
- {
-  "lemma": "le chômage",
-  "pos": "nom",
-  "zh": "[T8Q8 补] 失业 [Opus5 建议：Q8 干扰项，且与 emploi 成反义对，社会类阅读必备]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Une conférence sur le chômage.",
-  "raw": "le chômage",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q8",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "作为干扰项出现；与 emploi 构成反义对，一起记可同时守住两个选项。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un endroit",
-  "pos": "nom",
-  "zh": "[T8Q9 补] 地点；场所 [Opus5 建议：卷面把它黄色高亮了，是 Q9 题干的定位关键词]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "les endroits que propose Clémence",
-  "raw": "un endroit",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q9",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "题干关键词并被高亮；学生该题答案标了问号，说明定位不稳。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "faire la fête",
-  "pos": "expr",
-  "zh": "[T8Q9 补] 聚会玩乐 [Opus5 建议：Q9 靠它推出正确答案 s'amuser，是原文到选项的同义跳板]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "des adresses pour dîner ou faire la fête le soir",
-  "raw": "faire la fête",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q9",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "原文 faire la fête → 选项 s'amuser 的同义替换链条，学生在本题标了问号。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un menu",
-  "pos": "nom",
-  "zh": "[T8Q10 补] 菜单；套餐 [Opus5 建议：Q10 正确答案词，你当时选错了这一题]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Des menus différents.",
-  "raw": "un menu",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q10",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "卷面上 C 被圈掉、另标 B，转录 32:00-33:00 老师原话“对，选B呀”确认答案是 B；正确选项的核心词就是 menu。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "配合已收录的 varié（多种多样的）一起理解“recettes variées → menus différents”。"
-   }
-  ]
- },
- {
-  "lemma": "un animateur",
-  "pos": "nom",
-  "zh": "[T8Q11 补] 活动指导员；带队老师 [Opus5 建议：青少年活动、夏令营类文本的固定角色词，T2 写作也用得上]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Encadrement par nos animateurs.",
-  "raw": "un animateur",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q11",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "学生在卷面标注了该词；它同时是 T2 写作“参加夏令营/活动”题材的常用角色词。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un libraire",
-  "pos": "nom",
-  "zh": "[T8Q15] 书商；书店老板",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "obtenir un poste chez un libraire",
-  "raw": "un libraire",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q15:option-A",
-    "teacher_action": "memorize",
-    "selection_reason": "讲求职信那题时老师逐个过四个选项，并明确要求“我们记这种单词……它放在四个选项里面，你得都认识”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "51:00-52:00",
-     "lines": "734-747"
-    },
-    "learning_note": "选项词不一定是答案，但四个里有一个生词这题就做不出来。"
-   }
-  ]
- },
- {
-  "lemma": "une maison d'édition",
-  "pos": "expr",
-  "zh": "[T8Q15] 出版社",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Je souhaite faire un stage dans votre maison d'édition.",
-  "raw": "une maison d'édition",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q15:option-D",
-    "teacher_action": "memorize",
-    "selection_reason": "Q15 正确答案 D 的核心词，老师要求四个选项的词全部认识。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "51:00-52:00",
-     "lines": "734-747"
-    }
-   }
-  ]
- },
- {
-  "lemma": "se spécialiser dans",
-  "pos": "verbe pronominal",
-  "zh": "[T8Q15] 专攻；把……作为专业方向",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Se spécialiser dans l'art et la culture.",
-  "raw": "se spécialiser dans",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q15:option-B",
-    "teacher_action": "correction",
-    "selection_reason": "学生误选 B，老师专门解释 se spécialiser dans = be specialized in，是“把这个当成完全的专业”，不等于“变得专业一点”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "52:30-54:30",
-     "lines": "754-781"
-    },
-    "learning_note": "这是本课最大的失分点：中文“让自己专业一点”是脑补，法语没这个意思。"
-   }
-  ]
- },
- {
-  "lemma": "Ce qui m'a impressionné le plus",
-  "pos": "expr",
-  "zh": "[L34写作T2] 给我印象最深的是……",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée.",
-  "raw": "Ce qui m'a impressionné le plus",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:writing-T2:body",
-    "teacher_action": "memorize",
-    "selection_reason": "讲 T2 正文写法时老师说“你可以把这个句式记下来”，用来引出印象最深的一点。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:42:00-01:42:30",
-     "lines": "1454-1459"
-    },
-    "learning_note": "后面可换成 c'est l'ambiance 等任意名词，句式本身通用。"
-   }
-  ]
- },
- {
-  "lemma": "Je me suis fait beaucoup d'amis",
-  "pos": "expr",
-  "zh": "[L34写作T2] 我交了很多朋友",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Je me suis fait beaucoup d'amis, avec qui on partage les mêmes intérêts.",
-  "raw": "Je me suis fait beaucoup d'amis",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:writing-T2:body",
-    "teacher_action": "memorize",
-    "selection_reason": "老师原话“你可以把这句话都背下来。这句话在 T2 的几乎所有的场景里面都是适用的”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:42:30-01:43:00",
-     "lines": "1461-1466"
-    },
-    "learning_note": "建议把“交朋友/人与人的联系”单独作为正文最后一点。"
-   }
-  ]
- },
- {
-  "lemma": "Je vous recommande fortement de",
-  "pos": "expr",
-  "zh": "[L34写作T2] 我强烈推荐你……",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Je vous recommande fortement de participer à cette activité.",
-  "raw": "Je vous recommande fortement de",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:writing-T2:conclusion",
-    "teacher_action": "memorize",
-    "selection_reason": "讲 T2 结尾段时老师指着范文说“你要背下来的这儿这儿这儿”，指的就是这句推荐句。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:45:30-01:46:00",
-     "lines": "1502-1507"
-    },
-    "learning_note": "与 Je vous incite à… 二选一即可，范文两句都写了但只需要一句。"
-   }
-  ]
- },
- {
-  "lemma": "Je vous incite à",
-  "pos": "expr",
-  "zh": "[L34写作T2] 我建议/鼓励你……",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Je vous incite à partager votre expérience à l'étranger.",
-  "raw": "Je vous incite à",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:writing-T2:conclusion",
-    "teacher_action": "memorize",
-    "selection_reason": "老师给出的推荐句备选，原话“你也可以背这个，背这个句子”。",
-    "evidence": {
-     "file": "docker-data/outputs/L34/L34_final_working.md",
-     "time": "01:46:00-01:46:30",
-     "lines": "1509-1514"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la forme",
-  "pos": "nom",
-  "zh": "[T8Q12 补] 形状；外形 [Opus5 建议：Q12 正确答案词，你当时选了 taille]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Quel est le problème de ces voitures ? — Leur forme.",
-  "raw": "la forme",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q12:option-B",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q12 正确选项；老师讲清主旨是车型丑（forme），不是尺寸。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la taille",
-  "pos": "nom",
-  "zh": "[T8Q12 补] 尺寸；大小；身材 [Opus5 建议：Q12 你选的干扰项，只覆盖第三款车所以不能选]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Leur taille.",
-  "raw": "la taille",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q12:option-D",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "卷面上 D 被红圈标为错，认得这个词才能理解“只覆盖一个细节的选项不能选”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "配合知识卡「选项要覆盖全文主旨」一起复习。"
-   }
-  ]
- },
- {
-  "lemma": "un lieu de rêve",
-  "pos": "expr",
-  "zh": "[T8Q12 补] 梦想之地 [Opus5 建议：卷面高亮的定调短语，读懂它才知道后文要吐槽]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année.",
-  "raw": "un lieu de rêve",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q12",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "老师讲“车展本应是梦想之地，但今年不是，那后面肯定就是要说它的问题了”，这个短语是全文转折的支点。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la mémoire",
-  "pos": "nom",
-  "zh": "[T8Q13/Q20 补] 记忆力 [Opus5 建议：同一套卷里 Q13 是干扰项、Q20 是正确答案，老师专门拿它举过例]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Maintenir les performances de la mémoire.",
-  "raw": "la mémoire",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13/Q20",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "老师用它说明“背过的词在这题是答案、在那题就是干扰项”，是本课知识卡的实例本身。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "看到熟词先回原文核对，不要用它押答案。"
-   }
-  ]
- },
- {
-  "lemma": "la santé",
-  "pos": "nom",
-  "zh": "[T8Q13 补] 健康 [Opus5 建议：Q13 正确答案词；老师最终从“抵抗疾病”推回它]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Elle est bonne pour la santé.",
-  "raw": "la santé",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13:option-A",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "老师先倾向 B，读完 lutter contre certaines maladies 后改判 A；卷面红笔最终标 A。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "bénéfique",
-  "pos": "adj",
-  "zh": "[T8Q13 补] 有益的 [Opus5 建议：原文用它连接“大脑”与“健康”，是 Q13 的推理桥梁]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "ADJECTIFS",
-  "example": "Cette activité mentale est bénéfique pour le cerveau.",
-  "raw": "bénéfique",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "从原文 bénéfique pour le cerveau 推到选项 bonne pour la santé，这一步靠它。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la socialisation",
-  "pos": "nom",
-  "zh": "[T8Q13 补] 社交；社会化 [Opus5 建议：Q13 最强干扰项，老师明确说全文没提社交]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Elle facilite la socialisation.",
-  "raw": "la socialisation",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13:option-B",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "老师原话“他整个都没有提到，就是社交啊”，正是排除 B 的依据。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la valeur",
-  "pos": "nom",
-  "zh": "[T8Q14 补] 价值；价格 [Opus5 建议：二手交易、估价类文本的核心名词]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Nous évaluons la valeur de votre téléphone portable.",
-  "raw": "la valeur",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q14 原文的定位句核心词，与 estimation、prix moyen 同一语义场。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "évaluer",
-  "pos": "verbe",
-  "zh": "[T8Q14 补] 估价；评估 [Opus5 建议：与 valeur、estimation 成族，二手/服务类文本高频]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Nous évaluons la valeur de votre téléphone.",
-  "raw": "évaluer",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q14 首句动词；与已收录的 revendre、d'occasion 构成完整的二手交易词族。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "le marché",
-  "pos": "nom",
-  "zh": "[T8Q14 补] 市场 [Opus5 建议：与 brocante（旧货市场）呼应，Q14 与 Q16 都出现]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Ceux qui fonctionnent bien sont remis sur le marché.",
-  "raw": "le marché",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14/Q16",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "同卷两题都用到 sur le marché；与老师补讲的 brocante 属同一主题。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "veuillez accepter l'expression de mes sincères salutations",
-  "pos": "expr",
-  "zh": "[T8Q15 补] （正式信件结尾）敬请接受我最诚挚的问候 [Opus5 建议：法语正式信件的固定收尾，T1 写正式信直接照抄]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Dans l'attente d'une réponse de votre part, veuillez accepter l'expression de mes sincères salutations.",
-  "raw": "veuillez accepter l'expression de mes sincères salutations",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q15",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "求职信原文的结尾套语；T1 写正式信件时可整句复用，属最高性价比的写作素材。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "非正式信件不用这句，写给朋友用 Amicalement / À bientôt。"
-   }
-  ]
- },
- {
-  "lemma": "être passionné par",
-  "pos": "expr",
-  "zh": "[T8Q15 补] 热衷于；对……充满热情 [Opus5 建议：求职信与自我介绍的万能句式，T1/T2 都用得上]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Je suis passionné par la lecture et les arts.",
-  "raw": "être passionné par",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q15",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "求职信自我介绍句式，可直接迁移到写作的“说明动机”部分。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "déposer un dossier",
-  "pos": "expr",
-  "zh": "[T8Q16 补] 递交申请材料；提交档案 [Opus5 建议：行政办事类文本的固定动作，移民/申请场景高频]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Vous devez déposer un dossier auprès de l'INPI.",
-  "raw": "déposer un dossier",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q16 原文的核心动作；与已收录的 démarche（步骤、手续）同属行政流程词族。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "vérifier",
-  "pos": "verbe",
-  "zh": "[T8Q16 补] 核实；查证 [Opus5 建议：Q16 定位句动词，也是听力和阅读的通用高频词]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Il faut toutefois vérifier que celle-ci n'existe pas déjà sur le marché.",
-  "raw": "vérifier",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q16 后半段的关键动词；卷面已标注。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un enregistrement",
-  "pos": "nom",
-  "zh": "[T8Q17 补] 录音 [Opus5 建议：Q17 正确答案词；媒体与听力主题反复出现]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Des enregistrements sonores d'articles de journal.",
-  "raw": "un enregistrement",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q17:option-A",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q17 正确选项核心词，卷面黄色高亮。老师未讲此题，故列为补充。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un extrait",
-  "pos": "nom",
-  "zh": "[T8Q17 补] 节选；片段 [Opus5 建议：Q17 干扰项，出版与媒体类文本常用]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Des extraits choisis de romans classiques.",
-  "raw": "un extrait",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q17:option-B",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q17 干扰项，卷面黄色高亮；与 enregistrement 配对可稳定区分两个选项。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "surchargé",
-  "pos": "adj",
-  "zh": "[T8Q17 补] 满档的；超负荷的 [Opus5 建议：emploi du temps surchargé 是描述“忙”的地道说法，写作可直接用]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "ADJECTIFS",
-  "example": "Votre emploi du temps est surchargé.",
-  "raw": "surchargé",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q17",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "比 très occupé 更地道；T1/T2 里解释“没时间”时可直接使用。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une facture",
-  "pos": "nom",
-  "zh": "[T8Q18 补] 账单 [Opus5 建议：Q18 干扰项，住房与生活开支主题必备]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Les familles qui ont des factures élevées.",
-  "raw": "une facture",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q18:option-A",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q18 选项 A 核心词，卷面黄色高亮。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la colocation",
-  "pos": "nom",
-  "zh": "[T8Q18 补] 合租 [Opus5 建议：Q18 干扰项；T1 租房写作的常见场景词]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Les jeunes qui veulent vivre en colocation.",
-  "raw": "la colocation",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q18:option-B",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "住房主题核心词，与 L33 已学的 locataire、本课 loyer 构成词族。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un revenu",
-  "pos": "nom",
-  "zh": "[T8Q18 补] 收入 [Opus5 建议：Q18 正确答案词，faibles revenus＝低收入]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Aux locataires qui ont de faibles revenus.",
-  "raw": "un revenu",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q18:option-C",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q18 正确选项核心词；卷面已用英文注 incomes。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un loyer",
-  "pos": "nom",
-  "zh": "[T8Q18 补] 房租 [Opus5 建议：T1 写租房信几乎一定用到，属最实用的一个]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Cette aide peut aller jusqu'à 75% de votre loyer.",
-  "raw": "un loyer",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q18",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q18 原文定位词；与本课 T1 的租房写作任务直接相关，写作可复用。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "le bruit",
-  "pos": "nom",
-  "zh": "[T8Q19 补] 噪音；声响 [Opus5 建议：Q19 正确答案词；与 L33 学过的 la pollution sonore 同族]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Le bruit altère le sens du goût des passagers.",
-  "raw": "le bruit",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q19:option-C",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q19 正确选项核心词；转录 01:12:30 老师提到“这飞机上面会影响人的胃口，噪音那个”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "altérer",
-  "pos": "verbe",
-  "zh": "[T8Q19 补] 损害；使变质 [Opus5 建议：Q19 正确选项的动词，比 changer 更负面，是同义替换的关键]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Le bruit altère le sens du goût.",
-  "raw": "altérer",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q19:option-C",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "原文 réduire la sensibilité des palais 与选项 altère le sens du goût 的同义替换靠它。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la saveur",
-  "pos": "nom",
-  "zh": "[T8Q19 补] 味道；风味 [Opus5 建议：Q19 干扰项，与 goût 构成味觉词族]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Les plats proposés en vol manquent de saveur.",
-  "raw": "la saveur",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q19:option-D",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q19 干扰项；与 savoureux、goût 一起构成味觉主题词族。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "cultiver",
-  "pos": "verbe",
-  "zh": "[T8Q20 补] 培养；发展（爱好、关系） [Opus5 建议：卷面高亮词；cultiver des activités/relations 写作可直接用]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "également de cultiver les activités associatives ou sportives",
-  "raw": "cultiver",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q20 原文黄色高亮词；不只是“耕种”，用于爱好和人际关系时是高级表达。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "une vie sociale",
-  "pos": "expr",
-  "zh": "[T8Q20 补] 社交生活 [Opus5 建议：Q20 定位句核心；T2 写“交朋友”那一点时可直接用]",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "il est essentiel de garder une vie sociale riche d'interactions",
-  "raw": "une vie sociale",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "agent_supplement",
-    "selection_reason": "Q20 建议段的关键短语；与 T2 写作里“交朋友、人与人的联系”那一点直接对应。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "gros",
-  "pos": "adj",
-  "zh": "[T8Q2] 胖的；（抽象）大的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "ADJECTIFS",
-  "example": "un gros problème",
-  "raw": "gros",
-  "fem": "grosse",
-  "fem_raw": "grosse",
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q2",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记里绿色高亮 gros，并在页边红笔写出 gros, se 两个词形和「胖的／大的」两个义项。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "阴性 grosse 双写 s 加 e；修饰抽象名词时表示“大的、严重的”。"
-   }
-  ]
- },
- {
-  "lemma": "un climatiseur",
-  "pos": "nom",
-  "zh": "[T8Q4] 空调",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Climatiseur automatique.",
-  "raw": "un climatiseur",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q4",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记绿色高亮 Climatiseur，并在旁边红笔写出同义说法 air conditionné；转录 26:30-27:00 他说“climatise，这个也还好”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "同段的 vitres、autoradio、airbag 老师未标且明说可以不用记。"
-   }
-  ]
- },
- {
-  "lemma": "l'air conditionné",
-  "pos": "expr",
-  "zh": "[T8Q4] 空调（另一说法）",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "L'air conditionné est en panne.",
-  "raw": "l'air conditionné",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:CE-test8:Q4",
-    "teacher_action": "synonym",
-    "selection_reason": "老师在 Climatiseur 旁手写的同义表达，转录 27:00-27:30 原话“表空调还有一个也很好记”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "facile",
-  "pos": "adj",
-  "zh": "[T8Q13] 容易的；简单的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "ADJECTIFS",
-  "example": "C'est un exercice facile.",
-  "raw": "facile",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q13",
-    "teacher_action": "word_family",
-    "selection_reason": "老师笔记页边红笔写出 facile 简单的 / faciliter 简化 这一组，要求成对记；转录 37:30-38:30 明确“不要单独记，跟 facile 一起记”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "vendre",
-  "pos": "verbe",
-  "zh": "[T8Q14] 卖；出售",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Vend Renault grise 50 000 km.",
-  "raw": "vendre",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q14",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记在 Q14 右侧红笔竖列 donner / mettre / vendre 三个基础动词，作为 re- 前缀推导的词根。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "认识 vendre 才能推出 revendre（转售）；“二手的”另有固定表达 d'occasion。"
-   }
-  ]
- },
- {
-  "lemma": "devenir",
-  "pos": "verbe",
-  "zh": "[T8Q16] 成为；变成",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Pour devenir l'unique propriétaire de votre invention.",
-  "raw": "devenir",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记绿色高亮整句 Pour devenir l'unique propriétaire de votre invention，并在页边红笔逐词注 devenir 成为 / unique 唯一 / propriétaire 所有者。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "unique",
-  "pos": "adj",
-  "zh": "[T8Q16] 唯一的；独一无二的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "ADJECTIFS",
-  "example": "l'unique propriétaire de votre invention",
-  "raw": "unique",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "memorize",
-    "selection_reason": "与 devenir、propriétaire 同在老师红笔的逐词注释里，属他挑出的三词组。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la propriété intellectuelle",
-  "pos": "expr",
-  "zh": "[T8Q16] 知识产权",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Institut National de la Propriété intellectuelle (INPI)",
-  "raw": "la propriété intellectuelle",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q16",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记绿色高亮 Propriété intellectuelle；转录 01:00:30-01:01:30 他说“这两个词你可以放到一起去记”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "un ralentissement",
-  "pos": "nom",
-  "zh": "[T8Q20] 减慢；降速",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "Ralentissement du traitement de l'information.",
-  "raw": "un ralentissement",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记绿色高亮 Ralentissement 并红笔注“降速”；是 Q20 定位句的第一个关键词。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "le traitement",
-  "pos": "nom",
-  "zh": "[T8Q20] 处理",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "le traitement de l'information",
-  "raw": "le traitement",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记绿色高亮 du traitement 并红笔注“处理”；转录 01:08:30 他说“treatment 我们也见过的，处理”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "按老师的要求只记字面义“处理”，不展开到医疗等引申义。"
-   }
-  ]
- },
- {
-  "lemma": "baisser",
-  "pos": "verbe",
-  "zh": "[T8Q20] 下降；降低",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "baisse de l'attention",
-  "raw": "baisser",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "memorize",
-    "selection_reason": "老师在 Q20 右上角红笔单独写下 baisser；转录 01:08:00-01:08:30 他问“bass，我们学过它的名词形式，是什么来着？下降”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "名词形式 la baisse（下降）与动词一起记。"
-   }
-  ]
- },
- {
-  "lemma": "à long terme",
-  "pos": "expr",
-  "zh": "[T8Q20] 长期的",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "la mémoire à long terme",
-  "raw": "à long terme",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "teacher_extension",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "contrast",
-    "selection_reason": "老师在 à court terme 旁边红笔补写 à long terme，成对给出；转录 01:09:00-01:09:30 原话“可不可以说什么一个 à long terme，就长期的，就可以这样放到一起去记”。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    }
-   }
-  ]
- },
- {
-  "lemma": "la mémorisation",
-  "pos": "nom",
-  "zh": "[T8Q20] 记忆（过程）",
-  "lesson": "L34",
-  "source_lesson": "L34",
-  "category": "AUTRES",
-  "example": "notre mémorisation à court terme",
-  "raw": "la mémorisation",
-  "fem": null,
-  "fem_raw": null,
-  "provenance": [
-   {
-    "source_kind": "reading_question",
-    "source_ref": "L34:CE-test8:Q20",
-    "teacher_action": "memorize",
-    "selection_reason": "老师笔记在 mémorisation 下红笔注“记忆”，与 attention、traitement 同属他挑出的 Q20 定位句词组。",
-    "evidence": {
-     "file": "L34/L34.T8.reading-evidence.md"
-    },
-    "learning_note": "与选项里的 la mémoire（记忆力）区分：mémorisation 偏“记忆这一过程”。"
-   }
-  ]
- }
+  {
+    "lemma": "un tarif",
+    "pos": "nom",
+    "zh": "[L34课前复习] 价目；收费标准",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Les recettes sont proposées au tarif normal.",
+    "raw": "un tarif",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:tarif",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，核对时学生说成“免费”，老师当场纠正为“定价”，属于必须固化的错误。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "16:00-17:00",
+          "lines": "239-250"
+        },
+        "learning_note": "tarif 是要收钱的一侧，和 gratuit 语义相反。"
+      }
+    ]
+  },
+  {
+    "lemma": "gratuit",
+    "pos": "adj",
+    "zh": "[L34课前复习] 免费的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "L'entrée est gratuite.",
+    "raw": "gratuit",
+    "fem": "gratuite",
+    "fem_raw": "gratuite",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:gratuit",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时与 tarif 成对讲解，用来确定“免费”只能由 gratuit 承担。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "16:00-17:00",
+          "lines": "239-250"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "afficher",
+    "pos": "verbe",
+    "zh": "[L34课前复习] 张贴；公告；显示",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Les horaires sont affichés à l'entrée.",
+    "raw": "afficher",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:afficher",
+        "teacher_action": "explain",
+        "selection_reason": "开课听写词，老师核对时把动词 afficher 和名词 affiche 并列讲解。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "245-250"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une affiche",
+    "pos": "nom",
+    "zh": "[L34课前复习] 海报；招贴",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Cette affiche annonce une grande marche.",
+    "raw": "une affiche",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:affiche",
+        "teacher_action": "contrast",
+        "selection_reason": "与 afficher 成对讲解的名词形式，考试里换词性就必须认得出。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "245-250"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "s'inscrire",
+    "pos": "verbe pronominal",
+    "zh": "[L34课前复习] 登记；注册；报名",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Je voudrais m'inscrire à un cours de langue.",
+    "raw": "s'inscrire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:s-inscrire",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，老师核对时给出“登记、注册”的确定义。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "17:00-17:30",
+          "lines": "252-257"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "essayer",
+    "pos": "verbe",
+    "zh": "[L34课前复习] 尝试；试",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Essayer un régime.",
+    "raw": "essayer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:essayer",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，核对时确认词义为 try。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "17:00-17:30",
+          "lines": "252-257"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un stage",
+    "pos": "nom",
+    "zh": "[L34课前复习] 实习",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Je souhaite faire un stage dans votre maison d'édition.",
+    "raw": "un stage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:stage",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，学生只记得“跟工作有关”，老师明确为“实习”，同一节课的求职信阅读题也直接考到。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "17:00-17:30",
+          "lines": "252-257"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le réveillon",
+    "pos": "nom",
+    "zh": "[L34课前复习] 节庆前夕的聚餐；年夜饭",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "le réveillon de Noël",
+    "raw": "le réveillon",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:reveillon",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，学生记成“固定节日的庆祝”，老师纠正为节日前夕的那顿聚餐。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "17:30-18:00",
+          "lines": "258-264"
+        },
+        "learning_note": "对应年夜饭、平安夜聚餐，不能泛指节庆活动。"
+      }
+    ]
+  },
+  {
+    "lemma": "un métier",
+    "pos": "nom",
+    "zh": "[L34课前复习] 职业；工作",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Quel est votre métier ?",
+    "raw": "un métier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:metier",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，学生记成“小手工业者”，老师纠正为职业并给出问职业的句型。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "17:30-18:30",
+          "lines": "258-271"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un atelier",
+    "pos": "nom",
+    "zh": "[L34课前复习] 工坊；工作室；学习小组",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "un atelier de poterie",
+    "raw": "un atelier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:opening-dictation:metier",
+        "teacher_action": "contrast",
+        "selection_reason": "学生把 métier 误记为工坊后主动追问，老师补出 atelier 作为对照词。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "265-271"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une recette",
+    "pos": "nom",
+    "zh": "[L34课前复习] 菜谱；食谱",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "des recettes régionales variées",
+    "raw": "une recette",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:recette",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时确认为菜谱；同节课阅读题的餐厅广告里再次出现。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "18:30-19:00",
+          "lines": "272-277"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une nuance",
+    "pos": "nom",
+    "zh": "[L34课前复习] 细微差别",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "une nuance de sens",
+    "raw": "une nuance",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:nuance",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时学生自己给出“微小差别”并被确认。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "18:30-19:00",
+          "lines": "272-277"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un objectif",
+    "pos": "nom",
+    "zh": "[L34课前复习] 目标；目的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Quel est l'objectif de ce texte ?",
+    "raw": "un objectif",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:objectif",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，且本课多道阅读题的题干正是 Quel est l'objectif…，必须稳。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "18:30-19:00",
+          "lines": "272-277"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "éviter",
+    "pos": "verbe",
+    "zh": "[L34课前复习] 避免",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Cette démarche permet d'éviter qu'une invention soit commercialisée par d'autres.",
+    "raw": "éviter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:eviter",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词；讲 INPI 阅读题时老师又指出它今天听写过，要求重新背一遍。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "18:30-19:00; 01:00:00-01:00:30",
+          "lines": "272-277; 861-866"
+        },
+        "learning_note": "éviter que 后面接虚拟式，本阶段只需能认出，不要求主动使用。"
+      }
+    ]
+  },
+  {
+    "lemma": "une œuvre",
+    "pos": "nom",
+    "zh": "[L34课前复习] 作品",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "l'œuvre d'un écrivain",
+    "raw": "une œuvre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:oeuvre",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，学生完全不认识，老师直接给出“作品”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "19:00-19:30",
+          "lines": "278-284"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "être en contact avec",
+    "pos": "expr",
+    "zh": "[L34课前复习] 与……保持联系",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "rester en contact avec ses anciens collègues",
+    "raw": "être en contact avec",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:en-contact-avec",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写的固定搭配，核对时确认为“保持联系”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "19:00-19:30",
+          "lines": "278-284"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une séance",
+    "pos": "nom",
+    "zh": "[L34课前复习] 一场；一次（课程或活动）",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "une séance de sport",
+    "raw": "une séance",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:seance",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时以英文 session 定位词义。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "19:00-19:30",
+          "lines": "278-284"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "rencontrer",
+    "pos": "verbe",
+    "zh": "[L34课前复习] 遇到；碰见",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "J'ai rencontré un ami hier.",
+    "raw": "rencontrer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:rencontrer",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，学生把 se rencontrer 当成“互相认识”，老师纠正并给出 se connaître。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "19:00-20:00",
+          "lines": "278-290"
+        },
+        "learning_note": "se rencontrer 是相遇；互相认识要用 se connaître。"
+      }
+    ]
+  },
+  {
+    "lemma": "la circulation",
+    "pos": "nom",
+    "zh": "[L34课前复习] 交通；通行",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "la circulation est dense le matin",
+    "raw": "la circulation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:circulation",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时确认为交通。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "19:30-20:00",
+          "lines": "285-290"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la sécurité",
+    "pos": "nom",
+    "zh": "[L34课前复习] 安全；安保",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "la sécurité routière",
+    "raw": "la sécurité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:securite",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时确认为安全、安保。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "19:30-20:00",
+          "lines": "285-290"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une spécialité",
+    "pos": "nom",
+    "zh": "[L34课前复习] 特色菜；特产；专长",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "une spécialité locale",
+    "raw": "une spécialité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:specialite",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时以“特色菜”确定义。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "20:00-20:30",
+          "lines": "295-300"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un spectacle",
+    "pos": "nom",
+    "zh": "[L34课前复习] 演出；表演",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "assister à un spectacle musical",
+    "raw": "un spectacle",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:spectacle",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，核对时确认为 show、表演。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "20:00-20:30",
+          "lines": "295-300"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les cheveux",
+    "pos": "nom",
+    "zh": "[T8Q2] 头发",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "un homme avec les cheveux longs",
+    "raw": "les cheveux",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q2",
+        "teacher_action": "explain",
+        "selection_reason": "讲第 2 题模特广告时，老师逐词讲解学生看不懂的 cheveux 并给出常用搭配。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "23:00-23:30",
+          "lines": "335-341"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "bon état général",
+    "pos": "expr",
+    "zh": "[T8Q4] 整体状态良好",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Bon état général, 2100 euros.",
+    "raw": "bon état général",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q4",
+        "teacher_action": "memorize",
+        "selection_reason": "卖车广告里老师明确说“这里面你真的需要记下来的单词是这里”，因为写作考过卖二手物品的真题。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "26:00-27:00",
+          "lines": "377-397"
+        },
+        "learning_note": "同段的 climatiseur、vitre、auto radio 老师明确说可以不用记。"
+      }
+    ]
+  },
+  {
+    "lemma": "varié",
+    "pos": "adj",
+    "zh": "[T8Q10] 多种多样的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "des recettes régionales variées",
+    "raw": "varié",
+    "fem": "variée",
+    "fem_raw": "variée",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q10",
+        "teacher_action": "memorize",
+        "selection_reason": "讲餐厅广告题时老师说“这个词可以背一下”，并指出它是形容词。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "32:30-33:00",
+          "lines": "470-475"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "laid",
+    "pos": "adj",
+    "zh": "[T8Q12] 丑的；难看的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "les modèles les plus laids",
+    "raw": "laid",
+    "fem": "laide",
+    "fem_raw": "laide",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12",
+        "teacher_action": "memorize",
+        "selection_reason": "车展题的题眼，老师专门停下说“记一个词，laid，丑的”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "35:00-35:30",
+          "lines": "504-510"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un aspirateur",
+    "pos": "nom",
+    "zh": "[T8Q12] 吸尘器",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "un aspirateur sur quatre roues",
+    "raw": "un aspirateur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12",
+        "teacher_action": "memorize",
+        "selection_reason": "车展题里老师说其他看不懂无所谓，但“最重要是记这个单词，可以背一下吸尘器”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "35:30-36:00",
+          "lines": "511-517"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "faciliter",
+    "pos": "verbe",
+    "zh": "[T8Q13] 使更容易；简化；促进",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Elle facilite la socialisation.",
+    "raw": "faciliter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "correction",
+        "selection_reason": "学生查成“舒适”导致选错，老师要求跟 facile 一起记，不要单独背派生词。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "37:30-38:30",
+          "lines": "539-551"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le cerveau",
+    "pos": "nom",
+    "zh": "[T8Q13] 大脑",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "bénéfique pour le cerveau",
+    "raw": "le cerveau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "explain",
+        "selection_reason": "学生不认识这个词并因此把选项理解成社交，老师直接给出词义。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "38:30-39:00",
+          "lines": "553-559"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "lutter",
+    "pos": "verbe",
+    "zh": "[T8Q13] 斗争；抗争",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "lutter contre certaines maladies",
+    "raw": "lutter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说这个词“你会见到它非常多次”，并给出 lutter pour / lutter contre 两个介词接口。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "39:00-39:30",
+          "lines": "560-566"
+        },
+        "learning_note": "lutter pour（为……而斗争）／lutter contre（对抗……）。"
+      }
+    ]
+  },
+  {
+    "lemma": "une maladie",
+    "pos": "nom",
+    "zh": "[T8Q13] 疾病",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "lutter contre certaines maladies",
+    "raw": "une maladie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "explain",
+        "selection_reason": "学生不认识，老师给出词义并强调只记字面义、不必细分病种。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "39:30-40:00",
+          "lines": "567-573"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "malade",
+    "pos": "adj",
+    "zh": "[T8Q13] 生病的；（名词）病人",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Il est malade.",
+    "raw": "malade",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "contrast",
+        "selection_reason": "老师追问 malade 与 maladie 的区别，明确 malade 是形容词也可作名词。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "39:30-40:00",
+          "lines": "567-573"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "donner",
+    "pos": "verbe",
+    "zh": "[T8Q14] 给；给予",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "donner deux tickets de métro",
+    "raw": "donner",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说“这词必须要会，它是一个第一组动词”，属于点名必背的基础动词。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "41:30-42:00",
+          "lines": "598-604"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "mettre",
+    "pos": "verbe",
+    "zh": "[T8Q14] 放置；放",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "mettre un objet sur la table",
+    "raw": "mettre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "explain",
+        "selection_reason": "老师用 mettre 讲 re- 前缀构词，指出认识词根就能推出 remettre。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "42:00-42:30",
+          "lines": "605-611"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "revendre",
+    "pos": "verbe",
+    "zh": "[T8Q14] 转售；再次售卖",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Elle les revend d'occasion.",
+    "raw": "revendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "memorize",
+        "selection_reason": "老师收尾时说“你就记下来 revendre 和 d'occasion”，是这题明确点名的两个必背项之一。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "42:00-43:00",
+          "lines": "605-618"
+        },
+        "learning_note": "revendre 只表示再次售卖，不等于“二手的”。"
+      }
+    ]
+  },
+  {
+    "lemma": "d'occasion",
+    "pos": "expr",
+    "zh": "[T8Q14] 二手的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "une voiture d'occasion",
+    "raw": "d'occasion",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "memorize",
+        "selection_reason": "老师明确指出“真正的二手是这个”，是固定后缀式表达，与 revendre 一起点名必背。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "42:30-43:00",
+          "lines": "612-618"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une brocante",
+    "pos": "nom",
+    "zh": "[L34课外题] 旧货市场；二手市集",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Cette annonce présente une brocante.",
+    "raw": "une brocante",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:CE-test8:extra-question",
+        "teacher_action": "memorize",
+        "selection_reason": "老师临时补的一道旧货市场真题的题眼，说“你先把这个词背下来”，并约定课后发相关写作题。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "43:30-44:30",
+          "lines": "626-639"
+        },
+        "learning_note": "转录此处 ASR 拼写失真（bogongt/bohagont 等），词义由老师中文解释“旧货市场”确定。"
+      }
+    ]
+  },
+  {
+    "lemma": "un événement",
+    "pos": "nom",
+    "zh": "[L34课外题] 事件；活动",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "un événement public",
+    "raw": "un événement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:CE-test8:extra-question",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说“把它背下来，这个词是很重要的，写作里面会遇到它很多次”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "45:00-45:30",
+          "lines": "647-653"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "s'adresser à",
+    "pos": "verbe pronominal",
+    "zh": "[T8Q18] 面向；针对（某类受众）",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "À qui s'adresse ce message ?",
+    "raw": "s'adresser à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18",
+        "teacher_action": "explain",
+        "selection_reason": "老师指出看到 s'adresse à 就是在问受众，这是阅读题干的固定信号词。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "45:30-46:00",
+          "lines": "654-660"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une norme",
+    "pos": "nom",
+    "zh": "[T8Q14] 标准；规范",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "mettre les appareils aux normes",
+    "raw": "une norme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说“norme 要背下来，跟英文 norm 一样，背了很好用”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "48:30-49:00",
+          "lines": "695-701"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un droit",
+    "pos": "nom",
+    "zh": "[T8Q16] 权利",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "la protection des droits",
+    "raw": "un droit",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "correction",
+        "selection_reason": "老师明确纠正：这个“权”不是 power，是 a right 的那个权利。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "57:00-57:30",
+          "lines": "817-823"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la rédaction",
+    "pos": "nom",
+    "zh": "[T8Q16] 撰写；草拟；编辑",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "la rédaction des notices",
+    "raw": "la rédaction",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "correction",
+        "selection_reason": "学生按英文 reduction 理解成“减少”，老师纠正为撰写、草拟。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "57:30-58:00",
+          "lines": "824-830"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une notice",
+    "pos": "nom",
+    "zh": "[T8Q16] 说明；须知",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "la rédaction des notices",
+    "raw": "une notice",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "与 rédaction 同一选项里讲解，老师用英文 notice 定位词义。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "57:30-58:00",
+          "lines": "824-830"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une démarche",
+    "pos": "nom",
+    "zh": "[T8Q16] 步骤；措施；办法",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Cette démarche permet d'éviter…",
+    "raw": "une démarche",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "定位 INPI 那题答案的关键词，老师单独拎出来解释为步骤、措施、方法。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "59:30-01:00:00",
+          "lines": "851-857"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la propriété",
+    "pos": "nom",
+    "zh": "[T8Q16] 所有权；财产",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "la propriété intellectuelle",
+    "raw": "la propriété",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "老师要求把 propriété 和 propriétaire 放到一起记，并用 propriété intellectuelle 解释 INPI。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:00:30-01:01:00",
+          "lines": "868-874"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un propriétaire",
+    "pos": "nom",
+    "zh": "[T8Q16] 物主；所有者；房东",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "devenir l'unique propriétaire de votre invention",
+    "raw": "un propriétaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "word_family",
+        "selection_reason": "与 propriété 同根，老师明确要求两个词一起记。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:00:30-01:01:30",
+          "lines": "868-880"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une capacité",
+    "pos": "nom",
+    "zh": "[T8Q20] 能力",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "améliorer les capacités physiques",
+    "raw": "une capacité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "correction",
+        "selection_reason": "学生说成“规模”，老师纠正为能力并要求直接记中文更准。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:02:00-01:03:00",
+          "lines": "888-901"
+        },
+        "learning_note": "capacité physique 指体能；法语 physique 不包含脑力。"
+      }
+    ]
+  },
+  {
+    "lemma": "maintenir",
+    "pos": "verbe",
+    "zh": "[T8Q20] 保持；维持",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "maintenir les performances de la mémoire",
+    "raw": "maintenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "correction",
+        "selection_reason": "学生把选项读成“保证”，老师纠正 maintenir 是保持。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:04:00-01:04:30",
+          "lines": "916-922"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "à court terme",
+    "pos": "expr",
+    "zh": "[T8Q20] 短期的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "notre mémoire à court terme",
+    "raw": "à court terme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "contrast",
+        "selection_reason": "老师把 à court terme 和 à long terme 成对给出，并提示 court 就是短。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:09:00-01:09:30",
+          "lines": "984-990"
+        },
+        "learning_note": "与 à long terme（长期的）配对记忆。"
+      }
+    ]
+  },
+  {
+    "lemma": "Je ne sais pas trop comment m'y prendre",
+    "pos": "expr",
+    "zh": "[L34写作T1] 我不太知道该从何着手",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "CORE_VOCAB",
+    "example": "Je vais bientôt travailler à Montréal. Je ne sais pas trop comment m'y prendre.",
+    "raw": "Je ne sais pas trop comment m'y prendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:writing-T1:logement",
+        "teacher_action": "memorize",
+        "selection_reason": "批改租房信时老师明确说“你把这句话背下来就可以了”，并指出 s'y prendre 是很高级的用法。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:21:00-01:23:00",
+          "lines": "1154-1180"
+        },
+        "learning_note": "任何求助类写作都能用；转录此处 ASR 把 m'y prendre 拼成 S'apporter à，词形以老师中文解释“从何着手”为准。"
+      }
+    ]
+  },
+  {
+    "lemma": "aller chercher quelqu'un",
+    "pos": "expr",
+    "zh": "[T8Q1 补] 去接某人；去取某物 [Opus5 建议：短信和通知题里最常见的“去接/去取”动作，Q1 全靠它定位答案]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Tu peux aller la chercher à la gare ?",
+    "raw": "aller chercher quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q1",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q1 的正确答案完全由这个动作决定：去车站接同事。短信题反复考“去接某人”，值得作为固定表达记住。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un mannequin",
+    "pos": "nom",
+    "zh": "[T8Q2 补] 模特 [Opus5 建议：Q2 的正确答案词；四个选项里有生词这题就做不出来]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Cette annonce propose de devenir mannequin.",
+    "raw": "un mannequin",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q2",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "本题正确选项 B 的核心词。老师课上强调四个选项必须全认识，否则题做不出来。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une coiffure",
+    "pos": "nom",
+    "zh": "[T8Q2 补] 发型 [Opus5 建议：Q2 干扰项，学生正是被“头发”带偏才在 A 上打问号]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "De changer de coiffure.",
+    "raw": "une coiffure",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q2",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "学生在选项 A 上标了问号，说明没分清 cheveux 与 coiffure。认得这个干扰项才能稳定排除。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un régime",
+    "pos": "nom",
+    "zh": "[T8Q2 补] 节食；饮食方式 [Opus5 建议：健康与饮食主题高频词，也是 Q2 的干扰项]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Essayer un régime.",
+    "raw": "un régime",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q2",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q2 选项 D 的核心词，且在饮食健康类阅读中复现率高。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une entrée",
+    "pos": "nom",
+    "zh": "[T8Q3/Q6 补] 入口；入场（费）；（餐）前菜 [Opus5 建议：同一份卷子里两个义项各考一次，是典型的一词多义陷阱]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Claude s'occupe des entrées.",
+    "raw": "une entrée",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q3/Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q3 选项 A 的 entrée 是“入场费”，Q6 原文的 entrées 是“前菜”。同卷两义并存，必须一起记。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "看语境定义项：付钱语境＝入场费，餐食语境＝前菜。"
+      }
+    ]
+  },
+  {
+    "lemma": "un acheteur",
+    "pos": "nom",
+    "zh": "[T8Q4 补] 买主；买家 [Opus5 建议：Q4 的正确答案词，学生答错就是没读出“卖车的人在找谁”]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Pierre cherche un acheteur.",
+    "raw": "un acheteur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q4",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "卷面上 D 被划掉、另标 A，而转录 25:00-25:30 老师原话“对，选A呀”确认答案是 A；失分点正是这个词与角色转换。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "配合知识卡「看清题目问的是谁」一起复习。"
+      }
+    ]
+  },
+  {
+    "lemma": "un bijou",
+    "pos": "nom",
+    "zh": "[T8Q5] 首饰；珠宝",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "choisir un bijou pour Marie",
+    "raw": "un bijou",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q5",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "学生在题面上给 bijou 标了问号。它是理解 Q5“具体词被上位词包住”的前提。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q5",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记在 Nadia 短信旁红笔注出中文，属他挑选的词；由 Opus5 补充档升级为老师要求档。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un cadeau",
+    "pos": "nom",
+    "zh": "[T8Q5] 礼物",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Acheter un cadeau.",
+    "raw": "un cadeau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q5",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "与 bijou 成对，构成本课知识卡「上位词选项可以包住原文的具体词」的实例。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q5",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记在选项 A 下红笔注“礼物”并加下划线，属他挑选的词；由 Opus5 补充档升级为老师要求档。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "apporter",
+    "pos": "verbe",
+    "zh": "[T8Q6 补] 带来；捎来 [Opus5 建议：聚餐、邀请类短信的高频动词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Tu peux apporter le dessert jeudi soir ?",
+    "raw": "apporter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q6 短信的首个动作词，聚会分工类题目反复出现。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un plat principal",
+    "pos": "expr",
+    "zh": "[T8Q6 补] 主菜 [Opus5 建议：与 entrée、dessert、boisson 构成餐食四件套，主题词族一起记最省力]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "moi du plat principal",
+    "raw": "un plat principal",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q6 用整套餐食分工来判断“谁在组织什么”，成套记忆比逐词记效率高。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un ancien élève",
+    "pos": "expr",
+    "zh": "[T8Q6 补] 老同学；校友 [Opus5 建议：Q6 正确答案词，与原文 copains de notre terminale 是同义替换]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Cuisiner entre anciens élèves.",
+    "raw": "un ancien élève",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "正确选项用 anciens élèves 替换原文的 copains de notre terminale S3，是典型的同义替换考点。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "convier",
+    "pos": "verbe",
+    "zh": "[T8Q7 补] 邀请 [Opus5 建议：inviter 的正式版，正式邀请函和题干里常用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "À quoi sont conviés Madame et Monsieur Mroussi ?",
+    "raw": "convier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q7",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "出现在题干里而不是原文里；题干生词直接导致读不懂在问什么。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "语域比 inviter 正式。"
+      }
+    ]
+  },
+  {
+    "lemma": "une tenue de soirée",
+    "pos": "expr",
+    "zh": "[T8Q7 补] 晚礼服 [Opus5 建议：Tenue de soirée exigée 是邀请函固定套语，见到就知道是正式场合]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Tenue de soirée exigée.",
+    "raw": "une tenue de soirée",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q7",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "这条套语本身就是判断“正式晚宴”的信号，直接支撑正确选项 repas officiel。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "exiger",
+    "pos": "verbe",
+    "zh": "[T8Q7 补] 要求；必须 [Opus5 建议：通知类文本表示强制要求的标志词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Tenue de soirée exigée.",
+    "raw": "exiger",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q7",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "与 demander 的差别在于强制性，通知和规章类阅读高频。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "défendre",
+    "pos": "verbe",
+    "zh": "[T8Q8 补] 保护；捍卫 [Opus5 建议：你在卷面上注了“保护就业”，说明当时读懂了；固化下来避免和 défendre de（禁止）混]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Grande marche pour défendre nos emplois.",
+    "raw": "défendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "学生在海报旁手写“保护 / 就业”，是自己已经读出的义项，值得固化。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "défendre qqch＝保护；défendre à qqn de faire＝禁止某人做某事，两义须分开。"
+      }
+    ]
+  },
+  {
+    "lemma": "un emploi",
+    "pos": "nom",
+    "zh": "[T8Q8 补] 工作；就业；岗位 [Opus5 建议：与 chômage、employeur 构成求职主题核心词族]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "défendre nos emplois",
+    "raw": "un emploi",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "学生手写注了“就业”。求职与社会议题两类阅读都绕不开这个词。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une manifestation",
+    "pos": "nom",
+    "zh": "[T8Q8 补] 示威游行 [Opus5 建议：Q8 正确答案词；你给 marche 注“游行”时打了问号，这个才是标准说法]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Une manifestation sociale.",
+    "raw": "une manifestation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "学生手写“游行 ?”带问号，说明当时不确定；manifestation 正是该概念的规范词，也是本题答案。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "海报用 marche（游行队伍），选项用 manifestation，属同义替换。"
+      }
+    ]
+  },
+  {
+    "lemma": "le chômage",
+    "pos": "nom",
+    "zh": "[T8Q8 补] 失业 [Opus5 建议：Q8 干扰项，且与 emploi 成反义对，社会类阅读必备]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Une conférence sur le chômage.",
+    "raw": "le chômage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "作为干扰项出现；与 emploi 构成反义对，一起记可同时守住两个选项。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un endroit",
+    "pos": "nom",
+    "zh": "[T8Q9 补] 地点；场所 [Opus5 建议：卷面把它黄色高亮了，是 Q9 题干的定位关键词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "les endroits que propose Clémence",
+    "raw": "un endroit",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q9",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "题干关键词并被高亮；学生该题答案标了问号，说明定位不稳。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "faire la fête",
+    "pos": "expr",
+    "zh": "[T8Q9 补] 聚会玩乐 [Opus5 建议：Q9 靠它推出正确答案 s'amuser，是原文到选项的同义跳板]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "des adresses pour dîner ou faire la fête le soir",
+    "raw": "faire la fête",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q9",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "原文 faire la fête → 选项 s'amuser 的同义替换链条，学生在本题标了问号。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un menu",
+    "pos": "nom",
+    "zh": "[T8Q10 补] 菜单；套餐 [Opus5 建议：Q10 正确答案词，你当时选错了这一题]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Des menus différents.",
+    "raw": "un menu",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q10",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "卷面上 C 被圈掉、另标 B，转录 32:00-33:00 老师原话“对，选B呀”确认答案是 B；正确选项的核心词就是 menu。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "配合已收录的 varié（多种多样的）一起理解“recettes variées → menus différents”。"
+      }
+    ]
+  },
+  {
+    "lemma": "un animateur",
+    "pos": "nom",
+    "zh": "[T8Q11 补] 活动指导员；带队老师 [Opus5 建议：青少年活动、夏令营类文本的固定角色词，T2 写作也用得上]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Encadrement par nos animateurs.",
+    "raw": "un animateur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q11",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "学生在卷面标注了该词；它同时是 T2 写作“参加夏令营/活动”题材的常用角色词。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un libraire",
+    "pos": "nom",
+    "zh": "[T8Q15] 书商；书店老板",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "obtenir un poste chez un libraire",
+    "raw": "un libraire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15:option-A",
+        "teacher_action": "memorize",
+        "selection_reason": "讲求职信那题时老师逐个过四个选项，并明确要求“我们记这种单词……它放在四个选项里面，你得都认识”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "51:00-52:00",
+          "lines": "734-747"
+        },
+        "learning_note": "选项词不一定是答案，但四个里有一个生词这题就做不出来。"
+      }
+    ]
+  },
+  {
+    "lemma": "une maison d'édition",
+    "pos": "expr",
+    "zh": "[T8Q15] 出版社",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Je souhaite faire un stage dans votre maison d'édition.",
+    "raw": "une maison d'édition",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15:option-D",
+        "teacher_action": "memorize",
+        "selection_reason": "Q15 正确答案 D 的核心词，老师要求四个选项的词全部认识。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "51:00-52:00",
+          "lines": "734-747"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "se spécialiser dans",
+    "pos": "verbe pronominal",
+    "zh": "[T8Q15] 专攻；把……作为专业方向",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Se spécialiser dans l'art et la culture.",
+    "raw": "se spécialiser dans",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15:option-B",
+        "teacher_action": "correction",
+        "selection_reason": "学生误选 B，老师专门解释 se spécialiser dans = be specialized in，是“把这个当成完全的专业”，不等于“变得专业一点”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "52:30-54:30",
+          "lines": "754-781"
+        },
+        "learning_note": "这是本课最大的失分点：中文“让自己专业一点”是脑补，法语没这个意思。"
+      }
+    ]
+  },
+  {
+    "lemma": "Ce qui m'a impressionné le plus",
+    "pos": "expr",
+    "zh": "[L34写作T2] 给我印象最深的是……",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée.",
+    "raw": "Ce qui m'a impressionné le plus",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:writing-T2:body",
+        "teacher_action": "memorize",
+        "selection_reason": "讲 T2 正文写法时老师说“你可以把这个句式记下来”，用来引出印象最深的一点。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:42:00-01:42:30",
+          "lines": "1454-1459"
+        },
+        "learning_note": "后面可换成 c'est l'ambiance 等任意名词，句式本身通用。"
+      }
+    ]
+  },
+  {
+    "lemma": "Je me suis fait beaucoup d'amis",
+    "pos": "expr",
+    "zh": "[L34写作T2] 我交了很多朋友",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Je me suis fait beaucoup d'amis, avec qui on partage les mêmes intérêts.",
+    "raw": "Je me suis fait beaucoup d'amis",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:writing-T2:body",
+        "teacher_action": "memorize",
+        "selection_reason": "老师原话“你可以把这句话都背下来。这句话在 T2 的几乎所有的场景里面都是适用的”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:42:30-01:43:00",
+          "lines": "1461-1466"
+        },
+        "learning_note": "建议把“交朋友/人与人的联系”单独作为正文最后一点。"
+      }
+    ]
+  },
+  {
+    "lemma": "Je vous recommande fortement de",
+    "pos": "expr",
+    "zh": "[L34写作T2] 我强烈推荐你……",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Je vous recommande fortement de participer à cette activité.",
+    "raw": "Je vous recommande fortement de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:writing-T2:conclusion",
+        "teacher_action": "memorize",
+        "selection_reason": "讲 T2 结尾段时老师指着范文说“你要背下来的这儿这儿这儿”，指的就是这句推荐句。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:45:30-01:46:00",
+          "lines": "1502-1507"
+        },
+        "learning_note": "与 Je vous incite à… 二选一即可，范文两句都写了但只需要一句。"
+      }
+    ]
+  },
+  {
+    "lemma": "Je vous incite à",
+    "pos": "expr",
+    "zh": "[L34写作T2] 我建议/鼓励你……",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Je vous incite à partager votre expérience à l'étranger.",
+    "raw": "Je vous incite à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:writing-T2:conclusion",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给出的推荐句备选，原话“你也可以背这个，背这个句子”。",
+        "evidence": {
+          "file": "docker-data/outputs/L34/L34_final_working.md",
+          "time": "01:46:00-01:46:30",
+          "lines": "1509-1514"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la forme",
+    "pos": "nom",
+    "zh": "[T8Q12 补] 形状；外形 [Opus5 建议：Q12 正确答案词，你当时选了 taille]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Quel est le problème de ces voitures ? — Leur forme.",
+    "raw": "la forme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 正确选项；老师讲清主旨是车型丑（forme），不是尺寸。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la taille",
+    "pos": "nom",
+    "zh": "[T8Q12 补] 尺寸；大小；身材 [Opus5 建议：Q12 你选的干扰项，只覆盖第三款车所以不能选]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Leur taille.",
+    "raw": "la taille",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12:option-D",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "卷面上 D 被红圈标为错，认得这个词才能理解“只覆盖一个细节的选项不能选”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "配合知识卡「选项要覆盖全文主旨」一起复习。"
+      }
+    ]
+  },
+  {
+    "lemma": "un lieu de rêve",
+    "pos": "expr",
+    "zh": "[T8Q12 补] 梦想之地 [Opus5 建议：卷面高亮的定调短语，读懂它才知道后文要吐槽]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année.",
+    "raw": "un lieu de rêve",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师讲“车展本应是梦想之地，但今年不是，那后面肯定就是要说它的问题了”，这个短语是全文转折的支点。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la mémoire",
+    "pos": "nom",
+    "zh": "[T8Q13/Q20 补] 记忆力 [Opus5 建议：同一套卷里 Q13 是干扰项、Q20 是正确答案，老师专门拿它举过例]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Maintenir les performances de la mémoire.",
+    "raw": "la mémoire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13/Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师用它说明“背过的词在这题是答案、在那题就是干扰项”，是本课知识卡的实例本身。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "看到熟词先回原文核对，不要用它押答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "la santé",
+    "pos": "nom",
+    "zh": "[T8Q13 补] 健康 [Opus5 建议：Q13 正确答案词；老师最终从“抵抗疾病”推回它]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Elle est bonne pour la santé.",
+    "raw": "la santé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13:option-A",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师先倾向 B，读完 lutter contre certaines maladies 后改判 A；卷面红笔最终标 A。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "bénéfique",
+    "pos": "adj",
+    "zh": "[T8Q13 补] 有益的 [Opus5 建议：原文用它连接“大脑”与“健康”，是 Q13 的推理桥梁]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "Cette activité mentale est bénéfique pour le cerveau.",
+    "raw": "bénéfique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "从原文 bénéfique pour le cerveau 推到选项 bonne pour la santé，这一步靠它。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la socialisation",
+    "pos": "nom",
+    "zh": "[T8Q13 补] 社交；社会化 [Opus5 建议：Q13 最强干扰项，老师明确说全文没提社交]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Elle facilite la socialisation.",
+    "raw": "la socialisation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师原话“他整个都没有提到，就是社交啊”，正是排除 B 的依据。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la valeur",
+    "pos": "nom",
+    "zh": "[T8Q14 补] 价值；价格 [Opus5 建议：二手交易、估价类文本的核心名词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Nous évaluons la valeur de votre téléphone portable.",
+    "raw": "la valeur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 原文的定位句核心词，与 estimation、prix moyen 同一语义场。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "évaluer",
+    "pos": "verbe",
+    "zh": "[T8Q14 补] 估价；评估 [Opus5 建议：与 valeur、estimation 成族，二手/服务类文本高频]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Nous évaluons la valeur de votre téléphone.",
+    "raw": "évaluer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 首句动词；与已收录的 revendre、d'occasion 构成完整的二手交易词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le marché",
+    "pos": "nom",
+    "zh": "[T8Q14 补] 市场 [Opus5 建议：与 brocante（旧货市场）呼应，Q14 与 Q16 都出现]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Ceux qui fonctionnent bien sont remis sur le marché.",
+    "raw": "le marché",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14/Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "同卷两题都用到 sur le marché；与老师补讲的 brocante 属同一主题。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "veuillez accepter l'expression de mes sincères salutations",
+    "pos": "expr",
+    "zh": "[T8Q15 补] （正式信件结尾）敬请接受我最诚挚的问候 [Opus5 建议：法语正式信件的固定收尾，T1 写正式信直接照抄]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Dans l'attente d'une réponse de votre part, veuillez accepter l'expression de mes sincères salutations.",
+    "raw": "veuillez accepter l'expression de mes sincères salutations",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "求职信原文的结尾套语；T1 写正式信件时可整句复用，属最高性价比的写作素材。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "非正式信件不用这句，写给朋友用 Amicalement / À bientôt。"
+      }
+    ]
+  },
+  {
+    "lemma": "être passionné par",
+    "pos": "expr",
+    "zh": "[T8Q15 补] 热衷于；对……充满热情 [Opus5 建议：求职信与自我介绍的万能句式，T1/T2 都用得上]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Je suis passionné par la lecture et les arts.",
+    "raw": "être passionné par",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "求职信自我介绍句式，可直接迁移到写作的“说明动机”部分。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "déposer un dossier",
+    "pos": "expr",
+    "zh": "[T8Q16 补] 递交申请材料；提交档案 [Opus5 建议：行政办事类文本的固定动作，移民/申请场景高频]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Vous devez déposer un dossier auprès de l'INPI.",
+    "raw": "déposer un dossier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q16 原文的核心动作；与已收录的 démarche（步骤、手续）同属行政流程词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "vérifier",
+    "pos": "verbe",
+    "zh": "[T8Q16 补] 核实；查证 [Opus5 建议：Q16 定位句动词，也是听力和阅读的通用高频词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Il faut toutefois vérifier que celle-ci n'existe pas déjà sur le marché.",
+    "raw": "vérifier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q16 后半段的关键动词；卷面已标注。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un enregistrement",
+    "pos": "nom",
+    "zh": "[T8Q17 补] 录音 [Opus5 建议：Q17 正确答案词；媒体与听力主题反复出现]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Des enregistrements sonores d'articles de journal.",
+    "raw": "un enregistrement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q17:option-A",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 正确选项核心词，卷面黄色高亮。老师未讲此题，故列为补充。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un extrait",
+    "pos": "nom",
+    "zh": "[T8Q17 补] 节选；片段 [Opus5 建议：Q17 干扰项，出版与媒体类文本常用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Des extraits choisis de romans classiques.",
+    "raw": "un extrait",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q17:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 干扰项，卷面黄色高亮；与 enregistrement 配对可稳定区分两个选项。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "surchargé",
+    "pos": "adj",
+    "zh": "[T8Q17 补] 满档的；超负荷的 [Opus5 建议：emploi du temps surchargé 是描述“忙”的地道说法，写作可直接用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "Votre emploi du temps est surchargé.",
+    "raw": "surchargé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "比 très occupé 更地道；T1/T2 里解释“没时间”时可直接使用。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une facture",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 账单 [Opus5 建议：Q18 干扰项，住房与生活开支主题必备]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Les familles qui ont des factures élevées.",
+    "raw": "une facture",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18:option-A",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 选项 A 核心词，卷面黄色高亮。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la colocation",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 合租 [Opus5 建议：Q18 干扰项；T1 租房写作的常见场景词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Les jeunes qui veulent vivre en colocation.",
+    "raw": "la colocation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "住房主题核心词，与 L33 已学的 locataire、本课 loyer 构成词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un revenu",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 收入 [Opus5 建议：Q18 正确答案词，faibles revenus＝低收入]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Aux locataires qui ont de faibles revenus.",
+    "raw": "un revenu",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18:option-C",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 正确选项核心词；卷面已用英文注 incomes。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un loyer",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 房租 [Opus5 建议：T1 写租房信几乎一定用到，属最实用的一个]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Cette aide peut aller jusqu'à 75% de votre loyer.",
+    "raw": "un loyer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 原文定位词；与本课 T1 的租房写作任务直接相关，写作可复用。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le bruit",
+    "pos": "nom",
+    "zh": "[T8Q19 补] 噪音；声响 [Opus5 建议：Q19 正确答案词；与 L33 学过的 la pollution sonore 同族]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Le bruit altère le sens du goût des passagers.",
+    "raw": "le bruit",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q19:option-C",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 正确选项核心词；转录 01:12:30 老师提到“这飞机上面会影响人的胃口，噪音那个”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "altérer",
+    "pos": "verbe",
+    "zh": "[T8Q19 补] 损害；使变质 [Opus5 建议：Q19 正确选项的动词，比 changer 更负面，是同义替换的关键]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Le bruit altère le sens du goût.",
+    "raw": "altérer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q19:option-C",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "原文 réduire la sensibilité des palais 与选项 altère le sens du goût 的同义替换靠它。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la saveur",
+    "pos": "nom",
+    "zh": "[T8Q19 补] 味道；风味 [Opus5 建议：Q19 干扰项，与 goût 构成味觉词族]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Les plats proposés en vol manquent de saveur.",
+    "raw": "la saveur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q19:option-D",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 干扰项；与 savoureux、goût 一起构成味觉主题词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "cultiver",
+    "pos": "verbe",
+    "zh": "[T8Q20 补] 培养；发展（爱好、关系） [Opus5 建议：卷面高亮词；cultiver des activités/relations 写作可直接用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "également de cultiver les activités associatives ou sportives",
+    "raw": "cultiver",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 原文黄色高亮词；不只是“耕种”，用于爱好和人际关系时是高级表达。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une vie sociale",
+    "pos": "expr",
+    "zh": "[T8Q20 补] 社交生活 [Opus5 建议：Q20 定位句核心；T2 写“交朋友”那一点时可直接用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "il est essentiel de garder une vie sociale riche d'interactions",
+    "raw": "une vie sociale",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 建议段的关键短语；与 T2 写作里“交朋友、人与人的联系”那一点直接对应。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "gros",
+    "pos": "adj",
+    "zh": "[T8Q2] 胖的；（抽象）大的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "un gros problème",
+    "raw": "gros",
+    "fem": "grosse",
+    "fem_raw": "grosse",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q2",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记里绿色高亮 gros，并在页边红笔写出 gros, se 两个词形和「胖的／大的」两个义项。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "阴性 grosse 双写 s 加 e；修饰抽象名词时表示“大的、严重的”。"
+      }
+    ]
+  },
+  {
+    "lemma": "un climatiseur",
+    "pos": "nom",
+    "zh": "[T8Q4] 空调",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Climatiseur automatique.",
+    "raw": "un climatiseur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q4",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记绿色高亮 Climatiseur，并在旁边红笔写出同义说法 air conditionné；转录 26:30-27:00 他说“climatise，这个也还好”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "同段的 vitres、autoradio、airbag 老师未标且明说可以不用记。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'air conditionné",
+    "pos": "expr",
+    "zh": "[T8Q4] 空调（另一说法）",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "L'air conditionné est en panne.",
+    "raw": "l'air conditionné",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:CE-test8:Q4",
+        "teacher_action": "synonym",
+        "selection_reason": "老师在 Climatiseur 旁手写的同义表达，转录 27:00-27:30 原话“表空调还有一个也很好记”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "facile",
+    "pos": "adj",
+    "zh": "[T8Q13] 容易的；简单的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "C'est un exercice facile.",
+    "raw": "facile",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "word_family",
+        "selection_reason": "老师笔记页边红笔写出 facile 简单的 / faciliter 简化 这一组，要求成对记；转录 37:30-38:30 明确“不要单独记，跟 facile 一起记”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "vendre",
+    "pos": "verbe",
+    "zh": "[T8Q14] 卖；出售",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Vend Renault grise 50 000 km.",
+    "raw": "vendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记在 Q14 右侧红笔竖列 donner / mettre / vendre 三个基础动词，作为 re- 前缀推导的词根。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "认识 vendre 才能推出 revendre（转售）；“二手的”另有固定表达 d'occasion。"
+      }
+    ]
+  },
+  {
+    "lemma": "devenir",
+    "pos": "verbe",
+    "zh": "[T8Q16] 成为；变成",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Pour devenir l'unique propriétaire de votre invention.",
+    "raw": "devenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记绿色高亮整句 Pour devenir l'unique propriétaire de votre invention，并在页边红笔逐词注 devenir 成为 / unique 唯一 / propriétaire 所有者。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "unique",
+    "pos": "adj",
+    "zh": "[T8Q16] 唯一的；独一无二的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "l'unique propriétaire de votre invention",
+    "raw": "unique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "与 devenir、propriétaire 同在老师红笔的逐词注释里，属他挑出的三词组。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la propriété intellectuelle",
+    "pos": "expr",
+    "zh": "[T8Q16] 知识产权",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Institut National de la Propriété intellectuelle (INPI)",
+    "raw": "la propriété intellectuelle",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记绿色高亮 Propriété intellectuelle；转录 01:00:30-01:01:30 他说“这两个词你可以放到一起去记”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un ralentissement",
+    "pos": "nom",
+    "zh": "[T8Q20] 减慢；降速",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Ralentissement du traitement de l'information.",
+    "raw": "un ralentissement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记绿色高亮 Ralentissement 并红笔注“降速”；是 Q20 定位句的第一个关键词。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le traitement",
+    "pos": "nom",
+    "zh": "[T8Q20] 处理",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "le traitement de l'information",
+    "raw": "le traitement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记绿色高亮 du traitement 并红笔注“处理”；转录 01:08:30 他说“treatment 我们也见过的，处理”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "按老师的要求只记字面义“处理”，不展开到医疗等引申义。"
+      }
+    ]
+  },
+  {
+    "lemma": "baisser",
+    "pos": "verbe",
+    "zh": "[T8Q20] 下降；降低",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "baisse de l'attention",
+    "raw": "baisser",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在 Q20 右上角红笔单独写下 baisser；转录 01:08:00-01:08:30 他问“bass，我们学过它的名词形式，是什么来着？下降”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "名词形式 la baisse（下降）与动词一起记。"
+      }
+    ]
+  },
+  {
+    "lemma": "à long terme",
+    "pos": "expr",
+    "zh": "[T8Q20] 长期的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "la mémoire à long terme",
+    "raw": "à long terme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "contrast",
+        "selection_reason": "老师在 à court terme 旁边红笔补写 à long terme，成对给出；转录 01:09:00-01:09:30 原话“可不可以说什么一个 à long terme，就长期的，就可以这样放到一起去记”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la mémorisation",
+    "pos": "nom",
+    "zh": "[T8Q20] 记忆（过程）",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "notre mémorisation à court terme",
+    "raw": "la mémorisation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "memorize",
+        "selection_reason": "老师笔记在 mémorisation 下红笔注“记忆”，与 attention、traitement 同属他挑出的 Q20 定位句词组。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "与选项里的 la mémoire（记忆力）区分：mémorisation 偏“记忆这一过程”。"
+      }
+    ]
+  },
+  {
+    "lemma": "la retraite",
+    "pos": "nom",
+    "zh": "[L34课前复习] 退休",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "partir à la retraite",
+    "raw": "la retraite",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:retraite",
+        "teacher_action": "memorize",
+        "selection_reason": "老师本人发出的开课听写原始词单上第 3 个词，听写即记忆任务。",
+        "evidence": {
+          "file": "L34/doc/开课听写和动词变位/单词表.jpg"
+        },
+        "learning_note": "⚠️ 老师核对此词中文义的片段（转录 16:30-17:00）被 ASR 破坏为「hot can retire」，其口头释义不可恢复；此处中文取标准义「退休」，与 Qwen 识别出的 retire 一致。若老师另有说法请更正。"
+      }
+    ]
+  },
+  {
+    "lemma": "un départ",
+    "pos": "nom",
+    "zh": "[L34课前复习] 出发；离开",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "l'heure du départ",
+    "raw": "un départ",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:depart",
+        "teacher_action": "memorize",
+        "selection_reason": "老师听写原始词单上第 5 个词。",
+        "evidence": {
+          "file": "L34/doc/开课听写和动词变位/单词表.jpg"
+        },
+        "learning_note": "⚠️ 核对时老师只重复了词形「depart，就 depart」（转录 16:30-17:00），未给中文；此处取标准义。"
+      }
+    ]
+  },
+  {
+    "lemma": "défavorable",
+    "pos": "adj",
+    "zh": "[L34课前复习] 不利的；反对的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "une situation défavorable",
+    "raw": "défavorable",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:defavorable",
+        "teacher_action": "memorize",
+        "selection_reason": "老师听写原始词单上第 12 个词；转录 03:00-03:30 三路 ASR 一致听到 Défavorable。",
+        "evidence": {
+          "file": "L34/doc/开课听写和动词变位/单词表.jpg"
+        },
+        "learning_note": "⚠️ 核对段未见老师给出中文，此处取标准义。与阅读 test 8 第 37 题原文 des parents défavorisés（弱势家庭）同族但不同义，注意区分。"
+      }
+    ]
+  },
+  {
+    "lemma": "raconter",
+    "pos": "verbe",
+    "zh": "[L34课前复习] 讲述；叙述",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "raconter ses vacances",
+    "raw": "raconter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:raconter",
+        "teacher_action": "explain",
+        "selection_reason": "老师听写原始词单上第 19 个词；核对时他用英文 tell 给出释义。",
+        "evidence": {
+          "file": "L34/doc/开课听写和动词变位/单词表.jpg"
+        },
+        "learning_note": "转录 19:00-19:30 老师说「…是 tell」，释义由此确认；该处 ASR 把词形写成 hagonday，以词单拼写为准。T2 写作正是「讲述一段经历」，这个词直接可用。"
+      }
+    ]
+  },
+  {
+    "lemma": "nuancé",
+    "pos": "adj",
+    "zh": "[L34课前复习] 有细微差别的；细致的",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "une opinion nuancée",
+    "raw": "nuancé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L34:opening-dictation:nuance",
+        "teacher_action": "correction",
+        "selection_reason": "老师听写原始词单上写的是形容词 nuancé，而我此前只收了名词 une nuance；以词单拼写为准补上被听写的词形。",
+        "evidence": {
+          "file": "L34/doc/开课听写和动词变位/单词表.jpg"
+        },
+        "learning_note": "与已收录的名词 une nuance（细微差别）成对记：老师听写的是形容词形，核对时解释的是名词义。"
+      }
+    ]
+  }
 ]
