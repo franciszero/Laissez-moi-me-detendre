@@ -12,7 +12,7 @@
       "purpose": "分享改造住所的计划，并请对方提供帮助",
       "word_min": 60,
       "word_max": 120,
-      "status": "draft",
+      "status": "teacher_reviewed",
       "time_limit_minutes": 20,
       "reference_text": "## 本题没有老师范文\n\n:gray[老师本次只发了题面，没有给这道题的范文。下面是**体裁级**参照：tâche 1 的六段结构来自 L32 板书「la structure du mail」，与 L33-W1 / L33-W2 共用同一套；本课 `01:18:00-01:29:00` 老师批改的是另一道 tâche 1（租房信），其批改要点已拆成下面的弹药。]\n\n### 六段结构（体裁级，跨题共用）\n\n1. **En-tête · 邮件头**（Objet）—— 题面没要求时可以整段跳过\n2. **Salutations · 问候**\n3. **Objectif général · 亮明目的** —— 第一句就说清你写这封信干什么\n4. **Détails · 展开细节** —— 题面括号点名的项逐一落地\n5. **Attentes et souhaits · 期待与愿望** —— 本题的「请求帮助」落在这里\n6. **Formules de conclusion · 结束语**\n\n### 本课老师亲自示范过的一句（`01:21:00-01:23:00`）\n\n:green-background[Je ne sais pas trop comment m'y prendre.] 〔师〕\n\n老师原话：「你把这句话背下来就可以了……你如果是任何寻求人家帮助的，你把这句话背下来就可以了」。\n本题正是「solliciter son assistance」，这句可以直接用来引出请求。",
       "sources": [
@@ -229,7 +229,7 @@
         {
           "support_id": "L34-W1-len",
           "scope": "task",
-          "category": "strategy",
+          "category": "teacher_tip",
           "title": "字数：写 80–100，加细节不加句子　:gray[老师本课原话]",
           "body": "题面是 60–120，但老师建议（`01:26:00-01:27:00`）：\n\n:green-background[「我们一般要求八十到一百。因为你如果只写了六十个词，你肯定内容上是缺了一点的，那一百二呢，超了就没必要」] 〔师〕\n\n不够长时**在已有句子里补细节**（形容词、修饰成分），:green-background[「但不能加句子，你一加句子，二十个词一下就没了」] 〔师〕。",
           "review": "teacher_reviewed",
@@ -250,7 +250,7 @@
         {
           "support_id": "L34-W1-clb7",
           "scope": "task",
-          "category": "strategy",
+          "category": "teacher_tip",
           "title": "交卷前按 CLB 7 四条自查　:gray[老师本课总结]",
           "body": "老师的经验总结（`01:28:00-01:29:00`），达到 CLB 7 只需四点：\n\n1. **回答题目要求** —— 本题两件事都做了吗：分享计划 ✅ 请求帮助 ✅\n2. **内容上没有缺失** —— 家具、颜色、装饰三项都提到了吗\n3. **句法不太口语化，且语法错误几乎没有**\n4. **观点比较明确**\n\n:green-background[「它不需要你把句子写得那么的做作才能上 CLB 7」] 〔师〕\n\n⚠️ 老师同时强调（`01:26:30-01:28:30`）：**交自己写的版本**。把作文喂给 AI 再择优改回来是好的学习习惯，但不是好的备考习惯——考场上没有 AI，时间也不够。",
           "review": "teacher_reviewed",
@@ -281,7 +281,7 @@
       "purpose": "分享一次令人失望的节庆经历，并说明不满意的原因",
       "word_min": 120,
       "word_max": 150,
-      "status": "draft",
+      "status": "teacher_reviewed",
       "time_limit_minutes": 30,
       "reference_text": "## 老师的四段结构（板书原件）\n\n1. **Titre accrocheur · 抓人标题** —— :green-background[il faut un titre attirant]〔师〕。老师的例子：*L'enseignement, un métier de nobles*；他手写的万能款：:green-background[une expérience inoubliable]。\n2. **Introduction · 引入** —— :green-background[présentez de manière concise et attractive l'activité que vous souhaitez décrire]〔师〕。老师在幻灯片上圈出 :green-background[C'est quoi ?]——引入段要回答的就是这一个问题。\n3. **Votre expérience personnelle · 个人经历** —— :green-background[Partagez vos anecdotes, vos expériences positives et **les défis que vous avez rencontrés**]〔师〕。老师给「expériences positives」和「les défis」都加了下划线。\n4. **Recommandations · 推荐** —— :green-background[Tout dépendra de la consigne.]〔师〕**这句是本题的关键**：推荐段写什么由题目定。本题是负面体验，所以这一段写「不推荐」或「希望主办方改进」，不是硬夸。\n\n## 老师手写的正文二分法\n\n正文（第 3 段）有两种写法，**别一开始就混着写**：\n\n| 写法 | 老师手写的三个落点 |\n|---|---|\n| **感受式** | `compétence` · `la vie sociale` · `visite` |\n| **记叙式** | `cours` · `prof, camarade` · `activités` |\n\n万能句〔师·手写原句〕：:green-background[Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée.]\n\n## ⚠️ 老师的范文是正面的，不能整篇搬\n\n课上范文 *Un séjour m'a changé la vie !* 展示的是**顺序和连接词**。本题要求的链条是「期待 → 落差 → 问题 → 后果 → 评价」，不是「参加 → 成长 → 推荐」。结构照搬，内容重写。",
       "sources": [
@@ -564,7 +564,7 @@
         {
           "support_id": "L34-W2-length",
           "scope": "task",
-          "category": "strategy",
+          "category": "logic",
           "order": 50,
           "modality": "writing",
           "conditions": "",
@@ -585,7 +585,7 @@
         {
           "support_id": "L34-W2-traps",
           "scope": "task",
-          "category": "strategy",
+          "category": "language_ammo",
           "order": 51,
           "modality": "writing",
           "conditions": "",
