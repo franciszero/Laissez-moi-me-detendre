@@ -14,7 +14,7 @@
       "word_max": 120,
       "status": "teacher_reviewed",
       "time_limit_minutes": 20,
-      "reference_text": "## 本题没有老师范文\n\n:gray[老师本次只发了题面，没有给这道题的范文。下面是**体裁级**参照：tâche 1 的六段结构来自 L32 板书「la structure du mail」，与 L33-W1 / L33-W2 共用同一套；本课 `01:18:00-01:29:00` 老师批改的是另一道 tâche 1（租房信），其批改要点已拆成下面的弹药。]\n\n### 六段结构（体裁级，跨题共用）\n\n1. **En-tête · 邮件头**（Objet）—— 题面没要求时可以整段跳过\n2. **Salutations · 问候**\n3. **Objectif général · 亮明目的** —— 第一句就说清你写这封信干什么\n4. **Détails · 展开细节** —— 题面括号点名的项逐一落地\n5. **Attentes et souhaits · 期待与愿望** —— 本题的「请求帮助」落在这里\n6. **Formules de conclusion · 结束语**\n\n### 本课老师亲自示范过的一句（`01:21:00-01:23:00`）\n\n:green-background[Je ne sais pas trop comment m'y prendre.] 〔师〕\n\n老师原话：「你把这句话背下来就可以了……你如果是任何寻求人家帮助的，你把这句话背下来就可以了」。\n本题正是「solliciter son assistance」，这句可以直接用来引出请求。",
+      "reference_text": "## 本题没有老师范文\n\n:gray[老师本次只发了题面，没有给这道题的范文。下面是**体裁级**参照：tâche 1 的六段结构来自 L32 板书「la structure du mail」（原件 `L32/doc/1.jpg`–`3.jpg`），与 L33-W1 / L33-W2 共用同一套；本课 `01:18:00-01:29:00` 老师批改的是另一道 tâche 1（租房信），其批改要点已拆成下面的弹药。]\n\n### 六段结构（体裁级，跨题共用）\n\n1. **En-tête · 邮件头**（Objet）—— 题面没要求时可以整段跳过\n2. **Salutations · 问候**\n3. **Objectif général · 亮明目的** —— 第一句就说清你写这封信干什么\n4. **Détails · 展开细节** —— 题面括号点名的项逐一落地\n5. **Attentes et souhaits · 期待与愿望** —— 本题的「请求帮助」落在这里\n6. **Formules de conclusion · 结束语**\n\n### 本课老师亲自示范过的一句（`01:21:00-01:23:00`）\n\n:green-background[Je ne sais pas trop comment m'y prendre.] 〔师〕\n\n老师原话：「你把这句话背下来就可以了……你如果是任何寻求人家帮助的，你把这句话背下来就可以了」。\n本题正是「solliciter son assistance」，这句可以直接用来引出请求。",
       "sources": [
         {
           "lesson": "L34",
@@ -35,10 +35,26 @@
         {
           "lesson": "L32",
           "kind": "screenshot",
-          "path": "（见 L33/writing_tasks.json 的 reference_text）",
-          "locator": "板书「la structure du mail」六段",
-          "verify": "needs_review",
-          "note": "tâche 1 的六段结构为体裁级参照，原始板书归属 L32，本题未重复归档。"
+          "path": "L32/doc/1.jpg",
+          "locator": "la structure du mail · 第 1 项 En-tête（De / À / Objet）、第 2 项 Salutations",
+          "verify": "verified",
+          "note": "老师板书幻灯片原文，逐字可读。SHA-256 前 16 位 d07db3743162f7aa。"
+        },
+        {
+          "lesson": "L32",
+          "kind": "screenshot",
+          "path": "L32/doc/2.jpg",
+          "locator": "la structure du mail · 第 3 项 Objectif général、第 4 项 Détails（Qui ? Quoi ? Quand ? Où ? Avec qui ?）",
+          "verify": "verified",
+          "note": "老师板书幻灯片原文，逐字可读。SHA-256 前 16 位 88af02e04fdec909。"
+        },
+        {
+          "lesson": "L32",
+          "kind": "screenshot",
+          "path": "L32/doc/3.jpg",
+          "locator": "la structure du mail · 第 5 项 Attentes et souhaits、第 6 项 Formules de conclusion",
+          "verify": "verified",
+          "note": "老师板书幻灯片原文，逐字可读。SHA-256 前 16 位 5a14041cc5a7388c。图上红笔标注为课堂笔记，归属未定，不作为证据。"
         }
       ],
       "slots": [
