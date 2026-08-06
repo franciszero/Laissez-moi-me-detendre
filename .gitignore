@@ -10,7 +10,9 @@
 *.mkv
 *.avi
 *.webm
-~$*.docx
+
+# Office 临时锁文件（~$1.xlsx 之类），任何后缀都不进 git
+~$*
 
 # 杂项
 .DS_Store
