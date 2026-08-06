@@ -288,10 +288,10 @@
         {
           "lesson": "L34",
           "kind": "screenshot",
-          "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+          "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
           "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-          "verify": "needs_review",
-          "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          "verify": "verified",
+          "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
         },
         {
           "lesson": "L34",
@@ -407,10 +407,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": ":green-background[il faut un titre attirant]〔师〕。老师的例子是 *L'enseignement, un métier de nobles*，他手写的万能款是 :green-background[une expérience inoubliable]。\n\n本题是负面体验，把「难忘」换成落差即可〔AI〕：\n- :orange-background[Un festival loin de mes attentes !]\n- :orange-background[Une soirée musicale pleine de déceptions !]\n- :orange-background[Beaucoup d'attente, très peu de musique !]\n\n标题可以是名词短语，不加句号，可用感叹号。**别写成题目复述**（`Mon expérience dans un festival`）。"
         },
@@ -428,10 +428,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "老师在幻灯片上圈出 :green-background[C'est quoi ?]——引入段就是回答这一个问题：:green-background[présentez de manière concise et attractive l'activité que vous souhaitez décrire]〔师〕。\n\n三句话搞定：活动＋时间地点 → 为什么去 → 总体评价〔AI 句子〕：\n\n:orange-background[Samedi dernier, j'ai participé à un festival de musique organisé dans un grand parc de Toronto.]\n:orange-background[J'attendais cet événement avec impatience, car plusieurs artistes connus étaient annoncés.]\n:orange-background[Malheureusement, l'expérience a été loin de mes attentes.]\n\n⚠️ **总体评价要在开头就亮明**，不能写到最后读者才知道你不满意。"
         },
@@ -449,10 +449,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "老师手写把正文分成两种，**别一开始就混着写**〔师〕：\n\n| 写法 | 老师写的三个落点 |\n|---|---|\n| **感受式** | `compétence` · `la vie sociale` · `visite` |\n| **记叙式** | `cours` · `prof, camarade` · `activités` |\n\n本题是负面体验，两种都能用：\n- 感受式 → 这次经历**毁掉**了什么（时间、钱、心情）\n- 记叙式 → 我先遇到什么、然后遇到什么\n\n想加总体感受，就统一放**最前面或最后面**，不要中间穿插。"
         },
@@ -470,10 +470,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "〔AI〕老师板书第 3 点给 :green-background[les défis que vous avez rencontrés] 加了下划线，本题的「défis」就是那些问题。但**光写问题不够**，题面要的是 `raisons`：\n\n> **[问题判断] + [具体证据] + [直接后果]**\n\n:orange-background[Tout d'abord, l'entrée était très mal organisée. Nous avons dû attendre plus d'une heure sous la pluie. À cause de ce retard, nous avons manqué le début du premier concert.]\n\n:orange-background[De plus, les prix étaient excessifs : une petite bouteille d'eau coûtait six dollars. Plusieurs familles ont donc quitté le site pour manger ailleurs.]\n\n**只写两个原因，每个写透**，比列五个空泛的强。判据：圈出所有 `mauvais / cher / décevant / désorganisé`，后面必须跟一个数字或一件事。"
         },
@@ -491,10 +491,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "〔AI〕每个包配好两个问题和各自的数字，考场直接取用：\n\n| 节庆 | 问题一 | 问题二 |\n|---|---|---|\n| **音乐节**（最好写） | 只开一个入口，等一小时，错过开场 | 一瓶水六美元，一份餐近二十美元 |\n| **电影节** | 两场放映临时取消且无解释 | 现场时间表与网站不符，白跑几个厅 |\n| **美食节** | 每个摊位排四十分钟 | 二十美元一份小份量，晚八点多数已售罄 |\n\n关键词：`une file d'attente` 队伍 · `un retard` 延误 · `annuler / être annulé` 取消 · `épuisé` 售罄 · `bondé` 挤满人 · `gâcher` 毁掉 · `laisser à désirer` 不尽人意 · `tenir ses promesses` 兑现承诺"
         },
@@ -533,10 +533,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": ":green-background[Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée.]〔师·手写原句〕\n\n老师说这个句式可以记下来（转录 01:42:00-01:42:30），后面的名词随便换。负面题反着用〔AI〕：\n\n:orange-background[Ce qui m'a le plus déçu, c'est le manque total d'organisation.]"
         },
@@ -554,10 +554,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "老师板书第 4 点原文：:green-background[Vous recommandez à des personnes qui suivent votre blog de s'intéresser à l'activité que vous décrivez. **Tout dépendra de la consigne.**]〔师〕\n\n**这句就是本题可以写「不推荐」的依据**——推荐段的方向由题目定，负面题不必硬夸。\n\n结尾用 :green-background[Pour conclure]〔师〕开头，然后三选一〔AI〕：\n- :orange-background[Au final, je ne recommande pas ce festival dans son organisation actuelle.]\n- :orange-background[Le concept reste intéressant, mais l'organisation doit être profondément améliorée.]\n- :orange-background[Je déconseille cet événement aux familles. Si vous y allez malgré tout, arrivez tôt.]\n\n再加一句改进期待：:orange-background[J'espère que les organisateurs tiendront compte de ces critiques lors de la prochaine édition.]"
         },
@@ -575,10 +575,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "〔AI〕目标 **130–140 词**（贴 120 或 150 都不方便改）：\n\n| 段 | 词数 | 内容 |\n|---|---|---|\n| 引入 | 25–35 | 活动＋期待＋总体评价 |\n| 正文 | 70–80 | 两个原因，各带证据和后果 |\n| 结尾 | 25–30 | 是否推荐＋改进 |\n\n**超字数先删**：第三个小问题 → 重复的情绪句 → 合并地点与活动介绍。**绝不删**：活动类型、总体不满、两个原因的证据。\n\n**不够字数先补**：期待那一句 → 某个原因的证据 → 后果 → 改进建议。别靠重复 `C'était mauvais` 凑数。"
         },
@@ -596,10 +596,10 @@
           "source": {
             "lesson": "L34",
             "kind": "screenshot",
-            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "path": "L34/doc/写作/T2 解题思路，写作结构1–4.png ＋ ——两种创作结构.png",
             "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
-            "verify": "needs_review",
-            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+            "verify": "verified",
+            "note": "老师板书幻灯片四页与手写笔记一页，**已归档**：结构1=Titre accrocheur、结构2=Introduction、结构3=Votre expérience personnelle、结构4=Recommandations（含 Tout dépendra de la consigne）、——两种创作结构=手写的感受式/记叙式二分。SHA-256 前 16 位依次 020496ccb33eea0a、e93df086d1cb65b0、f39773af7e1e74a3、a2966d9d268cf24a、d70d0942bce4404a。"
           },
           "body": "〔AI〕\n\n| ❌ | ✅ | 说明 |\n|---|---|---|\n| `participer un festival` | `participer **à** un festival` | 介词不能漏 |\n| `attendre pour une heure` | `attendre une heure` | `attendre` 后不加 `pour`；`pendant` 可选不必须 |\n| `j'attendais à une bonne organisation` | `je **m'**attendais à…` | `attendre`＝等待；`s'attendre à`＝预期 |\n| `j'étais très décevant` | `j'étais très **déçu**` | 人用 `déçu`，事物用 `décevant` |\n| `à cause de l'organisation était mauvaise` | `à cause de **la mauvaise organisation**` | `à cause de` 后接名词；完整句用 `parce que` |\n| `malgré il pleuvait` | `malgré **la pluie**` / `même s'il pleuvait` | `malgré` 后接名词 |\n| `trop bondé que…` | `**tellement** bondé **que**…` / `**trop** bondé **pour**…` | `trop` 不搭 `que` |\n| `ce que a déçu le public` | `**ce qui** a déçu le public` | 后句缺主语用 `ce qui` |\n| `les prix étaient très chers` | `les prix étaient **élevés**` | 价格用 `élevé`，商品才用 `cher` |\n| `coûtait de six dollars` | `coûtait six dollars` | `coûter` 后金额不加介词 |\n\n**一条配合规则要记准**（这是常见的讲反）：助动词 `avoir` 遇到**前置直接宾语时必须配合**。`Le festival m'a déçu` —— 男性说话者写 `déçu`，女性写 `déçu**e**`。不是「不配合」，而是配合之后阳性单数恰好无词尾变化。同理 `les critiques que j'ai écrit**es**`。"
         }
