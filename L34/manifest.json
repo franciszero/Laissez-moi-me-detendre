@@ -1,0 +1,1244 @@
+{
+  "lesson": "L34",
+  "source": "L34_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L34.species.json",
+    "expected_species_count": 33
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L34 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "un tarif",
+          "pos": "nom",
+          "zh": "价目；收费标准"
+        },
+        {
+          "type": "vocab",
+          "fr": "gratuit",
+          "pos": "adj",
+          "zh": "免费的"
+        },
+        {
+          "type": "vocab",
+          "fr": "afficher",
+          "pos": "verbe",
+          "zh": "张贴；公告；显示"
+        },
+        {
+          "type": "vocab",
+          "fr": "une affiche",
+          "pos": "nom",
+          "zh": "海报；招贴"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'inscrire",
+          "pos": "verbe pronominal",
+          "zh": "登记；注册；报名"
+        },
+        {
+          "type": "vocab",
+          "fr": "essayer",
+          "pos": "verbe",
+          "zh": "尝试；试"
+        },
+        {
+          "type": "vocab",
+          "fr": "un stage",
+          "pos": "nom",
+          "zh": "实习"
+        },
+        {
+          "type": "vocab",
+          "fr": "le réveillon",
+          "pos": "nom",
+          "zh": "节庆前夕的聚餐；年夜饭"
+        },
+        {
+          "type": "vocab",
+          "fr": "un métier",
+          "pos": "nom",
+          "zh": "职业；工作"
+        },
+        {
+          "type": "vocab",
+          "fr": "un atelier",
+          "pos": "nom",
+          "zh": "工坊；工作室；学习小组"
+        },
+        {
+          "type": "vocab",
+          "fr": "une recette",
+          "pos": "nom",
+          "zh": "菜谱；食谱"
+        },
+        {
+          "type": "vocab",
+          "fr": "une nuance",
+          "pos": "nom",
+          "zh": "细微差别"
+        },
+        {
+          "type": "vocab",
+          "fr": "un objectif",
+          "pos": "nom",
+          "zh": "目标；目的"
+        },
+        {
+          "type": "vocab",
+          "fr": "éviter",
+          "pos": "verbe",
+          "zh": "避免"
+        },
+        {
+          "type": "vocab",
+          "fr": "une œuvre",
+          "pos": "nom",
+          "zh": "作品"
+        },
+        {
+          "type": "vocab",
+          "fr": "être en contact avec",
+          "pos": "expr",
+          "zh": "与……保持联系"
+        },
+        {
+          "type": "vocab",
+          "fr": "une séance",
+          "pos": "nom",
+          "zh": "一场；一次（课程或活动）"
+        },
+        {
+          "type": "vocab",
+          "fr": "rencontrer",
+          "pos": "verbe",
+          "zh": "遇到；碰见"
+        },
+        {
+          "type": "vocab",
+          "fr": "la circulation",
+          "pos": "nom",
+          "zh": "交通；通行"
+        },
+        {
+          "type": "vocab",
+          "fr": "la sécurité",
+          "pos": "nom",
+          "zh": "安全；安保"
+        },
+        {
+          "type": "vocab",
+          "fr": "une spécialité",
+          "pos": "nom",
+          "zh": "特色菜；特产；专长"
+        },
+        {
+          "type": "vocab",
+          "fr": "un spectacle",
+          "pos": "nom",
+          "zh": "演出；表演"
+        },
+        {
+          "type": "vocab",
+          "fr": "les cheveux",
+          "pos": "nom",
+          "zh": "头发"
+        },
+        {
+          "type": "vocab",
+          "fr": "bon état général",
+          "pos": "expr",
+          "zh": "整体状态良好"
+        },
+        {
+          "type": "vocab",
+          "fr": "varié",
+          "pos": "adj",
+          "zh": "多种多样的"
+        },
+        {
+          "type": "vocab",
+          "fr": "laid",
+          "pos": "adj",
+          "zh": "丑的；难看的"
+        },
+        {
+          "type": "vocab",
+          "fr": "un aspirateur",
+          "pos": "nom",
+          "zh": "吸尘器"
+        },
+        {
+          "type": "vocab",
+          "fr": "faciliter",
+          "pos": "verbe",
+          "zh": "使更容易；简化；促进"
+        },
+        {
+          "type": "vocab",
+          "fr": "le cerveau",
+          "pos": "nom",
+          "zh": "大脑"
+        },
+        {
+          "type": "vocab",
+          "fr": "lutter",
+          "pos": "verbe",
+          "zh": "斗争；抗争"
+        },
+        {
+          "type": "vocab",
+          "fr": "une maladie",
+          "pos": "nom",
+          "zh": "疾病"
+        },
+        {
+          "type": "vocab",
+          "fr": "malade",
+          "pos": "adj",
+          "zh": "生病的；（名词）病人"
+        },
+        {
+          "type": "vocab",
+          "fr": "donner",
+          "pos": "verbe",
+          "zh": "给；给予"
+        },
+        {
+          "type": "vocab",
+          "fr": "mettre",
+          "pos": "verbe",
+          "zh": "放置；放"
+        },
+        {
+          "type": "vocab",
+          "fr": "revendre",
+          "pos": "verbe",
+          "zh": "转售；再次售卖"
+        },
+        {
+          "type": "vocab",
+          "fr": "d'occasion",
+          "pos": "expr",
+          "zh": "二手的"
+        },
+        {
+          "type": "vocab",
+          "fr": "une brocante",
+          "pos": "nom",
+          "zh": "旧货市场；二手市集"
+        },
+        {
+          "type": "vocab",
+          "fr": "un événement",
+          "pos": "nom",
+          "zh": "事件；活动"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'adresser à",
+          "pos": "verbe pronominal",
+          "zh": "面向；针对（某类受众）"
+        },
+        {
+          "type": "vocab",
+          "fr": "une norme",
+          "pos": "nom",
+          "zh": "标准；规范"
+        },
+        {
+          "type": "vocab",
+          "fr": "un droit",
+          "pos": "nom",
+          "zh": "权利"
+        },
+        {
+          "type": "vocab",
+          "fr": "la rédaction",
+          "pos": "nom",
+          "zh": "撰写；草拟；编辑"
+        },
+        {
+          "type": "vocab",
+          "fr": "une notice",
+          "pos": "nom",
+          "zh": "说明；须知"
+        },
+        {
+          "type": "vocab",
+          "fr": "une démarche",
+          "pos": "nom",
+          "zh": "步骤；措施；办法"
+        },
+        {
+          "type": "vocab",
+          "fr": "la propriété",
+          "pos": "nom",
+          "zh": "所有权；财产"
+        },
+        {
+          "type": "vocab",
+          "fr": "un propriétaire",
+          "pos": "nom",
+          "zh": "物主；所有者；房东"
+        },
+        {
+          "type": "vocab",
+          "fr": "une capacité",
+          "pos": "nom",
+          "zh": "能力"
+        },
+        {
+          "type": "vocab",
+          "fr": "maintenir",
+          "pos": "verbe",
+          "zh": "保持；维持"
+        },
+        {
+          "type": "vocab",
+          "fr": "à court terme",
+          "pos": "expr",
+          "zh": "短期的"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je ne sais pas trop comment m'y prendre",
+          "pos": "expr",
+          "zh": "我不太知道该从何着手"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L34 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L34:species:finir-plural-conjugation-nous-finissons",
+          "front": "补全现在时：`Nous ___ le travail à midi.`（finir）",
+          "back": "答案：**finissons**。\n\nfinir 是第二组动词，复数插入 `-iss-`：nous finissons、vous finissez、ils finissent。`finissions` 不是现在时形式。\n\n自检：写出 vous 的形式。",
+          "answer": "finissons",
+          "source_species": "finir plural conjugation nous finissons",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "conjugation",
+            "present",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "nous finissons",
+            "vous finissez"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:184-203"
+          ],
+          "curated": true,
+          "study_group": "dictation-word-boundaries",
+          "study_group_label": "听写词义边界与变位纠错",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:metier-is-job-not-craftsman",
+          "front": "补全：`Quel est votre ___ ?`（想问对方的职业）",
+          "back": "答案：**métier**。\n\n`un métier` 是职业、工作。手工工坊、工作室、学习小组是 `un atelier`——这正是当时记混的地方。",
+          "answer": "métier",
+          "source_species": "metier is job not craftsman",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "un métier",
+            "un atelier",
+            "Quel est votre métier ?"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:258-271"
+          ],
+          "curated": true,
+          "study_group": "dictation-word-boundaries",
+          "study_group_label": "听写词义边界与变位纠错",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:reveillon-is-festive-eve-meal",
+          "front": "补全：`le ___ de Noël` 指平安夜的那顿聚餐。",
+          "back": "答案：**réveillon**。\n\n`le réveillon` 特指重大节日**前夜的那顿聚餐**，对应年夜饭、平安夜聚餐。它不是泛指“节日的庆祝活动”。",
+          "answer": "réveillon",
+          "source_species": "reveillon is festive eve meal",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "le réveillon",
+            "le réveillon de Noël"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:258-264"
+          ],
+          "curated": true,
+          "study_group": "dictation-word-boundaries",
+          "study_group_label": "听写词义边界与变位纠错",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:rencontrer-versus-se-connaitre",
+          "front": "补全：`Nous nous ___ depuis dix ans.`（我们互相认识十年了）",
+          "back": "答案：**connaissons**。\n\n互相认识用 `se connaître`。`rencontrer` 是遇到某人，`se rencontrer` 是彼此相遇——都强调一次性的碰面，不能表示“认识”。",
+          "answer": "connaissons",
+          "source_species": "rencontrer versus se connaitre",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "pronominal_reflexive",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "rencontrer",
+            "se rencontrer",
+            "se connaître"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:285-290"
+          ],
+          "curated": true,
+          "study_group": "dictation-word-boundaries",
+          "study_group_label": "听写词义边界与变位纠错",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:tarif-is-price-not-free",
+          "front": "补全：`Les recettes sont proposées au ___ normal.`（按正常价格）",
+          "back": "答案：**tarif**。\n\n`un tarif` 是价目、资费，是**要收钱**的一侧；免费是 `gratuit`。两者语义相反。",
+          "answer": "tarif",
+          "source_species": "tarif is price not free",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "un tarif",
+            "au tarif normal",
+            "gratuit"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:239-250"
+          ],
+          "curated": true,
+          "study_group": "dictation-word-boundaries",
+          "study_group_label": "听写词义边界与变位纠错",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:afficher-verb-versus-affiche-poster",
+          "front": "补全：`Cette ___ annonce une grande marche.`（这张海报）",
+          "back": "答案：**affiche**。\n\n`une affiche` 是名词“海报、招贴”；`afficher` 是动词“张贴、公告、显示”。同根词一起记，考试换词性才认得出。",
+          "answer": "affiche",
+          "source_species": "afficher verb versus affiche poster",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "A2"
+          ],
+          "french_items": [
+            "afficher",
+            "une affiche"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:245-250"
+          ],
+          "curated": true,
+          "study_group": "dictation-word-boundaries",
+          "study_group_label": "听写词义边界与变位纠错",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:facile-faciliter-word-family-not-comfortable",
+          "front": "补全：`Le bilinguisme ___ la socialisation.`（使社交更容易，现在时第三人称单数）",
+          "back": "答案：**facilite**。\n\n`facile`（容易的）→ `faciliter`（使更容易、简化、促进）。它跟“舒适（confortable）”没有关系——查词典查成“舒适”正是当时选错的原因。派生词要跟词根一起记。",
+          "answer": "facilite",
+          "source_species": "facile faciliter word family not comfortable",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "facile",
+            "faciliter",
+            "Elle facilite la socialisation."
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:539-551"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:capacite-means-ability-not-scale",
+          "front": "补全：`Le sport permet d'améliorer les ___ physiques.`（体能）",
+          "back": "答案：**capacités**。\n\n`la capacité` = 英文 capacity / capability = **能力**，不是“规模”。`capacité physique` 是体能。",
+          "answer": "capacités",
+          "source_species": "capacite means ability not scale",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "false_friend",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "une capacité",
+            "les capacités physiques"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:888-914"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:physique-excludes-mental-capacity",
+          "front": "文章只讲“信息处理变慢、注意力不集中、短期记忆变差”。答案该落在 `capacités physiques` 还是 `mémoire` 上？写出那个词：___",
+          "back": "答案：**mémoire**。\n\n法语 `physique` 只指体能、身体层面，**不包含脑功能**。中文说“身体机能”时把大脑也算进去，照搬就会误选 capacités physiques。",
+          "answer": "mémoire",
+          "source_species": "physique excludes mental capacity",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "false_friend",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "les capacités physiques",
+            "les performances de la mémoire"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1001-1013"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:redaction-is-writing-not-reduction",
+          "front": "补全：`L'INPI aide à la protection des ___.`（权利，复数）",
+          "back": "答案：**droits**。\n\n`un droit` 是“权利（a right）”，不是 power。同一题里还有三个英法形近词：`la rédaction` 是撰写／草拟（不是 reduction 减少），`une notice` 是说明，`une démarche` 是步骤、措施。",
+          "answer": "droits",
+          "source_species": "redaction is writing not reduction",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "false_friend",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "la rédaction",
+            "une notice",
+            "un droit",
+            "une démarche"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:817-856"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:re-prefix-derivation-versus-doccasion",
+          "front": "补全：`Ils vendent des téléphones ___.`（二手的）",
+          "back": "答案：**d'occasion**。\n\n`revendre` 只表示“再次售卖、转售”，真正表示“二手的”是固定表达 `d'occasion`。\n\n另一半规则：认识 `mettre`、`vendre` 之后，`remettre`、`revendre` 靠 re- 前缀就能推出来，不必当新词背。",
+          "answer": "d'occasion",
+          "source_species": "re prefix derivation versus doccasion",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "memory_hook",
+            "B1"
+          ],
+          "french_items": [
+            "mettre",
+            "remettre",
+            "revendre",
+            "d'occasion"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:598-617"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:gros-grosse-feminine-and-abstract-big",
+          "front": "写出 `gros` 的阴性形式：___",
+          "back": "答案：**grosse**。\n\n词尾双写 s 再加 e。`gros` 本义“胖的”，修饰抽象名词时表示“大的、严重的”，如 `un gros problème`。",
+          "answer": "grosse",
+          "source_species": "gros grosse feminine and abstract big",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "gender_number",
+            "agreement",
+            "A2"
+          ],
+          "french_items": [
+            "gros",
+            "grosse",
+            "un gros problème"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:328-340"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:read-question-then-options-then-text",
+          "front": "补全阅读做题顺序：先读题干 → 再读四个 ___ → 最后从文章开头读，读到能定位就停。",
+          "back": "答案：**选项**。\n\n除非一眼能定位，否则一律回到开头顺读，读到知道整篇在讲什么就可以停。**不要**拿题干里的词回文章里盲目找同形词——那种词做不了关键词。",
+          "answer": "选项",
+          "source_species": "read question then options then text",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [
+            "L34_final_working.md:956-968",
+            "L34_final_working.md:1015-1020"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:choose-what-the-text-says-not-extension",
+          "front": "补全老师对 TCF 加拿大阅读的总结：我们就文章给什么 ___ 什么。",
+          "back": "答案：**选**。\n\n选项必须是原文的**同义替换**，不能是“听起来非常合理的一小步延伸”。求职信写 `Je souhaite faire un stage… afin de mieux connaître ce domaine`，只能选“想在出版社工作”，不能选“想专攻这一行（se spécialiser dans）”——后者是自己脑补的。\n\n这是这套考试最容易错的题型。",
+          "answer": "选",
+          "source_species": "choose what the text says not extension",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "faire un stage",
+            "se spécialiser dans"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:754-801"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:option-must-cover-whole-text",
+          "front": "车展文章吐槽三款车，只有第三款提到“扁”。答案该选 `forme` 还是 `taille`？",
+          "back": "答案：**forme**。\n\n文章列举多个例子时，正确选项必须**覆盖全部**。`taille`（尺寸）只对应第三款车，即使字面出现过也不能选；全文主旨是这些车型 `laid`（丑）。\n\n四个选项都看不懂就用排除法，正是这里失分的原因。",
+          "answer": "forme",
+          "source_species": "option must cover whole text",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "laid",
+            "un aspirateur",
+            "plus large que haute"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:497-530"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:annonce-final-line-carries-the-request",
+          "front": "补全：广告（annonce）前面几句是条件，___ 一句才是真正的诉求。",
+          "back": "答案：**最后**。\n\n`Vous êtes petit, blond, gros ? Vous avez les cheveux longs ? Vous voulez faire du cinéma ?` —— 前面全是条件，最后一句才是它要你做的事。看到 coiffure、cheveux 就选“换发型”正是被条件带走了。",
+          "answer": "最后",
+          "source_species": "annonce final line carries the request",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "Vous voulez faire du cinéma ?"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:314-326"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:check-which-role-the-question-asks-about",
+          "front": "卖车广告问 `Que cherche Pierre ?` 他在找的是买主，法语是 `un ___`。",
+          "back": "答案：**acheteur**。\n\n同一段材料里有发布者和接收者两个角色，题目问哪一方，答案就跟着换。读懂了文章却答错，多半是角色搞反了。\n\n家教广告那题同理：它的 objectif 是 `proposer des services`，不是找家教。",
+          "answer": "acheteur",
+          "source_species": "check which role the question asks about",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "Que cherche Pierre ?",
+            "proposer des services"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:363-368",
+            "L34_final_working.md:419-431"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:broader-option-can-contain-the-specific-word",
+          "front": "原文写 `choisir un bijou pour Marie`，正确选项是 `Acheter un ___`。",
+          "back": "答案：**cadeau**。\n\n正确选项常常比原文更概括：礼物包含珠宝。当其他选项差得很远时，不必因为用词不同就排除它。\n\n附带陷阱：约的地点是**在电影院对面**（`en face du cinéma`），不是在电影院里。",
+          "answer": "cadeau",
+          "source_species": "broader option can contain the specific word",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [
+            "un bijou",
+            "un cadeau",
+            "en face du cinéma"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:443-455"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:memorize-literal-meaning-in-reading-context",
+          "front": "补全老师的要求：背单词只背它的 ___ 意思，用阅读题已经划好的语境来定义。",
+          "back": "答案：**字面**。\n\n这套考试只考字面义。不要再去词典或搜索里查引申义、偏义——词典给的义项有时太偏，你分不出哪个是常用义。老师原话：联想稍微多了一点，是背单词最大的阻碍。",
+          "answer": "字面",
+          "source_species": "memorize literal meaning in reading context",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "B1"
+          ],
+          "french_items": [
+            "la maladie",
+            "le traitement"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:577-582",
+            "L34_final_working.md:1081-1100"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:stem-and-four-options-must-be-fully-known",
+          "front": "补全背词范围：必须全部认识的是题干、四个选项，和文章里能 ___ 答案的那一句。",
+          "back": "答案：**定位**。\n\n文章其他部分留生词不影响做题（卖车题里 climatiseur、vitre、auto radio 不认识也能做对）。但**四个选项里只要有一个生词，这题就做不出来**。",
+          "answer": "定位",
+          "source_species": "stem and four options must be fully known",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [
+            "L34_final_working.md:1022-1034"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:same-word-can-be-right-or-wrong-answer",
+          "front": "判断：一个词在这套卷子的某题里当过正确答案，在别的题里也倾向是正确答案。（对/错）",
+          "back": "答案：**错**。\n\n`mémoire` 在记忆力那题是正确答案，在体能那题就是干扰项。背单词是为了**看懂选项**，不是为了押答案。看到熟词先压住，回原文核对这一题到底在讲什么。",
+          "answer": "错",
+          "source_species": "same word can be right or wrong answer",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [
+            "la mémoire"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:734-747",
+            "L34_final_working.md:1022-1028"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:vocabulary-is-the-current-bottleneck",
+          "front": "补全老师结课时的话：你课下 ___ 一定要重视起来，因为它还挺拖累你的进度的。",
+          "back": "答案：**单词**。\n\n老师在课中也说过同一句话：“你做阅读最大的问题还是词汇。”现阶段的第一优先级是背单词，词表按 `词 + 中文 + 题号` 的表格做即可——老师已确认这个格式可用。",
+          "answer": "单词",
+          "source_species": "vocabulary is the current bottleneck",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [
+            "L34_final_working.md:1015-1020",
+            "L34_final_working.md:1583-1587"
+          ],
+          "curated": true,
+          "study_group": "reading-exam-strategy",
+          "study_group_label": "阅读定位与选项判断策略",
+          "study_group_order": 30,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:je-ne-sais-pas-trop-comment-my-prendre",
+          "front": "补全求助万能句：`Je ne sais pas trop comment ___ prendre.`（我不太知道该从何着手）",
+          "back": "答案：**m'y**。\n\n`s'y prendre` 是很高级的表达。整句 `Je ne sais pas trop comment m'y prendre.` 适用于任何求助类写作，老师明确要求背下来。",
+          "answer": "m'y",
+          "source_species": "je ne sais pas trop comment my prendre",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "written",
+            "formal",
+            "memory_hook",
+            "B1"
+          ],
+          "french_items": [
+            "Je ne sais pas trop comment m'y prendre.",
+            "s'y prendre"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1154-1180"
+          ],
+          "curated": true,
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:adjective-needs-an-explicit-noun-to-modify",
+          "front": "学生写 `J'ai besoin d'une connexion internet et disponible dès le mois prochain.`（disponible 无处可挂）。老师改成：`Je souhaite qu'il ___ disponible dès le mois prochain.`",
+          "back": "答案：**soit**。\n\n形容词前面必须有它真正修饰的名词，否则会被读成修饰 `connexion`。挂不上就拆成独立分句。\n\n（这里的 `soit` 是虚拟式，本阶段只需能认出。）",
+          "answer": "soit",
+          "source_species": "adjective needs an explicit noun to modify",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "agreement",
+            "sentence_frame",
+            "written",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "Je souhaite qu'il soit disponible dès le mois prochain."
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1182-1196"
+          ],
+          "curated": true,
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:subjunctive-recognition-only-deferred-to-t3",
+          "front": "判断：本课要求把虚拟式变位背下来，并用在 T1 作文里。（对/错）",
+          "back": "答案：**错**。\n\n`éviter que…`、`Je souhaite qu'il soit…` 后面用的是虚拟式，但老师明确说虚拟式还没讲、**T1 也不特别要求**，放到 T3 时再系统学。现阶段能认出来即可，不要在 T1 里强行使用。",
+          "answer": "错",
+          "source_species": "subjunctive recognition only deferred to t3",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "foundational",
+            "subjonctif",
+            "tense_system",
+            "B1"
+          ],
+          "french_items": [
+            "éviter que…",
+            "Je souhaite qu'il soit disponible."
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:861-866",
+            "L34_final_working.md:1197-1209"
+          ],
+          "curated": true,
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:t1-word-count-eighty-to-hundred",
+          "front": "补全：T1 官方要求 60–120 词，老师建议实际写 ___ 到 100 词。",
+          "back": "答案：**80**。\n\n低于 60 内容一定缺，超过 120 没必要。要加长时**补细节**（形容词、修饰成分），不要新增整句——一句就吃掉二十个词。",
+          "answer": "80",
+          "source_species": "t1 word count eighty to hundred",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "un petit appartement de deux pièces"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1225-1237"
+          ],
+          "curated": true,
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:do-not-submit-ai-rewritten-essay",
+          "front": "补全老师的判断：把作文喂给 AI 再择优改回来，是好的 ___ 习惯，但不是好的备考习惯。",
+          "back": "答案：**学习**。\n\n理由是考场上时间不够——老师举了一个每次都交 AI 精修作文、真考时写不完的学生。要交自己写的版本；如果用了 AI，两个版本都交。\n\n而且 TCF 加拿大写作不要求 fancy，AI 给的句子往往太做作、太书面，你自己掌握不了。",
+          "answer": "学习",
+          "source_species": "do not submit ai rewritten essay",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [
+            "L34_final_working.md:1232-1258"
+          ],
+          "curated": true,
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:clb7-four-writing-criteria",
+          "front": "说出写作上 CLB 7 的四条要求（老师的经验总结）。",
+          "back": "四条：\n\n1. **回答题目要求**——题目要你写什么就写什么；\n2. **内容上没有缺失**；\n3. **句法不太口语化，且语法错误几乎没有**；\n4. **观点比较明确**。\n\n不需要把句子写得做作才能上 CLB 7。",
+          "answer": null,
+          "source_species": "clb7 four writing criteria",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [
+            "L34_final_working.md:1253-1265"
+          ],
+          "curated": true,
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:practice:l34-t1-length-adjustment",
+          "front": "你的 T1 写了 72 词，需要加长。按老师的做法，应该补细节还是补一个新句子？填“细节”或“句子”：___",
+          "back": "答案：**细节**。\n\n加一个句子二十个词一下就没了，很容易冲过 120 词上限。要在已有句子里补形容词、修饰成分，例如把 `un petit appartement` 扩成 `un petit appartement de deux pièces près d'une station de métro`。",
+          "answer": "细节",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "writing-t1-correction",
+          "study_group": "writing-t1-correction",
+          "study_group_label": "写作 T1：批改点与备考规范",
+          "study_group_order": 40,
+          "study_order": 110,
+          "curated": true
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:t2-four-part-structure",
+          "front": "补全 T2 的四个部分：标题 → 引入 → 经历 → ___。",
+          "back": "答案：**推荐**。\n\n① 标题（万能款 `Une expérience inoubliable`）；② 引入，一句话说清某时某地参加了某事；③ 经历，写三个方面；④ 推荐，一句话即可。\n\n**推荐段最容易被漏掉，但必须有。** 题目只给的信息（如“在国外六个月”）之外的细节自己合理编即可。",
+          "answer": "推荐",
+          "source_species": "t2 four part structure",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "Une expérience inoubliable",
+            "Je suis heureux de partager avec vous…"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1291-1324",
+            "L34_final_working.md:1468-1514"
+          ],
+          "curated": true,
+          "study_group": "writing-t2-structure",
+          "study_group_label": "写作 T2：结构、连接与万能句",
+          "study_group_order": 50,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:t2-feelings-style-versus-narrative-style",
+          "front": "补全：T2 正文可以写成感受式或记叙式，但不建议一开始就 ___ 着写。",
+          "back": "答案：**混**。\n\n感受式＝这件事给我带来的好处一二三；记叙式＝我做了一二三。最终的好文章确实是两者融合的，但一开始就混很容易写乱。\n\n想加感受，就把总体感受统一放在**最前面**（总起句）或**最后面**（单独一点）。",
+          "answer": "混",
+          "source_species": "t2 feelings style versus narrative style",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "la vie sociale"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1381-1438"
+          ],
+          "curated": true,
+          "study_group": "writing-t2-structure",
+          "study_group_label": "写作 T2：结构、连接与万能句",
+          "study_group_order": 50,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:enumerative-connectors-are-mandatory",
+          "front": "补全列举连接词的基础三件套：`d'abord`、`___`、`enfin`。",
+          "back": "答案：**ensuite**。\n\n正文三点之间**必须**有 `connecteurs énumératifs`。嫌 d'abord/ensuite/enfin 生硬，可以换成 `de plus` / `en outre` / `aussi`。这是最基础的连接词，不能没有。",
+          "answer": "ensuite",
+          "source_species": "enumerative connectors are mandatory",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "sentence_frame",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "d'abord",
+            "ensuite",
+            "enfin",
+            "de plus",
+            "en outre",
+            "aussi"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1482-1494"
+          ],
+          "curated": true,
+          "study_group": "writing-t2-structure",
+          "study_group_label": "写作 T2：结构、连接与万能句",
+          "study_group_order": 50,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:t2-universal-sentences-impression-and-invitation",
+          "front": "补全 T2 万能句：`Ce qui m'a ___ le plus, c'est l'amitié.`（给我印象最深的是……）",
+          "back": "答案：**impressionné**。\n\n三个可直接背用的句子：\n- `Ce qui m'a impressionné le plus, c'est…` 引出印象最深的一点（`c'est l'ambiance` 也行）\n- `Je me suis fait beaucoup d'amis, avec qui on partage les mêmes intérêts.` 几乎适用于所有 T2\n- 结尾用 `Pour conclure` 开头，推荐句 `Je vous recommande fortement de…` 或 `Je vous incite à…` **写一句就够**。",
+          "answer": "impressionné",
+          "source_species": "t2 universal sentences impression and invitation",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "written",
+            "memory_hook",
+            "B1"
+          ],
+          "french_items": [
+            "Ce qui m'a impressionné le plus, c'est…",
+            "Je me suis fait beaucoup d'amis, avec qui on partage les mêmes intérêts.",
+            "Pour conclure",
+            "Je vous incite à…"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1440-1466",
+            "L34_final_working.md:1496-1514"
+          ],
+          "curated": true,
+          "study_group": "writing-t2-structure",
+          "study_group_label": "写作 T2：结构、连接与万能句",
+          "study_group_order": 50,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:blog-uses-title-courriel-uses-objet",
+          "front": "补全：T2 写博客用标题；写信件（courriel）用 `Objet :` 加 `Cher ___,`。",
+          "back": "答案：**ami**。\n\n两种题面内容结构完全一样，只是格式不同：\n- `racontez dans votre blog` → 标题 + 正文，**不写问候语**；\n- `vous lui écrivez un email` → `Objet :` 当标题 + `Cher ami,` + 正文。",
+          "answer": "ami",
+          "source_species": "blog uses title courriel uses objet",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [
+            "Cher lecteur",
+            "Cher ami",
+            "Objet :"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:1523-1574"
+          ],
+          "curated": true,
+          "study_group": "writing-t2-structure",
+          "study_group_label": "写作 T2：结构、连接与万能句",
+          "study_group_order": 50,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:practice:l34-t2-conclusion-opener",
+          "front": "补全 T2 结尾段的固定开头：`___ conclure, je vous incite à partager votre expérience.`",
+          "back": "答案：**Pour**。\n\n`Pour conclure` 起结尾段，后面接一句推荐即可。推荐句两选一：`Je vous recommande fortement de…` 或 `Je vous incite à…`，**不要两句都写**。",
+          "answer": "Pour",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
+          "french_items": [],
+          "evidence_refs": [],
+          "parent_group": "writing-t2-structure",
+          "study_group": "writing-t2-structure",
+          "study_group_label": "写作 T2：结构、连接与万能句",
+          "study_group_order": 50,
+          "study_order": 110,
+          "curated": true
+        }
+      ]
+    }
+  ]
+}

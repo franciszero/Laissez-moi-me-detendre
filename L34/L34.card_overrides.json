@@ -1,0 +1,166 @@
+{
+  "finir plural conjugation nous finissons": {
+    "front": "补全现在时：`Nous ___ le travail à midi.`（finir）",
+    "back": "答案：**finissons**。\n\nfinir 是第二组动词，复数插入 `-iss-`：nous finissons、vous finissez、ils finissent。`finissions` 不是现在时形式。\n\n自检：写出 vous 的形式。",
+    "answer": "finissons"
+  },
+  "metier is job not craftsman": {
+    "front": "补全：`Quel est votre ___ ?`（想问对方的职业）",
+    "back": "答案：**métier**。\n\n`un métier` 是职业、工作。手工工坊、工作室、学习小组是 `un atelier`——这正是当时记混的地方。",
+    "answer": "métier"
+  },
+  "reveillon is festive eve meal": {
+    "front": "补全：`le ___ de Noël` 指平安夜的那顿聚餐。",
+    "back": "答案：**réveillon**。\n\n`le réveillon` 特指重大节日**前夜的那顿聚餐**，对应年夜饭、平安夜聚餐。它不是泛指“节日的庆祝活动”。",
+    "answer": "réveillon"
+  },
+  "rencontrer versus se connaitre": {
+    "front": "补全：`Nous nous ___ depuis dix ans.`（我们互相认识十年了）",
+    "back": "答案：**connaissons**。\n\n互相认识用 `se connaître`。`rencontrer` 是遇到某人，`se rencontrer` 是彼此相遇——都强调一次性的碰面，不能表示“认识”。",
+    "answer": "connaissons"
+  },
+  "tarif is price not free": {
+    "front": "补全：`Les recettes sont proposées au ___ normal.`（按正常价格）",
+    "back": "答案：**tarif**。\n\n`un tarif` 是价目、资费，是**要收钱**的一侧；免费是 `gratuit`。两者语义相反。",
+    "answer": "tarif"
+  },
+  "afficher verb versus affiche poster": {
+    "front": "补全：`Cette ___ annonce une grande marche.`（这张海报）",
+    "back": "答案：**affiche**。\n\n`une affiche` 是名词“海报、招贴”；`afficher` 是动词“张贴、公告、显示”。同根词一起记，考试换词性才认得出。",
+    "answer": "affiche"
+  },
+  "facile faciliter word family not comfortable": {
+    "front": "补全：`Le bilinguisme ___ la socialisation.`（使社交更容易，现在时第三人称单数）",
+    "back": "答案：**facilite**。\n\n`facile`（容易的）→ `faciliter`（使更容易、简化、促进）。它跟“舒适（confortable）”没有关系——查词典查成“舒适”正是当时选错的原因。派生词要跟词根一起记。",
+    "answer": "facilite"
+  },
+  "capacite means ability not scale": {
+    "front": "补全：`Le sport permet d'améliorer les ___ physiques.`（体能）",
+    "back": "答案：**capacités**。\n\n`la capacité` = 英文 capacity / capability = **能力**，不是“规模”。`capacité physique` 是体能。",
+    "answer": "capacités"
+  },
+  "physique excludes mental capacity": {
+    "front": "文章只讲“信息处理变慢、注意力不集中、短期记忆变差”。答案该落在 `capacités physiques` 还是 `mémoire` 上？写出那个词：___",
+    "back": "答案：**mémoire**。\n\n法语 `physique` 只指体能、身体层面，**不包含脑功能**。中文说“身体机能”时把大脑也算进去，照搬就会误选 capacités physiques。",
+    "answer": "mémoire"
+  },
+  "redaction is writing not reduction": {
+    "front": "补全：`L'INPI aide à la protection des ___.`（权利，复数）",
+    "back": "答案：**droits**。\n\n`un droit` 是“权利（a right）”，不是 power。同一题里还有三个英法形近词：`la rédaction` 是撰写／草拟（不是 reduction 减少），`une notice` 是说明，`une démarche` 是步骤、措施。",
+    "answer": "droits"
+  },
+  "re prefix derivation versus doccasion": {
+    "front": "补全：`Ils vendent des téléphones ___.`（二手的）",
+    "back": "答案：**d'occasion**。\n\n`revendre` 只表示“再次售卖、转售”，真正表示“二手的”是固定表达 `d'occasion`。\n\n另一半规则：认识 `mettre`、`vendre` 之后，`remettre`、`revendre` 靠 re- 前缀就能推出来，不必当新词背。",
+    "answer": "d'occasion"
+  },
+  "gros grosse feminine and abstract big": {
+    "front": "写出 `gros` 的阴性形式：___",
+    "back": "答案：**grosse**。\n\n词尾双写 s 再加 e。`gros` 本义“胖的”，修饰抽象名词时表示“大的、严重的”，如 `un gros problème`。",
+    "answer": "grosse"
+  },
+  "read question then options then text": {
+    "front": "补全阅读做题顺序：先读题干 → 再读四个 ___ → 最后从文章开头读，读到能定位就停。",
+    "back": "答案：**选项**。\n\n除非一眼能定位，否则一律回到开头顺读，读到知道整篇在讲什么就可以停。**不要**拿题干里的词回文章里盲目找同形词——那种词做不了关键词。",
+    "answer": "选项"
+  },
+  "choose what the text says not extension": {
+    "front": "补全老师对 TCF 加拿大阅读的总结：我们就文章给什么 ___ 什么。",
+    "back": "答案：**选**。\n\n选项必须是原文的**同义替换**，不能是“听起来非常合理的一小步延伸”。求职信写 `Je souhaite faire un stage… afin de mieux connaître ce domaine`，只能选“想在出版社工作”，不能选“想专攻这一行（se spécialiser dans）”——后者是自己脑补的。\n\n这是这套考试最容易错的题型。",
+    "answer": "选"
+  },
+  "option must cover whole text": {
+    "front": "车展文章吐槽三款车，只有第三款提到“扁”。答案该选 `forme` 还是 `taille`？",
+    "back": "答案：**forme**。\n\n文章列举多个例子时，正确选项必须**覆盖全部**。`taille`（尺寸）只对应第三款车，即使字面出现过也不能选；全文主旨是这些车型 `laid`（丑）。\n\n四个选项都看不懂就用排除法，正是这里失分的原因。",
+    "answer": "forme"
+  },
+  "annonce final line carries the request": {
+    "front": "补全：广告（annonce）前面几句是条件，___ 一句才是真正的诉求。",
+    "back": "答案：**最后**。\n\n`Vous êtes petit, blond, gros ? Vous avez les cheveux longs ? Vous voulez faire du cinéma ?` —— 前面全是条件，最后一句才是它要你做的事。看到 coiffure、cheveux 就选“换发型”正是被条件带走了。",
+    "answer": "最后"
+  },
+  "check which role the question asks about": {
+    "front": "卖车广告问 `Que cherche Pierre ?` 他在找的是买主，法语是 `un ___`。",
+    "back": "答案：**acheteur**。\n\n同一段材料里有发布者和接收者两个角色，题目问哪一方，答案就跟着换。读懂了文章却答错，多半是角色搞反了。\n\n家教广告那题同理：它的 objectif 是 `proposer des services`，不是找家教。",
+    "answer": "acheteur"
+  },
+  "broader option can contain the specific word": {
+    "front": "原文写 `choisir un bijou pour Marie`，正确选项是 `Acheter un ___`。",
+    "back": "答案：**cadeau**。\n\n正确选项常常比原文更概括：礼物包含珠宝。当其他选项差得很远时，不必因为用词不同就排除它。\n\n附带陷阱：约的地点是**在电影院对面**（`en face du cinéma`），不是在电影院里。",
+    "answer": "cadeau"
+  },
+  "memorize literal meaning in reading context": {
+    "front": "补全老师的要求：背单词只背它的 ___ 意思，用阅读题已经划好的语境来定义。",
+    "back": "答案：**字面**。\n\n这套考试只考字面义。不要再去词典或搜索里查引申义、偏义——词典给的义项有时太偏，你分不出哪个是常用义。老师原话：联想稍微多了一点，是背单词最大的阻碍。",
+    "answer": "字面"
+  },
+  "stem and four options must be fully known": {
+    "front": "补全背词范围：必须全部认识的是题干、四个选项，和文章里能 ___ 答案的那一句。",
+    "back": "答案：**定位**。\n\n文章其他部分留生词不影响做题（卖车题里 climatiseur、vitre、auto radio 不认识也能做对）。但**四个选项里只要有一个生词，这题就做不出来**。",
+    "answer": "定位"
+  },
+  "same word can be right or wrong answer": {
+    "front": "判断：一个词在这套卷子的某题里当过正确答案，在别的题里也倾向是正确答案。（对/错）",
+    "back": "答案：**错**。\n\n`mémoire` 在记忆力那题是正确答案，在体能那题就是干扰项。背单词是为了**看懂选项**，不是为了押答案。看到熟词先压住，回原文核对这一题到底在讲什么。",
+    "answer": "错"
+  },
+  "je ne sais pas trop comment my prendre": {
+    "front": "补全求助万能句：`Je ne sais pas trop comment ___ prendre.`（我不太知道该从何着手）",
+    "back": "答案：**m'y**。\n\n`s'y prendre` 是很高级的表达。整句 `Je ne sais pas trop comment m'y prendre.` 适用于任何求助类写作，老师明确要求背下来。",
+    "answer": "m'y"
+  },
+  "adjective needs an explicit noun to modify": {
+    "front": "学生写 `J'ai besoin d'une connexion internet et disponible dès le mois prochain.`（disponible 无处可挂）。老师改成：`Je souhaite qu'il ___ disponible dès le mois prochain.`",
+    "back": "答案：**soit**。\n\n形容词前面必须有它真正修饰的名词，否则会被读成修饰 `connexion`。挂不上就拆成独立分句。\n\n（这里的 `soit` 是虚拟式，本阶段只需能认出。）",
+    "answer": "soit"
+  },
+  "subjunctive recognition only deferred to t3": {
+    "front": "判断：本课要求把虚拟式变位背下来，并用在 T1 作文里。（对/错）",
+    "back": "答案：**错**。\n\n`éviter que…`、`Je souhaite qu'il soit…` 后面用的是虚拟式，但老师明确说虚拟式还没讲、**T1 也不特别要求**，放到 T3 时再系统学。现阶段能认出来即可，不要在 T1 里强行使用。",
+    "answer": "错"
+  },
+  "t1 word count eighty to hundred": {
+    "front": "补全：T1 官方要求 60–120 词，老师建议实际写 ___ 到 100 词。",
+    "back": "答案：**80**。\n\n低于 60 内容一定缺，超过 120 没必要。要加长时**补细节**（形容词、修饰成分），不要新增整句——一句就吃掉二十个词。",
+    "answer": "80"
+  },
+  "do not submit ai rewritten essay": {
+    "front": "补全老师的判断：把作文喂给 AI 再择优改回来，是好的 ___ 习惯，但不是好的备考习惯。",
+    "back": "答案：**学习**。\n\n理由是考场上时间不够——老师举了一个每次都交 AI 精修作文、真考时写不完的学生。要交自己写的版本；如果用了 AI，两个版本都交。\n\n而且 TCF 加拿大写作不要求 fancy，AI 给的句子往往太做作、太书面，你自己掌握不了。",
+    "answer": "学习"
+  },
+  "clb7 four writing criteria": {
+    "front": "说出写作上 CLB 7 的四条要求（老师的经验总结）。",
+    "back": "四条：\n\n1. **回答题目要求**——题目要你写什么就写什么；\n2. **内容上没有缺失**；\n3. **句法不太口语化，且语法错误几乎没有**；\n4. **观点比较明确**。\n\n不需要把句子写得做作才能上 CLB 7。"
+  },
+  "t2 four part structure": {
+    "front": "补全 T2 的四个部分：标题 → 引入 → 经历 → ___。",
+    "back": "答案：**推荐**。\n\n① 标题（万能款 `Une expérience inoubliable`）；② 引入，一句话说清某时某地参加了某事；③ 经历，写三个方面；④ 推荐，一句话即可。\n\n**推荐段最容易被漏掉，但必须有。** 题目只给的信息（如“在国外六个月”）之外的细节自己合理编即可。",
+    "answer": "推荐"
+  },
+  "t2 feelings style versus narrative style": {
+    "front": "补全：T2 正文可以写成感受式或记叙式，但不建议一开始就 ___ 着写。",
+    "back": "答案：**混**。\n\n感受式＝这件事给我带来的好处一二三；记叙式＝我做了一二三。最终的好文章确实是两者融合的，但一开始就混很容易写乱。\n\n想加感受，就把总体感受统一放在**最前面**（总起句）或**最后面**（单独一点）。",
+    "answer": "混"
+  },
+  "enumerative connectors are mandatory": {
+    "front": "补全列举连接词的基础三件套：`d'abord`、`___`、`enfin`。",
+    "back": "答案：**ensuite**。\n\n正文三点之间**必须**有 `connecteurs énumératifs`。嫌 d'abord/ensuite/enfin 生硬，可以换成 `de plus` / `en outre` / `aussi`。这是最基础的连接词，不能没有。",
+    "answer": "ensuite"
+  },
+  "t2 universal sentences impression and invitation": {
+    "front": "补全 T2 万能句：`Ce qui m'a ___ le plus, c'est l'amitié.`（给我印象最深的是……）",
+    "back": "答案：**impressionné**。\n\n三个可直接背用的句子：\n- `Ce qui m'a impressionné le plus, c'est…` 引出印象最深的一点（`c'est l'ambiance` 也行）\n- `Je me suis fait beaucoup d'amis, avec qui on partage les mêmes intérêts.` 几乎适用于所有 T2\n- 结尾用 `Pour conclure` 开头，推荐句 `Je vous recommande fortement de…` 或 `Je vous incite à…` **写一句就够**。",
+    "answer": "impressionné"
+  },
+  "blog uses title courriel uses objet": {
+    "front": "补全：T2 写博客用标题；写信件（courriel）用 `Objet :` 加 `Cher ___,`。",
+    "back": "答案：**ami**。\n\n两种题面内容结构完全一样，只是格式不同：\n- `racontez dans votre blog` → 标题 + 正文，**不写问候语**；\n- `vous lui écrivez un email` → `Objet :` 当标题 + `Cher ami,` + 正文。",
+    "answer": "ami"
+  },
+  "vocabulary is the current bottleneck": {
+    "front": "补全老师结课时的话：你课下 ___ 一定要重视起来，因为它还挺拖累你的进度的。",
+    "back": "答案：**单词**。\n\n老师在课中也说过同一句话：“你做阅读最大的问题还是词汇。”现阶段的第一优先级是背单词，词表按 `词 + 中文 + 题号` 的表格做即可——老师已确认这个格式可用。",
+    "answer": "单词"
+  }
+}
