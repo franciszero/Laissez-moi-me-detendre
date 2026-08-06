@@ -1952,5 +1952,606 @@
         }
       }
     ]
+  },
+  {
+    "lemma": "la forme",
+    "pos": "nom",
+    "zh": "[T8Q12 补] 形状；外形 [Opus5 建议：Q12 正确答案词，你当时选了 taille]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Quel est le problème de ces voitures ? — Leur forme.",
+    "raw": "la forme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 正确选项；老师讲清主旨是车型丑（forme），不是尺寸。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la taille",
+    "pos": "nom",
+    "zh": "[T8Q12 补] 尺寸；大小；身材 [Opus5 建议：Q12 你选的干扰项，只覆盖第三款车所以不能选]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Leur taille.",
+    "raw": "la taille",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12:option-D",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "卷面上 D 被红圈标为错，认得这个词才能理解“只覆盖一个细节的选项不能选”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "配合知识卡「选项要覆盖全文主旨」一起复习。"
+      }
+    ]
+  },
+  {
+    "lemma": "un lieu de rêve",
+    "pos": "expr",
+    "zh": "[T8Q12 补] 梦想之地 [Opus5 建议：卷面高亮的定调短语，读懂它才知道后文要吐槽]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Un salon automobile est un lieu de rêve, mais pas le salon de cette année.",
+    "raw": "un lieu de rêve",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师讲“车展本应是梦想之地，但今年不是，那后面肯定就是要说它的问题了”，这个短语是全文转折的支点。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la mémoire",
+    "pos": "nom",
+    "zh": "[T8Q13/Q20 补] 记忆力 [Opus5 建议：同一套卷里 Q13 是干扰项、Q20 是正确答案，老师专门拿它举过例]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Maintenir les performances de la mémoire.",
+    "raw": "la mémoire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13/Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师用它说明“背过的词在这题是答案、在那题就是干扰项”，是本课知识卡的实例本身。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "看到熟词先回原文核对，不要用它押答案。"
+      }
+    ]
+  },
+  {
+    "lemma": "la santé",
+    "pos": "nom",
+    "zh": "[T8Q13 补] 健康 [Opus5 建议：Q13 正确答案词；老师最终从“抵抗疾病”推回它]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Elle est bonne pour la santé.",
+    "raw": "la santé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13:option-A",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师先倾向 B，读完 lutter contre certaines maladies 后改判 A；卷面红笔最终标 A。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "bénéfique",
+    "pos": "adj",
+    "zh": "[T8Q13 补] 有益的 [Opus5 建议：原文用它连接“大脑”与“健康”，是 Q13 的推理桥梁]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "Cette activité mentale est bénéfique pour le cerveau.",
+    "raw": "bénéfique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "从原文 bénéfique pour le cerveau 推到选项 bonne pour la santé，这一步靠它。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la socialisation",
+    "pos": "nom",
+    "zh": "[T8Q13 补] 社交；社会化 [Opus5 建议：Q13 最强干扰项，老师明确说全文没提社交]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Elle facilite la socialisation.",
+    "raw": "la socialisation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q13:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "老师原话“他整个都没有提到，就是社交啊”，正是排除 B 的依据。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la valeur",
+    "pos": "nom",
+    "zh": "[T8Q14 补] 价值；价格 [Opus5 建议：二手交易、估价类文本的核心名词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Nous évaluons la valeur de votre téléphone portable.",
+    "raw": "la valeur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 原文的定位句核心词，与 estimation、prix moyen 同一语义场。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "évaluer",
+    "pos": "verbe",
+    "zh": "[T8Q14 补] 估价；评估 [Opus5 建议：与 valeur、estimation 成族，二手/服务类文本高频]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Nous évaluons la valeur de votre téléphone.",
+    "raw": "évaluer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 首句动词；与已收录的 revendre、d'occasion 构成完整的二手交易词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le marché",
+    "pos": "nom",
+    "zh": "[T8Q14 补] 市场 [Opus5 建议：与 brocante（旧货市场）呼应，Q14 与 Q16 都出现]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Ceux qui fonctionnent bien sont remis sur le marché.",
+    "raw": "le marché",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q14/Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "同卷两题都用到 sur le marché；与老师补讲的 brocante 属同一主题。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "veuillez accepter l'expression de mes sincères salutations",
+    "pos": "expr",
+    "zh": "[T8Q15 补] （正式信件结尾）敬请接受我最诚挚的问候 [Opus5 建议：法语正式信件的固定收尾，T1 写正式信直接照抄]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Dans l'attente d'une réponse de votre part, veuillez accepter l'expression de mes sincères salutations.",
+    "raw": "veuillez accepter l'expression de mes sincères salutations",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "求职信原文的结尾套语；T1 写正式信件时可整句复用，属最高性价比的写作素材。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        },
+        "learning_note": "非正式信件不用这句，写给朋友用 Amicalement / À bientôt。"
+      }
+    ]
+  },
+  {
+    "lemma": "être passionné par",
+    "pos": "expr",
+    "zh": "[T8Q15 补] 热衷于；对……充满热情 [Opus5 建议：求职信与自我介绍的万能句式，T1/T2 都用得上]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Je suis passionné par la lecture et les arts.",
+    "raw": "être passionné par",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "求职信自我介绍句式，可直接迁移到写作的“说明动机”部分。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "déposer un dossier",
+    "pos": "expr",
+    "zh": "[T8Q16 补] 递交申请材料；提交档案 [Opus5 建议：行政办事类文本的固定动作，移民/申请场景高频]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Vous devez déposer un dossier auprès de l'INPI.",
+    "raw": "déposer un dossier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q16 原文的核心动作；与已收录的 démarche（步骤、手续）同属行政流程词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "vérifier",
+    "pos": "verbe",
+    "zh": "[T8Q16 补] 核实；查证 [Opus5 建议：Q16 定位句动词，也是听力和阅读的通用高频词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Il faut toutefois vérifier que celle-ci n'existe pas déjà sur le marché.",
+    "raw": "vérifier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q16 后半段的关键动词；卷面已标注。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un enregistrement",
+    "pos": "nom",
+    "zh": "[T8Q17 补] 录音 [Opus5 建议：Q17 正确答案词；媒体与听力主题反复出现]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Des enregistrements sonores d'articles de journal.",
+    "raw": "un enregistrement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q17:option-A",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 正确选项核心词，卷面黄色高亮。老师未讲此题，故列为补充。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un extrait",
+    "pos": "nom",
+    "zh": "[T8Q17 补] 节选；片段 [Opus5 建议：Q17 干扰项，出版与媒体类文本常用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Des extraits choisis de romans classiques.",
+    "raw": "un extrait",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q17:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 干扰项，卷面黄色高亮；与 enregistrement 配对可稳定区分两个选项。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "surchargé",
+    "pos": "adj",
+    "zh": "[T8Q17 补] 满档的；超负荷的 [Opus5 建议：emploi du temps surchargé 是描述“忙”的地道说法，写作可直接用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "ADJECTIFS",
+    "example": "Votre emploi du temps est surchargé.",
+    "raw": "surchargé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "比 très occupé 更地道；T1/T2 里解释“没时间”时可直接使用。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une facture",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 账单 [Opus5 建议：Q18 干扰项，住房与生活开支主题必备]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Les familles qui ont des factures élevées.",
+    "raw": "une facture",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18:option-A",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 选项 A 核心词，卷面黄色高亮。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la colocation",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 合租 [Opus5 建议：Q18 干扰项；T1 租房写作的常见场景词]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Les jeunes qui veulent vivre en colocation.",
+    "raw": "la colocation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18:option-B",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "住房主题核心词，与 L33 已学的 locataire、本课 loyer 构成词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un revenu",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 收入 [Opus5 建议：Q18 正确答案词，faibles revenus＝低收入]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Aux locataires qui ont de faibles revenus.",
+    "raw": "un revenu",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18:option-C",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 正确选项核心词；卷面已用英文注 incomes。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un loyer",
+    "pos": "nom",
+    "zh": "[T8Q18 补] 房租 [Opus5 建议：T1 写租房信几乎一定用到，属最实用的一个]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Cette aide peut aller jusqu'à 75% de votre loyer.",
+    "raw": "un loyer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 原文定位词；与本课 T1 的租房写作任务直接相关，写作可复用。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le bruit",
+    "pos": "nom",
+    "zh": "[T8Q19 补] 噪音；声响 [Opus5 建议：Q19 正确答案词；与 L33 学过的 la pollution sonore 同族]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Le bruit altère le sens du goût des passagers.",
+    "raw": "le bruit",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q19:option-C",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 正确选项核心词；转录 01:12:30 老师提到“这飞机上面会影响人的胃口，噪音那个”。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "altérer",
+    "pos": "verbe",
+    "zh": "[T8Q19 补] 损害；使变质 [Opus5 建议：Q19 正确选项的动词，比 changer 更负面，是同义替换的关键]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Le bruit altère le sens du goût.",
+    "raw": "altérer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q19:option-C",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "原文 réduire la sensibilité des palais 与选项 altère le sens du goût 的同义替换靠它。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la saveur",
+    "pos": "nom",
+    "zh": "[T8Q19 补] 味道；风味 [Opus5 建议：Q19 干扰项，与 goût 构成味觉词族]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "Les plats proposés en vol manquent de saveur.",
+    "raw": "la saveur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q19:option-D",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 干扰项；与 savoureux、goût 一起构成味觉主题词族。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "cultiver",
+    "pos": "verbe",
+    "zh": "[T8Q20 补] 培养；发展（爱好、关系） [Opus5 建议：卷面高亮词；cultiver des activités/relations 写作可直接用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "également de cultiver les activités associatives ou sportives",
+    "raw": "cultiver",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 原文黄色高亮词；不只是“耕种”，用于爱好和人际关系时是高级表达。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une vie sociale",
+    "pos": "expr",
+    "zh": "[T8Q20 补] 社交生活 [Opus5 建议：Q20 定位句核心；T2 写“交朋友”那一点时可直接用]",
+    "lesson": "L34",
+    "source_lesson": "L34",
+    "category": "AUTRES",
+    "example": "il est essentiel de garder une vie sociale riche d'interactions",
+    "raw": "une vie sociale",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 建议段的关键短语；与 T2 写作里“交朋友、人与人的联系”那一点直接对应。",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md"
+        }
+      }
+    ]
   }
 ]
