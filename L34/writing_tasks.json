@@ -1,0 +1,274 @@
+{
+  "schema": 1,
+  "tasks": [
+    {
+      "task_id": "L34-W1",
+      "lesson": "L34",
+      "tcf_task_type": "tache_1",
+      "title": "写信给朋友分享改造住所的计划并请他帮忙",
+      "prompt_text": "Vous désirez changer l'aspect de votre logement (mobilier, couleurs, décorations, etc.). Vous écrivez à un(e) ami(e) pour partager votre projet et solliciter son assistance.",
+      "audience": "un(e) ami(e)（tutoiement）",
+      "register": "informel",
+      "purpose": "分享改造住所的计划，并请对方提供帮助",
+      "word_min": 60,
+      "word_max": 120,
+      "status": "draft",
+      "time_limit_minutes": 20,
+      "reference_text": "## 本题没有老师范文\n\n:gray[老师本次只发了题面，没有给这道题的范文。下面是**体裁级**参照：tâche 1 的六段结构来自 L32 板书「la structure du mail」，与 L33-W1 / L33-W2 共用同一套；本课 `01:18:00-01:29:00` 老师批改的是另一道 tâche 1（租房信），其批改要点已拆成下面的弹药。]\n\n### 六段结构（体裁级，跨题共用）\n\n1. **En-tête · 邮件头**（Objet）—— 题面没要求时可以整段跳过\n2. **Salutations · 问候**\n3. **Objectif général · 亮明目的** —— 第一句就说清你写这封信干什么\n4. **Détails · 展开细节** —— 题面括号点名的项逐一落地\n5. **Attentes et souhaits · 期待与愿望** —— 本题的「请求帮助」落在这里\n6. **Formules de conclusion · 结束语**\n\n### 本课老师亲自示范过的一句（`01:21:00-01:23:00`）\n\n:green-background[Je ne sais pas trop comment m'y prendre.] 〔师〕\n\n老师原话：「你把这句话背下来就可以了……你如果是任何寻求人家帮助的，你把这句话背下来就可以了」。\n本题正是「solliciter son assistance」，这句可以直接用来引出请求。",
+      "sources": [
+        {
+          "lesson": "L34",
+          "kind": "screenshot",
+          "path": "L34/doc/写作/写作 T1 作业.jpg",
+          "locator": "整图 · tâche 1 作业题面",
+          "verify": "verified",
+          "note": "题面法语与字数区间逐字取自本图，老师本次布置的作业原件。"
+        },
+        {
+          "lesson": "L34",
+          "kind": "transcript",
+          "path": "docker-data/outputs/L34/L34_final_working.md",
+          "locator": "1154-1265",
+          "verify": "verified",
+          "note": "老师批改另一道 tâche 1（租房信）的全过程：m'y prendre 求助句、disponible 悬空修饰纠错、80–100 词、加细节不加句子、不要交 AI 改写版、CLB 7 四条标准。本题的弹药全部出自这一段。"
+        },
+        {
+          "lesson": "L32",
+          "kind": "screenshot",
+          "path": "（见 L33/writing_tasks.json 的 reference_text）",
+          "locator": "板书「la structure du mail」六段",
+          "verify": "needs_review",
+          "note": "tâche 1 的六段结构为体裁级参照，原始板书归属 L32，本题未重复归档。"
+        }
+      ],
+      "slots": [
+        {
+          "slot_id": "h1",
+          "label": "le mobilier（家具）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面括号点名的第一项。括号以 etc. 结尾，说明这几项是「aspect」的示例，写到即可，不必穷举。"
+        },
+        {
+          "slot_id": "h2",
+          "label": "les couleurs（颜色）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面括号点名的第二项。"
+        },
+        {
+          "slot_id": "h3",
+          "label": "les décorations（装饰）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面括号点名的第三项。"
+        },
+        {
+          "slot_id": "h4",
+          "label": "分享你的计划（partager votre projet）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面两个交际动作之一。第一句就要亮明：我打算改造我的住所。"
+        },
+        {
+          "slot_id": "h5",
+          "label": "请求对方帮忙（solliciter son assistance）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面两个交际动作之二，最容易被写漏。必须明确提出请求，不能只描述计划。"
+        },
+        {
+          "slot_id": "h6",
+          "label": "字数 60–120 词",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面给定。老师建议实际写 80–100（`01:26:00-01:27:00`）。"
+        },
+        {
+          "slot_id": "h7",
+          "label": "形容词必须挂在明确的名词上",
+          "kind": "risk",
+          "origin": "teacher",
+          "note": "老师批改租房信时抓的错（`01:23:00-01:24:00`）：`et disponible` 前面没有可修饰的名词。改造类题目容易堆形容词，是同一个坑。"
+        },
+        {
+          "slot_id": "h8",
+          "label": "帮什么忙要说具体",
+          "kind": "bonus",
+          "origin": "agent",
+          "note": "〔AI〕题面只说 solliciter son assistance，没规定帮什么。写清楚是要建议、要出力还是要陪同去买，比空泛的「帮帮我」更容易得分。老师未就本题做此要求。"
+        }
+      ],
+      "supports": [
+        {
+          "support_id": "L34-W1-sal",
+          "scope": "task",
+          "category": "language_ammo",
+          "title": "称呼",
+          "body": "- :orange-background[Salut [名字],] 〔AI〕\n- :orange-background[Coucou [名字],] 〔AI〕\n\n本题写给朋友，用 tutoiement，**不要**用 Cher Monsieur / Madame。\n\n⚠️ 题面没有要求写 Objet，**En-tête 那一格可以整段跳过**——同 L33-W2，老师说过「没要求的时候，上面那个东西可以不要，直接从正文开始」。",
+          "review": "ai_draft",
+          "order": 10,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "L34/doc/写作/写作 T1 作业.jpg",
+            "locator": "题面 un(e) ami(e)",
+            "verify": "verified",
+            "note": "收信人由题面确定为朋友，故用非正式称呼。"
+          },
+          "function": "salutations",
+          "slot_id": ""
+        },
+        {
+          "support_id": "L34-W1-obj",
+          "scope": "task",
+          "category": "language_ammo",
+          "title": "第一句就亮明目的　:gray[老师：一定要切记]",
+          "body": "开头一句就说清你要干什么，不要铺垫。\n\n:orange-background[Je t'écris pour te parler de mon projet : je vais changer complètement l'aspect de mon appartement.] 〔AI〕\n:orange-background[J'ai décidé de refaire la décoration de mon logement et j'aimerais partager ce projet avec toi.] 〔AI〕\n\n〔师〕老师在 T2 讲解里反复强调同一条（`01:34:00-01:35:00`）：开头就说清「某时某地某事」，T1 同理——第一句交代「我给你写信是为了什么事」。",
+          "review": "ai_draft",
+          "order": 11,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "transcript",
+            "path": "docker-data/outputs/L34/L34_final_working.md",
+            "locator": "1340-1351",
+            "verify": "verified",
+            "note": "老师讲开头必须说清目的；句子本身为 AI 拟。"
+          },
+          "function": "objectif_general",
+          "slot_id": "h4"
+        },
+        {
+          "support_id": "L34-W1-det",
+          "scope": "task",
+          "category": "content_ammo",
+          "title": "【家具·颜色·装饰】三项怎么落地",
+          "body": "题面括号三项各写一句就够，不必穷举（括号以 etc. 结尾）。\n\n- 家具：:orange-background[Je voudrais remplacer le vieux canapé et acheter une nouvelle table.] 〔AI〕\n- 颜色：:orange-background[Je pense repeindre les murs du salon en blanc pour avoir plus de lumière.] 〔AI〕\n- 装饰：:orange-background[J'aimerais aussi ajouter quelques plantes et des cadres au mur.] 〔AI〕\n\n〔师〕说不出专业词就绕开、用简单词做同义替换——这是老师在 L33-W2 讲过的通则，本题同样适用。",
+          "review": "ai_draft",
+          "order": 20,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "L34/doc/写作/写作 T1 作业.jpg",
+            "locator": "题面括号 (mobilier, couleurs, décorations, etc.)",
+            "verify": "verified",
+            "note": "三项由题面点名；例句为 AI 拟。"
+          },
+          "function": "details",
+          "slot_id": "h1"
+        },
+        {
+          "support_id": "L34-W1-ask",
+          "scope": "task",
+          "category": "language_ammo",
+          "title": "请求帮助　:gray[老师：这句背下来]",
+          "body": ":green-background[Je ne sais pas trop comment m'y prendre.] 〔师·本课原句〕\n\n老师原话（`01:21:00-01:23:00`）：「`s'y prendre` 其实是一个很高级的用法……你如果是任何寻求人家帮助的，你把这句话背下来就可以了」。\n\n本题的 `solliciter son assistance` 正好落在这里，用它引出请求最省力：\n\n:orange-background[Je ne sais pas trop comment m'y prendre. Est-ce que tu pourrais m'aider ?] 〔AI 拼接〕\n:orange-background[Pourrais-tu me donner des conseils / venir m'aider ce week-end ?] 〔AI〕\n\n⚠️ 只描述计划、不提出请求＝漏掉题面一半要求。",
+          "review": "teacher_reviewed",
+          "order": 30,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "transcript",
+            "path": "docker-data/outputs/L34/L34_final_working.md",
+            "locator": "1154-1180",
+            "verify": "verified",
+            "note": "老师明确要求背下来的求助句，出自本课 T1 批改。"
+          },
+          "function": "attentes_souhaits",
+          "slot_id": "h5"
+        },
+        {
+          "support_id": "L34-W1-adj",
+          "scope": "task",
+          "category": "language_ammo",
+          "title": "形容词不能悬空　:gray[老师本课抓的错]",
+          "body": "老师批改租房信时（`01:23:00-01:24:00`）指出：\n\n❌ :red-background[J'ai besoin d'une connexion internet **et disponible** dès le mois prochain.] —— `disponible` 前面没有可以修饰的名词，会被读成修饰 connexion。\n\n✅ :green-background[Je souhaite qu'il soit disponible dès le mois prochain.] 〔师·改写原句〕\n\n改造类题目最容易堆形容词，写完每句先问：**这个形容词修饰的是哪个名词？** 挂不上就拆成独立分句。",
+          "review": "teacher_reviewed",
+          "order": 31,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "transcript",
+            "path": "docker-data/outputs/L34/L34_final_working.md",
+            "locator": "1182-1196",
+            "verify": "verified",
+            "note": "老师当堂改写的原句。"
+          },
+          "function": "details",
+          "slot_id": "h7"
+        },
+        {
+          "support_id": "L34-W1-fin",
+          "scope": "task",
+          "category": "language_ammo",
+          "title": "结束语",
+          "body": ":orange-background[Merci d'avance pour ton aide !] 〔AI〕\n:orange-background[J'attends ta réponse avec impatience.] 〔AI〕\n:orange-background[À bientôt !　Bisous,] 〔AI〕\n\n非正式信件用 Amicalement / À bientôt / Bisous 收尾；**不要**用 `veuillez accepter l'expression de mes sincères salutations`——那是正式信的收尾（见 L34 词汇 `[T8Q15 补]`）。",
+          "review": "ai_draft",
+          "order": 40,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "L34/doc/写作/写作 T1 作业.jpg",
+            "locator": "题面 un(e) ami(e) → 非正式语域",
+            "verify": "verified",
+            "note": "语域由题面确定；具体句子为 AI 拟。"
+          },
+          "function": "formules_conclusion",
+          "slot_id": ""
+        },
+        {
+          "support_id": "L34-W1-len",
+          "scope": "task",
+          "category": "strategy",
+          "title": "字数：写 80–100，加细节不加句子　:gray[老师本课原话]",
+          "body": "题面是 60–120，但老师建议（`01:26:00-01:27:00`）：\n\n:green-background[「我们一般要求八十到一百。因为你如果只写了六十个词，你肯定内容上是缺了一点的，那一百二呢，超了就没必要」] 〔师〕\n\n不够长时**在已有句子里补细节**（形容词、修饰成分），:green-background[「但不能加句子，你一加句子，二十个词一下就没了」] 〔师〕。",
+          "review": "teacher_reviewed",
+          "order": 50,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "transcript",
+            "path": "docker-data/outputs/L34/L34_final_working.md",
+            "locator": "1225-1237",
+            "verify": "verified",
+            "note": "老师对字数的明确要求，出自本课 T1 批改。"
+          },
+          "function": "",
+          "slot_id": "h6"
+        },
+        {
+          "support_id": "L34-W1-clb7",
+          "scope": "task",
+          "category": "strategy",
+          "title": "交卷前按 CLB 7 四条自查　:gray[老师本课总结]",
+          "body": "老师的经验总结（`01:28:00-01:29:00`），达到 CLB 7 只需四点：\n\n1. **回答题目要求** —— 本题两件事都做了吗：分享计划 ✅ 请求帮助 ✅\n2. **内容上没有缺失** —— 家具、颜色、装饰三项都提到了吗\n3. **句法不太口语化，且语法错误几乎没有**\n4. **观点比较明确**\n\n:green-background[「它不需要你把句子写得那么的做作才能上 CLB 7」] 〔师〕\n\n⚠️ 老师同时强调（`01:26:30-01:28:30`）：**交自己写的版本**。把作文喂给 AI 再择优改回来是好的学习习惯，但不是好的备考习惯——考场上没有 AI，时间也不够。",
+          "review": "teacher_reviewed",
+          "order": 51,
+          "modality": "writing",
+          "conditions": "",
+          "source": {
+            "lesson": "L34",
+            "kind": "transcript",
+            "path": "docker-data/outputs/L34/L34_final_working.md",
+            "locator": "1232-1265",
+            "verify": "verified",
+            "note": "CLB 7 四条与 AI 使用边界，均为老师本课原话。"
+          },
+          "function": "",
+          "slot_id": ""
+        }
+      ]
+    }
+  ]
+}
