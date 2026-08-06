@@ -5,12 +5,30 @@
       "label": "听写词义边界与变位纠错",
       "order": 10,
       "species": [
-        {"source_species": "finir plural conjugation nous finissons", "order": 10},
-        {"source_species": "metier is job not craftsman", "order": 20},
-        {"source_species": "reveillon is festive eve meal", "order": 30},
-        {"source_species": "rencontrer versus se connaitre", "order": 40},
-        {"source_species": "tarif is price not free", "order": 50},
-        {"source_species": "afficher verb versus affiche poster", "order": 60}
+        {
+          "source_species": "finir plural conjugation nous finissons",
+          "order": 10
+        },
+        {
+          "source_species": "metier is job not craftsman",
+          "order": 20
+        },
+        {
+          "source_species": "reveillon is festive eve meal",
+          "order": 30
+        },
+        {
+          "source_species": "rencontrer versus se connaitre",
+          "order": 40
+        },
+        {
+          "source_species": "tarif is price not free",
+          "order": 50
+        },
+        {
+          "source_species": "afficher verb versus affiche poster",
+          "order": 60
+        }
       ],
       "practice_cards": []
     },
@@ -19,12 +37,34 @@
       "label": "阅读词汇陷阱与构词",
       "order": 20,
       "species": [
-        {"source_species": "facile faciliter word family not comfortable", "order": 10},
-        {"source_species": "capacite means ability not scale", "order": 20},
-        {"source_species": "physique excludes mental capacity", "order": 30},
-        {"source_species": "redaction is writing not reduction", "order": 40},
-        {"source_species": "re prefix derivation versus doccasion", "order": 50},
-        {"source_species": "gros grosse feminine and abstract big", "order": 60}
+        {
+          "source_species": "facile faciliter word family not comfortable",
+          "order": 10
+        },
+        {
+          "source_species": "capacite means ability not scale",
+          "order": 20
+        },
+        {
+          "source_species": "physique excludes mental capacity",
+          "order": 30
+        },
+        {
+          "source_species": "redaction is writing not reduction",
+          "order": 40
+        },
+        {
+          "source_species": "re prefix derivation versus doccasion",
+          "order": 50
+        },
+        {
+          "source_species": "gros grosse feminine and abstract big",
+          "order": 60
+        },
+        {
+          "source_species": "laid versus malade and maladie",
+          "order": 70
+        }
       ],
       "practice_cards": []
     },
@@ -33,16 +73,46 @@
       "label": "阅读定位与选项判断策略",
       "order": 30,
       "species": [
-        {"source_species": "read question then options then text", "order": 10},
-        {"source_species": "choose what the text says not extension", "order": 20},
-        {"source_species": "option must cover whole text", "order": 30},
-        {"source_species": "annonce final line carries the request", "order": 40},
-        {"source_species": "check which role the question asks about", "order": 50},
-        {"source_species": "broader option can contain the specific word", "order": 60},
-        {"source_species": "memorize literal meaning in reading context", "order": 70},
-        {"source_species": "stem and four options must be fully known", "order": 80},
-        {"source_species": "same word can be right or wrong answer", "order": 90},
-        {"source_species": "vocabulary is the current bottleneck", "order": 100}
+        {
+          "source_species": "read question then options then text",
+          "order": 10
+        },
+        {
+          "source_species": "choose what the text says not extension",
+          "order": 20
+        },
+        {
+          "source_species": "option must cover whole text",
+          "order": 30
+        },
+        {
+          "source_species": "annonce final line carries the request",
+          "order": 40
+        },
+        {
+          "source_species": "check which role the question asks about",
+          "order": 50
+        },
+        {
+          "source_species": "broader option can contain the specific word",
+          "order": 60
+        },
+        {
+          "source_species": "memorize literal meaning in reading context",
+          "order": 70
+        },
+        {
+          "source_species": "stem and four options must be fully known",
+          "order": 80
+        },
+        {
+          "source_species": "same word can be right or wrong answer",
+          "order": 90
+        },
+        {
+          "source_species": "vocabulary is the current bottleneck",
+          "order": 100
+        }
       ],
       "practice_cards": []
     },
@@ -51,12 +121,30 @@
       "label": "写作 T1：批改点与备考规范",
       "order": 40,
       "species": [
-        {"source_species": "je ne sais pas trop comment my prendre", "order": 10},
-        {"source_species": "adjective needs an explicit noun to modify", "order": 20},
-        {"source_species": "subjunctive recognition only deferred to t3", "order": 30},
-        {"source_species": "t1 word count eighty to hundred", "order": 40},
-        {"source_species": "do not submit ai rewritten essay", "order": 50},
-        {"source_species": "clb7 four writing criteria", "order": 60}
+        {
+          "source_species": "je ne sais pas trop comment my prendre",
+          "order": 10
+        },
+        {
+          "source_species": "adjective needs an explicit noun to modify",
+          "order": 20
+        },
+        {
+          "source_species": "subjunctive recognition only deferred to t3",
+          "order": 30
+        },
+        {
+          "source_species": "t1 word count eighty to hundred",
+          "order": 40
+        },
+        {
+          "source_species": "do not submit ai rewritten essay",
+          "order": 50
+        },
+        {
+          "source_species": "clb7 four writing criteria",
+          "order": 60
+        }
       ],
       "practice_cards": [
         {
@@ -65,7 +153,11 @@
           "front": "你的 T1 写了 72 词，需要加长。按老师的做法，应该补细节还是补一个新句子？填“细节”或“句子”：___",
           "back": "答案：**细节**。\n\n加一个句子二十个词一下就没了，很容易冲过 120 词上限。要在已有句子里补形容词、修饰成分，例如把 `un petit appartement` 扩成 `un petit appartement de deux pièces près d'une station de métro`。",
           "primary_class": "strategy",
-          "tags": ["core", "written", "B1"],
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
           "answer": "细节"
         }
       ]
@@ -75,11 +167,26 @@
       "label": "写作 T2：结构、连接与万能句",
       "order": 50,
       "species": [
-        {"source_species": "t2 four part structure", "order": 10},
-        {"source_species": "t2 feelings style versus narrative style", "order": 20},
-        {"source_species": "enumerative connectors are mandatory", "order": 30},
-        {"source_species": "t2 universal sentences impression and invitation", "order": 40},
-        {"source_species": "blog uses title courriel uses objet", "order": 50}
+        {
+          "source_species": "t2 four part structure",
+          "order": 10
+        },
+        {
+          "source_species": "t2 feelings style versus narrative style",
+          "order": 20
+        },
+        {
+          "source_species": "enumerative connectors are mandatory",
+          "order": 30
+        },
+        {
+          "source_species": "t2 universal sentences impression and invitation",
+          "order": 40
+        },
+        {
+          "source_species": "blog uses title courriel uses objet",
+          "order": 50
+        }
       ],
       "practice_cards": [
         {
@@ -88,7 +195,11 @@
           "front": "补全 T2 结尾段的固定开头：`___ conclure, je vous incite à partager votre expérience.`",
           "back": "答案：**Pour**。\n\n`Pour conclure` 起结尾段，后面接一句推荐即可。推荐句两选一：`Je vous recommande fortement de…` 或 `Je vous incite à…`，**不要两句都写**。",
           "primary_class": "expression",
-          "tags": ["core", "written", "B1"],
+          "tags": [
+            "core",
+            "written",
+            "B1"
+          ],
           "answer": "Pour"
         }
       ]

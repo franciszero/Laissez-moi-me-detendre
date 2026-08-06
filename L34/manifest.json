@@ -4,7 +4,7 @@
   "coverage": {
     "source_type": "within_region_species",
     "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L34.species.json",
-    "expected_species_count": 33
+    "expected_species_count": 34
   },
   "chunks": [
     {
@@ -16,301 +16,709 @@
           "type": "vocab",
           "fr": "un tarif",
           "pos": "nom",
-          "zh": "价目；收费标准"
+          "zh": "[L34课前复习] 价目；收费标准"
         },
         {
           "type": "vocab",
           "fr": "gratuit",
           "pos": "adj",
-          "zh": "免费的"
+          "zh": "[L34课前复习] 免费的"
         },
         {
           "type": "vocab",
           "fr": "afficher",
           "pos": "verbe",
-          "zh": "张贴；公告；显示"
+          "zh": "[L34课前复习] 张贴；公告；显示"
         },
         {
           "type": "vocab",
           "fr": "une affiche",
           "pos": "nom",
-          "zh": "海报；招贴"
+          "zh": "[L34课前复习] 海报；招贴"
         },
         {
           "type": "vocab",
           "fr": "s'inscrire",
           "pos": "verbe pronominal",
-          "zh": "登记；注册；报名"
+          "zh": "[L34课前复习] 登记；注册；报名"
         },
         {
           "type": "vocab",
           "fr": "essayer",
           "pos": "verbe",
-          "zh": "尝试；试"
+          "zh": "[L34课前复习] 尝试；试"
         },
         {
           "type": "vocab",
           "fr": "un stage",
           "pos": "nom",
-          "zh": "实习"
+          "zh": "[L34课前复习] 实习"
         },
         {
           "type": "vocab",
           "fr": "le réveillon",
           "pos": "nom",
-          "zh": "节庆前夕的聚餐；年夜饭"
+          "zh": "[L34课前复习] 节庆前夕的聚餐；年夜饭"
         },
         {
           "type": "vocab",
           "fr": "un métier",
           "pos": "nom",
-          "zh": "职业；工作"
+          "zh": "[L34课前复习] 职业；工作"
         },
         {
           "type": "vocab",
           "fr": "un atelier",
           "pos": "nom",
-          "zh": "工坊；工作室；学习小组"
+          "zh": "[L34课前复习] 工坊；工作室；学习小组"
         },
         {
           "type": "vocab",
           "fr": "une recette",
           "pos": "nom",
-          "zh": "菜谱；食谱"
+          "zh": "[L34课前复习] 菜谱；食谱"
         },
         {
           "type": "vocab",
           "fr": "une nuance",
           "pos": "nom",
-          "zh": "细微差别"
+          "zh": "[L34课前复习] 细微差别"
         },
         {
           "type": "vocab",
           "fr": "un objectif",
           "pos": "nom",
-          "zh": "目标；目的"
+          "zh": "[L34课前复习] 目标；目的"
         },
         {
           "type": "vocab",
           "fr": "éviter",
           "pos": "verbe",
-          "zh": "避免"
+          "zh": "[L34课前复习] 避免"
         },
         {
           "type": "vocab",
           "fr": "une œuvre",
           "pos": "nom",
-          "zh": "作品"
+          "zh": "[L34课前复习] 作品"
         },
         {
           "type": "vocab",
           "fr": "être en contact avec",
           "pos": "expr",
-          "zh": "与……保持联系"
+          "zh": "[L34课前复习] 与……保持联系"
         },
         {
           "type": "vocab",
           "fr": "une séance",
           "pos": "nom",
-          "zh": "一场；一次（课程或活动）"
+          "zh": "[L34课前复习] 一场；一次（课程或活动）"
         },
         {
           "type": "vocab",
           "fr": "rencontrer",
           "pos": "verbe",
-          "zh": "遇到；碰见"
+          "zh": "[L34课前复习] 遇到；碰见"
         },
         {
           "type": "vocab",
           "fr": "la circulation",
           "pos": "nom",
-          "zh": "交通；通行"
+          "zh": "[L34课前复习] 交通；通行"
         },
         {
           "type": "vocab",
           "fr": "la sécurité",
           "pos": "nom",
-          "zh": "安全；安保"
+          "zh": "[L34课前复习] 安全；安保"
         },
         {
           "type": "vocab",
           "fr": "une spécialité",
           "pos": "nom",
-          "zh": "特色菜；特产；专长"
+          "zh": "[L34课前复习] 特色菜；特产；专长"
         },
         {
           "type": "vocab",
           "fr": "un spectacle",
           "pos": "nom",
-          "zh": "演出；表演"
+          "zh": "[L34课前复习] 演出；表演"
         },
         {
           "type": "vocab",
           "fr": "les cheveux",
           "pos": "nom",
-          "zh": "头发"
+          "zh": "[T8Q2] 头发"
         },
         {
           "type": "vocab",
           "fr": "bon état général",
           "pos": "expr",
-          "zh": "整体状态良好"
+          "zh": "[T8Q4] 整体状态良好"
         },
         {
           "type": "vocab",
           "fr": "varié",
           "pos": "adj",
-          "zh": "多种多样的"
+          "zh": "[T8Q10] 多种多样的"
         },
         {
           "type": "vocab",
           "fr": "laid",
           "pos": "adj",
-          "zh": "丑的；难看的"
+          "zh": "[T8Q12] 丑的；难看的"
         },
         {
           "type": "vocab",
           "fr": "un aspirateur",
           "pos": "nom",
-          "zh": "吸尘器"
+          "zh": "[T8Q12] 吸尘器"
         },
         {
           "type": "vocab",
           "fr": "faciliter",
           "pos": "verbe",
-          "zh": "使更容易；简化；促进"
+          "zh": "[T8Q13] 使更容易；简化；促进"
         },
         {
           "type": "vocab",
           "fr": "le cerveau",
           "pos": "nom",
-          "zh": "大脑"
+          "zh": "[T8Q13] 大脑"
         },
         {
           "type": "vocab",
           "fr": "lutter",
           "pos": "verbe",
-          "zh": "斗争；抗争"
+          "zh": "[T8Q13] 斗争；抗争"
         },
         {
           "type": "vocab",
           "fr": "une maladie",
           "pos": "nom",
-          "zh": "疾病"
+          "zh": "[T8Q13] 疾病"
         },
         {
           "type": "vocab",
           "fr": "malade",
           "pos": "adj",
-          "zh": "生病的；（名词）病人"
+          "zh": "[T8Q13] 生病的；（名词）病人"
         },
         {
           "type": "vocab",
           "fr": "donner",
           "pos": "verbe",
-          "zh": "给；给予"
+          "zh": "[T8Q14] 给；给予"
         },
         {
           "type": "vocab",
           "fr": "mettre",
           "pos": "verbe",
-          "zh": "放置；放"
+          "zh": "[T8Q14] 放置；放"
         },
         {
           "type": "vocab",
           "fr": "revendre",
           "pos": "verbe",
-          "zh": "转售；再次售卖"
+          "zh": "[T8Q14] 转售；再次售卖"
         },
         {
           "type": "vocab",
           "fr": "d'occasion",
           "pos": "expr",
-          "zh": "二手的"
+          "zh": "[T8Q14] 二手的"
         },
         {
           "type": "vocab",
           "fr": "une brocante",
           "pos": "nom",
-          "zh": "旧货市场；二手市集"
+          "zh": "[L34课外题] 旧货市场；二手市集"
         },
         {
           "type": "vocab",
           "fr": "un événement",
           "pos": "nom",
-          "zh": "事件；活动"
+          "zh": "[L34课外题] 事件；活动"
         },
         {
           "type": "vocab",
           "fr": "s'adresser à",
           "pos": "verbe pronominal",
-          "zh": "面向；针对（某类受众）"
+          "zh": "[T8Q18] 面向；针对（某类受众）"
         },
         {
           "type": "vocab",
           "fr": "une norme",
           "pos": "nom",
-          "zh": "标准；规范"
+          "zh": "[T8Q14] 标准；规范"
         },
         {
           "type": "vocab",
           "fr": "un droit",
           "pos": "nom",
-          "zh": "权利"
+          "zh": "[T8Q16] 权利"
         },
         {
           "type": "vocab",
           "fr": "la rédaction",
           "pos": "nom",
-          "zh": "撰写；草拟；编辑"
+          "zh": "[T8Q16] 撰写；草拟；编辑"
         },
         {
           "type": "vocab",
           "fr": "une notice",
           "pos": "nom",
-          "zh": "说明；须知"
+          "zh": "[T8Q16] 说明；须知"
         },
         {
           "type": "vocab",
           "fr": "une démarche",
           "pos": "nom",
-          "zh": "步骤；措施；办法"
+          "zh": "[T8Q16] 步骤；措施；办法"
         },
         {
           "type": "vocab",
           "fr": "la propriété",
           "pos": "nom",
-          "zh": "所有权；财产"
+          "zh": "[T8Q16] 所有权；财产"
         },
         {
           "type": "vocab",
           "fr": "un propriétaire",
           "pos": "nom",
-          "zh": "物主；所有者；房东"
+          "zh": "[T8Q16] 物主；所有者；房东"
         },
         {
           "type": "vocab",
           "fr": "une capacité",
           "pos": "nom",
-          "zh": "能力"
+          "zh": "[T8Q20] 能力"
         },
         {
           "type": "vocab",
           "fr": "maintenir",
           "pos": "verbe",
-          "zh": "保持；维持"
+          "zh": "[T8Q20] 保持；维持"
         },
         {
           "type": "vocab",
           "fr": "à court terme",
           "pos": "expr",
-          "zh": "短期的"
+          "zh": "[T8Q20] 短期的"
         },
         {
           "type": "vocab",
           "fr": "Je ne sais pas trop comment m'y prendre",
           "pos": "expr",
-          "zh": "我不太知道该从何着手"
+          "zh": "[L34写作T1] 我不太知道该从何着手"
+        },
+        {
+          "type": "vocab",
+          "fr": "aller chercher quelqu'un",
+          "pos": "expr",
+          "zh": "[T8Q1 补] 去接某人；去取某物 [Opus5 建议：短信和通知题里最常见的“去接/去取”动作，Q1 全靠它定位答案]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un mannequin",
+          "pos": "nom",
+          "zh": "[T8Q2 补] 模特 [Opus5 建议：Q2 的正确答案词；四个选项里有生词这题就做不出来]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une coiffure",
+          "pos": "nom",
+          "zh": "[T8Q2 补] 发型 [Opus5 建议：Q2 干扰项，学生正是被“头发”带偏才在 A 上打问号]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un régime",
+          "pos": "nom",
+          "zh": "[T8Q2 补] 节食；饮食方式 [Opus5 建议：健康与饮食主题高频词，也是 Q2 的干扰项]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une entrée",
+          "pos": "nom",
+          "zh": "[T8Q3/Q6 补] 入口；入场（费）；（餐）前菜 [Opus5 建议：同一份卷子里两个义项各考一次，是典型的一词多义陷阱]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un acheteur",
+          "pos": "nom",
+          "zh": "[T8Q4 补] 买主；买家 [Opus5 建议：Q4 的正确答案词，学生答错就是没读出“卖车的人在找谁”]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un bijou",
+          "pos": "nom",
+          "zh": "[T8Q5] 首饰；珠宝"
+        },
+        {
+          "type": "vocab",
+          "fr": "un cadeau",
+          "pos": "nom",
+          "zh": "[T8Q5] 礼物"
+        },
+        {
+          "type": "vocab",
+          "fr": "apporter",
+          "pos": "verbe",
+          "zh": "[T8Q6 补] 带来；捎来 [Opus5 建议：聚餐、邀请类短信的高频动词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un plat principal",
+          "pos": "expr",
+          "zh": "[T8Q6 补] 主菜 [Opus5 建议：与 entrée、dessert、boisson 构成餐食四件套，主题词族一起记最省力]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un ancien élève",
+          "pos": "expr",
+          "zh": "[T8Q6 补] 老同学；校友 [Opus5 建议：Q6 正确答案词，与原文 copains de notre terminale 是同义替换]"
+        },
+        {
+          "type": "vocab",
+          "fr": "convier",
+          "pos": "verbe",
+          "zh": "[T8Q7 补] 邀请 [Opus5 建议：inviter 的正式版，正式邀请函和题干里常用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une tenue de soirée",
+          "pos": "expr",
+          "zh": "[T8Q7 补] 晚礼服 [Opus5 建议：Tenue de soirée exigée 是邀请函固定套语，见到就知道是正式场合]"
+        },
+        {
+          "type": "vocab",
+          "fr": "exiger",
+          "pos": "verbe",
+          "zh": "[T8Q7 补] 要求；必须 [Opus5 建议：通知类文本表示强制要求的标志词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "défendre",
+          "pos": "verbe",
+          "zh": "[T8Q8 补] 保护；捍卫 [Opus5 建议：你在卷面上注了“保护就业”，说明当时读懂了；固化下来避免和 défendre de（禁止）混]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un emploi",
+          "pos": "nom",
+          "zh": "[T8Q8 补] 工作；就业；岗位 [Opus5 建议：与 chômage、employeur 构成求职主题核心词族]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une manifestation",
+          "pos": "nom",
+          "zh": "[T8Q8 补] 示威游行 [Opus5 建议：Q8 正确答案词；你给 marche 注“游行”时打了问号，这个才是标准说法]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le chômage",
+          "pos": "nom",
+          "zh": "[T8Q8 补] 失业 [Opus5 建议：Q8 干扰项，且与 emploi 成反义对，社会类阅读必备]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un endroit",
+          "pos": "nom",
+          "zh": "[T8Q9 补] 地点；场所 [Opus5 建议：卷面把它黄色高亮了，是 Q9 题干的定位关键词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire la fête",
+          "pos": "expr",
+          "zh": "[T8Q9 补] 聚会玩乐 [Opus5 建议：Q9 靠它推出正确答案 s'amuser，是原文到选项的同义跳板]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un menu",
+          "pos": "nom",
+          "zh": "[T8Q10 补] 菜单；套餐 [Opus5 建议：Q10 正确答案词，你当时选错了这一题]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un animateur",
+          "pos": "nom",
+          "zh": "[T8Q11 补] 活动指导员；带队老师 [Opus5 建议：青少年活动、夏令营类文本的固定角色词，T2 写作也用得上]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un libraire",
+          "pos": "nom",
+          "zh": "[T8Q15] 书商；书店老板"
+        },
+        {
+          "type": "vocab",
+          "fr": "une maison d'édition",
+          "pos": "expr",
+          "zh": "[T8Q15] 出版社"
+        },
+        {
+          "type": "vocab",
+          "fr": "se spécialiser dans",
+          "pos": "verbe pronominal",
+          "zh": "[T8Q15] 专攻；把……作为专业方向"
+        },
+        {
+          "type": "vocab",
+          "fr": "Ce qui m'a impressionné le plus",
+          "pos": "expr",
+          "zh": "[L34写作T2] 给我印象最深的是……"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je me suis fait beaucoup d'amis",
+          "pos": "expr",
+          "zh": "[L34写作T2] 我交了很多朋友"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je vous recommande fortement de",
+          "pos": "expr",
+          "zh": "[L34写作T2] 我强烈推荐你……"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je vous incite à",
+          "pos": "expr",
+          "zh": "[L34写作T2] 我建议/鼓励你……"
+        },
+        {
+          "type": "vocab",
+          "fr": "la forme",
+          "pos": "nom",
+          "zh": "[T8Q12 补] 形状；外形 [Opus5 建议：Q12 正确答案词，你当时选了 taille]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la taille",
+          "pos": "nom",
+          "zh": "[T8Q12 补] 尺寸；大小；身材 [Opus5 建议：Q12 你选的干扰项，只覆盖第三款车所以不能选]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un lieu de rêve",
+          "pos": "expr",
+          "zh": "[T8Q12 补] 梦想之地 [Opus5 建议：卷面高亮的定调短语，读懂它才知道后文要吐槽]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la mémoire",
+          "pos": "nom",
+          "zh": "[T8Q13/Q20 补] 记忆力 [Opus5 建议：同一套卷里 Q13 是干扰项、Q20 是正确答案，老师专门拿它举过例]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la santé",
+          "pos": "nom",
+          "zh": "[T8Q13 补] 健康 [Opus5 建议：Q13 正确答案词；老师最终从“抵抗疾病”推回它]"
+        },
+        {
+          "type": "vocab",
+          "fr": "bénéfique",
+          "pos": "adj",
+          "zh": "[T8Q13 补] 有益的 [Opus5 建议：原文用它连接“大脑”与“健康”，是 Q13 的推理桥梁]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la socialisation",
+          "pos": "nom",
+          "zh": "[T8Q13 补] 社交；社会化 [Opus5 建议：Q13 最强干扰项，老师明确说全文没提社交]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la valeur",
+          "pos": "nom",
+          "zh": "[T8Q14 补] 价值；价格 [Opus5 建议：二手交易、估价类文本的核心名词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "évaluer",
+          "pos": "verbe",
+          "zh": "[T8Q14 补] 估价；评估 [Opus5 建议：与 valeur、estimation 成族，二手/服务类文本高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le marché",
+          "pos": "nom",
+          "zh": "[T8Q14 补] 市场 [Opus5 建议：与 brocante（旧货市场）呼应，Q14 与 Q16 都出现]"
+        },
+        {
+          "type": "vocab",
+          "fr": "veuillez accepter l'expression de mes sincères salutations",
+          "pos": "expr",
+          "zh": "[T8Q15 补] （正式信件结尾）敬请接受我最诚挚的问候 [Opus5 建议：法语正式信件的固定收尾，T1 写正式信直接照抄]"
+        },
+        {
+          "type": "vocab",
+          "fr": "être passionné par",
+          "pos": "expr",
+          "zh": "[T8Q15 补] 热衷于；对……充满热情 [Opus5 建议：求职信与自我介绍的万能句式，T1/T2 都用得上]"
+        },
+        {
+          "type": "vocab",
+          "fr": "déposer un dossier",
+          "pos": "expr",
+          "zh": "[T8Q16 补] 递交申请材料；提交档案 [Opus5 建议：行政办事类文本的固定动作，移民/申请场景高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "vérifier",
+          "pos": "verbe",
+          "zh": "[T8Q16 补] 核实；查证 [Opus5 建议：Q16 定位句动词，也是听力和阅读的通用高频词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un enregistrement",
+          "pos": "nom",
+          "zh": "[T8Q17 补] 录音 [Opus5 建议：Q17 正确答案词；媒体与听力主题反复出现]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un extrait",
+          "pos": "nom",
+          "zh": "[T8Q17 补] 节选；片段 [Opus5 建议：Q17 干扰项，出版与媒体类文本常用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "surchargé",
+          "pos": "adj",
+          "zh": "[T8Q17 补] 满档的；超负荷的 [Opus5 建议：emploi du temps surchargé 是描述“忙”的地道说法，写作可直接用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une facture",
+          "pos": "nom",
+          "zh": "[T8Q18 补] 账单 [Opus5 建议：Q18 干扰项，住房与生活开支主题必备]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la colocation",
+          "pos": "nom",
+          "zh": "[T8Q18 补] 合租 [Opus5 建议：Q18 干扰项；T1 租房写作的常见场景词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un revenu",
+          "pos": "nom",
+          "zh": "[T8Q18 补] 收入 [Opus5 建议：Q18 正确答案词，faibles revenus＝低收入]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un loyer",
+          "pos": "nom",
+          "zh": "[T8Q18 补] 房租 [Opus5 建议：T1 写租房信几乎一定用到，属最实用的一个]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le bruit",
+          "pos": "nom",
+          "zh": "[T8Q19 补] 噪音；声响 [Opus5 建议：Q19 正确答案词；与 L33 学过的 la pollution sonore 同族]"
+        },
+        {
+          "type": "vocab",
+          "fr": "altérer",
+          "pos": "verbe",
+          "zh": "[T8Q19 补] 损害；使变质 [Opus5 建议：Q19 正确选项的动词，比 changer 更负面，是同义替换的关键]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la saveur",
+          "pos": "nom",
+          "zh": "[T8Q19 补] 味道；风味 [Opus5 建议：Q19 干扰项，与 goût 构成味觉词族]"
+        },
+        {
+          "type": "vocab",
+          "fr": "cultiver",
+          "pos": "verbe",
+          "zh": "[T8Q20 补] 培养；发展（爱好、关系） [Opus5 建议：卷面高亮词；cultiver des activités/relations 写作可直接用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une vie sociale",
+          "pos": "expr",
+          "zh": "[T8Q20 补] 社交生活 [Opus5 建议：Q20 定位句核心；T2 写“交朋友”那一点时可直接用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "gros",
+          "pos": "adj",
+          "zh": "[T8Q2] 胖的；（抽象）大的"
+        },
+        {
+          "type": "vocab",
+          "fr": "un climatiseur",
+          "pos": "nom",
+          "zh": "[T8Q4] 空调"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'air conditionné",
+          "pos": "expr",
+          "zh": "[T8Q4] 空调（另一说法）"
+        },
+        {
+          "type": "vocab",
+          "fr": "facile",
+          "pos": "adj",
+          "zh": "[T8Q13] 容易的；简单的"
+        },
+        {
+          "type": "vocab",
+          "fr": "vendre",
+          "pos": "verbe",
+          "zh": "[T8Q14] 卖；出售"
+        },
+        {
+          "type": "vocab",
+          "fr": "devenir",
+          "pos": "verbe",
+          "zh": "[T8Q16] 成为；变成"
+        },
+        {
+          "type": "vocab",
+          "fr": "unique",
+          "pos": "adj",
+          "zh": "[T8Q16] 唯一的；独一无二的"
+        },
+        {
+          "type": "vocab",
+          "fr": "la propriété intellectuelle",
+          "pos": "expr",
+          "zh": "[T8Q16] 知识产权"
+        },
+        {
+          "type": "vocab",
+          "fr": "un ralentissement",
+          "pos": "nom",
+          "zh": "[T8Q20] 减慢；降速"
+        },
+        {
+          "type": "vocab",
+          "fr": "le traitement",
+          "pos": "nom",
+          "zh": "[T8Q20] 处理"
+        },
+        {
+          "type": "vocab",
+          "fr": "baisser",
+          "pos": "verbe",
+          "zh": "[T8Q20] 下降；降低"
+        },
+        {
+          "type": "vocab",
+          "fr": "à long terme",
+          "pos": "expr",
+          "zh": "[T8Q20] 长期的"
+        },
+        {
+          "type": "vocab",
+          "fr": "la mémorisation",
+          "pos": "nom",
+          "zh": "[T8Q20] 记忆（过程）"
         }
       ]
     },
@@ -648,6 +1056,35 @@
           "study_group_label": "阅读词汇陷阱与构词",
           "study_group_order": 20,
           "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L34:species:laid-versus-malade-and-maladie",
+          "front": "补全：`Il est ___.`（他生病了）",
+          "back": "答案：**malade**。\n\n三个形近词分清（老师在笔记页边把它们并列写在一起）：\n\n- `laid` = 丑的（形容词）\n- `une maladie` = 疾病（名词）\n- `malade` = 生病的（形容词），也可作名词「病人」\n\n`lutter contre certaines maladies` 是「对抗某些疾病」；`les modèles les plus laids` 是「最丑的那几款」。",
+          "answer": "malade",
+          "source_species": "laid versus malade and maladie",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "word_family_confusion",
+            "gender_number",
+            "A2"
+          ],
+          "french_items": [
+            "laid",
+            "une maladie",
+            "malade"
+          ],
+          "evidence_refs": [
+            "L34_final_working.md:504-510",
+            "L34_final_working.md:567-583"
+          ],
+          "curated": true,
+          "study_group": "reading-vocabulary-traps",
+          "study_group_label": "阅读词汇陷阱与构词",
+          "study_group_order": 20,
+          "study_order": 70
         },
         {
           "type": "checkpoint",

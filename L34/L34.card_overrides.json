@@ -162,5 +162,10 @@
     "front": "补全老师结课时的话：你课下 ___ 一定要重视起来，因为它还挺拖累你的进度的。",
     "back": "答案：**单词**。\n\n老师在课中也说过同一句话：“你做阅读最大的问题还是词汇。”现阶段的第一优先级是背单词，词表按 `词 + 中文 + 题号` 的表格做即可——老师已确认这个格式可用。",
     "answer": "单词"
+  },
+  "laid versus malade and maladie": {
+    "front": "补全：`Il est ___.`（他生病了）",
+    "back": "答案：**malade**。\n\n三个形近词分清（老师在笔记页边把它们并列写在一起）：\n\n- `laid` = 丑的（形容词）\n- `une maladie` = 疾病（名词）\n- `malade` = 生病的（形容词），也可作名词「病人」\n\n`lutter contre certaines maladies` 是「对抗某些疾病」；`les modèles les plus laids` 是「最丑的那几款」。",
+    "answer": "malade"
   }
 }
