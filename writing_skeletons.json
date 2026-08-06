@@ -54,6 +54,48 @@
           "kind": "flow"
         }
       ]
+    },
+    "tache_2": {
+      "name": "TCF 写作 Tâche 2 · la structure（article / blog）",
+      "_evidence": "四段结构逐字取自老师板书幻灯片「tâche 2 · la structure」四页：1.Titre accrocheur（il faut un titre attirant；例 L'enseignement, un métier de nobles；老师手写 une expérience inoubliable）、2. Introduction（présentez de manière concise et attractive l'activité；老师手写圈出 C'est quoi ?）、3.Votre expérience personnelle（Partagez vos anecdotes, vos expériences positives et les défis que vous avez rencontrés；老师给 expériences positives 与 les défis 加了下划线）、4.Recommandations（Vous recommandez à des personnes qui suivent votre blog…；老师原文注明 Tout dépendra de la consigne）。另有老师手写笔记一页，把正文分成「感受」（compétence / la vie sociale / visite）与「记叙」（cours / prof, camarade / activités）两种写法，并写出万能句 Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée。⚠️ 上述五张图**尚未归档进仓库**，由用户于 2026-08-06 在对话中提供，我逐字读取；归档后应补路径。与之互印证的已归档材料：L34/doc/写作/写作 T2 课上例题.jpg（板书四步与连接词）、写作 T2 课上例题 范文.jpg（老师逐句圈画的正面范文 Un séjour m'a changé la vie !），以及 L34 转录 01:29:30-01:50:30 老师对 T2 的完整讲解。",
+      "_provenance": "teacher_slide",
+      "flow": [
+        {
+          "step_id": "pick_scenario",
+          "name": "选一个情境",
+          "kind": "flow"
+        },
+        {
+          "step_id": "use_template",
+          "name": "半开放模板（快速通道）",
+          "kind": "flow"
+        },
+        {
+          "step_id": "titre",
+          "name": "1. Titre accrocheur · 抓人标题",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "introduction",
+          "name": "2. Introduction · 引入（C'est quoi ?）",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "experience",
+          "name": "3. Votre expérience personnelle · 个人经历",
+          "kind": "slots"
+        },
+        {
+          "step_id": "recommandations",
+          "name": "4. Recommandations · 推荐",
+          "kind": "fixed"
+        },
+        {
+          "step_id": "final_check",
+          "name": "交卷前检查",
+          "kind": "flow"
+        }
+      ]
     }
   }
 }

@@ -269,6 +269,341 @@
           "slot_id": ""
         }
       ]
+    },
+    {
+      "task_id": "L34-W2",
+      "lesson": "L34",
+      "tcf_task_type": "tache_2",
+      "title": "写博客文章：参加了一个不满意的节庆",
+      "prompt_text": "Vous avez participé à un festival (musique, cinéma, gastronomie…) qui ne vous a pas satisfait. Rédigez un article sur votre site pour partager votre expérience et les raisons de votre insatisfaction.",
+      "audience": "les lecteurs de votre site（公众读者）",
+      "register": "article de blog（叙述用 je，向读者建议时用 vous）",
+      "purpose": "分享一次令人失望的节庆经历，并说明不满意的原因",
+      "word_min": 120,
+      "word_max": 150,
+      "status": "draft",
+      "time_limit_minutes": 30,
+      "reference_text": "## 老师的四段结构（板书原件）\n\n1. **Titre accrocheur · 抓人标题** —— :green-background[il faut un titre attirant]〔师〕。老师的例子：*L'enseignement, un métier de nobles*；他手写的万能款：:green-background[une expérience inoubliable]。\n2. **Introduction · 引入** —— :green-background[présentez de manière concise et attractive l'activité que vous souhaitez décrire]〔师〕。老师在幻灯片上圈出 :green-background[C'est quoi ?]——引入段要回答的就是这一个问题。\n3. **Votre expérience personnelle · 个人经历** —— :green-background[Partagez vos anecdotes, vos expériences positives et **les défis que vous avez rencontrés**]〔师〕。老师给「expériences positives」和「les défis」都加了下划线。\n4. **Recommandations · 推荐** —— :green-background[Tout dépendra de la consigne.]〔师〕**这句是本题的关键**：推荐段写什么由题目定。本题是负面体验，所以这一段写「不推荐」或「希望主办方改进」，不是硬夸。\n\n## 老师手写的正文二分法\n\n正文（第 3 段）有两种写法，**别一开始就混着写**：\n\n| 写法 | 老师手写的三个落点 |\n|---|---|\n| **感受式** | `compétence` · `la vie sociale` · `visite` |\n| **记叙式** | `cours` · `prof, camarade` · `activités` |\n\n万能句〔师·手写原句〕：:green-background[Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée.]\n\n## ⚠️ 老师的范文是正面的，不能整篇搬\n\n课上范文 *Un séjour m'a changé la vie !* 展示的是**顺序和连接词**。本题要求的链条是「期待 → 落差 → 问题 → 后果 → 评价」，不是「参加 → 成长 → 推荐」。结构照搬，内容重写。",
+      "sources": [
+        {
+          "lesson": "L34",
+          "kind": "screenshot",
+          "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+          "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+          "verify": "needs_review",
+          "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+        },
+        {
+          "lesson": "L34",
+          "kind": "screenshot",
+          "path": "L34/doc/写作/写作 T2 课上例题.jpg",
+          "locator": "板书四步与连接词",
+          "verify": "verified",
+          "note": "已归档。老师板书的 T2 四步与 D'abord/ensuite/enfin、de plus、Aussi、en outre。"
+        },
+        {
+          "lesson": "L34",
+          "kind": "transcript",
+          "path": "docker-data/outputs/L34/L34_final_working.md",
+          "locator": "1291-1324",
+          "verify": "verified",
+          "note": "老师讲 T2 四段结构与万能标题 Une expérience inoubliable。"
+        },
+        {
+          "lesson": "L34",
+          "kind": "transcript",
+          "path": "docker-data/outputs/L34/L34_final_working.md",
+          "locator": "1381-1438",
+          "verify": "verified",
+          "note": "老师对比感受式与记叙式两种正文写法，明确不推荐一开始就混写。"
+        },
+        {
+          "lesson": "L34",
+          "kind": "transcript",
+          "path": "docker-data/outputs/L34/L34_final_working.md",
+          "locator": "1482-1514",
+          "verify": "verified",
+          "note": "列举连接词必须有；Pour conclure 起结尾段，推荐句二选一。"
+        },
+        {
+          "lesson": "L34",
+          "kind": "transcript",
+          "path": "docker-data/outputs/L34/L34_final_working.md",
+          "locator": "1523-1574",
+          "verify": "verified",
+          "note": "blog 写标题不写问候语；courriel 才写 objet 加 Cher ami。"
+        }
+      ],
+      "slots": [
+        {
+          "slot_id": "f1",
+          "label": "活动类型（musique / cinéma / gastronomie…）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面括号点名。必须说清是什么节庆，不能全文只写 cet événement 让读者猜。"
+        },
+        {
+          "slot_id": "f2",
+          "label": "亲身经历（vous avez participé）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面规定你参加过。要出现具体过程，不能写成活动预告或泛泛评论。"
+        },
+        {
+          "slot_id": "f3",
+          "label": "分享经历（partager votre expérience）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面两个动作之一：讲发生了什么。"
+        },
+        {
+          "slot_id": "f4",
+          "label": "不满原因（les raisons，复数）",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面两个动作之二，且是复数——至少展开两个原因。"
+        },
+        {
+          "slot_id": "f5",
+          "label": "字数 120–150 词",
+          "kind": "must",
+          "origin": "official",
+          "note": "题面给定。建议落在 130–140，给修改和计词留余地。"
+        },
+        {
+          "slot_id": "f6",
+          "label": "文章体：标题＋正文，不写问候语和署名",
+          "kind": "risk",
+          "origin": "teacher",
+          "note": "老师板书第 1 点要求标题；转录 01:47:00-01:50:30 明确 blog 不要招呼语，courriel 才写 objet 加 Cher ami。"
+        },
+        {
+          "slot_id": "f7",
+          "label": "推荐段按题目定调（本题＝不推荐）",
+          "kind": "must",
+          "origin": "teacher",
+          "note": "老师板书第 4 点原文 Tout dépendra de la consigne。本题是负面体验，推荐段写不推荐或改进要求。"
+        },
+        {
+          "slot_id": "f8",
+          "label": "每个「不满」后面必须跟具体事实",
+          "kind": "risk",
+          "origin": "agent",
+          "note": "〔AI〕题面要求的是 raisons 不是形容词。老师板书第 3 点下划线的 les défis que vous avez rencontrés 支持写具体困难。写完圈出所有 mauvais/cher/décevant，检查后面有没有数字或事件。"
+        }
+      ],
+      "supports": [
+        {
+          "support_id": "L34-W2-titre",
+          "scope": "task",
+          "category": "language_ammo",
+          "order": 10,
+          "modality": "writing",
+          "conditions": "",
+          "title": "标题　:gray[老师：il faut un titre attirant]",
+          "function": "titre",
+          "slot_id": "",
+          "review": "teacher_reviewed",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": ":green-background[il faut un titre attirant]〔师〕。老师的例子是 *L'enseignement, un métier de nobles*，他手写的万能款是 :green-background[une expérience inoubliable]。\n\n本题是负面体验，把「难忘」换成落差即可〔AI〕：\n- :orange-background[Un festival loin de mes attentes !]\n- :orange-background[Une soirée musicale pleine de déceptions !]\n- :orange-background[Beaucoup d'attente, très peu de musique !]\n\n标题可以是名词短语，不加句号，可用感叹号。**别写成题目复述**（`Mon expérience dans un festival`）。"
+        },
+        {
+          "support_id": "L34-W2-intro",
+          "scope": "task",
+          "category": "language_ammo",
+          "order": 20,
+          "modality": "writing",
+          "conditions": "",
+          "title": "引入段：回答 C'est quoi ?　:gray[老师圈出的那句]",
+          "function": "introduction",
+          "slot_id": "f1",
+          "review": "teacher_reviewed",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "老师在幻灯片上圈出 :green-background[C'est quoi ?]——引入段就是回答这一个问题：:green-background[présentez de manière concise et attractive l'activité que vous souhaitez décrire]〔师〕。\n\n三句话搞定：活动＋时间地点 → 为什么去 → 总体评价〔AI 句子〕：\n\n:orange-background[Samedi dernier, j'ai participé à un festival de musique organisé dans un grand parc de Toronto.]\n:orange-background[J'attendais cet événement avec impatience, car plusieurs artistes connus étaient annoncés.]\n:orange-background[Malheureusement, l'expérience a été loin de mes attentes.]\n\n⚠️ **总体评价要在开头就亮明**，不能写到最后读者才知道你不满意。"
+        },
+        {
+          "support_id": "L34-W2-body-two-ways",
+          "scope": "task",
+          "category": "content_ammo",
+          "order": 30,
+          "modality": "writing",
+          "conditions": "",
+          "title": "正文两种写法　:gray[老师手写原件]",
+          "function": "experience",
+          "slot_id": "f3",
+          "review": "teacher_reviewed",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "老师手写把正文分成两种，**别一开始就混着写**〔师〕：\n\n| 写法 | 老师写的三个落点 |\n|---|---|\n| **感受式** | `compétence` · `la vie sociale` · `visite` |\n| **记叙式** | `cours` · `prof, camarade` · `activités` |\n\n本题是负面体验，两种都能用：\n- 感受式 → 这次经历**毁掉**了什么（时间、钱、心情）\n- 记叙式 → 我先遇到什么、然后遇到什么\n\n想加总体感受，就统一放**最前面或最后面**，不要中间穿插。"
+        },
+        {
+          "support_id": "L34-W2-chain",
+          "scope": "task",
+          "category": "content_ammo",
+          "order": 31,
+          "modality": "writing",
+          "conditions": "",
+          "title": "负面题的核心三件组：问题＋证据＋后果",
+          "function": "experience",
+          "slot_id": "f8",
+          "review": "ai_draft",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "〔AI〕老师板书第 3 点给 :green-background[les défis que vous avez rencontrés] 加了下划线，本题的「défis」就是那些问题。但**光写问题不够**，题面要的是 `raisons`：\n\n> **[问题判断] + [具体证据] + [直接后果]**\n\n:orange-background[Tout d'abord, l'entrée était très mal organisée. Nous avons dû attendre plus d'une heure sous la pluie. À cause de ce retard, nous avons manqué le début du premier concert.]\n\n:orange-background[De plus, les prix étaient excessifs : une petite bouteille d'eau coûtait six dollars. Plusieurs familles ont donc quitté le site pour manger ailleurs.]\n\n**只写两个原因，每个写透**，比列五个空泛的强。判据：圈出所有 `mauvais / cher / décevant / désorganisé`，后面必须跟一个数字或一件事。"
+        },
+        {
+          "support_id": "L34-W2-stories",
+          "scope": "task",
+          "category": "content_ammo",
+          "order": 32,
+          "modality": "writing",
+          "conditions": "",
+          "title": "三个故事包（考场别现编）",
+          "function": "experience",
+          "slot_id": "f4",
+          "review": "ai_draft",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "〔AI〕每个包配好两个问题和各自的数字，考场直接取用：\n\n| 节庆 | 问题一 | 问题二 |\n|---|---|---|\n| **音乐节**（最好写） | 只开一个入口，等一小时，错过开场 | 一瓶水六美元，一份餐近二十美元 |\n| **电影节** | 两场放映临时取消且无解释 | 现场时间表与网站不符，白跑几个厅 |\n| **美食节** | 每个摊位排四十分钟 | 二十美元一份小份量，晚八点多数已售罄 |\n\n关键词：`une file d'attente` 队伍 · `un retard` 延误 · `annuler / être annulé` 取消 · `épuisé` 售罄 · `bondé` 挤满人 · `gâcher` 毁掉 · `laisser à désirer` 不尽人意 · `tenir ses promesses` 兑现承诺"
+        },
+        {
+          "support_id": "L34-W2-connect",
+          "scope": "task",
+          "category": "language_ammo",
+          "order": 33,
+          "modality": "writing",
+          "conditions": "",
+          "title": "连接词　:gray[老师：这个一定要有]",
+          "function": "experience",
+          "slot_id": "",
+          "review": "teacher_reviewed",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "L34/doc/写作/写作 T2 课上例题.jpg",
+            "locator": "板书四步与连接词",
+            "verify": "verified",
+            "note": "已归档。老师板书的 T2 四步与 D'abord/ensuite/enfin、de plus、Aussi、en outre。"
+          },
+          "body": "老师原话（转录 01:44:00-01:45:00）：这叫 `connecteurs énumératifs`，:green-background[它必须有，它是最基础的连接词]〔师〕。\n\n基础三件套：:green-background[D'abord … Ensuite … Enfin]〔师〕\n嫌生硬就换：:green-background[De plus · En outre · Aussi]〔师〕\n\n本题只需固定这一串就够〔AI〕：\n**Tout d'abord → En effet（给证据）→ De plus → À cause de cela（给后果）→ Au final**"
+        },
+        {
+          "support_id": "L34-W2-impress",
+          "scope": "task",
+          "category": "language_ammo",
+          "order": 34,
+          "modality": "writing",
+          "conditions": "",
+          "title": "万能句　:gray[老师手写原句]",
+          "function": "experience",
+          "slot_id": "",
+          "review": "teacher_reviewed",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": ":green-background[Ce qui m'a impressionné le plus, c'est l'amitié qu'on a tissée.]〔师·手写原句〕\n\n老师说这个句式可以记下来（转录 01:42:00-01:42:30），后面的名词随便换。负面题反着用〔AI〕：\n\n:orange-background[Ce qui m'a le plus déçu, c'est le manque total d'organisation.]"
+        },
+        {
+          "support_id": "L34-W2-reco",
+          "scope": "task",
+          "category": "language_ammo",
+          "order": 40,
+          "modality": "writing",
+          "conditions": "",
+          "title": "推荐段：本题写「不推荐」　:gray[老师：Tout dépendra de la consigne]",
+          "function": "recommandations",
+          "slot_id": "f7",
+          "review": "teacher_reviewed",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "老师板书第 4 点原文：:green-background[Vous recommandez à des personnes qui suivent votre blog de s'intéresser à l'activité que vous décrivez. **Tout dépendra de la consigne.**]〔师〕\n\n**这句就是本题可以写「不推荐」的依据**——推荐段的方向由题目定，负面题不必硬夸。\n\n结尾用 :green-background[Pour conclure]〔师〕开头，然后三选一〔AI〕：\n- :orange-background[Au final, je ne recommande pas ce festival dans son organisation actuelle.]\n- :orange-background[Le concept reste intéressant, mais l'organisation doit être profondément améliorée.]\n- :orange-background[Je déconseille cet événement aux familles. Si vous y allez malgré tout, arrivez tôt.]\n\n再加一句改进期待：:orange-background[J'espère que les organisateurs tiendront compte de ces critiques lors de la prochaine édition.]"
+        },
+        {
+          "support_id": "L34-W2-length",
+          "scope": "task",
+          "category": "strategy",
+          "order": 50,
+          "modality": "writing",
+          "conditions": "",
+          "title": "字数分配与增删顺序",
+          "function": "",
+          "slot_id": "f5",
+          "review": "ai_draft",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "〔AI〕目标 **130–140 词**（贴 120 或 150 都不方便改）：\n\n| 段 | 词数 | 内容 |\n|---|---|---|\n| 引入 | 25–35 | 活动＋期待＋总体评价 |\n| 正文 | 70–80 | 两个原因，各带证据和后果 |\n| 结尾 | 25–30 | 是否推荐＋改进 |\n\n**超字数先删**：第三个小问题 → 重复的情绪句 → 合并地点与活动介绍。**绝不删**：活动类型、总体不满、两个原因的证据。\n\n**不够字数先补**：期待那一句 → 某个原因的证据 → 后果 → 改进建议。别靠重复 `C'était mauvais` 凑数。"
+        },
+        {
+          "support_id": "L34-W2-traps",
+          "scope": "task",
+          "category": "strategy",
+          "order": 51,
+          "modality": "writing",
+          "conditions": "",
+          "title": "本题最容易错的几处",
+          "function": "",
+          "slot_id": "",
+          "review": "ai_draft",
+          "source": {
+            "lesson": "L34",
+            "kind": "screenshot",
+            "path": "（未归档）老师板书幻灯片 tâche 2 · la structure 四页 + 手写笔记一页",
+            "locator": "Titre accrocheur / Introduction / Votre expérience personnelle / Recommandations / 手写 感受·记叙 二分",
+            "verify": "needs_review",
+            "note": "⚠️ 由用户于 2026-08-06 在对话中提供，我逐字读取；尚未归档进仓库。归档后应改为真实路径并升级 verify。"
+          },
+          "body": "〔AI〕\n\n| ❌ | ✅ | 说明 |\n|---|---|---|\n| `participer un festival` | `participer **à** un festival` | 介词不能漏 |\n| `attendre pour une heure` | `attendre une heure` | `attendre` 后不加 `pour`；`pendant` 可选不必须 |\n| `j'attendais à une bonne organisation` | `je **m'**attendais à…` | `attendre`＝等待；`s'attendre à`＝预期 |\n| `j'étais très décevant` | `j'étais très **déçu**` | 人用 `déçu`，事物用 `décevant` |\n| `à cause de l'organisation était mauvaise` | `à cause de **la mauvaise organisation**` | `à cause de` 后接名词；完整句用 `parce que` |\n| `malgré il pleuvait` | `malgré **la pluie**` / `même s'il pleuvait` | `malgré` 后接名词 |\n| `trop bondé que…` | `**tellement** bondé **que**…` / `**trop** bondé **pour**…` | `trop` 不搭 `que` |\n| `ce que a déçu le public` | `**ce qui** a déçu le public` | 后句缺主语用 `ce qui` |\n| `les prix étaient très chers` | `les prix étaient **élevés**` | 价格用 `élevé`，商品才用 `cher` |\n| `coûtait de six dollars` | `coûtait six dollars` | `coûter` 后金额不加介词 |\n\n**一条配合规则要记准**（这是常见的讲反）：助动词 `avoir` 遇到**前置直接宾语时必须配合**。`Le festival m'a déçu` —— 男性说话者写 `déçu`，女性写 `déçu**e**`。不是「不配合」，而是配合之后阳性单数恰好无词尾变化。同理 `les critiques que j'ai écrit**es**`。"
+        }
+      ]
     }
   ]
 }
