@@ -1643,5 +1643,222 @@
         "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
       }
     ]
+  },
+  {
+    "lemma": "la poste",
+    "pos": "nom",
+    "zh": "[T6Q4] 邮局",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Je vais à la poste envoyer un colis.",
+    "raw": "la poste",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q4:option-B",
+        "teacher_action": "contrast",
+        "selection_reason": "老师发布版写明 la poste 是邮局，并与阳性 le poste“职位”对照。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "28:30-31:30"
+        },
+        "learning_note": "老师 PDF 与课堂音频共同确认；冠词是词义区分的一部分。"
+      }
+    ]
+  },
+  {
+    "lemma": "manquer",
+    "pos": "verbe",
+    "zh": "[T6Q5] 缺少；缺失；未提供",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Une information manque dans cette annonce.",
+    "raw": "manquer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q5:stem",
+        "teacher_action": "explain",
+        "selection_reason": "老师发布版写 manquer=缺，音频用“哪项信息缺少”确认本题义。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "32:00-33:30"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "terminer",
+    "pos": "verbe",
+    "zh": "[T6Q6/Q17] 结束；完成",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Elle veut terminer l’épreuve.",
+    "raw": "terminer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q6/Q17",
+        "teacher_action": "word_family",
+        "selection_reason": "老师从 terminale 引出 terminer，并在马拉松题再次用 terminer l’épreuve。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "35:30-36:00; 01:09:00-01:10:00"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "absent",
+    "pos": "adj",
+    "zh": "[T6Q8] 缺席的；不在的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "ADJECTIFS",
+    "example": "Madame Rico est absente aujourd’hui.",
+    "raw": "absent",
+    "fem": "absente",
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q8:source",
+        "teacher_action": "explain",
+        "selection_reason": "老师发布版强调 absente，音频反复解释为当天不在。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "41:30-42:30"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "disponible",
+    "pos": "adj",
+    "zh": "[T6Q8] 有空的；可用的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "ADJECTIFS",
+    "example": "Elle sera disponible demain après 14 heures.",
+    "raw": "disponible",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q8:stem",
+        "teacher_action": "explain",
+        "selection_reason": "老师发布版强调 disponible，音频明确对应 available。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "42:00-43:00"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un objectif",
+    "pos": "nom",
+    "zh": "[T6Q12/Q14/Q17] 目标；目的",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Son objectif est de terminer l’épreuve.",
+    "raw": "un objectif",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q12/Q14/Q17",
+        "teacher_action": "explain",
+        "selection_reason": "老师发布版写 objectif=目的，音频在多题中用它定位文本目标。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "51:30-52:30; 57:30-01:02:00; 01:09:00-01:10:00"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "goûter",
+    "pos": "verbe",
+    "zh": "[T6Q18] 品尝；尝一尝",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Nous voulons goûter des spécialités locales.",
+    "raw": "goûter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q18",
+        "teacher_action": "review",
+        "selection_reason": "老师发布版写出 goûter，音频说明这是当日听写过的“品尝”动词。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:14:30-01:15:00"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "déguster",
+    "pos": "verbe",
+    "zh": "[T6Q18] 品尝；细细品味",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Vous dégusterez nos petits plats.",
+    "raw": "déguster",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q18:source",
+        "teacher_action": "synonym",
+        "selection_reason": "老师发布版强调 dégusterez，音频把 déguster 与 goûter 对照为“品尝”。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:14:30-01:16:30"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une spécialité locale",
+    "pos": "nom",
+    "zh": "[T6Q18] 当地特色菜；地方特产",
+    "lesson": "L32",
+    "source_lesson": "L32",
+    "category": "AUTRES",
+    "example": "Le marché propose des spécialités locales.",
+    "raw": "une spécialité locale",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q18:option-B",
+        "teacher_action": "explain",
+        "selection_reason": "老师发布版强调正确选项，音频直接解释为 local specialty / 当地特色菜。",
+        "evidence": {
+          "file": "L32/L32.screenshot-vocab-review.md",
+          "time": "01:15:00-01:15:30"
+        }
+      }
+    ]
   }
 ]
