@@ -11,6 +11,10 @@
 *.avi
 *.webm
 
+# 听力题的 mp3 压缩包（compréhension Orale test N.zip）——散开的 mp3 上面已挡，
+# 打包成 zip 就绕过去了，所以按后缀一起挡。解压后的 mp3 才是要用的东西。
+*.zip
+
 # Office 临时锁文件（~$1.xlsx 之类），任何后缀都不进 git
 ~$*
 
