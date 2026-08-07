@@ -1416,17 +1416,8 @@
       {
         "source_kind": "reading_question",
         "source_ref": "L34:CE-test8:Q5",
-        "teacher_action": "agent_supplement",
-        "selection_reason": "学生在题面上给 bijou 标了问号。它是理解 Q5“具体词被上位词包住”的前提。",
-        "evidence": {
-          "file": "L34/L34.T8.reading-evidence.md"
-        }
-      },
-      {
-        "source_kind": "reading_question",
-        "source_ref": "L34:CE-test8:Q5",
         "teacher_action": "memorize",
-        "selection_reason": "老师笔记在 Nadia 短信旁红笔注出中文，属他挑选的词；由 Opus5 补充档升级为老师要求档。",
+        "selection_reason": "学生在题面上给 bijou 标了问号。它是理解 Q5“具体词被上位词包住”的前提。老师笔记也在 Nadia 短信旁用红笔注出中文，属他挑选的词。",
         "evidence": {
           "file": "L34/L34.T8.reading-evidence.md"
         }
@@ -1448,17 +1439,8 @@
       {
         "source_kind": "reading_question",
         "source_ref": "L34:CE-test8:Q5",
-        "teacher_action": "agent_supplement",
-        "selection_reason": "与 bijou 成对，构成本课知识卡「上位词选项可以包住原文的具体词」的实例。",
-        "evidence": {
-          "file": "L34/L34.T8.reading-evidence.md"
-        }
-      },
-      {
-        "source_kind": "reading_question",
-        "source_ref": "L34:CE-test8:Q5",
         "teacher_action": "memorize",
-        "selection_reason": "老师笔记在选项 A 下红笔注“礼物”并加下划线，属他挑选的词；由 Opus5 补充档升级为老师要求档。",
+        "selection_reason": "与 bijou 成对，构成本课知识卡「上位词选项可以包住原文的具体词」的实例。老师笔记也在选项 A 下红笔注“礼物”并加下划线，属他挑选的词。",
         "evidence": {
           "file": "L34/L34.T8.reading-evidence.md"
         }
