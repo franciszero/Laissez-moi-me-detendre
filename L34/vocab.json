@@ -22,6 +22,17 @@
           "lines": "239-250"
         },
         "learning_note": "tarif 是要收钱的一侧，和 gratuit 语义相反。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q10",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q10 的印刷原文里原样出现：Le restaurant universitaire vous propose des recettes régionales variées au tarif normal.",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "121-129"
+        },
+        "learning_note": "图上 tarif 有蓝笔下划线。下方另有一处红笔中文小字，字迹过小无法辨认，未采信。"
       }
     ]
   },
@@ -47,6 +58,17 @@
           "time": "16:00-17:00",
           "lines": "239-250"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q11",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q11 的选项 C里原样出现：Organiser des concerts de musique gratuits",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "130-140"
+        },
+        "learning_note": "原文是复数形容词 gratuits。"
       }
     ]
   },
@@ -97,6 +119,17 @@
           "time": "16:30-17:00",
           "lines": "245-250"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q8",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q8 的题干里原样出现：Qu'annonce cette affiche ?",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "105-113"
+        },
+        "learning_note": "图上 affiche 有下划线。题干直接用这个词提问，认不出就读不懂问的是什么。"
       }
     ]
   },
@@ -122,6 +155,17 @@
           "time": "17:00-17:30",
           "lines": "252-257"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q15 的选项 C里原样出现：S'inscrire pour cours de langue",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "167-176"
+        },
+        "learning_note": "图上 inscrire 被黄色高亮（与 Obtenir、afin de 同批）。"
       }
     ]
   },
@@ -147,6 +191,17 @@
           "time": "17:00-17:30",
           "lines": "252-257"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q2",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q2 的选项 D里原样出现：D'essayer un régime",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "59-67"
+        },
+        "learning_note": "图上 essayer un régime 有下划线，是被排除的干扰项。"
       }
     ]
   },
@@ -172,6 +227,17 @@
           "time": "17:00-17:30",
           "lines": "252-257"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q15",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q15 的印刷原文里原样出现：J'aimerais faire un stage dans votre maison d'édition afin de mieux connaître ce métier.",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "167-176"
+        },
+        "learning_note": "Q22 也出现过这个词，但那是我的分析表格，不是试卷原文，不作证据。"
       }
     ]
   },
@@ -273,6 +339,17 @@
           "time": "18:30-19:00",
           "lines": "272-277"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q10",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q10 的印刷原文里原样出现：des recettes régionales variées",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "121-129"
+        },
+        "learning_note": "与 tarif 同句。原文用复数 recettes。"
       }
     ]
   },
@@ -323,6 +400,17 @@
           "time": "18:30-19:00",
           "lines": "272-277"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q20",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q20 的题干里原样出现：Quel est l'objectif des conseils donnés dans ce texte ?",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "208-216"
+        },
+        "learning_note": "题干核心词。这类「问全文目的」的题，认不出 objectif 就抓不住问的是什么。"
       }
     ]
   },
@@ -349,6 +437,17 @@
           "lines": "272-277; 861-866"
         },
         "learning_note": "éviter que 后面接虚拟式，本阶段只需能认出，不要求主动使用。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q16",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q16 的印刷原文里原样出现：Cette démarche permet d'éviter qu'une invention … soit commercialisée par d'autres.",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "177-185"
+        },
+        "learning_note": "本词在图上被黄色高亮（与 devenir、démarche、droits 同批）。老师讲这道题时点名它今天听写过，要求重背——这一层已记在上一条听写来源里。"
       }
     ]
   },
@@ -450,6 +549,17 @@
           "lines": "278-290"
         },
         "learning_note": "se rencontrer 是相遇；互相认识要用 se connaître。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q11",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q11 的选项 D里原样出现：Rencontrer des professionnels de la musique",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "130-140"
+        },
+        "learning_note": "Q5 选项 D「Rencontrer une amie」同样出现（证据文件 83-90 行）。两题都把它放在选项里。"
       }
     ]
   },
@@ -549,6 +659,16 @@
           "file": "docker-data/outputs/L34/L34_final_working.md",
           "time": "20:00-20:30",
           "lines": "295-300"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q7",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q7 的选项 B里原样出现：À un spectacle musical",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "98-104"
         }
       }
     ]
@@ -2904,6 +3024,17 @@
           "file": "L34/doc/开课听写和动词变位/单词表.jpg"
         },
         "learning_note": "⚠️ 核对时老师只重复了词形「depart，就 depart」（转录 16:30-17:00），未给中文；此处取标准义。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L34:CE-test8:Q8",
+        "teacher_action": "review",
+        "selection_reason": "开课听写过的词，当天 test 8 Q8 的印刷原文里原样出现：DÉPART PLACE DES NATIONS DEVANT LE CENTRE DES CONGRÈS",
+        "evidence": {
+          "file": "L34/L34.T8.reading-evidence.md",
+          "lines": "105-113"
+        },
+        "learning_note": "海报正文全大写。此处是「出发地点」义，与听写时取的「出发；离开」一致；注意不要和 département 混。"
       }
     ]
   },
