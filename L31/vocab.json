@@ -146,6 +146,17 @@
           "time": "15:30-16:00",
           "lines": "243-248"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q1",
+        "teacher_action": "review",
+        "selection_reason": "L31 开场回顾的词，当天 T5 里反复出现：Q1 原文「Heures d'ouverture du service consulaire」，而 Q1 的问题正是「Quand le service est-il fermé au public ?」——认不出这个词就答不了题。",
+        "evidence": {
+          "file": "L31/L31.T5.reading-evidence.md",
+          "lines": "18-50"
+        },
+        "learning_note": "整卷共 5 道题出现：Q1（原文＋题干）、Q2「SERVICE DE 12 H À 14 H」、Q3「Service clientèle」、Q9「Objet : réunion de service」及选项 A、Q19 选项 C。此处只记 Q1，因为它是唯一「题干直接靠这个词」的一道。"
       }
     ]
   },
@@ -220,6 +231,16 @@
           "file": "VibeVoice/docker-data/outputs/L31/L31_final_working.md",
           "time": "02:00-02:30; 16:00-16:30",
           "lines": "63-68; 250-254"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q7",
+        "teacher_action": "review",
+        "selection_reason": "L31 开场回顾的词，当天 T5 Q7 选项 B「Un concours de chant」原样出现。",
+        "evidence": {
+          "file": "L31/L31.T5.reading-evidence.md",
+          "lines": "225-256"
         }
       }
     ]
@@ -471,6 +492,17 @@
           "time": "04:30-05:00; 17:00-17:30",
           "lines": "97-102; 263-268"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q14",
+        "teacher_action": "review",
+        "selection_reason": "L31 开场回顾的词，当天 T5 Q14 选项 D「Suivre des visites guidées」原样出现。",
+        "evidence": {
+          "file": "L31/L31.T5.reading-evidence.md",
+          "lines": "481-518"
+        },
+        "learning_note": "⚠️ Q13 原文里的「poursuivre un cursus」不是这个词，是 poursuivre，不要当成同一条证据。"
       }
     ]
   },
@@ -646,6 +678,17 @@
           "time": "18:30-19:30",
           "lines": "283-294"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L31:T5Q13",
+        "teacher_action": "word_family",
+        "selection_reason": "L31 开场回顾的是代词式 s'intégrer（融入），当天 T5 Q13 原文出现的是及物的 intégrer：「Intégrer votre université devrait me permettre d'atteindre le niveau d'expertise…」。",
+        "evidence": {
+          "file": "L31/L31.T5.reading-evidence.md",
+          "lines": "434-480"
+        },
+        "learning_note": "⚠️ 两个不是同一个用法：s'intégrer dans qch = 融入某个环境；intégrer qch = 进入/加入某机构。只记住「融入」这个义，读到「Intégrer votre université」会理解偏。词表里另有 l'intégration 可一起记。"
       }
     ]
   },
