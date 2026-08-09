@@ -107,6 +107,17 @@
           "time": "15:30-16:30",
           "lines": "237-246"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q6",
+        "teacher_action": "review",
+        "selection_reason": "L32 开场回顾的词，当天 T6 里多处出现：Q6 原文「Claude s'occupe des entrées, Dominique des boissons et moi du plat principal」——正是「一道菜／主菜」这个义。",
+        "evidence": {
+          "file": "L32/L32.T6.reading-evidence.md",
+          "lines": "181-213"
+        },
+        "learning_note": "Q18 原文「vous dégusterez nos petits plats」、Q19 选项 D「Les plats proposés en vol」同样出现。⚠️ Q19 的印刷原文里是 plateaux（托盘），不是 plats，别当成同一条证据。另注意与 une assiette（盘子）的区别——L31 老师专门纠正过把 plat 理解成盘子。"
       }
     ]
   },
@@ -218,6 +229,17 @@
           "time": "01:17:30-01:27:00"
         },
         "learning_note": "学生课堂笔记 PDF 提供可视题面；教师关系由 L32 音频确认。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L32:T6Q4",
+        "teacher_action": "review",
+        "selection_reason": "L32 开场回顾的词，当天 T6 Q4 印刷原文开门见山：「Vous souhaitez améliorer votre niveau en langue étrangère ?」",
+        "evidence": {
+          "file": "L32/L32.T6.reading-evidence.md",
+          "lines": "122-151"
+        },
+        "learning_note": "本词已记过 Q19 的来源，这是第二处独立出现。"
       }
     ]
   },
