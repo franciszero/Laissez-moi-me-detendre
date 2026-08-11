@@ -1,0 +1,227 @@
+{
+  "devenir means become not make become": {
+    "front": "翻译成法语（用 devenir，复合过去时）：**他成了记者。**",
+    "back": "答案：**Il est devenu journaliste.**\n\ndevenir 是「自己成为」——主语 il 本人变成记者，没有「使谁成为」的意思。\n\n自检：devenir 用哪个助动词？（être，所以是 il **est** devenu）",
+    "answer": "Il est devenu journaliste"
+  },
+  "demarche is step not registration": {
+    "front": "选择：「我要去这个协会**注册**」——横线上填 démarche 还是 s'inscrire？\n\n`Je vais ___ dans cette association.`",
+    "back": "答案：**m'inscrire**（s'inscrire 的变位）。\n\n`une démarche` 是「步骤、措施、手续」，不是「注册」——这正是当场被纠正的地方。\n单数 démarche 已经能表示「步骤/开启程序」，不需要写成复数。\n\n自检：把「办必要的手续」说出来。（faire les démarches nécessaires）",
+    "answer": "m'inscrire"
+  },
+  "facile faciliter facilite word family": {
+    "front": "三选一填空：`Ce logiciel ___ le travail.`\n\n（facile / faciliter / facilité）",
+    "back": "答案：**facilite**（动词 faciliter 的变位）。\n\n- 形容词：`C'est **facile**.`（容易的）\n- 动词：`Cela **facilite** le travail.`（使更容易）\n- 名词：`avec **facilité**`（容易、便利）\n\n当时记错的是把 facilité 当成形容词「快捷的」。",
+    "answer": "facilite"
+  },
+  "doccasion means secondhand": {
+    "front": "翻译成法语：**一辆二手车**",
+    "back": "答案：**une voiture d'occasion**\n\n`d'occasion` ＝ 二手的（固定搭配，放名词后）。\n光杆 `une occasion` 是「机会、场合」——老师特意说听写报的是 d'occasion，不是 occasion。",
+    "answer": "une voiture d'occasion"
+  },
+  "laid spelling silent final d": {
+    "front": "听写纠错：「丑的」这个形容词，学生写成了 `lai`。**正确拼写是什么？**",
+    "back": "答案：**laid**（阴性 laide）。\n\n词尾 -d 不发音，所以听写时最容易漏——老师的原话是「缺一个 d」。\n阴性 **laide** 里这个 d 会读出来，可以拿来自检。",
+    "answer": "laid"
+  },
+  "lutter pour versus lutter contre": {
+    "front": "填介词：\n\n1. `lutter ___ ses droits`（为自己的权利而争取）\n2. `lutter ___ le chômage`（与失业作斗争）",
+    "back": "答案：1. **pour** ／ 2. **contre**\n\n- `lutter **pour**` ＝ fight **for**（争取得到）\n- `lutter **contre**` ＝ fight **against**（对抗、消除）\n\n老师就是用 fight for / fight against 这组英语来定这两个介词的。",
+    "answer": "pour / contre"
+  },
+  "rencontre noun versus rencontrer verb": {
+    "front": "老师问的就是这一句：「是读 rencontrer 还是 rencontre？」\n\n**哪一个是名词形式？它是什么意思？**",
+    "back": "答案：名词是 **une rencontre**（相遇、会面）；**rencontrer** 是动词（遇到、见到）。\n\n判断靠位置：前面有冠词/形容词 → 名词；作谓语带宾语 → 动词。",
+    "answer": "une rencontre"
+  },
+  "acquerir requerir conquerir family scope": {
+    "front": "补全 acquérir 的现在时：\n\n`j'acquiers, tu acquiers, il acquiert, nous ___, vous ___, ils ___`\n\n过去分词是？",
+    "back": "答案：**nous acquérons, vous acquérez, ils acquièrent**；过去分词 **acquis**。\n\nrequérir（require）同一套：`je requiers … nous requérons`，过去分词 **requis**。\n\n老师的范围：这一族**只要求背 acquérir 和 requérir**，conquérir「背不背都无所谓」——对 TCF Canada 用不上。",
+    "answer": "nous acquérons / vous acquérez / ils acquièrent / acquis"
+  },
+  "enumeration connectors dabord en plus en outre": {
+    "front": "把这三句平铺的句子加上老师给的列举连接词：\n\n`Je voudrais acheter une lampe. / Je vais acheter une table. / Je vais changer le miroir.`\n\n**三个连接词分别是什么？**",
+    "back": "答案：**D'abord … / En plus … / En outre …**\n\n> D'abord, je voudrais acheter une nouvelle lampe dans la chambre.\n> En plus, je vais acheter une nouvelle table dans la cuisine.\n> En outre, je vais changer le miroir dans la salle de bain.\n\n老师原话是「把它改成，首先、其次、再次」——问题不是内容不好，是没有层次。",
+    "answer": "D'abord / En plus / En outre"
+  },
+  "memorize ai assisted writing sentences": {
+    "front": "老师看完你借 Google Translate 写的 T2，提了一条硬要求。**是什么？为什么？**",
+    "back": "答案：**把作文里那些句子背下来**。\n\n老师的理由：「你哪怕下次考到原题，如果你不记得这些单词还是没有用」——交上来的作文都是好的，但不进脑子等于没写。他强调「一定要注意这一点」。\n\n做法：定稿后把自己写不出来、靠工具补的那几句划出来，当词条背。",
+    "answer": "把作文里靠工具补出来的句子背下来"
+  },
+  "peindre en couleur collocation": {
+    "front": "填介词：`Je voudrais peindre les murs ___ beige.`（把墙刷成米色）",
+    "back": "答案：**en**\n\n`peindre qch **en** + 颜色` ＝ 把某物刷成某色。\n\n整句：*Je voudrais peindre les murs **en** beige au salon.*",
+    "answer": "en"
+  },
+  "decevoir conjugation cedilla": {
+    "front": "补全 décevoir 的现在时和过去分词：\n\n`je ___, tu ___, il ___, nous ___, vous ___, ils ___` ｜ 过去分词：`___`",
+    "back": "答案：**je déçois, tu déçois, il déçoit, nous décevons, vous décevez, ils déçoivent**；过去分词 **déçu**。\n\n软音符规则：c 在 **o/u** 前写成 **ç**（dé**ç**ois、dé**ç**u），在 **e** 前不写（décevons、décevez）。\n\n同族：recevoir → nous recevons，过去分词 **reçu**。",
+    "answer": "je déçois / nous décevons / ils déçoivent / déçu"
+  },
+  "decevant versus decu": {
+    "front": "填空（décevant / déçu）：\n\n1. `C'est un festival ___.`（这个音乐节让人失望）\n2. `Je suis très ___.`（我很失望）",
+    "back": "答案：1. **décevant** ／ 2. **déçu**\n\n- **décevant**（现在分词形）＝ 令人失望的 → 修饰那个东西\n- **déçu**（过去分词形）＝ 感到失望的 → 修饰人\n\n老师的记忆钩子：完全等于英语 **surprising / surprised**、**exciting / excited**。\n说 `Je suis décevant` 意思变成「我这个人让别人失望」。",
+    "answer": "décevant / déçu"
+  },
+  "present participle formation nous ons ant": {
+    "front": "写出这几个动词的现在分词：\n\n`faire` → ___ ｜ `décevoir` → ___ ｜ `être` → ___ ｜ `avoir` → ___ ｜ `savoir` → ___",
+    "back": "答案：**faisant / décevant / étant / ayant / sachant**\n\n规则：**nous 现在时 → 去 -ons → 加 -ant**\n- nous fais**ons** → fais- → **faisant**\n- nous décev**ons** → décev- → **décevant**\n\n只有三个特例：**être → étant**、**avoir → ayant**、**savoir → sachant**（注意不是 *savant*）。",
+    "answer": "faisant / décevant / étant / ayant / sachant"
+  },
+  "present participle invariable no person": {
+    "front": "改错：`__Étante__ malade, elle n'est pas allée à l'école.`\n\n**错在哪？**",
+    "back": "答案：应为 **Étant** malade, elle n'est pas allée à l'école.\n\n现在分词**没有人称、也不做性数配合**，只有一种形式——即使主语是 elle 也不加 -e。\n原因：做状语时它默认和主句同主语，人称信息由主句承担。",
+    "answer": "Étant"
+  },
+  "present participle as adjective clause": {
+    "front": "用现在分词改写：\n\n`J'ai rencontré Madame Dubon **qui faisait** ses courses.`",
+    "back": "答案：**J'ai rencontré Madame Dubon faisant ses courses.**\n\n现在分词作定语 ＝ `qui + 变位` 的主动关系从句，删掉 qui 和变位，动词换成 -ant。\n\n老师另一个例子：\n> un article **qui a exposé** les problèmes sociaux\n> ＝ un article **exposant** les problèmes sociaux\n\n对应英语的 *an article exposing social problems*。",
+    "answer": "J'ai rencontré Madame Dubon faisant ses courses"
+  },
+  "present participle as adverbial": {
+    "front": "现在分词作状语能表三种关系。**分别是哪三种？各给一个法语例句。**",
+    "back": "答案：**同时 / 原因 / 结果**\n\n- 同时（＝ quand）：*__Traversant__ la rue, j'ai rencontré Paul.*\n- 原因（＝ comme）：*__Ne sachant pas__ comment faire, elle a téléphoné à la police.*\n- 结果（放句末）：*On a fait une grande fenêtre, __offrant__ une belle vue.*\n\n跟英语一一对应：*walking on the street, I saw her* ／ *not knowing the road…* ／ *…leaving us a good view*。",
+    "answer": "同时 / 原因 / 结果"
+  },
+  "present participle transformation drop conjunction subject": {
+    "front": "用现在分词改写，注意别留下多余成分：\n\n`Comme elle était malade, elle n'est pas allée à l'école.`",
+    "back": "答案：**Étant malade, elle n'est pas allée à l'école.**\n\n手续三步：**① 删连词 comme ② 删主语 elle ③ 动词变 -ant**。\n\n隐含前提：分词的主语**默认就是主句主语**。两个分句主语不同时不能这样压缩。",
+    "answer": "Étant malade, elle n'est pas allée à l'école"
+  },
+  "present participle negation ne pas": {
+    "front": "写出否定的现在分词：\n\n1. savoir（不知道）→ ___\n2. pouvoir（不能）→ ___",
+    "back": "答案：1. **ne sachant pas** ／ 2. **ne pouvant pas**\n\n结构：**ne + 现在分词 + pas**，分词本身不变形。\n\n> *__Ne sachant pas__ comment faire, elle a téléphoné à la police.*\n> *__Ne pouvant pas__ venir à notre soirée, Monique nous a téléphoné pour s'excuser.*",
+    "answer": "ne sachant pas / ne pouvant pas"
+  },
+  "present participle raises writing register": {
+    "front": "老师说：写作文时应该主动把某种结构换成现在分词。**换哪两类？为什么说反而更省事？**",
+    "back": "答案：① **qui 引导的定语从句**；② **时间/原因/结果状语从句**。\n\n省事的原因：现在分词**不用考虑变位和配合**——主句是现在时还是过去时，分词永远是同一个 -ant 形式。\n\n老师原话：「现在分词是一个语级非常高的语法，但对我们来说它很简单，因为它跟英语是一模一样的。」",
+    "answer": "qui 定语从句 / 时间-原因-结果状语从句"
+  },
+  "ce qui cest que cleft": {
+    "front": "补全：`Ce qui m'a le plus déçu, c'est ___ la chanteuse que j'adore était absente.`",
+    "back": "答案：**que**\n\n`Ce qui …, c'est …` 后面如果是**一个完整的句子**，必须加 **que**。\n后面只接名词时不加：*Ce qui m'a le plus déçu, c'est **le bruit**.*\n\n老师原话：「你后面如果是一个完整的句子，你必须要加 c'est que。」",
+    "answer": "que"
+  },
+  "couter time cela subject": {
+    "front": "翻译成法语（老师给的说法）：**（这）花了我两个小时才进去。**",
+    "back": "答案：**Cela m'a coûté deux heures pour y entrer.**\n\n对应英语 *It cost me two hours to get in*。\n\n关键：主语用 **cela**，不用 il——il 会被读成指代前面某个具体的人或物。",
+    "answer": "Cela m'a coûté deux heures pour y entrer"
+  },
+  "plus tot versus plus tard and result logic": {
+    "front": "改错（两处）：\n\n`La circulation était très dense après le festival __parce que__ je suis rentrée chez moi __plus tôt__.`\n\n本意是「散场后交通很堵，所以我回家很晚」。",
+    "back": "答案：**donc**（或 c'est pourquoi）＋ **plus tard**\n\n> La circulation était très dense après le festival, **donc** je suis rentrée chez moi **plus tard**.\n\n- **plus tôt** ＝ 更早 ｜ **plus tard** ＝ 更晚（学生写反了）\n- 交通堵是**原因**，回家晚是**结果**——老师原话：「这不是一个原因呀，你不觉得是一个结果吗？」",
+    "answer": "donc + plus tard"
+  },
+  "arriver is punctual event": {
+    "front": "选时态：`Quand je ___ au théâtre, il y avait déjà une longue queue.`\n\n（arriver：复合过去时还是未完成过去时？）",
+    "back": "答案：**je suis arrivé**（复合过去时）。\n\n老师的理由：**「到达」只能是一次性的东西**——瞬间完成，没有持续过程，所以用 passé composé。\n后半句的背景描写（il y avait）才用未完成过去时。",
+    "answer": "je suis arrivé"
+  },
+  "tcf t2 negative recommendation variant": {
+    "front": "TCF 写作 T2 大多数是让你推荐别人去做某事。**这一篇是什么变体？结尾必须有什么？**",
+    "back": "答案：是**「不推荐」变体**——根据一次糟糕经历劝对方别去。老师说它「也考过，考过好几次」。\n\n不管哪种方向，**结尾必须有一句明确表态**：推荐 / 不推荐 / 请对方来跟你分享经历。\n\n> *Je ne vous recommande pas de participer à la prochaine édition.*",
+    "answer": "不推荐变体；结尾必须有明确表态"
+  },
+  "annonce do not overread": {
+    "front": "广告全文：`500 euros /mois : Location deux pièces. Cuisine, vue sur mer.`\n\n问：`Que présente cette annonce ?` A) Un appartement B) Un restaurant C) Un voyage D) Une voiture\n\n**选哪个？为什么很多人选错？**",
+    "back": "答案：**A) Un appartement**\n\n这条广告从头到尾只讲了**一件事：房**。`vue sur mer` 是房子的卖点，不是「去旅行」。\n\n老师的判词：「你想多了……你看到海景，你觉得应该是出去玩……这个就属于你脑补过多了。」\n方法：先问这条广告在**卖什么**，答案只能从它卖的东西里选。",
+    "answer": "A) Un appartement"
+  },
+  "skip modifiers keep main clause": {
+    "front": "Q2 干扰项是 `Des cours particuliers`，你卡在 particulier 上。**老师教的处理办法是什么？**",
+    "back": "答案：**修饰成分看不懂先不管，抓主干。**\n\n`Des cours particuliers` 的主干是 **cours（课）**——回原文找「课」：原文只有「discuter / groupes de conversation / activités ensemble」，没有课，A 直接排除。\n\n老师原话：「如果你这个地方都不是特别清楚，我们修饰的成分其实可以不管的。」\n本题正确答案是 **C) Des rencontres entre jeunes**。",
+    "answer": "先看主干名词，修饰成分可以先跳过"
+  },
+  "nouveaux horaires means schedule change": {
+    "front": "Q3 有一半学生（包括你上次）选了 `Il va avoir de nouveaux horaires`。**nouveaux horaires 到底指什么？为什么这里不成立？**",
+    "back": "答案：`de nouveaux horaires` ＝ **整体作息/营业时间表改变**（10:00–20:00 改成 9:00–19:00，或朝九晚五改成朝八晚六）。\n\n原文说的是「度假到 9 月 1 日，2 号起恢复，周一照常 11 点开门」——时间表没变，只是放了个暑假。所以正确答案是 **D) Il va fermer pendant l'été**。\n\n老师的边界：**只是一天的改动，一般不会这样叫。**",
+    "answer": "整体作息时间表改变"
+  },
+  "jusquau versus a partir du dates": {
+    "front": "原文：`… en vacances **jusqu'au** dimanche 1er septembre. Nous aurons le plaisir de vous retrouver **à partir du 2**.`\n\n**商店哪天恢复营业？这两个短语各是什么意思？**",
+    "back": "答案：**9 月 2 日**恢复。\n\n- `jusqu'au 1er septembre` ＝ **直到** 9 月 1 日（休假的终点）\n- `à partir du 2` ＝ **从** 2 号**起**（恢复的起点）\n\n学生当时把 1er septembre 读成了「开始」，方向反了。两句合起来读，才看得出这是一整段夏休。",
+    "answer": "9 月 2 日；jusqu'au＝直到，à partir du＝从…起"
+  },
+  "manquer a inverted subject": {
+    "front": "翻译成法语：**我很想你。**（用 manquer）",
+    "back": "答案：**Tu me manques.**\n\nmanquer 表「想念」时**主宾倒置**：被想念的一方是主语。\n- `L'Espagne **me** manque.` ＝ 我想念西班牙\n- `Mes amis **me** manquent.` ＝ 我想念我的朋友们（主语复数，动词跟着变）\n\nQ5 正是靠 `l'Espagne me manque beaucoup` 判定 Elsa 是**西班牙人**。",
+    "answer": "Tu me manques"
+  },
+  "verb sense narrower than chinese jouer": {
+    "front": "原文：`Venez **jouer ensemble** à la Maison de la jeunesse et de la culture !`\n\n选项 A) Apprendre à jouer d'un instrument　D) Rencontrer des professionnels\n\n**为什么 A 和 D 都错？**",
+    "back": "答案：正确答案是 **B) Faire de la musique avec d'autres personnes**。\n\n`venez jouer ensemble` ＝ **来一起玩音乐（合奏）**：\n- 不是「学」→ 排除 A\n- 不是「见专业人士」→ 排除 D\n\n老师原话：「A 和 D 是同一个错误。」并给出通则：**有些动词的含义在法语里比中文收得更窄**，翻成中文后含义变宽，就会误选。",
+    "answer": "B) Faire de la musique avec d'autres personnes"
+  },
+  "mai versus mars false friend": {
+    "front": "填中文：`mai` ＝ ___ 月　｜　`mars` ＝ ___ 月",
+    "back": "答案：**mai ＝ 五月**（May）　｜　**mars ＝ 三月**（March）\n\nQ7 问「18h30 之后还能在公园散步是几月」，时间表里 4/1–6/30 开到 20h30，所以是 **C) En mai**。学生选了 D) En mars，正是把这两个月记反了——老师原话：「May 是五月，March 是三月。完了，写反了。」",
+    "answer": "mai＝五月；mars＝三月"
+  },
+  "memorize looked up reading words": {
+    "front": "老师讲完阅读时提了一条固定要求，并用本卷的一个词举例。**要求是什么？例词是什么？**",
+    "back": "答案：要求是 **「查过的单词一定要背」**；例词是 **de faibles revenus**（工资很低 / 低收入）。\n\n老师给的理由是**复用**：「口语跟写作里面……讨论一个社会现象的时候，你就可以说现在工资很低。」\n`revenu` ＝ 收入。\n\n做法：查过的词分两类——只需认得的留在阅读侧；能进口语/写作话题的，抄进词表并配一个自己的句子。",
+    "answer": "查过的单词要背；例词 de faibles revenus"
+  },
+  "arriver a faire succeed": {
+    "front": "翻译：**我没办法写出给领导的那封信。**（用老师点名要记的表达）",
+    "back": "答案：**Je n'arrive pas à écrire le courrier pour le directeur.**\n\n`arriver à + 不定式` ＝ **做成某事**（不是「到达」）。\n- 肯定：*J'**arrive à** ouvrir ce paquet.*（我成功打开了包裹）\n- 单用：*Je suis arrivé.* ≈ 英语 **I made it.**\n\n老师说这个表达「经常会出现在听力里面」。",
+    "answer": "Je n'arrive pas à écrire le courrier pour le directeur"
+  },
+  "arreter de faire stop doing": {
+    "front": "翻译（用 arrêter）：**别再玩球了。**",
+    "back": "答案：**Arrête de jouer avec le ballon.**\n\n`arrêter **de** + 不定式` ＝ 停止做某事（arrêter ＝ stop）。\n\n另一条路是 `ne … pas`，但听力里 **Arrête de …** 是高频开头，要能一听就懂。",
+    "answer": "Arrête de jouer avec le ballon"
+  },
+  "courrier general term boundary": {
+    "front": "你把 `courrier` 记成「邮箱里的纸质邮件」。**老师怎么纠正的？**",
+    "back": "答案：**不需要记得这么具体——courrier 就是对信件的总称**，任何形式的信件都可以叫 courrier。\n\n两个语境都成立：\n> *Le facteur est passé, tu vas chercher le **courrier** ?*（邮递员来过了，你去拿信吗？）\n> *Je n'arrive pas à écrire le **courrier** pour le directeur.*（给领导的那封信我写不出来）\n\n配套：`le facteur` ＝ 邮递员；这里的 `passer` ＝ 经过、来过。",
+    "answer": "courrier 是信件的总称"
+  },
+  "monnaie versus argent": {
+    "front": "翻译：**零钱您留着。**（餐厅结账时）\n\n另外：monnaie 和 argent 有什么区别？",
+    "back": "答案：**Vous pouvez garder la monnaie.** ＝ keep the change。\n\n- **la monnaie** ＝ **零钱**（不是 money！）\n- **l'argent** ＝ 钱（真正对应 money 的词）\n\n老师原话：「monnaie 它不是 money，它更多表的是零钱。完全等于那个 money 的词是 argent。」",
+    "answer": "Vous pouvez garder la monnaie"
+  },
+  "politeness replies je ten prie pas de quoi": {
+    "front": "对方说：`Allô Anne, je suis libre demain. Nous déjeunons ensemble ?`\n\nA) Avec plaisir　B) Ça va, merci　C) Je t'en prie　D) Pas de quoi\n\n**选哪个？其余三个各回应什么？**",
+    "back": "答案：**A) Avec plaisir.**（很乐意）——对方在**邀约**。\n\n其余三个：\n- **Ça va, merci.** → 回应「你过得好吗？」\n- **Je t'en prie / Je vous en prie.** → 回应道谢或请求（源自 `prier qn de faire qch`，字面「我这样请求你」；一个约等于 s'il vous plaît，一个约等于「不客气」）\n- **(Il n'y a) pas de quoi.** → 没关系、不客气\n\n老师的方法论：听力应答题要**非常机械地回应人家的那一句话**。",
+    "answer": "A) Avec plaisir"
+  },
+  "emmener versus chercher": {
+    "front": "填动词（emmener / chercher）：\n\n1. `Tu pourrais m'___ à l'aéroport en voiture ?`（你能开车送我去机场吗？）\n2. `Je viendrai te ___ à la gare.`（我去火车站接你）",
+    "back": "答案：1. **emmener** ／ 2. **chercher**\n\n- **emmener qn** ＝ 把某人**带走/送到**某地（*Emmener les enfants à l'école.*）\n- **(venir/aller) chercher qn** ＝ 去**接**某人——老师原话「它是真正的接」\n\n方向相反：emmener 是我带你走，chercher 是我过去把你取回来。",
+    "answer": "emmener / chercher"
+  },
+  "passer te prendre chez toi": {
+    "front": "翻译：**当然，我顺路到你家接你。**",
+    "back": "答案：**Bien sûr, je passe te prendre chez toi.**\n\n- `passer` 本义「经过、来过」：*Le facteur est **passé**.*（邮递员来过了）\n- `passer + 动词原形` ＝ **顺路过去做某事**\n- 这里的「接」用 **prendre**（take）\n\n老师把它和前面听力题的 `le facteur est passé` 串成一条线讲。",
+    "answer": "Bien sûr, je passe te prendre chez toi"
+  },
+  "future tense in listening": {
+    "front": "这四个都出现在同一段听力里：`prêterai / viendrai / pourra / fera`。\n\n**它们是什么时态？原形分别是什么？老师的应对原则是什么？**",
+    "back": "答案：都是**简单将来时**；原形是 **prêter / venir / pouvoir / faire**。\n\n老师的原则：**「将来时听不出来没有关系，先把这个动词本身接受」**——先靠词干认出动词，别卡在时态上。\n\n另外注意 `ferai`（将来时）和 `ferait`（条件式）听起来很接近。",
+    "answer": "简单将来时；prêter / venir / pouvoir / faire"
+  },
+  "descendre au dernier arret": {
+    "front": "翻译：**你在 78 路公交的最后一站下车。**",
+    "back": "答案：**Tu descends au dernier arrêt du bus 78.**\n\n- **descendre** ＝ 下来 → 交通语境里就是**下车**\n- **un arrêt** ＝ 站、停靠站（**arrêter** 的名词形式）\n\n老师说这类题抓住「哪一路 + 第几站」就够了。",
+    "answer": "Tu descends au dernier arrêt du bus 78"
+  },
+  "aller en foret preposition": {
+    "front": "填介词（最常用的那个）：`On pourra aller ___ forêt.`",
+    "back": "答案：**en** → *On pourra aller **en** forêt.*\n\n老师：「森林它稍微特殊一点，我们一般都是 aller **en** forêt。」\n`aller à la forêt`、`aller dans la forêt` 也可以，但 **en forêt 用得多一点**。",
+    "answer": "en"
+  },
+  "prix introduced by a": {
+    "front": "填介词：`Désolé, je préfère le menu ___ 18 euros.`（18 欧的套餐）",
+    "back": "答案：**à** → *le menu **à** 18 euros*\n\n价格作补语时用介词 **à** 引导。老师原话：「如果是价格表，价格做补语的话，通常用介词 à 引导出来。」",
+    "answer": "à"
+  },
+  "jaimerais je voudrais polite wish": {
+    "front": "翻译（用老师说「用得多一点」的那两个说法）：**我想要一张靠窗的桌子。**",
+    "back": "答案：**Je voudrais une table près de la fenêtre.**（或 J'aimerais …）\n\n`je voudrais` / `j'aimerais` 是**条件式**，表示委婉的「我想要」，比 `je veux` 得体，老师说这两个「用的多一点」。\n\n> *J'**aimerais** ouvrir ce colis.* ＝ I would like to open this parcel.",
+    "answer": "Je voudrais une table près de la fenêtre"
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "groups": [
+    {
+      "id": "dictation-corrections",
+      "label": "开课听写：词义边界与拼写纠错",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "devenir means become not make become",
+          "order": 10
+        },
+        {
+          "source_species": "demarche is step not registration",
+          "order": 20
+        },
+        {
+          "source_species": "facile faciliter facilite word family",
+          "order": 30
+        },
+        {
+          "source_species": "doccasion means secondhand",
+          "order": 40
+        },
+        {
+          "source_species": "laid spelling silent final d",
+          "order": 50
+        },
+        {
+          "source_species": "lutter pour versus lutter contre",
+          "order": 60
+        },
+        {
+          "source_species": "rencontre noun versus rencontrer verb",
+          "order": 70
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "querir-family",
+      "label": "-quérir 动词族与老师的取舍边界",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "acquerir requerir conquerir family scope",
+          "order": 10
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-t1",
+      "label": "写作 T1：房间描述的结构与复盘",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "enumeration connectors dabord en plus en outre",
+          "order": 10
+        },
+        {
+          "source_species": "memorize ai assisted writing sentences",
+          "order": 20
+        },
+        {
+          "source_species": "peindre en couleur collocation",
+          "order": 30
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "decevoir-participle",
+      "label": "décevoir：变位与主被动形容词",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "decevoir conjugation cedilla",
+          "order": 10
+        },
+        {
+          "source_species": "decevant versus decu",
+          "order": 20
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "participe-present",
+      "label": "现在分词：构成、两大用法与改写手续",
+      "order": 50,
+      "species": [
+        {
+          "source_species": "present participle formation nous ons ant",
+          "order": 10
+        },
+        {
+          "source_species": "present participle invariable no person",
+          "order": 20
+        },
+        {
+          "source_species": "present participle as adjective clause",
+          "order": 30
+        },
+        {
+          "source_species": "present participle as adverbial",
+          "order": 40
+        },
+        {
+          "source_species": "present participle transformation drop conjunction subject",
+          "order": 50
+        },
+        {
+          "source_species": "present participle negation ne pas",
+          "order": 60
+        },
+        {
+          "source_species": "present participle raises writing register",
+          "order": 70
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-t2",
+      "label": "写作 T2：强调句、因果逻辑与题型变体",
+      "order": 60,
+      "species": [
+        {
+          "source_species": "ce qui cest que cleft",
+          "order": 10
+        },
+        {
+          "source_species": "couter time cela subject",
+          "order": 20
+        },
+        {
+          "source_species": "plus tot versus plus tard and result logic",
+          "order": 30
+        },
+        {
+          "source_species": "arriver is punctual event",
+          "order": 40
+        },
+        {
+          "source_species": "tcf t2 negative recommendation variant",
+          "order": 50
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "reading-strategy",
+      "label": "阅读策略：不脑补、抓主干、查过就背",
+      "order": 70,
+      "species": [
+        {
+          "source_species": "annonce do not overread",
+          "order": 10
+        },
+        {
+          "source_species": "skip modifiers keep main clause",
+          "order": 20
+        },
+        {
+          "source_species": "memorize looked up reading words",
+          "order": 30
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "reading-t9",
+      "label": "阅读 T9：高频词与语义陷阱",
+      "order": 80,
+      "species": [
+        {
+          "source_species": "nouveaux horaires means schedule change",
+          "order": 10
+        },
+        {
+          "source_species": "jusquau versus a partir du dates",
+          "order": 20
+        },
+        {
+          "source_species": "manquer a inverted subject",
+          "order": 30
+        },
+        {
+          "source_species": "verb sense narrower than chinese jouer",
+          "order": 40
+        },
+        {
+          "source_species": "mai versus mars false friend",
+          "order": 50
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "listening-t2",
+      "label": "听力 T2：动词接口、场景词与套语",
+      "order": 90,
+      "species": [
+        {
+          "source_species": "arriver a faire succeed",
+          "order": 10
+        },
+        {
+          "source_species": "arreter de faire stop doing",
+          "order": 20
+        },
+        {
+          "source_species": "courrier general term boundary",
+          "order": 30
+        },
+        {
+          "source_species": "monnaie versus argent",
+          "order": 40
+        },
+        {
+          "source_species": "politeness replies je ten prie pas de quoi",
+          "order": 50
+        },
+        {
+          "source_species": "emmener versus chercher",
+          "order": 60
+        },
+        {
+          "source_species": "passer te prendre chez toi",
+          "order": 70
+        },
+        {
+          "source_species": "future tense in listening",
+          "order": 80
+        },
+        {
+          "source_species": "descendre au dernier arret",
+          "order": 90
+        },
+        {
+          "source_species": "aller en foret preposition",
+          "order": 100
+        },
+        {
+          "source_species": "prix introduced by a",
+          "order": 110
+        },
+        {
+          "source_species": "jaimerais je voudrais polite wish",
+          "order": 120
+        }
+      ],
+      "practice_cards": []
+    }
+  ]
+}

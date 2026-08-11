@@ -1,0 +1,4074 @@
+[
+  {
+    "lemma": "un climatiseur",
+    "pos": "nom",
+    "zh": "[L35课前复习] 空调",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Le climatiseur ne marche pas.",
+    "raw": "un climatiseur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:climatiseur",
+        "teacher_action": "review",
+        "selection_reason": "开课听写第一个词，学生核对时答「空调」，老师未纠正。L34 老师笔记里高亮过同一个词，本课重考。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "00:00-00:30",
+          "lines": "36-41"
+        },
+        "learning_note": "三路 ASR 在这一窗分别听成 climatiser / climate disease / クリマディザー，综合发音与学生答案「空调」及 L34 词表，还原为名词 climatiseur。"
+      }
+    ]
+  },
+  {
+    "lemma": "un bijou",
+    "pos": "nom",
+    "zh": "[L35课前复习] 首饰；珠宝",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Elle porte de beaux bijoux.",
+    "raw": "un bijou",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:bijou",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「珠宝」，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "00:30-01:00",
+          "lines": "43-46"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "varié",
+    "pos": "adj",
+    "zh": "[L35课前复习] 多种多样的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Des activités variées.",
+    "raw": "varié",
+    "fem": "variée",
+    "fem_raw": "variée",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:varie",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，老师核对时说「varié 是对的，它是 varied 的意思，就是多种多样」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "09:00-09:30",
+          "lines": "152-157"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "laid",
+    "pos": "adj",
+    "zh": "[L35课前复习] 丑的；难看的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Il est laid.",
+    "raw": "laid",
+    "fem": "laide",
+    "fem_raw": "laide",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:laid",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词，学生漏写词尾不发音的 d，老师当场指出「缺一个 d」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "09:00-09:30",
+          "lines": "152-157"
+        },
+        "learning_note": "词尾 -d 不发音，阴性 laide 才读得出来。"
+      }
+    ]
+  },
+  {
+    "lemma": "lutter",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 斗争；抗争",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "lutter contre le chômage",
+    "raw": "lutter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:lutter",
+        "teacher_action": "explain",
+        "selection_reason": "开课听写词，老师用英语 fight for / fight against 讲清 lutter pour 与 lutter contre 两个方向。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "09:00-09:30",
+          "lines": "152-157"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "facile",
+    "pos": "adj",
+    "zh": "[L35课前复习] 容易的；简单的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "C'est facile.",
+    "raw": "facile",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:facile",
+        "teacher_action": "contrast",
+        "selection_reason": "开课听写核对时，老师把 facile（形容词）、faciliter（动词）、facilité（名词）三个词性当场分开。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "15:30-16:00",
+          "lines": "236-241"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q15",
+        "teacher_action": "word_family",
+        "selection_reason": "同词族的副词 facilement 出现在 Q15 选项 D 的印刷原文里：Les Parisiens peuvent accéder facilement à des livres électroniques。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "212-221"
+        },
+        "learning_note": "这一条只是同词族再现，不是 facile 本身原样出现。"
+      }
+    ]
+  },
+  {
+    "lemma": "faciliter",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 使更容易；简化；促进",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Cela facilite le travail.",
+    "raw": "faciliter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:faciliter",
+        "teacher_action": "correction",
+        "selection_reason": "学生把 facilité 报成「快捷的」，老师纠正：faciliter 才是动词，意思是简化。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "15:30-16:00",
+          "lines": "236-241"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la facilité",
+    "pos": "nom",
+    "zh": "[L35课前复习] 容易；便利",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Il a réussi avec facilité.",
+    "raw": "la facilité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:facilite",
+        "teacher_action": "contrast",
+        "selection_reason": "与 facile / faciliter 同时讲解，用来固定「名词」这一格。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "15:30-16:00",
+          "lines": "236-241"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "d'occasion",
+    "pos": "expr",
+    "zh": "[L35课前复习] 二手的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "une voiture d'occasion",
+    "raw": "d'occasion",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:doccasion",
+        "teacher_action": "explain",
+        "selection_reason": "老师明确听写报的是 d'occasion 而不是 occasion，并用 une voiture d'occasion 说明「二手」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "09:30-10:00",
+          "lines": "159-167"
+        },
+        "learning_note": "光杆 une occasion 是「机会、场合」，两者不能互换。"
+      }
+    ]
+  },
+  {
+    "lemma": "devenir",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 成为；变成",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Il est devenu journaliste.",
+    "raw": "devenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:devenir",
+        "teacher_action": "correction",
+        "selection_reason": "学生答「使成为」，老师当场纠正：devenir 只是主语自己成为，并给出 il est devenu journaliste。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:00-16:30",
+          "lines": "243-248"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "unique",
+    "pos": "adj",
+    "zh": "[L35课前复习] 唯一的；独一无二的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "un cas unique",
+    "raw": "unique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:unique",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「独特的」，老师未纠正。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:00-16:30",
+          "lines": "243-248"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un propriétaire",
+    "pos": "nom",
+    "zh": "[L35课前复习] 物主；所有者；房东",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Le propriétaire vend la maison.",
+    "raw": "un propriétaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:proprietaire",
+        "teacher_action": "explain",
+        "selection_reason": "开课听写词，老师说明它就是 property 的那个主人，并强调「这单词报了很多遍」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "10:00-10:30",
+          "lines": "169-174"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q3 选项 B 原样出现：Il va changer de propriétaire。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "85-95"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un droit",
+    "pos": "nom",
+    "zh": "[L35课前复习] 权利",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "défendre ses droits",
+    "raw": "un droit",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:droit",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答 right，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:00-16:30",
+          "lines": "243-248"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q14",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q14 选项 B 原样出现（复数）：Défendre les droits des enfants。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "200-210"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une démarche",
+    "pos": "nom",
+    "zh": "[L35课前复习] 步骤；措施；办法",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "faire les démarches nécessaires",
+    "raw": "une démarche",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:demarche",
+        "teacher_action": "correction",
+        "selection_reason": "学生答「注册」，老师纠正为步骤/措施/手段，并指出单数 démarche 本身就能表示这个意思。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "250-255"
+        },
+        "learning_note": "「注册」是 s'inscrire，不是 démarche。"
+      }
+    ]
+  },
+  {
+    "lemma": "un essai",
+    "pos": "nom",
+    "zh": "[L35课前复习] 尝试；试验",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "faire un essai",
+    "raw": "un essai",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:essai",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，VibeVoice 与 Qwen3 在同一窗口一致听到 essai。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "02:30-03:00",
+          "lines": "67-71"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "baisser",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 下降；降低",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Les prix baissent.",
+    "raw": "baisser",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:baisser",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「下降」，老师确认「下降都可以」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "250-255"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "word_family",
+        "selection_reason": "同词族名词 une baisse 出现在 Q20 印刷原文：baisse de l'attention et de notre mémorisation。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        },
+        "learning_note": "卷面上是名词 baisse，与本词条的动词 baisser 只是同词族，不是同一形式。"
+      }
+    ]
+  },
+  {
+    "lemma": "le traitement",
+    "pos": "nom",
+    "zh": "[L35课前复习] 处理",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "le traitement de l'information",
+    "raw": "le traitement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:traitement",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「治疗方案」，老师未纠正。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "250-255"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q20 印刷原文原样出现：Ralentissement du traitement de l'information。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        },
+        "learning_note": "卷面上是「信息处理」这一义，不是「治疗」。"
+      }
+    ]
+  },
+  {
+    "lemma": "une capacité",
+    "pos": "nom",
+    "zh": "[L35课前复习] 能力；容量",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "les capacités physiques",
+    "raw": "une capacité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:capacite",
+        "teacher_action": "explain",
+        "selection_reason": "开课听写词，老师两次强调「capacité 是个名词」，学生核对时答「容量」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "16:30-17:00",
+          "lines": "250-255"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q20 选项 A 原样出现：Améliorer les capacités physiques；Q22 印刷原文另有 la capacité d'intervention。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "maintenir",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 保持；维持",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "maintenir les performances de la mémoire",
+    "raw": "maintenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:maintenir",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「维护」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "03:00-03:30",
+          "lines": "73-77"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q20 选项 D 原样出现：Maintenir les performances de la mémoire。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "à court terme",
+    "pos": "expr",
+    "zh": "[L35课前复习] 短期的；短期内",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "la mémorisation à court terme",
+    "raw": "à court terme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:a-court-terme",
+        "teacher_action": "explain",
+        "selection_reason": "开课听写词，老师用 a short term 对上，确认「短期的」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "17:30-18:00",
+          "lines": "263-268"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q20 印刷原文原样出现：baisse de l'attention et de notre mémorisation à court terme。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un tarif",
+    "pos": "nom",
+    "zh": "[L35课前复习] 价目；收费标准",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "des tarifs avantageux",
+    "raw": "un tarif",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:tarif",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答 price，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "17:30-18:00",
+          "lines": "263-268"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q12",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q12 选项 B 原样出现：Pour profiter de tarifs avantageux；Q8 标题另有 Tarif exceptionnel。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "179-188"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une séance",
+    "pos": "nom",
+    "zh": "[L35课前复习] 一场；一次（课程或活动）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "une séance de cinéma",
+    "raw": "une séance",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:seance",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时用 session 对上，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "17:30-18:00",
+          "lines": "263-268"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "rencontrer",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 遇到；碰见",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "J'ai rencontré un étudiant mexicain.",
+    "raw": "rencontrer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:rencontrer",
+        "teacher_action": "explain",
+        "selection_reason": "开课听写词，老师追问读的是 rencontrer 还是 rencontre，确认名词形式是 rencontre。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q5",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q5 印刷原文原样出现：J'ai rencontré un étudiant mexicain。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "105-114"
+        },
+        "learning_note": "同卷 Q2 的 des rencontres 与 Q19 的 la rencontre 是它的名词形式。"
+      }
+    ]
+  },
+  {
+    "lemma": "la sécurité",
+    "pos": "nom",
+    "zh": "[L35课前复习] 安全；安保",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "les mesures de sécurité",
+    "raw": "la sécurité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:securite",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「安保、保安」，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un spectacle",
+    "pos": "nom",
+    "zh": "[L35课前复习] 演出；表演",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "aller voir un spectacle",
+    "raw": "un spectacle",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:spectacle",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时用 show 对上，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "s'inscrire",
+    "pos": "verbe pronominal",
+    "zh": "[L35课前复习] 登记；注册；报名",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Inscrivez-vous dans l'association de l'Université.",
+    "raw": "s'inscrire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:sinscrire",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「注册」，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q2",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q2 印刷原文以命令式原样出现：Inscrivez-vous dans l'association de l'Université。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "74-83"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un stage",
+    "pos": "nom",
+    "zh": "[L35课前复习] 实习",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "une offre de stage de fin d'études",
+    "raw": "un stage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:stage",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生一时忘了，老师直接给出「stage 是实习」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q21",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q21 选项 B 原样出现：Communiquer une offre de stage de fin d'études。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "285-295"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "essayer",
+    "pos": "verbe",
+    "zh": "[L35课前复习] 尝试；试",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "essayer de s'opposer à qch",
+    "raw": "essayer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:essayer",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时用 try 对上，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q15",
+        "teacher_action": "review",
+        "selection_reason": "本课当天 test 9 的 Q15 选项 A 原样出现：La mairie de Paris va essayer de s'opposer aux livres électroniques。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "212-221"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "défavorable",
+    "pos": "adj",
+    "zh": "[L35课前复习] 不利的；反对的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "un avis défavorable",
+    "raw": "défavorable",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:defavorable",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生核对时答「不利的」，老师确认通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "18:00-18:30",
+          "lines": "270-275"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "nuancé",
+    "pos": "adj",
+    "zh": "[L35课前复习] 有细微差别的；有所保留的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "une opinion nuancée",
+    "raw": "nuancé",
+    "fem": "nuancée",
+    "fem_raw": "nuancée",
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:nuance",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "05:00-05:30",
+          "lines": "101-105"
+        },
+        "learning_note": "老师随后对这个词做过一段解释（表示一种有保留的态度），但那一窗被判为低可信转录，本条不据此认定。"
+      }
+    ]
+  },
+  {
+    "lemma": "le réveillon",
+    "pos": "nom",
+    "zh": "[L35课前复习] 节庆前夕的聚餐；年夜饭",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "le réveillon de Noël",
+    "raw": "le réveillon",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:reveillon",
+        "teacher_action": "review",
+        "selection_reason": "开课听写词，学生答「年夜饭那类的晚餐」，老师确认「年夜饭啊，平安夜啊，都是它」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "19:00-19:30",
+          "lines": "284-289"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "acquérir",
+    "pos": "verbe",
+    "zh": "[L35动词变位] 取得；获得",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "J'ai acquis de l'expérience.",
+    "raw": "acquérir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:querir-family:acquerir",
+        "teacher_action": "memorize",
+        "selection_reason": "老师讲完听写后加讲 -quérir 动词族，明确说「我的要求就是背这两个」，acquérir 是其中之一，并要求把过去分词一起写下来。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "19:30-20:30",
+          "lines": "291-306"
+        },
+        "learning_note": "变位 j'acquiers … nous acquérons … ils acquièrent，过去分词 acquis。"
+      }
+    ]
+  },
+  {
+    "lemma": "requérir",
+    "pos": "verbe",
+    "zh": "[L35动词变位] 要求；需要",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Cette tâche requiert de la patience.",
+    "raw": "requérir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:querir-family:requerir",
+        "teacher_action": "memorize",
+        "selection_reason": "与 acquérir 一起被老师点名要求背下来，对应英语 require，变位与 acquérir 完全相同。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "19:30-20:30",
+          "lines": "291-306"
+        },
+        "learning_note": "过去分词 requis。"
+      }
+    ]
+  },
+  {
+    "lemma": "conquérir",
+    "pos": "verbe",
+    "zh": "[L35动词变位] 征服",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "conquérir un marché",
+    "raw": "conquérir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:querir-family:conquerir",
+        "teacher_action": "explain",
+        "selection_reason": "同族第三个词，老师只用来对照变位。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "19:30-20:30",
+          "lines": "291-306"
+        },
+        "learning_note": "老师明说这个词「背不背都无所谓」「对 TCF Canada 来说其实用不上」——不要求记忆。"
+      }
+    ]
+  },
+  {
+    "lemma": "d'abord",
+    "pos": "expr",
+    "zh": "[L35写作T1] 首先",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "D'abord, je voudrais acheter une nouvelle lampe.",
+    "raw": "d'abord",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:connectors",
+        "teacher_action": "memorize",
+        "selection_reason": "老师改写 T1 时用 D'abord / En plus / En outre 三个连接词重排整段，并要求把这些常用句背下来。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "27:00-28:00",
+          "lines": "393-404"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "en plus",
+    "pos": "expr",
+    "zh": "[L35写作T1] 另外；此外",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "En plus, je vais acheter une nouvelle table.",
+    "raw": "en plus",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:connectors",
+        "teacher_action": "memorize",
+        "selection_reason": "老师改写 T1 的第二个列举连接词。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "27:00-28:00",
+          "lines": "393-404"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "en outre",
+    "pos": "expr",
+    "zh": "[L35写作T1] 此外；再者",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "En outre, je vais changer le miroir.",
+    "raw": "en outre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:connectors",
+        "teacher_action": "memorize",
+        "selection_reason": "老师改写 T1 的第三个列举连接词，语级比 en plus 更书面。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "27:00-28:00",
+          "lines": "393-404"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "peindre",
+    "pos": "verbe",
+    "zh": "[L35写作T1] 粉刷；油漆；画",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "peindre les murs en beige",
+    "raw": "peindre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:peindre",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在 T1 里把 peindre les murs en beige 单独拎出来，归入「非常非常常用的词」并要求背。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "28:00-28:30",
+          "lines": "406-411"
+        },
+        "learning_note": "颜色由介词 en 引出：peindre qch en + 颜色。"
+      }
+    ]
+  },
+  {
+    "lemma": "ajouter",
+    "pos": "verbe",
+    "zh": "[L35写作T1] 添加；增加",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "ajouter des plantes et quelques photos",
+    "raw": "ajouter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:ajouter",
+        "teacher_action": "memorize",
+        "selection_reason": "老师朗读并肯定的 T1 原句 j'aimerais ajouter des plantes et quelques photos 里的动词，属于他要求背下来的绿色标注句之一。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "26:30-27:00",
+          "lines": "385-391"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un miroir",
+    "pos": "nom",
+    "zh": "[L35写作T1] 镜子",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "changer le miroir dans la salle de bain",
+    "raw": "un miroir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:miroir",
+        "teacher_action": "memorize",
+        "selection_reason": "出现在老师示范改写的句子里（je vais changer le miroir dans la salle de bain），属于房间描述题的高频物件词。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "27:00-28:00",
+          "lines": "393-404"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "beige",
+    "pos": "adj",
+    "zh": "[L35写作T1] 米色的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "peindre les murs en beige",
+    "raw": "beige",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:beige",
+        "teacher_action": "memorize",
+        "selection_reason": "老师解释 peindre les murs en beige 时专门说明是「把墙 paint 成米色」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "28:00-28:30",
+          "lines": "406-411"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "décevoir",
+    "pos": "verbe",
+    "zh": "[L35写作T2] 使失望",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Ce festival m'a déçu.",
+    "raw": "décevoir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:decevoir",
+        "teacher_action": "memorize",
+        "selection_reason": "学生想在 T2 里说「让人失望的音乐节」但说不出来，老师当场教这个词并带出整套变位与分词。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "29:30-30:00",
+          "lines": "427-435"
+        },
+        "learning_note": "变位 je déçois / nous décevons / ils déçoivent，过去分词 déçu。"
+      }
+    ]
+  },
+  {
+    "lemma": "décevant",
+    "pos": "adj",
+    "zh": "[L35写作T2] 令人失望的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "C'est un festival décevant.",
+    "raw": "décevant",
+    "fem": "décevante",
+    "fem_raw": "décevante",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:decevant",
+        "teacher_action": "memorize",
+        "selection_reason": "老师要写「一个让人失望的音乐节」时给出的形容词，并反复用 surprising/surprised 讲清主被动。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "51:00-51:30",
+          "lines": "733-738"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "déçu",
+    "pos": "adj",
+    "zh": "[L35写作T2] 感到失望的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je suis très déçu.",
+    "raw": "déçu",
+    "fem": "déçue",
+    "fem_raw": "déçue",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:decu",
+        "teacher_action": "memorize",
+        "selection_reason": "décevoir 的过去分词转形容词，老师说「它的意思一定记住了」，与 décevant 成对。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "33:00-33:30",
+          "lines": "477-482"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "coûter",
+    "pos": "verbe",
+    "zh": "[L35写作T2] 花费（钱或时间）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Cela m'a coûté deux heures pour y entrer.",
+    "raw": "coûter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:couter",
+        "teacher_action": "memorize",
+        "selection_reason": "学生想说「排队花了我两个小时」说不出来，老师给出 coûter 并示范整句。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "54:00-54:30",
+          "lines": "775-780"
+        },
+        "learning_note": "主语用 cela，不用 il。"
+      }
+    ]
+  },
+  {
+    "lemma": "plus tard",
+    "pos": "expr",
+    "zh": "[L35写作T2] 更晚；后来",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je suis rentrée chez moi plus tard.",
+    "raw": "plus tard",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:plus-tard",
+        "teacher_action": "correction",
+        "selection_reason": "学生写成 plus tôt（更早），老师纠正为 plus tard。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "55:30-56:00",
+          "lines": "795-801"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "plus tôt",
+    "pos": "expr",
+    "zh": "[L35写作T2] 更早",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je suis parti plus tôt que prévu.",
+    "raw": "plus tôt",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:plus-tot",
+        "teacher_action": "correction",
+        "selection_reason": "学生把它当成「更晚」用，与 plus tard 成对固定。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "55:30-56:00",
+          "lines": "795-801"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la circulation",
+    "pos": "nom",
+    "zh": "[L35写作T2] 交通；车流",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "La circulation était très dense après le festival.",
+    "raw": "la circulation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:circulation",
+        "teacher_action": "explain",
+        "selection_reason": "老师逐句读学生的 T2 时用到的关键名词，用来讨论散场后的交通逻辑。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "55:30-56:00",
+          "lines": "795-801"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q22",
+        "teacher_action": "review",
+        "selection_reason": "同一天 test 9 的 Q22 两次出现：restreindre la circulation automobile；Il risque d'entraver la circulation des véhicules de secours。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "297-309"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un revenu",
+    "pos": "nom",
+    "zh": "[T9Q18] 收入",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "des personnes qui ont de faibles revenus",
+    "raw": "un revenu",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "memorize",
+        "selection_reason": "老师讲完阅读后说「你要查过的单词你要背啊」，随即指着本题的 faible revenu 举例，并说明口语写作里讨论社会现象时可以用它说「现在工资很低」。这是本卷唯一明确的「要背」指令。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:08:30-01:09:30",
+          "lines": "981-993"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "memorize",
+        "selection_reason": "Q18 选项 C 的印刷原文：Aux locataires qui ont de faibles revenus。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "245-257"
+        },
+        "learning_note": "L34 的 T8Q18 已把它作为补充词收过，本课老师明确要求背，档次因此不同。"
+      }
+    ]
+  },
+  {
+    "lemma": "de faibles revenus",
+    "pos": "expr",
+    "zh": "[T9Q18] 低收入；工资很低",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Cette aide s'adresse aux locataires qui ont de faibles revenus.",
+    "raw": "de faibles revenus",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "memorize",
+        "selection_reason": "老师的原话就是「工资很低怎么说呢？faible revenu」，并强调这是可以搬进口语和写作的说法。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:08:30-01:09:30",
+          "lines": "981-993"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "memorize",
+        "selection_reason": "Q18 选项 C 原样出现，是本题的正确答案关键词。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "245-257"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "manquer à quelqu'un",
+    "pos": "expr",
+    "zh": "[T9Q5] （某人）想念……",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "L'Espagne me manque beaucoup.",
+    "raw": "manquer à quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q5",
+        "teacher_action": "explain",
+        "selection_reason": "老师专门讲这个倒置结构：被想念的一方作主语，tu me manques ＝ I miss you，Q5 的国籍答案完全靠这一句判断。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:03:00-01:04:00",
+          "lines": "904-916"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q5",
+        "teacher_action": "explain",
+        "selection_reason": "Q5 印刷原文：car l'Espagne me manque beaucoup !",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "105-114"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un horaire",
+    "pos": "nom",
+    "zh": "[T9Q3] 时间表；作息/营业时间",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Le magasin a de nouveaux horaires.",
+    "raw": "un horaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "explain",
+        "selection_reason": "老师用「10 点到 20 点改成 9 点到 19 点」「朝九晚五」界定 nouveaux horaires 的语义，并说明一天的临时改动不算。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:01:00-01:02:00",
+          "lines": "876-888"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "explain",
+        "selection_reason": "Q3 选项 A 的印刷原文：Il va avoir de nouveaux horaires。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "85-95"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "jusqu'à",
+    "pos": "expr",
+    "zh": "[T9Q3] 直到……（为止）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Nous sommes en vacances jusqu'au dimanche 1er septembre.",
+    "raw": "jusqu'à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "correction",
+        "selection_reason": "学生把 jusqu'au 1er septembre 读成「9 月 1 日开始」，老师纠正为「直到 9 月 1 日」，并配合 à partir du 2 说明整段休假。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:00:30-01:01:00",
+          "lines": "869-874"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "correction",
+        "selection_reason": "Q3 印刷原文：en vacances jusqu'au dimanche 1er septembre。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "85-95"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "à partir de",
+    "pos": "expr",
+    "zh": "[T9Q3] 从……开始",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Nous aurons le plaisir de vous retrouver à partir du 2.",
+    "raw": "à partir de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "explain",
+        "selection_reason": "与 jusqu'au 配对使用，老师用它说明商店 9 月 2 日才恢复营业。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:00:30-01:01:00",
+          "lines": "869-874"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "explain",
+        "selection_reason": "Q3 印刷原文：Nous aurons le plaisir de vous retrouver à partir du 2。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "85-95"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "mai",
+    "pos": "nom",
+    "zh": "[T9Q7] 五月",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "En mai, le parc ferme à 20h30.",
+    "raw": "mai",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q7",
+        "teacher_action": "correction",
+        "selection_reason": "学生把 mai 和 mars 记反导致 Q7 选错，老师当场纠正「May 是五月，March 是三月」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:05:00-01:05:30",
+          "lines": "932-937"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q7",
+        "teacher_action": "correction",
+        "selection_reason": "Q7 选项 C：En mai（正确答案）。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "124-132"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "mars",
+    "pos": "nom",
+    "zh": "[T9Q7] 三月",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Louisa est arrivée le 14 mars.",
+    "raw": "mars",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q7",
+        "teacher_action": "correction",
+        "selection_reason": "与 mai 成对纠正，学生原本选了 En mars。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:05:00-01:05:30",
+          "lines": "932-937"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q7",
+        "teacher_action": "correction",
+        "selection_reason": "Q7 选项 D：En mars（学生的错误答案）。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "124-132"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "jouer ensemble",
+    "pos": "expr",
+    "zh": "[T9Q11] 一起玩（音乐）；合奏",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Venez jouer ensemble à la Maison de la jeunesse et de la culture !",
+    "raw": "jouer ensemble",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q11",
+        "teacher_action": "explain",
+        "selection_reason": "老师用这一句讲 Q11 的正解，并由此引出通则：有些动词的含义在法语里比中文收得更窄。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:06:00-01:07:30",
+          "lines": "946-965"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q11",
+        "teacher_action": "explain",
+        "selection_reason": "Q11 印刷原文：Venez jouer ensemble à la Maison de la jeunesse et de la culture !",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "163-175"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "donner une famille à quelqu'un",
+    "pos": "expr",
+    "zh": "[T9Q14] 给某人一个家（收养语境）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Donner une famille aux enfants orphelins.",
+    "raw": "donner une famille à quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q14",
+        "teacher_action": "explain",
+        "selection_reason": "老师用这句解释 Q14 的正解：机构立场是给孩子找父母，不是给父母找孩子。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:07:30-01:08:30",
+          "lines": "967-979"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q14",
+        "teacher_action": "explain",
+        "selection_reason": "Q14 选项 C：Donner une famille aux enfants（正确答案）。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "200-210"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "suivre une formation",
+    "pos": "expr",
+    "zh": "[T9Q5] 参加培训",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Nous suivons ensemble une formation en Italie.",
+    "raw": "suivre une formation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q5",
+        "teacher_action": "explain",
+        "selection_reason": "Q5 印刷原文里的关键动词短语。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:02:30-01:03:00",
+          "lines": "897-902"
+        },
+        "learning_note": "老师明说「你就算这个 suivons 不认识也没关系」——本题不靠它作答，属可认不可背的一档。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q5",
+        "teacher_action": "explain",
+        "selection_reason": "Q5 印刷原文：nous suivons ensemble une formation en Italie。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "105-114"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un colis",
+    "pos": "nom",
+    "zh": "[L35听力T2] 包裹",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "J'aimerais ouvrir ce colis.",
+    "raw": "un colis",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:A",
+        "teacher_action": "explain",
+        "selection_reason": "听力第一题的关键名词，老师直接给出「colis 是包裹」并让学生复述整句。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:10:00-01:11:00",
+          "lines": "1006-1018"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un cadeau",
+    "pos": "nom",
+    "zh": "[L35听力T2] 礼物",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "C'est un cadeau.",
+    "raw": "un cadeau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:A",
+        "teacher_action": "explain",
+        "selection_reason": "同一题里与 colis 配套的名词，老师用 it's a gift 对上。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:11:00-01:11:30",
+          "lines": "1020-1025"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le courrier",
+    "pos": "nom",
+    "zh": "[L35听力T2] 信件（总称）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Le facteur est passé, tu vas chercher le courrier ?",
+    "raw": "le courrier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:B-D",
+        "teacher_action": "correction",
+        "selection_reason": "学生把 courrier 定义成「邮箱里的纸质邮件」，老师纠正「不需要记得这么具体」，courrier 是对任何形式信件的总称。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:14:00-01:15:00",
+          "lines": "1063-1075"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un facteur",
+    "pos": "nom",
+    "zh": "[L35听力T2] 邮递员",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Le facteur est passé.",
+    "raw": "un facteur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:D",
+        "teacher_action": "explain",
+        "selection_reason": "老师翻译整句「邮递员过去了」，并解释这里的 passer 是经过、来过。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:14:00-01:15:00",
+          "lines": "1063-1075"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "arriver à faire quelque chose",
+    "pos": "expr",
+    "zh": "[L35听力T2] 做成某事；成功做到",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je n'arrive pas à écrire le courrier pour le directeur.",
+    "raw": "arriver à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:B",
+        "teacher_action": "memorize",
+        "selection_reason": "老师原话「注意啊，记一个表达：arriver à 加不定式」，并说它经常出现在听力里。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:12:30-01:13:30",
+          "lines": "1041-1054"
+        },
+        "learning_note": "单独说 je suis arrivé 时等同于英语 I made it。"
+      }
+    ]
+  },
+  {
+    "lemma": "arrêter de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L35听力T2] 停止做某事",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Arrête de jouer avec le ballon.",
+    "raw": "arrêter de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:A",
+        "teacher_action": "memorize",
+        "selection_reason": "老师总结听力题时给出 stop doing something 的第二种说法，并说「我们以前背过这个单词」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:17:00-01:18:00",
+          "lines": "1105-1117"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un bonnet",
+    "pos": "nom",
+    "zh": "[L35听力T2] 软帽；毛线帽",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Mets ton bonnet tout de suite.",
+    "raw": "un bonnet",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:C",
+        "teacher_action": "explain",
+        "selection_reason": "学生问「bonnet 是什么」，老师解释是软帽——冬天的毛线帽、泳帽都算。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:16:30-01:17:00",
+          "lines": "1098-1103"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la fenêtre",
+    "pos": "nom",
+    "zh": "[L35听力T2] 窗户",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je voudrais une table près de la fenêtre.",
+    "raw": "la fenêtre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:B",
+        "teacher_action": "memorize",
+        "selection_reason": "老师明确要求：「窗户这个单词比较基础，我要背下来，la fenêtre」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:19:00-01:20:00",
+          "lines": "1133-1148"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "garder la monnaie",
+    "pos": "expr",
+    "zh": "[L35听力T2] 不用找了（零钱留着）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Vous pouvez garder la monnaie.",
+    "raw": "garder la monnaie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:D",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说 garder la monnaie 就是 keep the change，「跟英文一模一样」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:19:30-01:20:00",
+          "lines": "1140-1148"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la monnaie",
+    "pos": "nom",
+    "zh": "[L35听力T2] 零钱",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je n'ai pas de monnaie.",
+    "raw": "la monnaie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:D",
+        "teacher_action": "contrast",
+        "selection_reason": "老师强调 monnaie 不是 money，只表零钱，真正等于 money 的是 argent。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:19:30-01:20:00",
+          "lines": "1140-1148"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "l'argent",
+    "pos": "nom",
+    "zh": "[L35听力T2] 钱",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je n'ai pas d'argent.",
+    "raw": "l'argent",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:D",
+        "teacher_action": "contrast",
+        "selection_reason": "与 monnaie 成对给出，老师说「完全等于那个 money 的词是 argent」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:19:30-01:20:00",
+          "lines": "1140-1148"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "avec plaisir",
+    "pos": "expr",
+    "zh": "[L35听力T2] 很乐意；乐意之至",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "— Nous déjeunons ensemble ? — Avec plaisir.",
+    "raw": "avec plaisir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:reponses",
+        "teacher_action": "memorize",
+        "selection_reason": "老师讲这组套语时说「像这种常见的表达，把它记下来就可以了，它只会在听力里面考」，avec plaisir 是回应邀约的那一个。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:20:30-01:23:00",
+          "lines": "1157-1190"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "je t'en prie",
+    "pos": "expr",
+    "zh": "[L35听力T2] 不客气；请（你）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "— Merci beaucoup. — Je t'en prie.",
+    "raw": "je t'en prie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:reponses",
+        "teacher_action": "memorize",
+        "selection_reason": "老师从 prier qn de faire qch 讲到 je vous en prie / je t'en prie 的固化，一个约等于 s'il vous plaît，一个约等于不客气。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:21:30-01:23:00",
+          "lines": "1171-1190"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "il n'y a pas de quoi",
+    "pos": "expr",
+    "zh": "[L35听力T2] 没关系；不客气",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "— Merci ! — Pas de quoi.",
+    "raw": "il n'y a pas de quoi",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:reponses",
+        "teacher_action": "memorize",
+        "selection_reason": "老师指出 pas de quoi 是 il n'y a pas de quoi 的简写，意思是没关系。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:22:00-01:23:00",
+          "lines": "1178-1190"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "entendre",
+    "pos": "verbe",
+    "zh": "[L35听力T2] 听见",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Avez-vous entendu quelque chose ?",
+    "raw": "entendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:entendre",
+        "teacher_action": "explain",
+        "selection_reason": "老师追问这个词什么意思并给出 hear，随后让学生听它的过去分词 entendu。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:23:00-01:24:00",
+          "lines": "1192-1204"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "c'est par là",
+    "pos": "expr",
+    "zh": "[L35听力T2] 在那边",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "— Où est la gare ? — Non, c'est par là.",
+    "raw": "c'est par là",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:cestparla",
+        "teacher_action": "explain",
+        "selection_reason": "老师给出 c'est par là ＝ it's over there，并据此定这一题只能选 C。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:24:30-01:25:30",
+          "lines": "1213-1225"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "emmener",
+    "pos": "verbe",
+    "zh": "[L35听力T2] 带走；送（某人去某地）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Tu pourrais m'emmener à l'aéroport en voiture ?",
+    "raw": "emmener",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:emmener",
+        "teacher_action": "memorize",
+        "selection_reason": "老师收尾时点名「第一个，emmener，带走」，并用 emmener les enfants à l'école 举例。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:31:30-01:32:30",
+          "lines": "1312-1323"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "venir chercher quelqu'un",
+    "pos": "expr",
+    "zh": "[L35听力T2] 来接某人",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je viendrai te chercher à la gare.",
+    "raw": "venir chercher quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:chercher",
+        "teacher_action": "memorize",
+        "selection_reason": "老师与 emmener 并排给出：「chercher，接，它是真正的接」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:36:00-01:37:30",
+          "lines": "1371-1389"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un aéroport",
+    "pos": "nom",
+    "zh": "[L35听力T2] 机场",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Tu peux m'emmener à l'aéroport ?",
+    "raw": "un aéroport",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:aeroport",
+        "teacher_action": "explain",
+        "selection_reason": "老师带学生逐块造句「你能开车送我去机场吗」时给出的地点词。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:32:30-01:33:00",
+          "lines": "1325-1329"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les transports en commun",
+    "pos": "expr",
+    "zh": "[L35听力T2] 公共交通",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "À cette heure-là, il n'y a pas de transport en commun.",
+    "raw": "les transports en commun",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:transport",
+        "teacher_action": "memorize",
+        "selection_reason": "老师原话：「transport en commun 这样的表达一定要记住，公共交通它都是固定的表达」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:37:00-01:37:30",
+          "lines": "1385-1389"
+        },
+        "learning_note": "也可以说 transport public。"
+      }
+    ]
+  },
+  {
+    "lemma": "prêter quelque chose à quelqu'un",
+    "pos": "expr",
+    "zh": "[L35听力T2] 把某物借给某人",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je te prêterai ma valise.",
+    "raw": "prêter quelque chose à quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:preter",
+        "teacher_action": "explain",
+        "selection_reason": "老师翻译整句「我把我的行李箱借给你」并让学生自己写出变位。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:35:00-01:36:00",
+          "lines": "1358-1369"
+        },
+        "learning_note": "注意听力原句用的是简单将来时 prêterai。"
+      }
+    ]
+  },
+  {
+    "lemma": "une valise",
+    "pos": "nom",
+    "zh": "[L35听力T2] 行李箱",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je te prête ma valise.",
+    "raw": "une valise",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:valise",
+        "teacher_action": "explain",
+        "selection_reason": "与 prêter 一起给出，老师另外提醒它是阴性。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:35:00-01:36:00",
+          "lines": "1358-1369"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "passer prendre quelqu'un",
+    "pos": "expr",
+    "zh": "[L35听力T2] 顺路去接某人",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je passe te prendre chez toi.",
+    "raw": "passer prendre quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:passer",
+        "teacher_action": "explain",
+        "selection_reason": "老师把它和前面听力题的 le facteur est passé 串起来讲，并指出「接」用的是 prendre。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:33:30-01:34:30",
+          "lines": "1338-1350"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "descendre",
+    "pos": "verbe",
+    "zh": "[L35听力T2] 下来；下车",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Tu descends au dernier arrêt du bus 78.",
+    "raw": "descendre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:descendre",
+        "teacher_action": "explain",
+        "selection_reason": "老师指出学生没听出来的就是这个词，descendre 在交通语境里表示下车。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:46:30-01:47:30",
+          "lines": "1523-1534"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un arrêt",
+    "pos": "nom",
+    "zh": "[L35听力T2] 站；停靠站",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "le dernier arrêt du bus",
+    "raw": "un arrêt",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:arret",
+        "teacher_action": "explain",
+        "selection_reason": "老师说明 arrêt 是 arrêter 的名词形式，就是车站。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:46:30-01:47:30",
+          "lines": "1523-1534"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les lunettes de soleil",
+    "pos": "expr",
+    "zh": "[L35听力T2] 太阳镜",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Attends, je prends mes lunettes de soleil.",
+    "raw": "les lunettes de soleil",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:lunettes",
+        "teacher_action": "memorize",
+        "selection_reason": "老师专门点出「注意第一个表达啊，你对这个有一点陌生」——lunettes de soleil 就是 sunglasses，法语用两个词，英语只有一个。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:43:00-01:43:30",
+          "lines": "1473-1478"
+        },
+        "learning_note": "lunettes 单用是「眼镜」。"
+      }
+    ]
+  },
+  {
+    "lemma": "fermé",
+    "pos": "adj",
+    "zh": "[L35听力T2] 关闭的；打烊的",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Quel dommage ! Demain c'est fermé.",
+    "raw": "fermé",
+    "fem": "fermée",
+    "fem_raw": "fermée",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:ferme",
+        "teacher_action": "explain",
+        "selection_reason": "老师给出 c'est fermé ＝ it's closed。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:42:00-01:42:30",
+          "lines": "1459-1464"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "quel dommage !",
+    "pos": "expr",
+    "zh": "[L35听力T2] 真可惜！",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Quel dommage ! Demain c'est fermé.",
+    "raw": "quel dommage !",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:dommage",
+        "teacher_action": "explain",
+        "selection_reason": "听力选项原句，老师带读并翻译整句。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:42:00-01:42:30",
+          "lines": "1459-1464"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "aller en forêt",
+    "pos": "expr",
+    "zh": "[L35听力T2] 去森林",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "On pourra aller en forêt.",
+    "raw": "aller en forêt",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:foret",
+        "teacher_action": "explain",
+        "selection_reason": "老师说「森林它稍微特殊一点」，aller en forêt 用得最多。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:41:30-01:42:00",
+          "lines": "1452-1457"
+        },
+        "learning_note": "aller à la forêt / aller dans la forêt 也成立，但不是首选。"
+      }
+    ]
+  },
+  {
+    "lemma": "apporter",
+    "pos": "verbe",
+    "zh": "[L35听力T2] 带来（某物）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Tu apportes quelque chose à boire ?",
+    "raw": "apporter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:apporter",
+        "teacher_action": "explain",
+        "selection_reason": "老师解释 apporter quelque chose ＝ you bring something，并让学生复述整句。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:44:30-01:45:00",
+          "lines": "1494-1499"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "j'aimerais",
+    "pos": "expr",
+    "zh": "[L35听力T2] 我想要（委婉）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "J'aimerais ouvrir ce colis.",
+    "raw": "j'aimerais",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:conditionnel",
+        "teacher_action": "explain",
+        "selection_reason": "老师确认这是条件式，并说 j'aimerais / je voudrais「用的多一点」，比 je veux 得体。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:39:30-01:40:30",
+          "lines": "1421-1436"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "je voudrais",
+    "pos": "expr",
+    "zh": "[L35听力T2] 我想要（委婉）",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je voudrais une table près de la fenêtre.",
+    "raw": "je voudrais",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:conditionnel",
+        "teacher_action": "explain",
+        "selection_reason": "与 j'aimerais 成对，老师在听力里反复用它造点餐、寄信的句子。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:39:30-01:40:30",
+          "lines": "1421-1436"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "j'arrive tout de suite",
+    "pos": "expr",
+    "zh": "[L35听力T2] 我马上来",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "D'accord, j'arrive tout de suite.",
+    "raw": "j'arrive tout de suite",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:CO-test2:jarrive",
+        "teacher_action": "explain",
+        "selection_reason": "听力选项原句，老师翻译为 I'm coming right now。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "01:42:00-01:42:30",
+          "lines": "1459-1464"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une location",
+    "pos": "nom",
+    "zh": "[T9Q1 补] 出租；租赁 [Opus5 建议：住房是 TCF 阅读和 T1 写作的高频主题，louer/location 一组必须能一眼认出]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Location deux pièces, cuisine, vue sur mer.",
+    "raw": "une location",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q1",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q1 广告的第一行就是 Location deux pièces，是判断「这是房屋广告」的直接依据。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "67-72"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "deux pièces",
+    "pos": "expr",
+    "zh": "[T9Q1 补] 两居室（一室一厅式的两间房） [Opus5 建议：法语房源广告的固定计数方式，看不懂 pièce 就读不出这是住房广告]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Location deux pièces à 500 euros par mois.",
+    "raw": "deux pièces",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q1",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q1 广告用 deux pièces 描述房型，老师讲解时也照着「两间房」念。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "67-72"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "vue sur mer",
+    "pos": "expr",
+    "zh": "[T9Q1 补] 海景 [Opus5 建议：它是本题最大的干扰源，认得它才能守住「这只是房子的卖点」这条线]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Cuisine, vue sur mer.",
+    "raw": "vue sur mer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q1",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q1 里正是这个词把学生带偏到「旅行/酒店」。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "67-72"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une sortie",
+    "pos": "nom",
+    "zh": "[T9Q2 补] 外出活动；出行 [Opus5 建议：口语 T1/T2 描述业余生活时几乎必用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Faire des activités ensemble : sport, shopping, visites, sorties...",
+    "raw": "une sortie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q2",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q2 原文列举协会活动时用到，是判断「年轻人之间的聚会」的语义线索之一。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "74-83"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un groupe de conversation",
+    "pos": "expr",
+    "zh": "[T9Q2 补] 对话小组 [Opus5 建议：语言学习类文本的固定说法，听力里也常出现]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Participer à des groupes de conversation.",
+    "raw": "un groupe de conversation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q2",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q2 原文的第二项活动，正是正确答案 C（年轻人之间的交流）的支撑。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "74-83"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une clientèle",
+    "pos": "nom",
+    "zh": "[T9Q3 补] 顾客群；客户 [Opus5 建议：商业告示的开场固定说法，认出它就知道这是店家通知]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Nous informons notre aimable clientèle...",
+    "raw": "une clientèle",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q3",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q3 通知的开头就是 notre aimable clientèle，是「这是商店对顾客的告示」的信号词。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "85-95"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une naissance",
+    "pos": "nom",
+    "zh": "[T9Q4 补] 出生；诞生 [Opus5 建议：报喜类短文只有出生/结婚/生日几种，这四个词一起记最省事]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Ce message annonce une naissance.",
+    "raw": "une naissance",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q4",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q4 的正确答案方向：Louisa「提前几天到了」＋「全家最大的幸福」＋「来打个招呼」。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "97-103"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un mariage",
+    "pos": "nom",
+    "zh": "[T9Q4 补] 婚礼；婚姻 [Opus5 建议：与 naissance / anniversaire 同属报喜类短文的固定选项组]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "assister à un mariage",
+    "raw": "un mariage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q4",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q4 的干扰项之一（原卷误拼为 marriage）。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "97-103"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un anniversaire",
+    "pos": "nom",
+    "zh": "[T9Q4 补] 生日；周年纪念 [Opus5 建议：报喜类短文的固定选项，也是口语高频词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Joyeux anniversaire !",
+    "raw": "un anniversaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q4",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q4 的干扰项之一。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "97-103"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une formation",
+    "pos": "nom",
+    "zh": "[T9Q5 补] 培训；进修 [Opus5 建议：求学求职主题的核心名词，Q21 的 formation universitaire 也用它]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Nous suivons ensemble une formation en Italie.",
+    "raw": "une formation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q5",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q5 原文里 formation en Italie 是最容易被误当成国籍依据的地方。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "105-114"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "temporaire",
+    "pos": "adj",
+    "zh": "[T9Q6 补] 临时的 [Opus5 建议：打工/兼职话题的关键形容词，写作谈学生生活时用得上]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "un travail temporaire",
+    "raw": "temporaire",
+    "fem": "temporaire",
+    "fem_raw": "temporaire",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q6 原文 trouver un travail temporaire 是本题主题词。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "116-122"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une petite annonce",
+    "pos": "expr",
+    "zh": "[T9Q6 补] 分类小广告 [Opus5 建议：annonce 在本卷出现三次（Q1/Q4/Q6），是阅读第一部分的骨架词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "un service de petites annonces",
+    "raw": "une petite annonce",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q6 原文 un service de petites annonces 决定了这条服务是「登招聘/求职小广告」。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "116-122"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "la garde d'enfants",
+    "pos": "expr",
+    "zh": "[T9Q6 补] 看孩子；照看儿童 [Opus5 建议：学生兼职话题的高频搭配，口语里常被问到]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "garde d'enfants, cours de langue...",
+    "raw": "la garde d'enfants",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q6",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q6 原文举的第一个临时工种。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "116-122"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'ouverture",
+    "pos": "nom",
+    "zh": "[T9Q7 补] 开放；开门（时间） [Opus5 建议：与 fermeture 成对，公共场所告示的固定词对]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Ouverture – Fermeture : 7h30 – 18h30",
+    "raw": "l'ouverture",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q7",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q7 时间表的表头就是 Ouverture – Fermeture，读懂它才知道两列数字各是什么。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "124-132"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "la fermeture",
+    "pos": "nom",
+    "zh": "[T9Q7 补] 关闭；打烊（时间） [Opus5 建议：与 ouverture 成对；本卷 Q3、Q7 两题都靠它]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "la fermeture du parc à 20h30",
+    "raw": "la fermeture",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q7",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q7 时间表表头的另一半，也呼应 Q3 的「夏季关闭」。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "124-132"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un séjour",
+    "pos": "nom",
+    "zh": "[T9Q8 补] 逗留；停留（一段时间） [Opus5 建议：旅行主题的核心名词，T2 写作讲一次出行经历几乎一定用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "un court séjour touristique",
+    "raw": "un séjour",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q8 的正确答案方向：一晚住宿＋晚餐＋早餐＝短途旅行。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "134-141"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "bénéficier de",
+    "pos": "expr",
+    "zh": "[T9Q8 补] 享受；得益于 [Opus5 建议：广告和公文里的高频动词，写作里表达「享受某项待遇」很好用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "utilisez le code de promotion pour bénéficier de cette offre",
+    "raw": "bénéficier de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q8 原文的关键动词短语，说明这是一份优惠。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "134-141"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une réduction",
+    "pos": "nom",
+    "zh": "[T9Q8 补] 折扣；减免 [Opus5 建议：本卷两处出现（Q8 选项、Q18 原文），是消费/补助主题的公共词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "obtenir une réduction sur les frais d'électricité",
+    "raw": "une réduction",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q8",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q8 的干扰项 D 用到，Q18 原文里也再次出现。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "134-141"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'alimentation",
+    "pos": "nom",
+    "zh": "[T9Q9 补] 饮食；食品 [Opus5 建议：它与 cuisine 的区别正是本题的考点：alimentation 是整个食品链，cuisine 只是做菜]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Le thème du documentaire est l'alimentation.",
+    "raw": "l'alimentation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q9",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q9 的正确答案方向：全文谈的是食物的味道、农民、消费者，是「饮食」而不是「烹饪」。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "143-153"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "le goût",
+    "pos": "nom",
+    "zh": "[T9Q9 补] 味道；品味 [Opus5 建议：L34 已收过 la saveur，两个词一起记才分得清]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "le manque de saveur de ce que je mange",
+    "raw": "le goût",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q9",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q9 原文两次谈 goût / saveur，是判断主题的核心线索。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "143-153"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un agriculteur",
+    "pos": "nom",
+    "zh": "[T9Q9 补] 农民；农业从业者 [Opus5 建议：食品与环保话题的固定角色词，和 consommateur 成对]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "le point de vue des agriculteurs et des consommateurs",
+    "raw": "un agriculteur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q9",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q9 原文列举的相关人群之一（卷面印成 agricultures）。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "143-153"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "le lendemain",
+    "pos": "nom",
+    "zh": "[T9Q10 补] 第二天 [Opus5 建议：书面叙述里表示「第二天」不用 demain 而用 le lendemain，写作里很实用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Vous pourrez la contacter demain à partir de 14 heures.",
+    "raw": "le lendemain",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q10",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q10 的正确答案就是 Le lendemain，对应原文的 demain。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "155-161"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un rendez-vous",
+    "pos": "nom",
+    "zh": "[T9Q10 补] 预约；约会 [Opus5 建议：办事、看病、面试场景的第一名词，口语听力都高频]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Pour avoir un rendez-vous, vous pourrez la contacter demain.",
+    "raw": "un rendez-vous",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q10",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q10 原文的核心名词，决定了这是「什么时候能约到人」的题。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "155-161"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un animateur",
+    "pos": "nom",
+    "zh": "[T9Q11 补] 活动指导员；主持人 [Opus5 建议：本卷两处出现（Q11 原文、Q13 的 musicien-animateur），L34 也收过]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Encadrement par nos animateurs.",
+    "raw": "un animateur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q11",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q11 原文最后一句 Encadrement par nos animateurs 说明活动有人带，但不是「专业音乐人」——这正是排除选项 D 的依据。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "163-175"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un sondage",
+    "pos": "nom",
+    "zh": "[T9Q12 补] 民意调查 [Opus5 建议：写作引用数据时的标准句式 selon un sondage，非常好用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Selon les résultats d'un sondage...",
+    "raw": "un sondage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 原文开头就是 Selon les résultats d'un sondage，是这类「数据型」阅读的固定开场。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "179-188"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "les produits bio",
+    "pos": "expr",
+    "zh": "[T9Q12 补] 有机产品 [Opus5 建议：环保与饮食话题的高频词，口语 T2/T3 都能用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "7 Français sur 10 achètent régulièrement des produits bio.",
+    "raw": "les produits bio",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 全文主题词。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "179-188"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "prioritaire",
+    "pos": "adj",
+    "zh": "[T9Q12 补] 首要的；优先的 [Opus5 建议：「首要理由」是议论文表达优先级的核心词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "la santé est l'argument prioritaire",
+    "raw": "prioritaire",
+    "fem": "prioritaire",
+    "fem_raw": "prioritaire",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 的正确答案完全由 la santé est l'argument prioritaire 决定：买有机是为了健康而非环保。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "179-188"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une émission",
+    "pos": "nom",
+    "zh": "[T9Q13 补] （广播/电视）节目 [Opus5 建议：媒体话题必备，和 chaîne / animateur 成组]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Mon émission consacrée au jazz et au blues existe depuis sept ans.",
+    "raw": "une émission",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q13 原文主题词，说明这个人是做节目的。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "190-198"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une passion",
+    "pos": "nom",
+    "zh": "[T9Q13 补] 热爱；激情 [Opus5 建议：L34 收过 être passionné par，名词形式一起记才完整]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Il peut partager sa passion avec un public.",
+    "raw": "une passion",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q13 的正确答案关键词：他做电台是为了分享自己的热爱。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "190-198"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "partager",
+    "pos": "verbe",
+    "zh": "[T9Q13 补] 分享；分担 [Opus5 建议：口语说兴趣、写作说观点都用得到的高频动词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "partager sa passion avec un public",
+    "raw": "partager",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q13 正确答案选项的核心动词。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "190-198"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'adoption",
+    "pos": "nom",
+    "zh": "[T9Q14 补] 收养 [Opus5 建议：家庭与社会话题的关键名词，和 orphelin / abandonné 成组]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "la Maison de l'adoption",
+    "raw": "l'adoption",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 全文主题词，机构名就叫 Maison de l'adoption。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "200-210"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "orphelin",
+    "pos": "adj",
+    "zh": "[T9Q14 补] 孤儿的；失去父母的 [Opus5 建议：与 abandonné 并列出现，是本题唯一的证据句]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "trouver des parents à tous les enfants orphelins ou abandonnés",
+    "raw": "orphelin",
+    "fem": "orpheline",
+    "fem_raw": "orpheline",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 原文最后一句里的关键词，直接支撑正确答案 C。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "200-210"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "franchir une étape",
+    "pos": "expr",
+    "zh": "[T9Q14 补] 迈出一步；跨过一个阶段 [Opus5 建议：写作里描述进展的现成表达，比 avancer 高级]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Pousser la porte, c'est déjà franchir une étape.",
+    "raw": "franchir une étape",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q14",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q14 原文第一句，是理解全文语气（这是一段过程）的入口。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "200-210"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une bibliothèque",
+    "pos": "nom",
+    "zh": "[T9Q15 补] 图书馆 [Opus5 建议：阅读与写作的基础场所词，本卷 Q15 与 Q19（fréquente de nombreuses bibliothèques）两处出现]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "1100 liseuses sont disponibles dans les bibliothèques de Paris.",
+    "raw": "une bibliothèque",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q15 全文主题场所，三个干扰项里有两个都提到它。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "212-221"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une liseuse",
+    "pos": "nom",
+    "zh": "[T9Q15 补] 电子阅读器 [Opus5 建议：本题不认识这个词就无法定位正确答案]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "1100 liseuses sont disponibles dans les bibliothèques.",
+    "raw": "une liseuse",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q15 的正确答案完全建立在 liseuses 与 tablettes 的可获得性上。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "212-221"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "en libre accès",
+    "pos": "expr",
+    "zh": "[T9Q15 补] 免费开放取用；自由取阅 [Opus5 建议：公共服务类文本的高频表达，改写题最爱考]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "des tablettes sont aussi proposées en libre accès",
+    "raw": "en libre accès",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q15 正确答案 D 说 accéder facilement，依据就是原文的 en libre accès。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "212-221"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un ouvrage",
+    "pos": "nom",
+    "zh": "[T9Q16 补] 著作；作品 [Opus5 建议：它是 livre 的书面同义词，改写题的典型换词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Il est passionné d'ouvrages sur les langues.",
+    "raw": "un ouvrage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q16 的正确答案 C 用 ouvrages 改写原文的 livres de grammaire。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "223-231"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "cesser de faire quelque chose",
+    "pos": "expr",
+    "zh": "[T9Q16 补] 停止做某事 [Opus5 建议：与本课听力学的 arrêter de 同义，一起记正好成组]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "j'ai cessé de lire autre chose",
+    "raw": "cesser de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q16",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q16 原文用 cesser de 说明作者只读语法书，是理解全文的转折点。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "223-231"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un courriel",
+    "pos": "nom",
+    "zh": "[T9Q17 补] 电子邮件 [Opus5 建议：加拿大法语用 courriel 而不是 e-mail，TCF Canada 里要能一眼认出]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "la réponse vous sera communiquée uniquement par courriel",
+    "raw": "un courriel",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 的正确答案完全由 uniquement par courriel 决定。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "233-243"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une boîte de réception",
+    "pos": "expr",
+    "zh": "[T9Q17 补] 收件箱 [Opus5 建议：和 courriel 成组，邮件场景的固定说法]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Consulter sa boite de réception de courriels.",
+    "raw": "une boîte de réception",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 正确答案选项 A 的原文表达。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "233-243"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une candidature",
+    "pos": "nom",
+    "zh": "[T9Q17 补] 申请；求职申请 [Opus5 建议：求职主题的核心名词，写求职信必用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "savoir si sa candidature est retenue",
+    "raw": "une candidature",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 题干本身就用 candidature，读不懂题干就答不了题。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "233-243"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "retenir",
+    "pos": "verbe",
+    "zh": "[T9Q17 补] 留下；录取；记住 [Opus5 建议：这个词一词多义（留住/录取/记住），题干里取的是「录取」义]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "savoir si sa candidature est retenue",
+    "raw": "retenir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 题干里的 retenue（过去分词）意思是「被录取/被选中」。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "233-243"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un locataire",
+    "pos": "nom",
+    "zh": "[T9Q18 补] 租户；房客 [Opus5 建议：住房主题的核心角色词，与 propriétaire（本课听写词）正好成对]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Aux locataires qui ont de faibles revenus.",
+    "raw": "un locataire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 正确答案选项 C 的主语，与老师要求背的 faibles revenus 在同一行。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "245-257"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un loyer",
+    "pos": "nom",
+    "zh": "[T9Q18 补] 房租 [Opus5 建议：T1 写租房相关的信几乎一定用到；L34 的 T8Q18 也收过同一个词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "aider les étudiants à payer leur loyer",
+    "raw": "un loyer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 原文两次出现 loyer，是这条补助的对象。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "245-257"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une facture",
+    "pos": "nom",
+    "zh": "[T9Q18 补] 账单 [Opus5 建议：生活开支话题必备；L34 的 T8Q18 也收过]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "les familles qui ont des factures élevées",
+    "raw": "une facture",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 干扰项 A 用到，原文的 frais d'électricité et de gaz 是它的具体化。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "245-257"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un extrait",
+    "pos": "nom",
+    "zh": "[T9Q19 补] 节选；片段 [Opus5 建议：L34 已在 T8Q17 收过，本卷再次出现，属跨卷复现]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Il cite un extrait d'une œuvre de Modiano.",
+    "raw": "un extrait",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q19",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 题干与选项 A 都用 extrait，是本题的干扰核心。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "259-268"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'attacher à faire quelque chose",
+    "pos": "expr",
+    "zh": "[T9Q19 补] 致力于做某事 [Opus5 建议：议论文里表达「着手/致力于」的书面说法]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Modiano va s'attacher à lever le mystère de cette disparition.",
+    "raw": "s'attacher à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q19",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 原文用它描述作者的写作动机，是区分「引用原文」和「解释创作缘起」的关键。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "259-268"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "la mémoire",
+    "pos": "nom",
+    "zh": "[T9Q20 补] 记忆力 [Opus5 建议：L34 已在 T8Q13/Q20 收过；本卷 Q20 与 L34 的 T8Q20 是同源题]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Maintenir les performances de la mémoire.",
+    "raw": "la mémoire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 正确答案选项 D 的核心名词，本课开课听写的 maintenir 正好用在这里。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "le vieillissement",
+    "pos": "nom",
+    "zh": "[T9Q20 补] 老化；衰老 [Opus5 建议：社会与健康话题的高频名词，口语 T3 谈人口老龄化时直接可用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "le vieillissement du cerveau semble inévitable",
+    "raw": "le vieillissement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 原文的主题词，全文建议都是围绕它展开。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "primordial",
+    "pos": "adj",
+    "zh": "[T9Q20 补] 首要的；至关重要的 [Opus5 建议：议论文强调重要性的高级形容词，比 important 加分]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Il est primordial de conserver une vie active.",
+    "raw": "primordial",
+    "fem": "primordiale",
+    "fem_raw": "primordiale",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 原文用 primordial 引出全部建议，是抓「文章目的」的信号词。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "270-283"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "faire part de quelque chose",
+    "pos": "expr",
+    "zh": "[T9Q21 补] 告知；通报 [Opus5 建议：正式书信的固定说法，写邮件通报结果时直接可用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Faire part de la réponse d'un responsable.",
+    "raw": "faire part de quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q21",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q21 的正确答案选项本身就是 Faire part de la réponse d'un responsable。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "285-295"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un entretien",
+    "pos": "nom",
+    "zh": "[T9Q21 补] 面试；会谈 [Opus5 建议：求职主题的核心名词，和 candidature / formation 成组]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "accepte de vous recevoir pour un entretien",
+    "raw": "un entretien",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q21",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q21 原文的关键名词，说明这封信是在通报面试安排。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "285-295"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une piste cyclable",
+    "pos": "expr",
+    "zh": "[T9Q22 补] 自行车道 [Opus5 建议：城市交通与环保话题的高频词，口语 T3 很常见]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "déployer 700 km de nouvelles pistes cyclables",
+    "raw": "une piste cyclable",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q22",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q22 全文主题词，两个选项都围绕它。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "297-309"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "entraver",
+    "pos": "verbe",
+    "zh": "[T9Q22 补] 阻碍；妨碍 [Opus5 建议：改写题的典型换词：原文说堵，选项说 entraver]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Il risque d'entraver la circulation des véhicules de secours.",
+    "raw": "entraver",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q22",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q22 正确答案选项 D 的核心动词，对应原文的 congestion en cas d'urgence。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "297-309"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "les véhicules de secours",
+    "pos": "expr",
+    "zh": "[T9Q22 补] 救援车辆（消防、救护等） [Opus5 建议：城市安全话题的固定搭配]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "entraver la circulation des véhicules de secours",
+    "raw": "les véhicules de secours",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q22",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q22 正确答案的关键，对应原文的 capacité d'intervention de ses services。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "297-309"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "reprocher quelque chose à quelqu'un",
+    "pos": "expr",
+    "zh": "[T9Q22 补] 指责某人某事 [Opus5 建议：题干高频动词，一定要能立刻分清谁在指责谁]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Que reproche le préfet de police au projet ?",
+    "raw": "reprocher quelque chose à quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q22",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q22 题干的主动词，读不懂 reprocher 就找不准立场。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "297-309"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un adolescent",
+    "pos": "nom",
+    "zh": "[T9Q23 补] 青少年 [Opus5 建议：教育与家庭话题的核心词，口语 T3 高频]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "couper les adolescents du réel",
+    "raw": "un adolescent",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q23",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q23 全文主题人群，四个选项里三个提到。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "311-321"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "addictif",
+    "pos": "adj",
+    "zh": "[T9Q23 补] 成瘾的；容易上瘾的 [Opus5 建议：科技与健康话题的高频形容词]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "des comportements types addictifs",
+    "raw": "addictif",
+    "fem": "addictive",
+    "fem_raw": "addictive",
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q23",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q23 干扰项 B 用到，是最容易误选的一个。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "311-321"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "couper quelqu'un du réel",
+    "pos": "expr",
+    "zh": "[T9Q23 补] 使某人脱离现实 [Opus5 建议：议论手机/网络影响时的现成表达]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Ils ont tendance à couper les adolescents du réel.",
+    "raw": "couper quelqu'un du réel",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q23",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q23 干扰项 C，与原文说的「手机让孩子和朋友保持联系」正好相反，是本题的关键分辨点。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "311-321"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "avoir tendance à faire quelque chose",
+    "pos": "expr",
+    "zh": "[T9Q23 补] 倾向于做某事 [Opus5 建议：议论文表达倾向性的万能句式，写作里非常好用]",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "AUTRES",
+    "example": "Ils ont tendance à couper les adolescents du réel.",
+    "raw": "avoir tendance à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L35:CE-test9:Q23",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q23 选项 C 的句式；这个结构在四选项里承担「程度」的表达。",
+        "evidence": {
+          "file": "L35/L35.T9.reading-evidence.md",
+          "lines": "311-321"
+        },
+        "learning_note": "老师本题未逐题讲解，属补充词。"
+      }
+    ]
+  }
+]
