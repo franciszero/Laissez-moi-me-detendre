@@ -4,7 +4,7 @@
   "coverage": {
     "source_type": "within_region_species",
     "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L35.species.json",
-    "expected_species_count": 45
+    "expected_species_count": 50
   },
   "chunks": [
     {
@@ -269,6 +269,24 @@
           "fr": "décevant",
           "pos": "adj",
           "zh": "[L35写作T2] 令人失望的"
+        },
+        {
+          "type": "vocab",
+          "fr": "une file d'attente",
+          "pos": "expr",
+          "zh": "[L35写作T2] 排队的队伍"
+        },
+        {
+          "type": "vocab",
+          "fr": "en retard",
+          "pos": "expr",
+          "zh": "[L35写作T2] 迟到；晚点"
+        },
+        {
+          "type": "vocab",
+          "fr": "le week-end dernier",
+          "pos": "expr",
+          "zh": "[L35写作T2] 上周末"
         },
         {
           "type": "vocab",
@@ -1154,9 +1172,9 @@
         {
           "type": "checkpoint",
           "id": "L35:species:enumeration-connectors-dabord-en-plus-en-outre",
-          "front": "把这三句平铺的句子加上老师给的列举连接词：\n\n`Je voudrais acheter une lampe. / Je vais acheter une table. / Je vais changer le miroir.`\n\n**三个连接词分别是什么？**",
-          "back": "答案：**D'abord … / En plus … / En outre …**\n\n> D'abord, je voudrais acheter une nouvelle lampe dans la chambre.\n> En plus, je vais acheter une nouvelle table dans la cuisine.\n> En outre, je vais changer le miroir dans la salle de bain.\n\n老师原话是「把它改成，首先、其次、再次」——问题不是内容不好，是没有层次。",
-          "answer": "D'abord / En plus / En outre",
+          "front": "你 T1 写的是：\n\n`Dans la chambre, je voudrais acheter une nouvelle lampe.`\n\n老师说「不要这样写」。**他改成了什么？改动有哪两层？**",
+          "back": "答案：**D'abord, je voudrais acheter une nouvelle lampe dans la chambre.**\n\n两层改动：\n1. 句首换成列举连接词 **D'abord / En plus / En outre**\n2. **地点状语从句首挪到句尾**\n\n> D'abord, je voudrais acheter une nouvelle lampe **dans la chambre**.\n> En plus, je vais acheter une table nouvelle **dans la cuisine**.\n> En outre, je vais changer le miroir **dans la salle de bain**.\n\n老师原话「把它改成，首先、其次、再次」——问题不是内容不好（他说「内容写的其实挺好的」），是四句都用同一种状语开头，没有层次。",
+          "answer": "D'abord / En plus / En outre，并把地点挪到句尾",
           "source_species": "enumeration connectors dabord en plus en outre",
           "primary_class": "expression",
           "tags": [
@@ -1170,7 +1188,7 @@
             "En outre"
           ],
           "evidence_refs": [
-            "L35_final_working.md:393-404"
+            "L35_final_working.md:378-404"
           ],
           "curated": true,
           "study_group": "writing-t1",
@@ -1487,6 +1505,146 @@
         },
         {
           "type": "checkpoint",
+          "id": "L35:species:objet-as-noun-phrase-not-full-sentence",
+          "front": "你 T2 的标题写的是 `Objet : Je ne recommande pas ce festival`，老师说「不要写成这样」。\n\n**他要你怎么写？**",
+          "back": "答案：写成**名词短语**——`un festival` + 一个不好的形容词 → **Un festival décevant**。\n\n老师原话：「我们 objet 不要写成这样……你这样写，un festival，**un festival 加个形容词在后面，加个不好的形容词在后面**，怎么说？」你答不上来，他就是在这里教的 **décevant**。\n\n对照：你 T1 的 `Objet : Recherche d'un logement` 就是正确写法（名词 + de + 名词）。",
+          "answer": "Un festival décevant",
+          "source_species": "objet as noun phrase not full sentence",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "written",
+            "B1",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "Un festival décevant",
+            "Recherche d'un logement"
+          ],
+          "evidence_refs": [
+            "L35_final_working.md:420-435"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
+          "study_group_order": 60,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L35:species:relative-pronoun-que-for-object",
+          "front": "填 **qui** 还是 **que**：\n\n1. `une chanteuse ___ j'aime beaucoup`（我很喜欢的一位女歌手）\n2. `une chanteuse ___ chante ce soir`（今晚要唱歌的一位女歌手）",
+          "back": "答案：1. **que** ／ 2. **qui**\n\n判断依据只有一条：**先行词在从句里作什么成分**。\n- 作宾语（后面还有另一个主语 `j'`）→ **que**\n- 作主语（后面直接跟动词 `chante`）→ **qui**\n\n你 T2 写的是 `une chanteuse **qui** j'aime beaucoup`，老师反问后，**你自己说出了正确理由：「它是宾语」**。第 4 段的 `la chanteuse j'adore` 是同一个错，连 que 都漏了。",
+          "answer": "que / qui",
+          "source_species": "relative pronoun que for object",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "relative_pronoun",
+            "teacher_corrected_error",
+            "B1",
+            "written"
+          ],
+          "french_items": [
+            "la chanteuse que j'aime beaucoup",
+            "la chanteuse qui chante"
+          ],
+          "evidence_refs": [
+            "L35_final_working.md:761-766"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
+          "study_group_order": 60,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L35:species:theatre-is-masculine-au-theatre",
+          "front": "改错：`Quand je suis arrivé **à la** théatre, il y avait une longue file d'attente.`\n\n**错在哪？正确是什么？**",
+          "back": "答案：**au théâtre**（另外 `théatre` 少了长音符，应作 **théâtre**）。\n\n`théâtre` 是**阳性**名词，`à + le` 缩合成 **au**。\n老师念出 `Quand je suis arrivé **au** théâtre` 之后就点了一句「你这**性数**真的是……」。\n\n对照：`à la gare`（阴性）、`à l'hôpital`（元音开头）。",
+          "answer": "au théâtre",
+          "source_species": "theatre is masculine au theatre",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "gender_number",
+            "article",
+            "gender_trap",
+            "teacher_corrected_error",
+            "A2"
+          ],
+          "french_items": [
+            "au théâtre",
+            "le théâtre"
+          ],
+          "evidence_refs": [
+            "L35_final_working.md:768-773"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
+          "study_group_order": 60,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L35:species:en-retard-versus-tard",
+          "front": "改错：`Les concerts ont commencé très **en retard**.`（演出开始得很晚）\n\n**老师改成了什么？**",
+          "back": "答案：**Les concerts ont commencé très tard.**\n\n- **tard** ＝ 时间点晚（开始得很晚）\n- **en retard** ＝ 比约定时间**迟到**，需要有一个被违反的约定时间\n\n老师原话：「`très en retard` → `les concerts ont commencé **très tard**`，就可以了，开始的很晚。」\n\n对照：*Je suis arrivé **en retard** au travail.*（我上班迟到了）",
+          "answer": "très tard",
+          "source_species": "en retard versus tard",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "written",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "très tard",
+            "en retard"
+          ],
+          "evidence_refs": [
+            "L35_final_working.md:782-786"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
+          "study_group_order": 60,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L35:species:time-adverbial-without-preposition",
+          "front": "改错：`J'ai participé à un festival de musique **dans le week-end derniere**.`\n\n**两处错，分别是什么？**",
+          "back": "答案：**le week-end dernier**（删掉 `dans`，并把 `derniere` 改成阳性 `dernier`）。\n\n老师原话：「这儿不需要，`le week-end dernier` 就可以**直接表示 last week，直接做状语**。」\n\n同类不加介词：`la semaine dernière`、`le mois dernier`、`l'année dernière`。",
+          "answer": "le week-end dernier",
+          "source_species": "time adverbial without preposition",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "teacher_corrected_error",
+            "A2",
+            "written"
+          ],
+          "french_items": [
+            "le week-end dernier",
+            "la semaine dernière",
+            "l'année dernière"
+          ],
+          "evidence_refs": [
+            "L35_final_working.md:754-759"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
+          "study_group_order": 60,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
           "id": "L35:species:ce-qui-cest-que-cleft",
           "front": "补全：`Ce qui m'a le plus déçu, c'est ___ la chanteuse que j'adore était absente.`",
           "back": "答案：**que**\n\n`Ce qui …, c'est …` 后面如果是**一个完整的句子**，必须加 **que**。\n后面只接名词时不加：*Ce qui m'a le plus déçu, c'est **le bruit**.*\n\n老师原话：「你后面如果是一个完整的句子，你必须要加 c'est que。」",
@@ -1510,7 +1668,7 @@
           "study_group": "writing-t2",
           "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
           "study_group_order": 60,
-          "study_order": 10
+          "study_order": 60
         },
         {
           "type": "checkpoint",
@@ -1535,7 +1693,7 @@
           "study_group": "writing-t2",
           "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
           "study_group_order": 60,
-          "study_order": 20
+          "study_order": 70
         },
         {
           "type": "checkpoint",
@@ -1564,7 +1722,7 @@
           "study_group": "writing-t2",
           "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
           "study_group_order": 60,
-          "study_order": 30
+          "study_order": 80
         },
         {
           "type": "checkpoint",
@@ -1589,14 +1747,14 @@
           "study_group": "writing-t2",
           "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
           "study_group_order": 60,
-          "study_order": 40
+          "study_order": 90
         },
         {
           "type": "checkpoint",
           "id": "L35:species:tcf-t2-negative-recommendation-variant",
-          "front": "TCF 写作 T2 大多数是让你推荐别人去做某事。**这一篇是什么变体？结尾必须有什么？**",
-          "back": "答案：是**「不推荐」变体**——根据一次糟糕经历劝对方别去。老师说它「也考过，考过好几次」。\n\n不管哪种方向，**结尾必须有一句明确表态**：推荐 / 不推荐 / 请对方来跟你分享经历。\n\n> *Je ne vous recommande pas de participer à la prochaine édition.*",
-          "answer": "不推荐变体；结尾必须有明确表态",
+          "front": "你 T2 的结尾写的是 `Je ne pense pas participer à la prochaine édition.`\n\n老师说「不需要这么写」。**缺了什么？**",
+          "back": "答案：缺了**对收信人的表态（recommandation）**。你那句只讲了自己不打算再去。\n\n老师原话：「我们结尾不是要加一个 **recommandation** 的吗？那么就是我推荐你，**我推荐你不要参加**这个 festival 了，或者说**你来跟我分享一下你的不好的经历**吧，也可以。」\n\n> *Je ne vous **recommande pas** de participer à la prochaine édition.*\n\n题型背景：TCF T2 绝大多数是正面推荐，这一篇是「不推荐」变体，老师说它「也考过，考过好几次」。",
+          "answer": "缺一句对收信人的推荐/表态",
           "source_species": "tcf t2 negative recommendation variant",
           "primary_class": "strategy",
           "tags": [
@@ -1614,7 +1772,7 @@
           "study_group": "writing-t2",
           "study_group_label": "写作 T2：强调句、因果逻辑与题型变体",
           "study_group_order": 60,
-          "study_order": 50
+          "study_order": 100
         },
         {
           "type": "checkpoint",

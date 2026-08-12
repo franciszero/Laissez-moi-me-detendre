@@ -1200,21 +1200,99 @@
     "lesson": "L35",
     "source_lesson": "L35",
     "category": "CORE_VOCAB",
-    "example": "C'est un festival décevant.",
+    "example": "Un festival décevant.",
     "raw": "décevant",
     "fem": "décevante",
     "fem_raw": "décevante",
     "provenance": [
       {
         "source_kind": "teacher_extension",
-        "source_ref": "L35:writing-T2:decevant",
+        "source_ref": "L35:writing-T2:objet",
         "teacher_action": "memorize",
-        "selection_reason": "老师要写「一个让人失望的音乐节」时给出的形容词，并反复用 surprising/surprised 讲清主被动。",
+        "selection_reason": "老师批改 T2 标题时教的词：他要求把整句 Je ne recommande pas ce festival 改成「un festival 加个不好的形容词」，学生答不上来，他当场给出这个词；后来又用 surprising/surprised 讲清它与 déçu 的主被动分工。",
         "evidence": {
           "file": "docker-data/outputs/L35/L35_final_working.md",
-          "time": "51:00-51:30",
-          "lines": "733-738"
+          "time": "29:00-30:00; 51:00-51:30",
+          "lines": "420-435; 733-738"
+        },
+        "learning_note": "标题写法见 L35/L35.writing-corrections.md：Objet 应为 Un festival décevant。"
+      }
+    ]
+  },
+  {
+    "lemma": "une file d'attente",
+    "pos": "expr",
+    "zh": "[L35写作T2] 排队的队伍",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Il y avait une longue file d'attente avant moi.",
+    "raw": "une file d'attente",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:file-attente",
+        "teacher_action": "memorize",
+        "selection_reason": "老师念到 T2 里「我前面有很长的队」这一句时说「这个地方把它背下来，这是查了的」——这是 T2 批改中唯一一处明确的「要背」指令。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "53:30-54:00",
+          "lines": "768-773"
         }
+      }
+    ]
+  },
+  {
+    "lemma": "en retard",
+    "pos": "expr",
+    "zh": "[L35写作T2] 迟到；晚点",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "Je suis arrivé en retard au travail.",
+    "raw": "en retard",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:en-retard",
+        "teacher_action": "correction",
+        "selection_reason": "学生写 Les concerts ont commencé très en retard，老师改成 très tard；en retard 要有一个被违反的约定时间才成立。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "54:30-55:00",
+          "lines": "782-786"
+        },
+        "learning_note": "只想说「很晚」用 tard，不用 en retard。"
+      }
+    ]
+  },
+  {
+    "lemma": "le week-end dernier",
+    "pos": "expr",
+    "zh": "[L35写作T2] 上周末",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "J'ai participé à un festival le week-end dernier.",
+    "raw": "le week-end dernier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T2:week-end-dernier",
+        "teacher_action": "correction",
+        "selection_reason": "学生写 dans le week-end derniere，老师指出「这儿不需要，le week-end dernier 就可以直接表示 last week，直接做状语」。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "52:30-53:00",
+          "lines": "754-759"
+        },
+        "learning_note": "同类：la semaine dernière、le mois dernier、l'année dernière 都不加介词。"
       }
     ]
   },

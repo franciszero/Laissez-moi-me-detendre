@@ -126,24 +126,44 @@
       "order": 60,
       "species": [
         {
-          "source_species": "ce qui cest que cleft",
+          "source_species": "objet as noun phrase not full sentence",
           "order": 10
         },
         {
-          "source_species": "couter time cela subject",
+          "source_species": "relative pronoun que for object",
           "order": 20
         },
         {
-          "source_species": "plus tot versus plus tard and result logic",
+          "source_species": "theatre is masculine au theatre",
           "order": 30
         },
         {
-          "source_species": "arriver is punctual event",
+          "source_species": "en retard versus tard",
           "order": 40
         },
         {
-          "source_species": "tcf t2 negative recommendation variant",
+          "source_species": "time adverbial without preposition",
           "order": 50
+        },
+        {
+          "source_species": "ce qui cest que cleft",
+          "order": 60
+        },
+        {
+          "source_species": "couter time cela subject",
+          "order": 70
+        },
+        {
+          "source_species": "plus tot versus plus tard and result logic",
+          "order": 80
+        },
+        {
+          "source_species": "arriver is punctual event",
+          "order": 90
+        },
+        {
+          "source_species": "tcf t2 negative recommendation variant",
+          "order": 100
         }
       ],
       "practice_cards": []
