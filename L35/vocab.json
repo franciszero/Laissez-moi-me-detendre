@@ -1132,9 +1132,10 @@
         "source_kind": "teacher_extension",
         "source_ref": "L35:writing-T1:green:rechercher",
         "teacher_action": "memorize",
-        "selection_reason": "老师批改稿 `Francis写作作业 批改.pdf` 第 1 页把 `rechercher` 绿色高亮，与其余五个动词短语同一批。",
+        "selection_reason": "老师批改稿第 1 页把 `rechercher` 绿色高亮，与其余五个动词短语同一批；批改稿的标记体系与逐处对照见证据层文件。",
         "evidence": {
-          "file": "L35/doc/写作/Francis写作作业 批改.pdf"
+          "file": "L35/L35.writing-corrections.md",
+          "lines": "98-105"
         }
       }
     ]
