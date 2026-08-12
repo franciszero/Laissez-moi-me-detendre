@@ -98,12 +98,6 @@
         },
         {
           "type": "vocab",
-          "fr": "un essai",
-          "pos": "nom",
-          "zh": "[L35课前复习] 尝试；试验"
-        },
-        {
-          "type": "vocab",
           "fr": "baisser",
           "pos": "verbe",
           "zh": "[L35课前复习] 下降；降低"
@@ -245,6 +239,12 @@
           "fr": "ajouter",
           "pos": "verbe",
           "zh": "[L35写作T1] 添加；增加"
+        },
+        {
+          "type": "vocab",
+          "fr": "rechercher",
+          "pos": "verbe",
+          "zh": "[L35写作T1] 寻找；搜寻"
         },
         {
           "type": "vocab",

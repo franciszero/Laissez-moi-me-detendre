@@ -21,7 +21,17 @@
           "time": "00:00-00:30",
           "lines": "36-41"
         },
-        "learning_note": "三路 ASR 在这一窗分别听成 climatiser / climate disease / クリマディザー，综合发音与学生答案「空调」及 L34 词表，还原为名词 climatiseur。"
+        "learning_note": "三路 ASR 在这一窗分别听成 climatiser / climate disease / クリマディザー。"
+      },
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L35:opening-dictation:wordlist",
+        "teacher_action": "memorize",
+        "selection_reason": "老师自己的听写词单第一个词就是 climatiseur，据此确认转录里那个听不清的词形（此前只能由发音与学生答案「空调」反推）。",
+        "evidence": {
+          "file": "L35/doc/开课听写和动词变位/单词表.txt",
+          "lines": "1"
+        }
       }
     ]
   },
@@ -139,15 +149,16 @@
     "fem_raw": null,
     "provenance": [
       {
-        "source_kind": "opening_review",
-        "source_ref": "L35:opening-dictation:facile",
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:dictation-review:facile-family",
         "teacher_action": "contrast",
-        "selection_reason": "开课听写核对时，老师把 facile（形容词）、faciliter（动词）、facilité（名词）三个词性当场分开。",
+        "selection_reason": "核对听写词 faciliter 时，老师把 facile（形容词）、faciliter（动词）、facilité（名词）三个词性当场分开。老师自己的听写词单上只有 faciliter，这两个是讲解时带出来的。",
         "evidence": {
           "file": "docker-data/outputs/L35/L35_final_working.md",
           "time": "15:30-16:00",
           "lines": "236-241"
-        }
+        },
+        "learning_note": "老师的听写词单见 L35/doc/开课听写和动词变位/单词表.txt，本词不在其中。"
       },
       {
         "source_kind": "reading_question",
@@ -200,15 +211,16 @@
     "fem_raw": null,
     "provenance": [
       {
-        "source_kind": "opening_review",
-        "source_ref": "L35:opening-dictation:facilite",
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:dictation-review:facile-family",
         "teacher_action": "contrast",
         "selection_reason": "与 facile / faciliter 同时讲解，用来固定「名词」这一格。",
         "evidence": {
           "file": "docker-data/outputs/L35/L35_final_working.md",
           "time": "15:30-16:00",
           "lines": "236-241"
-        }
+        },
+        "learning_note": "老师的听写词单见 L35/doc/开课听写和动词变位/单词表.txt，本词不在其中。"
       }
     ]
   },
@@ -381,31 +393,6 @@
           "lines": "250-255"
         },
         "learning_note": "「注册」是 s'inscrire，不是 démarche。"
-      }
-    ]
-  },
-  {
-    "lemma": "un essai",
-    "pos": "nom",
-    "zh": "[L35课前复习] 尝试；试验",
-    "lesson": "L35",
-    "source_lesson": "L35",
-    "category": "CORE_VOCAB",
-    "example": "faire un essai",
-    "raw": "un essai",
-    "fem": null,
-    "fem_raw": null,
-    "provenance": [
-      {
-        "source_kind": "opening_review",
-        "source_ref": "L35:opening-dictation:essai",
-        "teacher_action": "review",
-        "selection_reason": "开课听写词，VibeVoice 与 Qwen3 在同一窗口一致听到 essai。",
-        "evidence": {
-          "file": "docker-data/outputs/L35/L35_final_working.md",
-          "time": "02:30-03:00",
-          "lines": "67-71"
-        }
       }
     ]
   },
@@ -1113,6 +1100,41 @@
           "file": "docker-data/outputs/L35/L35_final_working.md",
           "time": "26:30-27:00",
           "lines": "385-391"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "rechercher",
+    "pos": "verbe",
+    "zh": "[L35写作T1] 寻找；搜寻",
+    "lesson": "L35",
+    "source_lesson": "L35",
+    "category": "CORE_VOCAB",
+    "example": "je devrai rechercher un canapé d'occasion",
+    "raw": "rechercher",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:green",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在批改稿上把 rechercher 一起标了绿色，属于他说「绿色的这个单词，你把它背下来，因为你以后也会经常用到这些」的那一批。",
+        "evidence": {
+          "file": "docker-data/outputs/L35/L35_final_working.md",
+          "time": "28:00-28:30",
+          "lines": "406-411"
+        },
+        "learning_note": "批改稿绿色标注见 L35/L35.writing-corrections.md。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L35:writing-T1:green:rechercher",
+        "teacher_action": "memorize",
+        "selection_reason": "老师批改稿 `Francis写作作业 批改.pdf` 第 1 页把 `rechercher` 绿色高亮，与其余五个动词短语同一批。",
+        "evidence": {
+          "file": "L35/doc/写作/Francis写作作业 批改.pdf"
         }
       }
     ]
