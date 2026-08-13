@@ -1,0 +1,172 @@
+{
+  "groups": [
+    {
+      "id": "dictation-core",
+      "label": "开课听写：词义边界与固定表达",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "risquer de plus infinitive means run the risk",
+          "order": 10
+        },
+        {
+          "source_species": "a la disposition de means at the service of",
+          "order": 20
+        },
+        {
+          "source_species": "sejour is the stay not the trip",
+          "order": 30
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-t2",
+      "label": "写作 T2：批改点与改写方案",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "se retrouver not se rencontrer for meeting up",
+          "order": 10
+        },
+        {
+          "source_species": "rendez-vous is a noun not a verb",
+          "order": 20
+        },
+        {
+          "source_species": "futur simple not futur anterieur for i will buy",
+          "order": 30
+        },
+        {
+          "source_species": "ce soir already contains today",
+          "order": 40
+        },
+        {
+          "source_species": "les horaires plural for a timetable",
+          "order": 50
+        },
+        {
+          "source_species": "fix grammar errors after every lesson",
+          "order": 60
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "reading-t10",
+      "label": "阅读 test 10：取词策略与题型陷阱",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "read new words in stem then options then keywords",
+          "order": 10
+        },
+        {
+          "source_species": "head noun not the modifier decides the meaning",
+          "order": 20
+        },
+        {
+          "source_species": "compare option tails only when options look alike",
+          "order": 30
+        },
+        {
+          "source_species": "collegue means teachers when school leadership writes",
+          "order": 40
+        },
+        {
+          "source_species": "present participle as reduced clause",
+          "order": 50
+        },
+        {
+          "source_species": "famille nombreuse is a family with many children",
+          "order": 60
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "listening",
+      "label": "听力讲评：同义替换与高频表达",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "synonym substitution is how listening options are built",
+          "order": 10
+        },
+        {
+          "source_species": "emission is a tv show programme is the listing",
+          "order": 20
+        },
+        {
+          "source_species": "aller means to suit somebody for clothes",
+          "order": 30
+        },
+        {
+          "source_species": "billet for plane ticket de bus for bus",
+          "order": 40
+        },
+        {
+          "source_species": "un euro vingt is how prices are read",
+          "order": 50
+        },
+        {
+          "source_species": "beau becomes bel before a vowel",
+          "order": 60
+        },
+        {
+          "source_species": "appeler is to call rappeler is to remind",
+          "order": 70
+        },
+        {
+          "source_species": "composer is dial and is recognition only",
+          "order": 80
+        },
+        {
+          "source_species": "en dessous is the size below",
+          "order": 90
+        },
+        {
+          "source_species": "a lot of is de nombreux or beaucoup de",
+          "order": 100
+        },
+        {
+          "source_species": "quebec accent is recognition only",
+          "order": 110
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "speaking-t1",
+      "label": "口语 T1：问句、答法与准备边界",
+      "order": 50,
+      "species": [
+        {
+          "source_species": "nom is surname prenom is given name",
+          "order": 10
+        },
+        {
+          "source_species": "say je suis ne le not mon date de naissance est",
+          "order": 20
+        },
+        {
+          "source_species": "t1 answer length short for facts long for expandable",
+          "order": 30
+        },
+        {
+          "source_species": "t1 covers five topics after personal info",
+          "order": 40
+        },
+        {
+          "source_species": "do not let chatgpt write the t1 script",
+          "order": 50
+        },
+        {
+          "source_species": "fluency beats sophistication in speaking and writing",
+          "order": 60
+        }
+      ],
+      "practice_cards": []
+    }
+  ]
+}

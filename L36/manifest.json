@@ -1,0 +1,1889 @@
+{
+  "lesson": "L36",
+  "source": "L36_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L36.species.json",
+    "expected_species_count": 32
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L36 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "manquer",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 想念；缺少"
+        },
+        {
+          "type": "vocab",
+          "fr": "déménager",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 搬家"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'alimentation",
+          "pos": "nom",
+          "zh": "[L36课前复习] 饮食（总称）"
+        },
+        {
+          "type": "vocab",
+          "fr": "un concours",
+          "pos": "nom",
+          "zh": "[L36课前复习] 竞赛；选拔考试"
+        },
+        {
+          "type": "vocab",
+          "fr": "partager",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 分享；分担"
+        },
+        {
+          "type": "vocab",
+          "fr": "un métier",
+          "pos": "nom",
+          "zh": "[L36课前复习] 职业"
+        },
+        {
+          "type": "vocab",
+          "fr": "raconter",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 讲述；叙述"
+        },
+        {
+          "type": "vocab",
+          "fr": "rencontrer",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 遇见；碰到"
+        },
+        {
+          "type": "vocab",
+          "fr": "un revenu",
+          "pos": "nom",
+          "zh": "[L36课前复习] 收入"
+        },
+        {
+          "type": "vocab",
+          "fr": "faible",
+          "pos": "adj",
+          "zh": "[L36课前复习] 虚弱的；微弱的"
+        },
+        {
+          "type": "vocab",
+          "fr": "manuel",
+          "pos": "adj",
+          "zh": "[L36课前复习] 手工的；体力的"
+        },
+        {
+          "type": "vocab",
+          "fr": "éviter",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 避免"
+        },
+        {
+          "type": "vocab",
+          "fr": "tomber",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 摔倒；掉落"
+        },
+        {
+          "type": "vocab",
+          "fr": "protéger",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 保护"
+        },
+        {
+          "type": "vocab",
+          "fr": "un séjour",
+          "pos": "nom",
+          "zh": "[L36课前复习] 逗留；逗留期"
+        },
+        {
+          "type": "vocab",
+          "fr": "à la disposition de quelqu'un",
+          "pos": "expr",
+          "zh": "[L36课前复习] 供……使用；听……差遣"
+        },
+        {
+          "type": "vocab",
+          "fr": "actuellement",
+          "pos": "adv",
+          "zh": "[L36课前复习] 目前；现在"
+        },
+        {
+          "type": "vocab",
+          "fr": "risquer de faire quelque chose",
+          "pos": "expr",
+          "zh": "[L36课前复习] 冒着……的风险"
+        },
+        {
+          "type": "vocab",
+          "fr": "essayer",
+          "pos": "verbe",
+          "zh": "[L36课前复习] 尝试；试穿"
+        },
+        {
+          "type": "vocab",
+          "fr": "un établissement",
+          "pos": "nom",
+          "zh": "[L36课前复习] 机构；单位（学校、企业）"
+        },
+        {
+          "type": "vocab",
+          "fr": "un locataire",
+          "pos": "nom",
+          "zh": "[L36课前复习] 租客；承租人"
+        },
+        {
+          "type": "vocab",
+          "fr": "le début",
+          "pos": "nom",
+          "zh": "[L36课前复习] 开始；开头"
+        },
+        {
+          "type": "vocab",
+          "fr": "profiter de quelque chose",
+          "pos": "expr",
+          "zh": "[L36课前复习] 利用；享受"
+        },
+        {
+          "type": "vocab",
+          "fr": "la protection",
+          "pos": "nom",
+          "zh": "[L36课前复习] 保护"
+        },
+        {
+          "type": "vocab",
+          "fr": "se retrouver",
+          "pos": "verbe pronominal",
+          "zh": "[L36写作T2] （分开后）再次见面；碰头"
+        },
+        {
+          "type": "vocab",
+          "fr": "se rejoindre",
+          "pos": "verbe pronominal",
+          "zh": "[L36写作T2] （各自出发后）会合"
+        },
+        {
+          "type": "vocab",
+          "fr": "un rendez-vous",
+          "pos": "nom",
+          "zh": "[L36写作T2] 约会；预约"
+        },
+        {
+          "type": "vocab",
+          "fr": "le temps libre",
+          "pos": "expr",
+          "zh": "[L36写作T2] 空闲时间"
+        },
+        {
+          "type": "vocab",
+          "fr": "les horaires",
+          "pos": "nom",
+          "zh": "[L36写作T2] 时间表；作息表"
+        },
+        {
+          "type": "vocab",
+          "fr": "le mois prochain",
+          "pos": "expr",
+          "zh": "[L36写作T2] 下个月"
+        },
+        {
+          "type": "vocab",
+          "fr": "ce soir",
+          "pos": "expr",
+          "zh": "[L36写作T2] 今天晚上"
+        },
+        {
+          "type": "vocab",
+          "fr": "la publicité",
+          "pos": "nom",
+          "zh": "[T10Q4] 广告"
+        },
+        {
+          "type": "vocab",
+          "fr": "un chauffeur",
+          "pos": "nom",
+          "zh": "[T10Q5] 司机"
+        },
+        {
+          "type": "vocab",
+          "fr": "une annonce",
+          "pos": "nom",
+          "zh": "[T10Q10] 通知；启事"
+        },
+        {
+          "type": "vocab",
+          "fr": "un collègue",
+          "pos": "nom",
+          "zh": "[T10Q10] 同事"
+        },
+        {
+          "type": "vocab",
+          "fr": "un appareil",
+          "pos": "nom",
+          "zh": "[T10Q17] 设备；器械"
+        },
+        {
+          "type": "vocab",
+          "fr": "une famille nombreuse",
+          "pos": "expr",
+          "zh": "[T10Q20] 多子女家庭"
+        },
+        {
+          "type": "vocab",
+          "fr": "un maillot de bain",
+          "pos": "expr",
+          "zh": "[L36听力] 泳衣"
+        },
+        {
+          "type": "vocab",
+          "fr": "un maillot",
+          "pos": "nom",
+          "zh": "[L36听力] 紧身衣；运动衫"
+        },
+        {
+          "type": "vocab",
+          "fr": "la plage",
+          "pos": "nom",
+          "zh": "[L36听力] 海滩"
+        },
+        {
+          "type": "vocab",
+          "fr": "une serviette",
+          "pos": "nom",
+          "zh": "[L36听力] 毛巾；浴巾"
+        },
+        {
+          "type": "vocab",
+          "fr": "une carte d'embarquement",
+          "pos": "expr",
+          "zh": "[L36听力] 登机牌"
+        },
+        {
+          "type": "vocab",
+          "fr": "débuter",
+          "pos": "verbe",
+          "zh": "[L36听力] 开始（＝commencer）"
+        },
+        {
+          "type": "vocab",
+          "fr": "une séance",
+          "pos": "nom",
+          "zh": "[L36听力] （电影）场次；一场"
+        },
+        {
+          "type": "vocab",
+          "fr": "se trouver",
+          "pos": "verbe pronominal",
+          "zh": "[L36听力] 位于；在（某处）"
+        },
+        {
+          "type": "vocab",
+          "fr": "une cabine",
+          "pos": "nom",
+          "zh": "[L36听力] 小隔间；试衣间"
+        },
+        {
+          "type": "vocab",
+          "fr": "la taille",
+          "pos": "nom",
+          "zh": "[L36听力] 尺码；身材"
+        },
+        {
+          "type": "vocab",
+          "fr": "en dessous",
+          "pos": "expr",
+          "zh": "[L36听力] 在下面；小一号"
+        },
+        {
+          "type": "vocab",
+          "fr": "aller bien à quelqu'un",
+          "pos": "expr",
+          "zh": "[L36听力] （衣物）适合某人"
+        },
+        {
+          "type": "vocab",
+          "fr": "un billet d'avion",
+          "pos": "expr",
+          "zh": "[L36听力] 飞机票"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'inscrire à quelque chose",
+          "pos": "expr",
+          "zh": "[L36听力] 报名；注册；选课"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire plaisir à quelqu'un",
+          "pos": "expr",
+          "zh": "[L36听力] 让某人开心"
+        },
+        {
+          "type": "vocab",
+          "fr": "rappeler",
+          "pos": "verbe",
+          "zh": "[L36听力] 回想起；提醒；回电"
+        },
+        {
+          "type": "vocab",
+          "fr": "appeler",
+          "pos": "verbe",
+          "zh": "[L36听力] 打电话给；叫"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'an dernier",
+          "pos": "expr",
+          "zh": "[L36听力] 去年"
+        },
+        {
+          "type": "vocab",
+          "fr": "un endroit",
+          "pos": "nom",
+          "zh": "[L36听力] 地方；地点"
+        },
+        {
+          "type": "vocab",
+          "fr": "une enquête",
+          "pos": "nom",
+          "zh": "[L36听力] 调查"
+        },
+        {
+          "type": "vocab",
+          "fr": "les loisirs",
+          "pos": "nom",
+          "zh": "[L36听力] 休闲活动；消遣"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire les courses",
+          "pos": "expr",
+          "zh": "[L36听力] 买东西；采购"
+        },
+        {
+          "type": "vocab",
+          "fr": "en semaine",
+          "pos": "expr",
+          "zh": "[L36听力] 在工作日（周一至周五）"
+        },
+        {
+          "type": "vocab",
+          "fr": "travailler en équipe",
+          "pos": "expr",
+          "zh": "[L36听力] 团队协作"
+        },
+        {
+          "type": "vocab",
+          "fr": "le frigidaire",
+          "pos": "nom",
+          "zh": "[L36听力] 冰箱"
+        },
+        {
+          "type": "vocab",
+          "fr": "un paquet",
+          "pos": "nom",
+          "zh": "[L36听力] 包裹"
+        },
+        {
+          "type": "vocab",
+          "fr": "un timbre",
+          "pos": "nom",
+          "zh": "[L36听力] 邮票"
+        },
+        {
+          "type": "vocab",
+          "fr": "la piscine",
+          "pos": "nom",
+          "zh": "[L36听力] 游泳池"
+        },
+        {
+          "type": "vocab",
+          "fr": "nager",
+          "pos": "verbe",
+          "zh": "[L36听力] 游泳"
+        },
+        {
+          "type": "vocab",
+          "fr": "ça te dit",
+          "pos": "expr",
+          "zh": "[L36听力] 你觉得怎么样？（提议）"
+        },
+        {
+          "type": "vocab",
+          "fr": "se détendre",
+          "pos": "verbe pronominal",
+          "zh": "[L36听力] 放松"
+        },
+        {
+          "type": "vocab",
+          "fr": "le trajet",
+          "pos": "nom",
+          "zh": "[L36听力] 路程；行程"
+        },
+        {
+          "type": "vocab",
+          "fr": "un quartier",
+          "pos": "nom",
+          "zh": "[L36听力] 街区；城区"
+        },
+        {
+          "type": "vocab",
+          "fr": "utile",
+          "pos": "adj",
+          "zh": "[L36听力] 有用的"
+        },
+        {
+          "type": "vocab",
+          "fr": "de nombreux",
+          "pos": "expr",
+          "zh": "[L36听力] 许多（＋复数名词）"
+        },
+        {
+          "type": "vocab",
+          "fr": "pas vraiment",
+          "pos": "expr",
+          "zh": "[L36听力] 不太；并不真的"
+        },
+        {
+          "type": "vocab",
+          "fr": "avoir envie de faire quelque chose",
+          "pos": "expr",
+          "zh": "[L36听力] 想要；很想"
+        },
+        {
+          "type": "vocab",
+          "fr": "composer",
+          "pos": "verbe",
+          "zh": "[L36听力] 拨（号）；输入；作曲"
+        },
+        {
+          "type": "vocab",
+          "fr": "une émission",
+          "pos": "nom",
+          "zh": "[L36听力] （电视/广播）节目"
+        },
+        {
+          "type": "vocab",
+          "fr": "une chaîne",
+          "pos": "nom",
+          "zh": "[L36听力] 频道；连锁"
+        },
+        {
+          "type": "vocab",
+          "fr": "bon voyage",
+          "pos": "expr",
+          "zh": "[L36听力] 旅途愉快"
+        },
+        {
+          "type": "vocab",
+          "fr": "bon appétit",
+          "pos": "expr",
+          "zh": "[L36听力] 祝你有个好胃口"
+        },
+        {
+          "type": "vocab",
+          "fr": "juste devant",
+          "pos": "expr",
+          "zh": "[L36听力] 就在……前面"
+        },
+        {
+          "type": "vocab",
+          "fr": "comment vous appelez-vous",
+          "pos": "expr",
+          "zh": "[L36口语T1] 您叫什么名字？（倒装问法）"
+        },
+        {
+          "type": "vocab",
+          "fr": "le nom",
+          "pos": "nom",
+          "zh": "[L36口语T1] 姓氏"
+        },
+        {
+          "type": "vocab",
+          "fr": "le prénom",
+          "pos": "nom",
+          "zh": "[L36口语T1] 名字（名）"
+        },
+        {
+          "type": "vocab",
+          "fr": "je suis né le",
+          "pos": "expr",
+          "zh": "[L36口语T1] 我出生于……（日＋月＋年）"
+        },
+        {
+          "type": "vocab",
+          "fr": "quelle est votre situation familiale",
+          "pos": "expr",
+          "zh": "[L36口语T1] 您的家庭情况是怎样的？"
+        },
+        {
+          "type": "vocab",
+          "fr": "nous sommes quatre",
+          "pos": "expr",
+          "zh": "[L36口语T1] 我们家四口人"
+        },
+        {
+          "type": "vocab",
+          "fr": "il y a quatre personnes dans la famille",
+          "pos": "expr",
+          "zh": "[L36口语T1] 家里有……口人"
+        },
+        {
+          "type": "vocab",
+          "fr": "quel âge ont vos enfants",
+          "pos": "expr",
+          "zh": "[L36口语T1] 您的孩子们多大了？"
+        },
+        {
+          "type": "vocab",
+          "fr": "où habitez-vous",
+          "pos": "expr",
+          "zh": "[L36口语T1] 您住在哪里？"
+        },
+        {
+          "type": "vocab",
+          "fr": "en banlieue",
+          "pos": "expr",
+          "zh": "[L36口语T1] 在郊区"
+        },
+        {
+          "type": "vocab",
+          "fr": "en centre-ville",
+          "pos": "expr",
+          "zh": "[L36口语T1] 在市中心"
+        },
+        {
+          "type": "vocab",
+          "fr": "quelle est votre profession",
+          "pos": "expr",
+          "zh": "[L36口语T1] 您的职业是什么？"
+        },
+        {
+          "type": "vocab",
+          "fr": "qu'est-ce que vous faites dans la vie",
+          "pos": "expr",
+          "zh": "[L36口语T1] 您是做什么工作的？"
+        },
+        {
+          "type": "vocab",
+          "fr": "je suis informaticien",
+          "pos": "expr",
+          "zh": "[L36口语T1] 我是程序员／IT 从业者"
+        },
+        {
+          "type": "vocab",
+          "fr": "être responsable de quelque chose",
+          "pos": "expr",
+          "zh": "[L36口语T1] 负责……"
+        },
+        {
+          "type": "vocab",
+          "fr": "à l'étranger",
+          "pos": "expr",
+          "zh": "[L36口语T1] 在国外"
+        },
+        {
+          "type": "vocab",
+          "fr": "la grippe",
+          "pos": "nom",
+          "zh": "[T10Q1 补] 流感 [Opus5 建议：TCF 便条题最爱用「具体病名 → 泛化成 malade」这一步，grippe 是出现频率最高的那个病名]"
+        },
+        {
+          "type": "vocab",
+          "fr": "annuler",
+          "pos": "verbe",
+          "zh": "[T10Q1 补] 取消 [Opus5 建议：一卷里出现两次的题干词，取消约会/预订/航班在听力口语里都会用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un ascenseur",
+          "pos": "nom",
+          "zh": "[T10Q2 补] 电梯 [Opus5 建议：和 escalier（楼梯）成对，地铁/机场/酒店场景的固定二选一]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un escalier",
+          "pos": "nom",
+          "zh": "[T10Q2 补] 楼梯 [Opus5 建议：与 ascenseur 配对记，本题就是靠这两个词分胜负]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un guichet",
+          "pos": "nom",
+          "zh": "[T10Q2 补] 窗口；售票口 [Opus5 建议：一卷内出现两次；车站、剧院、球场买票场景高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "faciliter",
+          "pos": "verbe",
+          "zh": "[T10Q2 补] 使便利 [Opus5 建议：facile → faciliter 这一族 L35 讲过，这里是它在真题里的实际用法]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un déplacement",
+          "pos": "nom",
+          "zh": "[T10Q2 补] 出行；移动 [Opus5 建议：交通类公告的高频词，Q24 讲 covoiturage 时也用了 moyen de déplacement]"
+        },
+        {
+          "type": "vocab",
+          "fr": "en réparation",
+          "pos": "expr",
+          "zh": "[T10Q2 补] 在维修中 [Opus5 建议：和 Q6 的 réparations（施工）同族，一卷两处]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un goûter",
+          "pos": "nom",
+          "zh": "[T10Q3 补] 下午茶点；加餐 [Opus5 建议：看懂它才知道 B 是陷阱：提供点心不等于「做蛋糕」]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un jouet",
+          "pos": "nom",
+          "zh": "[T10Q3 补] 玩具 [Opus5 建议：与 jouer 同族但意思是名词「玩具」，别读成「玩」]"
+        },
+        {
+          "type": "vocab",
+          "fr": "des travaux",
+          "pos": "nom",
+          "zh": "[T10Q6 补] 施工；工程 [Opus5 建议：travail 的复数在这里换义成「施工」，是典型的同形异义陷阱]"
+        },
+        {
+          "type": "vocab",
+          "fr": "prévoir",
+          "pos": "verbe",
+          "zh": "[T10Q6 补] 预计；安排 [Opus5 建议：写作 T2 讲计划时的常用动词，过去分词 prévu 要认得出]"
+        },
+        {
+          "type": "vocab",
+          "fr": "veuillez nous excuser",
+          "pos": "expr",
+          "zh": "[T10Q6 补] 请您……（正式祈使） [Opus5 建议：正式书面语的固定开头，写作里可以直接借用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un voisin",
+          "pos": "nom",
+          "zh": "[T10Q6 补] 邻居 [Opus5 建议：Q19 原文的 voisine de table 又用了一次，一卷两处]"
+        },
+        {
+          "type": "vocab",
+          "fr": "finalement",
+          "pos": "adv",
+          "zh": "[T10Q7 补] 最终；到头来 [Opus5 建议：口语里表转折/最终结论的高频副词，Q19 原文也用了一次]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une venue",
+          "pos": "nom",
+          "zh": "[T10Q7 补] 到来；出席 [Opus5 建议：venir 的名词形式，选项里常见的「动词名词化」改写]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un stage",
+          "pos": "nom",
+          "zh": "[T10Q8 补] 实习；短期培训班 [Opus5 建议：法语的 stage 不是英语的 stage（舞台/阶段），假朋友]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une réduction",
+          "pos": "nom",
+          "zh": "[T10Q8 补] 折扣；减免 [Opus5 建议：一卷两处；打折/优惠是广告题的固定考点]"
+        },
+        {
+          "type": "vocab",
+          "fr": "bénéficier de quelque chose",
+          "pos": "expr",
+          "zh": "[T10Q8 补] 享受；受益于 [Opus5 建议：接 de，属于介词接口要背的一条；一卷两处]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une formation",
+          "pos": "nom",
+          "zh": "[T10Q8 补] 培训；进修 [Opus5 建议：Q15 选项 B 也是 formation pratique，一卷两处；求职/进修话题高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "intensif",
+          "pos": "adj",
+          "zh": "[T10Q8 补] 强化的；密集的 [Opus5 建议：cours intensif（强化班）是语言学校广告的固定搭配]"
+        },
+        {
+          "type": "vocab",
+          "fr": "gratuitement",
+          "pos": "adv",
+          "zh": "[T10Q9 补] 免费地 [Opus5 建议：广告/通知题里「免费」是最常被换写的点（gratuit / sans frais / offert）]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un semestre",
+          "pos": "nom",
+          "zh": "[T10Q9 补] 学期 [Opus5 建议：留学话题常用；和 trimestre 一组]"
+        },
+        {
+          "type": "vocab",
+          "fr": "rentrer",
+          "pos": "verbe",
+          "zh": "[T10Q11 补] 回家；返回 [Opus5 建议：别和 retourner / revenir 混：rentrer 特指「回到家/回国」]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le mobilier",
+          "pos": "nom",
+          "zh": "[T10Q12 补] 家具（总称） [Opus5 建议：一卷两处，而且两处都是题干/主旨句里的词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la maternelle",
+          "pos": "nom",
+          "zh": "[T10Q12 补] 幼儿园 [Opus5 建议：法国学制词（maternelle → école → collège → lycée），教育类文章必备]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un écolier",
+          "pos": "nom",
+          "zh": "[T10Q12 补] 小学生 [Opus5 建议：和 élève / étudiant 分层：écolier 特指小学生，Q10 的选项就靠这种分层设陷阱]"
+        },
+        {
+          "type": "vocab",
+          "fr": "accueillir",
+          "pos": "verbe",
+          "zh": "[T10Q12 补] 接待；接纳 [Opus5 建议：学生自己查过的词，且是不规则动词，值得固定下来]"
+        },
+        {
+          "type": "vocab",
+          "fr": "favoriser",
+          "pos": "verbe",
+          "zh": "[T10Q12 补] 促进；有利于 [Opus5 建议：一卷两处且都在选项里——这是 TCF 选项最爱用的抽象动词之一]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la pédagogie",
+          "pos": "nom",
+          "zh": "[T10Q12 补] 教学法 [Opus5 建议：教育类文章的主旨词，认得它就能直接锁定正解]"
+        },
+        {
+          "type": "vocab",
+          "fr": "rénover",
+          "pos": "verbe",
+          "zh": "[T10Q12 补] 翻新；整修 [Opus5 建议：和 réparer / remplacer 一组，房屋与校舍话题都会用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "immobile",
+          "pos": "adj",
+          "zh": "[T10Q12 补] 一动不动的 [Opus5 建议：mobile/immobile 与本题的 mobilier 同根，一起记省力]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la concentration",
+          "pos": "nom",
+          "zh": "[T10Q12 补] 注意力；专注 [Opus5 建议：一卷两处；学习/工作类文章的高频抽象名词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "laid",
+          "pos": "adj",
+          "zh": "[T10Q13 补] 丑的 [Opus5 建议：L35 老师笔记里专门做过 laid / malade / maladie 的对比，这里是它在真题里的复现]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le rendement",
+          "pos": "nom",
+          "zh": "[T10Q14 补] 效率；产出 [Opus5 建议：一卷两处且都在选项里，是职场类文章的标配抽象名词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "diminuer",
+          "pos": "verbe",
+          "zh": "[T10Q14 补] 减少；下降 [Opus5 建议：数据描述四件套 augmenter / diminuer / progresser / chuter，写作 T2 也用得上]"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'efficacité",
+          "pos": "nom",
+          "zh": "[T10Q14 补] 效率；成效 [Opus5 建议：和 rendement 是近义干扰对——本题就靠这两个词哪个有原文支撑来分胜负]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une consigne",
+          "pos": "nom",
+          "zh": "[T10Q15 补] 指示；规定 [Opus5 建议：假朋友：不是英语 consign；车站的「寄存处」也是这个词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "encadrer",
+          "pos": "verbe",
+          "zh": "[T10Q15 补] 规范；管束；带（团队） [Opus5 建议：cadre（框架）派生，职场里表示「带团队/管理」也用它]"
+        },
+        {
+          "type": "vocab",
+          "fr": "dévoiler",
+          "pos": "verbe",
+          "zh": "[T10Q15 补] 透露；揭露 [Opus5 建议：voile（面纱）派生，媒体与隐私话题高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un inconnu",
+          "pos": "nom",
+          "zh": "[T10Q15 补] 陌生人 [Opus5 建议：connaître 的反义派生，安全/社交话题常见]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la prudence",
+          "pos": "nom",
+          "zh": "[T10Q15 补] 谨慎 [Opus5 建议：avec prudence 是固定副词短语，选项里常用来改写 prudemment]"
+        },
+        {
+          "type": "vocab",
+          "fr": "se servir de quelque chose",
+          "pos": "expr",
+          "zh": "[T10Q15 补] 使用 [Opus5 建议：接 de 且常与 en 连用，是代词＋介词接口的典型考点]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la plupart de",
+          "pos": "expr",
+          "zh": "[T10Q15 补] 大多数 [Opus5 建议：题干里出现就必须抓住的量化词，配合原文 plus d'un enfant sur deux 使用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "réutiliser",
+          "pos": "verbe",
+          "zh": "[T10Q16 补] 再利用 [Opus5 建议：环保话题的核心动词，写作 T2 也常用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un déchet",
+          "pos": "nom",
+          "zh": "[T10Q16 补] 垃圾；废弃物 [Opus5 建议：环保题必备，和 poubelle / recyclage 一组]"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'engager",
+          "pos": "verbe pronominal",
+          "zh": "[T10Q16 补] 投身；承诺 [Opus5 建议：简历与社会议题话题的高频词，也是反身动词的好例子]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le mode d'emploi",
+          "pos": "expr",
+          "zh": "[T10Q17 补] 使用说明 [Opus5 建议：说明书/操作指南的固定说法，和 fonctionnement 配套]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le fonctionnement",
+          "pos": "nom",
+          "zh": "[T10Q17 补] 运作方式；功能 [Opus5 建议：fonctionner 的名词形式，技术类文章高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "rassurer",
+          "pos": "verbe",
+          "zh": "[T10Q17 补] 使安心 [Opus5 建议：sûr 派生，服务/客户话题常见；反义是 inquiéter]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le service après-vente",
+          "pos": "expr",
+          "zh": "[T10Q17 补] 售后服务 [Opus5 建议：整体记，别只记 service：这一题证明漏掉定语就会选错]"
+        },
+        {
+          "type": "vocab",
+          "fr": "malgré",
+          "pos": "prep",
+          "zh": "[T10Q17 补] 尽管；虽然 [Opus5 建议：让步连接词，写作 T2 直接可用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la rentrée",
+          "pos": "nom",
+          "zh": "[T10Q18 补] 开学；复工季 [Opus5 建议：法国生活的标志性时间词，九月开学季，通知类文章高频]"
+        },
+        {
+          "type": "vocab",
+          "fr": "cependant",
+          "pos": "adv",
+          "zh": "[T10Q18 补] 然而 [Opus5 建议：转折词是 TCF 阅读的答案位标记，学生自己也用红笔圈了它]"
+        },
+        {
+          "type": "vocab",
+          "fr": "en hausse",
+          "pos": "expr",
+          "zh": "[T10Q18 补] 上升中 [Opus5 建议：与 en baisse 成对，数据描述固定短语]"
+        },
+        {
+          "type": "vocab",
+          "fr": "en forme",
+          "pos": "expr",
+          "zh": "[T10Q18 补] 状态好；身体好 [Opus5 建议：日常口语高频（Je suis en forme），也是 T1 可用的表达]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la ponctualité",
+          "pos": "nom",
+          "zh": "[T10Q18 补] 守时 [Opus5 建议：ponctuel 派生，职场评价用词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le bavardage",
+          "pos": "nom",
+          "zh": "[T10Q19 补] 闲聊 [Opus5 建议：bavarder 派生；本题整篇都在讲它的好处]"
+        },
+        {
+          "type": "vocab",
+          "fr": "libérer",
+          "pos": "verbe",
+          "zh": "[T10Q19 补] 释放；解放 [Opus5 建议：和 tension / détendu 一组记，正好是本题的三个关键词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une tension",
+          "pos": "nom",
+          "zh": "[T10Q19 补] 紧张；压力 [Opus5 建议：社会与心理话题高频，和 stress 近义]"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'avérer",
+          "pos": "verbe pronominal",
+          "zh": "[T10Q19 补] 被证明是；结果是 [Opus5 建议：书面语高频，写作 T2 用来下结论比 être 更有分量]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le quotidien",
+          "pos": "nom",
+          "zh": "[T10Q19 补] 日常生活 [Opus5 建议：既是名词「日常」也是形容词「每日的」，还是「日报」]"
+        },
+        {
+          "type": "vocab",
+          "fr": "soulager",
+          "pos": "verbe",
+          "zh": "[T10Q19 补] 减轻；使宽慰 [Opus5 建议：健康与情绪话题高频，和 détendre / libérer 一组]"
+        },
+        {
+          "type": "vocab",
+          "fr": "à l'avance",
+          "pos": "expr",
+          "zh": "[T10Q20 补] 提前 [Opus5 建议：预订/购票场景固定短语，和 en avance（早到）区分开]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un détenteur",
+          "pos": "nom",
+          "zh": "[T10Q20 补] 持有者 [Opus5 建议：détenir 派生，证件/权利类文本常见]"
+        },
+        {
+          "type": "vocab",
+          "fr": "recueillir",
+          "pos": "verbe",
+          "zh": "[T10Q21 补] 收集；征集 [Opus5 建议：不规则动词，且「征求意见」是公共事务类文章的固定动作]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un usager",
+          "pos": "nom",
+          "zh": "[T10Q21 补] 使用者；用户 [Opus5 建议：公共服务语境专用（交通、图书馆），比 utilisateur 更正式]"
+        },
+        {
+          "type": "vocab",
+          "fr": "provisoire",
+          "pos": "adj",
+          "zh": "[T10Q21 补] 临时的 [Opus5 建议：与 définitif 相对，行政/合同类文本高频]"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L36 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L36:species:risquer-de-plus-infinitive-means-run-the-risk",
+          "front": "翻译成法语（用 risquer）：**他有可能丢掉工作。**",
+          "back": "答案：**Il risque de perdre son travail.**\n\nrisquer de ＋不定式＝冒着／有……的风险。名词形式是 le risque。\n\n自检：risquer 后面那个介词是什么？（de，不能省）",
+          "answer": "Il risque de perdre son travail",
+          "source_species": "risquer de plus infinitive means run the risk",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "requires_de",
+            "A2",
+            "false_friend"
+          ],
+          "french_items": [
+            "risquer de",
+            "risquer",
+            "un risque"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:90-95",
+            "L36_final_working.md:181-186"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:a-la-disposition-de-means-at-the-service-of",
+          "front": "写出法语（正式邮件收尾）：**我随时听候您的吩咐。**",
+          "back": "答案：**Je suis à votre disposition.**\n\nà la disposition de ＋人＝供某人使用／听候差遣，对应英语 at your service。\n\n自检：这里的 votre 替换掉了原式里的哪个词？（de ＋人）",
+          "answer": "Je suis à votre disposition",
+          "source_species": "a la disposition de means at the service of",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "B1",
+            "formal",
+            "memory_hook"
+          ],
+          "french_items": [
+            "à la disposition de",
+            "Je suis à votre disposition."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:83-88",
+            "L36_final_working.md:256-261"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:sejour-is-the-stay-not-the-trip",
+          "front": "翻译成法语（用 séjour）：**我在加拿大待过一段时间。**",
+          "back": "答案：**J'ai fait un séjour au Canada.**\n\nséjour 是「逗留的那段时间」，voyage 是「行程」。写作里描述在某地生活过一段时间，séjour 更准。\n\n自检：séjour 前面常配哪个动词？（faire un séjour）",
+          "answer": "J'ai fait un séjour au Canada",
+          "source_species": "sejour is the stay not the trip",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "false_friend"
+          ],
+          "french_items": [
+            "un séjour",
+            "un séjour au Canada"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:83-88",
+            "L36_final_working.md:181-186"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:se-retrouver-not-se-rencontrer-for-meeting-up",
+          "front": "翻译成法语（约好碰头，用 se retrouver 现在时）：**我们十六点在大学门口见。**",
+          "back": "答案：**On se retrouve devant l'université à seize heures.**\n\n约好的碰头＝se retrouver（互相再次找到）或 se rejoindre（去会合）；se rencontrer 是偶遇／初识，不能用在这里。\n\n自检：听力原文里那句是 on se ___ à seize heures ?（retrouve）",
+          "answer": "On se retrouve devant l'université à seize heures",
+          "source_species": "se retrouver not se rencontrer for meeting up",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "pronominal_reflexive",
+            "B1"
+          ],
+          "french_items": [
+            "se retrouver",
+            "se rejoindre",
+            "se rencontrer",
+            "On se retrouve devant l'université."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:333-338",
+            "L36_final_working.md:340-345",
+            "L36_final_working.md:1011-1016"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：批改点与改写方案",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:rendez-vous-is-a-noun-not-a-verb",
+          "front": "下面这句是老师当场判错的写法，请改对：**Nous allons rendez-vous à quatorze heures.**",
+          "back": "答案：**Nous avons un rendez-vous à quatorze heures.**\n\nrendez-vous 是名词，aller 后面只能接不定式。想说「我们碰头」则写 On se retrouve à quatorze heures.\n\n自检：rendez-vous 前面缺了什么？（冠词 un）",
+          "answer": "Nous avons un rendez-vous à quatorze heures",
+          "source_species": "rendez-vous is a noun not a verb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "sentence_frame",
+            "A2"
+          ],
+          "french_items": [
+            "un rendez-vous",
+            "avoir un rendez-vous",
+            "prendre rendez-vous"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:347-352"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：批改点与改写方案",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:futur-simple-not-futur-anterieur-for-i-will-buy",
+          "front": "翻译成法语（简单将来时，第一人称）：**我今晚会买我们的票。**",
+          "back": "答案：**J'achèterai nos tickets ce soir.**\n\nwill ＋动词＝简单将来时；先将来时（j'aurai acheté）只用在「将来某时点之前已完成」。\n\n自检：ce soir 后面还要不要加 aujourd'hui ?（不要，见下一张卡）",
+          "answer": "J'achèterai nos tickets ce soir",
+          "source_species": "futur simple not futur anterieur for i will buy",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "tense_system",
+            "futur_simple",
+            "B1"
+          ],
+          "french_items": [
+            "j'achèterai",
+            "acheter",
+            "nos tickets"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:354-359",
+            "L36_final_working.md:361-366"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：批改点与改写方案",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:ce-soir-already-contains-today",
+          "front": "下面这句有一处冗余，请改对：**Je vais acheter nos tickets ce soir aujourd'hui.**",
+          "back": "答案：**Je vais acheter nos tickets ce soir.**\n\nce soir 的 ce 已经指今天，aujourd'hui 是多余的——和英语不说 this evening today 一个道理。\n\n自检：同一族还有哪两个？（ce matin / cet après-midi）",
+          "answer": "Je vais acheter nos tickets ce soir",
+          "source_species": "ce soir already contains today",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A1"
+          ],
+          "french_items": [
+            "ce soir",
+            "cet après-midi",
+            "ce matin"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:361-366"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：批改点与改写方案",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:les-horaires-plural-for-a-timetable",
+          "front": "老师把学生写的 **selon le programme** 改掉了。请写出他改成的那个说法（意思是「按时间表」）。",
+          "back": "答案：**selon les horaires**\n\n表示时刻表／作息表时 horaire 习惯用复数；programme 是节目单／方案，不是时间表。\n\n自检：这里为什么不能用单数？（老师：它很少用单数的）",
+          "answer": "selon les horaires",
+          "source_species": "les horaires plural for a timetable",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "gender_number",
+            "B1"
+          ],
+          "french_items": [
+            "les horaires",
+            "selon les horaires",
+            "un programme"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:319-324"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：批改点与改写方案",
+          "study_group_order": 20,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:fix-grammar-errors-after-every-lesson",
+          "front": "自查（无标准答案）：上一次作文讲评里老师指出的错误，你**已经改进作文原文并发回**了吗？没有的话现在列出还没改的那几处。",
+          "back": "老师的要求：讲完之后课下一定要改，改完发给他复核。不改就会反复犯同一类语法错误。\n\n本课交接：T2 明天补交；口语稿按今天讲的 T1 内容准备；阅读与听力照旧。",
+          "answer": null,
+          "source_species": "fix grammar errors after every lesson",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "Il faut corriger les erreurs après chaque cours."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:389-394",
+            "L36_final_working.md:1562-1567"
+          ],
+          "curated": true,
+          "study_group": "writing-t2",
+          "study_group_label": "写作 T2：批改点与改写方案",
+          "study_group_order": 20,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:read-new-words-in-stem-then-options-then-keywords",
+          "front": "自查（无标准答案）：说出老师给的三层顺序，并指出哪一层「可以不管」。然后用它扫一遍今天的阅读 test 10，列出你要背的词。",
+          "back": "老师的三层：**① 题干 → ② 选项 → ③ 关键词句**。①② 里的生词百分之百要背，③ 只背关键词里的，**其他可以不管**。\n\n老师的原则句：「不要把整篇都背下来，没有用。」\n\n本课的《补》层词条就是按这条规则从题干、选项和关键词句里挑的。",
+          "answer": null,
+          "source_species": "read new words in stem then options then keywords",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [
+            "compréhension écrite"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:441-446",
+            "L36_final_working.md:448-453"
+          ],
+          "curated": true,
+          "study_group": "reading-t10",
+          "study_group_label": "阅读 test 10：取词策略与题型陷阱",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:head-noun-not-the-modifier-decides-the-meaning",
+          "front": "阅读 test 10 的 Q17，选项 A 是 *Ils bénéficient d'un meilleur service après-vente*，你当时选了它。正解是 B *des conseils sur le mode d'emploi*。写出原文里支持 B 的那半句（法语）。",
+          "back": "答案：**qui leur explique le fonctionnement de l'appareil**\n\n老师的抓手是 explain：expliquer le fonctionnement ＝ conseils sur le mode d'emploi。\n\n选 A 错在漏掉定语 **après-vente**——原文讲的是买的时候有人讲解，不是售后。同一个毛病在 Q4 也犯过（把定语 du jus de fruit 当成核心）。",
+          "answer": "qui leur explique le fonctionnement de l'appareil",
+          "source_species": "head noun not the modifier decides the meaning",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "B1"
+          ],
+          "french_items": [
+            "la publicité du jus de fruit",
+            "le service après-vente"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:441-446",
+            "L36_final_working.md:483-488",
+            "L36_final_working.md:490-495"
+          ],
+          "curated": true,
+          "study_group": "reading-t10",
+          "study_group_label": "阅读 test 10：取词策略与题型陷阱",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:compare-option-tails-only-when-options-look-alike",
+          "front": "自查（无标准答案）：拿 test 10 的 Q14（rendement ↓ vs échanges perdent en efficacité），说出你是靠哪个原文词把两个相似选项分开的。",
+          "back": "参考：原文 **« chute de productivité »** 直接对应 C 的 rendement … diminue；D 的 échanges / efficacité 在原文里没有落点。\n\n老师的顺序：主干先淘汰，剩下相似的再比后半截。",
+          "answer": null,
+          "source_species": "compare option tails only when options look alike",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [
+            "service après-vente",
+            "conseils sur le mode d'emploi"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:483-488"
+          ],
+          "curated": true,
+          "study_group": "reading-t10",
+          "study_group_label": "阅读 test 10：取词策略与题型陷阱",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:collegue-means-teachers-when-school-leadership-writes",
+          "front": "test 10 的 Q10，抬头 *Chers collègues*、落款 *La direction du lycée*，正文讲 réunion parents-professeurs。这封通知是写给谁的？（A 学生 / B 大学生 / C 家长 / D 老师）",
+          "back": "答案：**D（Aux professeurs）**\n\n发信人是学校领导层，抬头 Chers collègues ＝同事＝老师。parents-professeurs 只是会议的名字，不是收件人。\n\n老师说这题讲过一次，而且「你上次也选家长」——这是第二次错在同一处。\n\n（转录里老师先口误说「选 C」，紧接着自己更正：「选 D，差不多。说错了。」）",
+          "answer": "D",
+          "source_species": "collegue means teachers when school leadership writes",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "B1",
+            "same_surface_diff_meaning"
+          ],
+          "french_items": [
+            "Chers collègues",
+            "la direction du lycée",
+            "la réunion parents-professeurs"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:417-422",
+            "L36_final_working.md:424-429"
+          ],
+          "curated": true,
+          "study_group": "reading-t10",
+          "study_group_label": "阅读 test 10：取词策略与题型陷阱",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:present-participle-as-reduced-clause",
+          "front": "把这个分词结构还原成 comme 引导的原因从句：\n**Le téléphone mobile étant un objet technique, les clients ont besoin d'aide.**",
+          "back": "答案：**Comme le téléphone mobile est un objet technique, les clients ont besoin d'aide.**\n\n现在分词 étant ＝ being，等于一个原因/背景从句。老师：语法复杂，内容不复杂。\n\n自检：étant 是哪个动词的现在分词？（être）",
+          "answer": "Comme le téléphone mobile est un objet technique, les clients ont besoin d'aide",
+          "source_species": "present participle as reduced clause",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "mastery",
+            "sentence_frame",
+            "B2"
+          ],
+          "french_items": [
+            "Le téléphone mobile étant un objet technique, ...",
+            "étant"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:490-495"
+          ],
+          "curated": true,
+          "study_group": "reading-t10",
+          "study_group_label": "阅读 test 10：取词策略与题型陷阱",
+          "study_group_order": 30,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:famille-nombreuse-is-a-family-with-many-children",
+          "front": "test 10 的 Q20：15 € 是 aux points de vente habituels，20 € 是 aux guichets du stade le soir même。问「怎样买价更低」，选哪个？（A 提前买 / B 买四场 / C 团体票 / D 出示运动俱乐部卡）",
+          "back": "答案：**A（En achetant les billets à l'avance）**\n\n15 € vs 当晚 20 €，差别就在「提前」。\n\nC 是老师点名的最大陷阱：carte « Famille nombreuse » 是**多子女家庭**优惠卡，不是团体票。\n\n老师还说这题「反复考」，遇到做过的题很正常。",
+          "answer": "A",
+          "source_species": "famille nombreuse is a family with many children",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "B1",
+            "false_friend"
+          ],
+          "french_items": [
+            "une famille nombreuse",
+            "carte « Famille nombreuse »"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:497-502"
+          ],
+          "curated": true,
+          "study_group": "reading-t10",
+          "study_group_label": "阅读 test 10：取词策略与题型陷阱",
+          "study_group_order": 30,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:synonym-substitution-is-how-listening-options-are-built",
+          "front": "听力原文说 *Et puis, je préférerais aller nager*，选项写的是 la piscine。写出这一组同义替换的两个法语词。",
+          "back": "答案：**aller nager ↔ la piscine**\n\n选项是原文的同义改写。同类的还有：faire des courses ↔ acheter du pain et du fromage；la grippe ↔ être très malade。\n\n自检：你在扫选项时是在找原词，还是在找「同一件事的另一种说法」？",
+          "answer": "aller nager la piscine",
+          "source_species": "synonym substitution is how listening options are built",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "B1"
+          ],
+          "french_items": [
+            "aller nager",
+            "la piscine",
+            "faire des courses",
+            "acheter du pain"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1011-1016",
+            "L36_final_working.md:995-999"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:emission-is-a-tv-show-programme-is-the-listing",
+          "front": "翻译成法语（命令式，vous）：**参与我们的节目吧。**",
+          "back": "答案：**Participez à notre émission.**\n\némission ＝（电视/广播）节目；programme ＝节目单、节目安排。\n\n自检：participer 后面接哪个介词？（à）",
+          "answer": "Participez à notre émission",
+          "source_species": "emission is a tv show programme is the listing",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "false_friend"
+          ],
+          "french_items": [
+            "une émission",
+            "un programme",
+            "participez à notre émission"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:538-543"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:aller-means-to-suit-somebody-for-clothes",
+          "front": "翻译成法语（用 aller）：**这条裙子非常适合她。**",
+          "back": "答案：**Cette robe lui va très bien.**\n\naller ＋间接宾语＝某物适合某人；主语是衣服，人用 lui / vous / me。\n\n自检：「她」在这里为什么是 lui 而不是 elle ?（间接宾语人称代词）",
+          "answer": "Cette robe lui va très bien",
+          "source_species": "aller means to suit somebody for clothes",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "same_surface_diff_meaning"
+          ],
+          "french_items": [
+            "Cette robe vous va très bien.",
+            "Ça lui va bien."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:678-684",
+            "L36_final_working.md:686-691"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:billet-for-plane-ticket-de-bus-for-bus",
+          "front": "翻译成法语：**一张飞机票。**",
+          "back": "答案：**un billet d'avion**\n\n机票/火车票＝billet；公交、地铁票＝ticket（un ticket de bus）。\n\n自检：老师说 billet 在口语里会怎么样？（省音）",
+          "answer": "un billet d'avion",
+          "source_species": "billet for plane ticket de bus for bus",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "un billet d'avion",
+            "un ticket de bus"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:724-729",
+            "L36_final_working.md:731-736"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:un-euro-vingt-is-how-prices-are-read",
+          "front": "用法语写出这个价格的读法：**1,20 €**",
+          "back": "答案：**un euro vingt**\n\n法语把单位放中间：数字 ＋ euro ＋ 小数部分。\n\n自检：题干问价格时常用的那句是什么？（Combien coûte … ?）",
+          "answer": "un euro vingt",
+          "source_species": "un euro vingt is how prices are read",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "listening_keyword",
+            "A2"
+          ],
+          "french_items": [
+            "un euro vingt",
+            "Combien coûte un ticket de bus ?"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:714-719",
+            "L36_final_working.md:724-729"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:beau-becomes-bel-before-a-vowel",
+          "front": "翻译成法语（用 beau 那一族）：**这是个漂亮的地方。**",
+          "back": "答案：**C'est un bel endroit.**\n\nendroit 是元音开头的阳性名词，所以 beau → **bel**。同族：nouveau → nouvel，vieux → vieil。\n\n自检：endroit 是阴性还是阳性？（阳性，老师专门说过）",
+          "answer": "C'est un bel endroit",
+          "source_species": "beau becomes bel before a vowel",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "agreement",
+            "A2"
+          ],
+          "french_items": [
+            "c'est un bel endroit",
+            "beau",
+            "bel",
+            "un bel appartement"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:847-851",
+            "L36_final_working.md:853-858"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:appeler-is-to-call-rappeler-is-to-remind",
+          "front": "翻译成法语（复合过去时）：**老师昨天给你打过电话。**",
+          "back": "答案：**Le professeur t'a appelé hier.**\n\n简单的 call ＝ appeler；rappeler 是 recall / remind（也可指「回电」）。\n\n自检：复合过去时用哪个助动词？（avoir → a appelé）",
+          "answer": "Le professeur t'a appelé hier",
+          "source_species": "appeler is to call rappeler is to remind",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "appeler",
+            "rappeler",
+            "Le professeur t'a appelé hier."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:806-811",
+            "L36_final_working.md:813-818"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:composer-is-dial-and-is-recognition-only",
+          "front": "听力里出现 *Composez le 01 40 00 01 01*。这句话让听众做什么？（用中文答一句即可）",
+          "back": "答案：**请拨这个号码。**\n\ncomposer 本意是编曲/写作文，法语里拨号、输入密码也用它。\n\n**老师划的边界**：「了解就可以了，这个词不要求你自己会用。」——只要听懂，不必产出。",
+          "answer": null,
+          "source_species": "composer is dial and is recognition only",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "foundational",
+            "B1",
+            "same_surface_diff_meaning"
+          ],
+          "french_items": [
+            "composer",
+            "Composez le zéro un quarante..."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:564-569",
+            "L36_final_working.md:571-576"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:en-dessous-is-the-size-below",
+          "front": "店员说 *Je vous apporte la taille en dessous.* 他要去拿什么？（中文一句话）",
+          "back": "答案：**小一号的尺码。**\n\nsous ＝在……下面 → en dessous ＝在下边的 → 用在尺码上就是小一号。\n\n老师给的另一个例句：Je vous attends **en dessous**.（我在下边等你）",
+          "answer": null,
+          "source_species": "en dessous is the size below",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "preposition_interface",
+            "B1",
+            "memory_hook"
+          ],
+          "french_items": [
+            "en dessous",
+            "la taille en dessous",
+            "Je vous attends en dessous."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:664-669",
+            "L36_final_working.md:671-676"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:a-lot-of-is-de-nombreux-or-beaucoup-de",
+          "front": "翻译成法语（用 de nombreux 那一族）：**一份带有许多有用信息的目录。**",
+          "back": "答案：**un catalogue avec de nombreuses informations utiles**\n\ninformation 是阴性 → nombreuses、utiles 都要跟着变阴性复数。\n\n自检：不想做性数配合时可以换成哪个说法？（beaucoup de）",
+          "answer": "un catalogue avec de nombreuses informations utiles",
+          "source_species": "a lot of is de nombreux or beaucoup de",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "agreement",
+            "B1"
+          ],
+          "french_items": [
+            "de nombreuses informations",
+            "beaucoup de",
+            "un catalogue"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1080-1085"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:quebec-accent-is-recognition-only",
+          "front": "自查（无标准答案）：这段听力里说话人带魁北克口音（r 音发成英语的 r）。老师对这件事的指示是什么？",
+          "back": "老师的指示：**没必要学他**——听懂就行，不要模仿。\n\n他还提示这题只要抓前半句 Je cherche une activité sportive à faire dans le quartier…，后面是地名，听不懂没关系。",
+          "answer": null,
+          "source_species": "quebec accent is recognition only",
+          "primary_class": "pronunciation_spelling",
+          "tags": [
+            "foundational",
+            "B1"
+          ],
+          "french_items": [
+            "monsieur",
+            "Je cherche une activité sportive."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1073-1078"
+          ],
+          "curated": true,
+          "study_group": "listening",
+          "study_group_label": "听力讲评：同义替换与高频表达",
+          "study_group_order": 40,
+          "study_order": 110
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:nom-is-surname-prenom-is-given-name",
+          "front": "李华要在考试里报出姓和名。补全（用老师给的句式）：\n**Mon ____ c'est Li, mon ____ c'est Hua.**",
+          "back": "答案：**Mon nom c'est Li, mon prénom c'est Hua.**\n\nnom ＝姓，prénom ＝名。记忆法（老师给的）：pré- ＝放在前面的，外国人名在前姓在后，所以 prénom 是名。\n\n自检：句式用的是 c'est 还是 est ?（c'est——见下一张卡）",
+          "answer": "Mon nom c'est Li, mon prénom c'est Hua",
+          "source_species": "nom is surname prenom is given name",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A1",
+            "false_friend"
+          ],
+          "french_items": [
+            "le nom",
+            "le prénom",
+            "Mon nom c'est Li.",
+            "Mon prénom c'est Hua."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1250-1254",
+            "L36_final_working.md:1256-1261"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：问句、答法与准备边界",
+          "study_group_order": 50,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:say-je-suis-ne-le-not-mon-date-de-naissance-est",
+          "front": "考官问你的出生日期。用老师要求的句式说出「我出生于 1977 年 3 月 19 日」。",
+          "back": "答案：**Je suis né le 19 mars 1977.**\n\n顺序是 **日 → 月 → 年**。\n\n老师的红线：千万不要说 *mon date de naissance est…*，那是中文/英文语序搬过来的。\n\n自检：报姓名时同理——是 Mon nom **c'est** …，不是 mon nom est …",
+          "answer": "Je suis né le 19 mars 1977",
+          "source_species": "say je suis ne le not mon date de naissance est",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "teacher_corrected_error",
+            "A2",
+            "memory_hook"
+          ],
+          "french_items": [
+            "Je suis né le",
+            "Quelle est votre date de naissance ?"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1270-1274",
+            "L36_final_working.md:1292-1297"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：问句、答法与准备边界",
+          "study_group_order": 50,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:t1-answer-length-short-for-facts-long-for-expandable",
+          "front": "考官问 *Vous jouez souvent avec votre fils ?* 按老师的口径，用一句话答出来（法语）。",
+          "back": "答案：**Oui, on joue souvent ensemble.**\n\n老师原话：「够了。」——T1 只有两分钟，简单信息一问一答即可。\n\n可展开的五类题（家庭 / 住址 / 工作 / 过去的事 / 计划）才说两到三句，**最多三句**。",
+          "answer": "Oui, on joue souvent ensemble",
+          "source_species": "t1 answer length short for facts long for expandable",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [
+            "Quelle est votre situation familiale ?",
+            "Oui, on joue souvent ensemble."
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1370-1375",
+            "L36_final_working.md:1377-1382",
+            "L36_final_working.md:1384-1389"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：问句、答法与准备边界",
+          "study_group_order": 50,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:t1-covers-five-topics-after-personal-info",
+          "front": "自查（无标准答案）：不看答案，列出老师圈定的 T1 六块内容，并说出问「工作」的三种问法。",
+          "back": "六块：**① 个人信息 ② 工作 ③ 海外经历 ④ 兴趣爱好(loisirs) ⑤ 过去发生的事 ⑥ 计划(project)**\n\n问工作的三种问法：**Quelle est votre profession ? / Quel est votre métier ? / Qu'est-ce que vous faites (dans la vie) ?**\n\n老师对「为什么考试」的建议答法：说想在加拿大定居＋一句理由（教育更好／自然风光），不要直白说「为了移民」。",
+          "answer": null,
+          "source_species": "t1 covers five topics after personal info",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1"
+          ],
+          "french_items": [
+            "Quelle est votre profession ?",
+            "des expériences à l'étranger",
+            "les loisirs",
+            "un projet"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1493-1498",
+            "L36_final_working.md:1521-1526",
+            "L36_final_working.md:1528-1532"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：问句、答法与准备边界",
+          "study_group_order": 50,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:do-not-let-chatgpt-write-the-t1-script",
+          "front": "自查（无标准答案）：老师允许你用 AI 做哪两件事？不允许做哪一件？",
+          "back": "**允许**：① 个别不确定的表达拿去问；② 让 AI 换着花样问同一个问题，练听懂。\n\n**不允许**：整篇口语稿让 GPT 写。老师：「太高级了，然后不口语化」，「我如果是考官，我马上就打断他，一听就知道不是自己写的」。\n\n句式的来源：**直接用听力材料里的句式**，老师说听力用的句式其实挺简单。",
+          "answer": null,
+          "source_species": "do not let chatgpt write the t1 script",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "informal"
+          ],
+          "french_items": [
+            "ChatGPT",
+            "T1"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1514-1519",
+            "L36_final_working.md:1555-1560",
+            "L36_final_working.md:1562-1567"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：问句、答法与准备边界",
+          "study_group_order": 50,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L36:species:fluency-beats-sophistication-in-speaking-and-writing",
+          "front": "自查（无标准答案）：把你准备的 T1 稿念一遍，标出念到卡壳的句子，每一句换成你能一口气说完的更简单说法。",
+          "back": "老师的标准：**顺**。「你写出来的文章如果能够做到顺，就很了不起了。」\n\n配套做法：句式取自听力材料（简单且地道），不确定的单点才问 AI。",
+          "answer": null,
+          "source_species": "fluency beats sophistication in speaking and writing",
+          "primary_class": "strategy",
+          "tags": [
+            "core"
+          ],
+          "french_items": [
+            "顺 / fluide"
+          ],
+          "evidence_refs": [
+            "L36_final_working.md:1562-1567"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：问句、答法与准备边界",
+          "study_group_order": 50,
+          "study_order": 60
+        }
+      ]
+    }
+  ]
+}

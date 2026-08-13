@@ -1,0 +1,162 @@
+{
+  "risquer de plus infinitive means run the risk": {
+    "front": "翻译成法语（用 risquer）：**他有可能丢掉工作。**",
+    "back": "答案：**Il risque de perdre son travail.**\n\nrisquer de ＋不定式＝冒着／有……的风险。名词形式是 le risque。\n\n自检：risquer 后面那个介词是什么？（de，不能省）",
+    "answer": "Il risque de perdre son travail"
+  },
+  "a la disposition de means at the service of": {
+    "front": "写出法语（正式邮件收尾）：**我随时听候您的吩咐。**",
+    "back": "答案：**Je suis à votre disposition.**\n\nà la disposition de ＋人＝供某人使用／听候差遣，对应英语 at your service。\n\n自检：这里的 votre 替换掉了原式里的哪个词？（de ＋人）",
+    "answer": "Je suis à votre disposition"
+  },
+  "sejour is the stay not the trip": {
+    "front": "翻译成法语（用 séjour）：**我在加拿大待过一段时间。**",
+    "back": "答案：**J'ai fait un séjour au Canada.**\n\nséjour 是「逗留的那段时间」，voyage 是「行程」。写作里描述在某地生活过一段时间，séjour 更准。\n\n自检：séjour 前面常配哪个动词？（faire un séjour）",
+    "answer": "J'ai fait un séjour au Canada"
+  },
+  "se retrouver not se rencontrer for meeting up": {
+    "front": "翻译成法语（约好碰头，用 se retrouver 现在时）：**我们十六点在大学门口见。**",
+    "back": "答案：**On se retrouve devant l'université à seize heures.**\n\n约好的碰头＝se retrouver（互相再次找到）或 se rejoindre（去会合）；se rencontrer 是偶遇／初识，不能用在这里。\n\n自检：听力原文里那句是 on se ___ à seize heures ?（retrouve）",
+    "answer": "On se retrouve devant l'université à seize heures"
+  },
+  "rendez-vous is a noun not a verb": {
+    "front": "下面这句是老师当场判错的写法，请改对：**Nous allons rendez-vous à quatorze heures.**",
+    "back": "答案：**Nous avons un rendez-vous à quatorze heures.**\n\nrendez-vous 是名词，aller 后面只能接不定式。想说「我们碰头」则写 On se retrouve à quatorze heures.\n\n自检：rendez-vous 前面缺了什么？（冠词 un）",
+    "answer": "Nous avons un rendez-vous à quatorze heures"
+  },
+  "futur simple not futur anterieur for i will buy": {
+    "front": "翻译成法语（简单将来时，第一人称）：**我今晚会买我们的票。**",
+    "back": "答案：**J'achèterai nos tickets ce soir.**\n\nwill ＋动词＝简单将来时；先将来时（j'aurai acheté）只用在「将来某时点之前已完成」。\n\n自检：ce soir 后面还要不要加 aujourd'hui ?（不要，见下一张卡）",
+    "answer": "J'achèterai nos tickets ce soir"
+  },
+  "ce soir already contains today": {
+    "front": "下面这句有一处冗余，请改对：**Je vais acheter nos tickets ce soir aujourd'hui.**",
+    "back": "答案：**Je vais acheter nos tickets ce soir.**\n\nce soir 的 ce 已经指今天，aujourd'hui 是多余的——和英语不说 this evening today 一个道理。\n\n自检：同一族还有哪两个？（ce matin / cet après-midi）",
+    "answer": "Je vais acheter nos tickets ce soir"
+  },
+  "les horaires plural for a timetable": {
+    "front": "老师把学生写的 **selon le programme** 改掉了。请写出他改成的那个说法（意思是「按时间表」）。",
+    "back": "答案：**selon les horaires**\n\n表示时刻表／作息表时 horaire 习惯用复数；programme 是节目单／方案，不是时间表。\n\n自检：这里为什么不能用单数？（老师：它很少用单数的）",
+    "answer": "selon les horaires"
+  },
+  "fix grammar errors after every lesson": {
+    "front": "自查（无标准答案）：上一次作文讲评里老师指出的错误，你**已经改进作文原文并发回**了吗？没有的话现在列出还没改的那几处。",
+    "back": "老师的要求：讲完之后课下一定要改，改完发给他复核。不改就会反复犯同一类语法错误。\n\n本课交接：T2 明天补交；口语稿按今天讲的 T1 内容准备；阅读与听力照旧。",
+    "answer": null
+  },
+  "read new words in stem then options then keywords": {
+    "front": "自查（无标准答案）：说出老师给的三层顺序，并指出哪一层「可以不管」。然后用它扫一遍今天的阅读 test 10，列出你要背的词。",
+    "back": "老师的三层：**① 题干 → ② 选项 → ③ 关键词句**。①② 里的生词百分之百要背，③ 只背关键词里的，**其他可以不管**。\n\n老师的原则句：「不要把整篇都背下来，没有用。」\n\n本课的《补》层词条就是按这条规则从题干、选项和关键词句里挑的。",
+    "answer": null
+  },
+  "head noun not the modifier decides the meaning": {
+    "front": "阅读 test 10 的 Q17，选项 A 是 *Ils bénéficient d'un meilleur service après-vente*，你当时选了它。正解是 B *des conseils sur le mode d'emploi*。写出原文里支持 B 的那半句（法语）。",
+    "back": "答案：**qui leur explique le fonctionnement de l'appareil**\n\n老师的抓手是 explain：expliquer le fonctionnement ＝ conseils sur le mode d'emploi。\n\n选 A 错在漏掉定语 **après-vente**——原文讲的是买的时候有人讲解，不是售后。同一个毛病在 Q4 也犯过（把定语 du jus de fruit 当成核心）。",
+    "answer": "qui leur explique le fonctionnement de l'appareil"
+  },
+  "compare option tails only when options look alike": {
+    "front": "自查（无标准答案）：拿 test 10 的 Q14（rendement ↓ vs échanges perdent en efficacité），说出你是靠哪个原文词把两个相似选项分开的。",
+    "back": "参考：原文 **« chute de productivité »** 直接对应 C 的 rendement … diminue；D 的 échanges / efficacité 在原文里没有落点。\n\n老师的顺序：主干先淘汰，剩下相似的再比后半截。",
+    "answer": null
+  },
+  "collegue means teachers when school leadership writes": {
+    "front": "test 10 的 Q10，抬头 *Chers collègues*、落款 *La direction du lycée*，正文讲 réunion parents-professeurs。这封通知是写给谁的？（A 学生 / B 大学生 / C 家长 / D 老师）",
+    "back": "答案：**D（Aux professeurs）**\n\n发信人是学校领导层，抬头 Chers collègues ＝同事＝老师。parents-professeurs 只是会议的名字，不是收件人。\n\n老师说这题讲过一次，而且「你上次也选家长」——这是第二次错在同一处。\n\n（转录里老师先口误说「选 C」，紧接着自己更正：「选 D，差不多。说错了。」）",
+    "answer": "D"
+  },
+  "present participle as reduced clause": {
+    "front": "把这个分词结构还原成 comme 引导的原因从句：\n**Le téléphone mobile étant un objet technique, les clients ont besoin d'aide.**",
+    "back": "答案：**Comme le téléphone mobile est un objet technique, les clients ont besoin d'aide.**\n\n现在分词 étant ＝ being，等于一个原因/背景从句。老师：语法复杂，内容不复杂。\n\n自检：étant 是哪个动词的现在分词？（être）",
+    "answer": "Comme le téléphone mobile est un objet technique, les clients ont besoin d'aide"
+  },
+  "famille nombreuse is a family with many children": {
+    "front": "test 10 的 Q20：15 € 是 aux points de vente habituels，20 € 是 aux guichets du stade le soir même。问「怎样买价更低」，选哪个？（A 提前买 / B 买四场 / C 团体票 / D 出示运动俱乐部卡）",
+    "back": "答案：**A（En achetant les billets à l'avance）**\n\n15 € vs 当晚 20 €，差别就在「提前」。\n\nC 是老师点名的最大陷阱：carte « Famille nombreuse » 是**多子女家庭**优惠卡，不是团体票。\n\n老师还说这题「反复考」，遇到做过的题很正常。",
+    "answer": "A"
+  },
+  "synonym substitution is how listening options are built": {
+    "front": "听力原文说 *Et puis, je préférerais aller nager*，选项写的是 la piscine。写出这一组同义替换的两个法语词。",
+    "back": "答案：**aller nager ↔ la piscine**\n\n选项是原文的同义改写。同类的还有：faire des courses ↔ acheter du pain et du fromage；la grippe ↔ être très malade。\n\n自检：你在扫选项时是在找原词，还是在找「同一件事的另一种说法」？",
+    "answer": "aller nager la piscine"
+  },
+  "emission is a tv show programme is the listing": {
+    "front": "翻译成法语（命令式，vous）：**参与我们的节目吧。**",
+    "back": "答案：**Participez à notre émission.**\n\némission ＝（电视/广播）节目；programme ＝节目单、节目安排。\n\n自检：participer 后面接哪个介词？（à）",
+    "answer": "Participez à notre émission"
+  },
+  "aller means to suit somebody for clothes": {
+    "front": "翻译成法语（用 aller）：**这条裙子非常适合她。**",
+    "back": "答案：**Cette robe lui va très bien.**\n\naller ＋间接宾语＝某物适合某人；主语是衣服，人用 lui / vous / me。\n\n自检：「她」在这里为什么是 lui 而不是 elle ?（间接宾语人称代词）",
+    "answer": "Cette robe lui va très bien"
+  },
+  "billet for plane ticket de bus for bus": {
+    "front": "翻译成法语：**一张飞机票。**",
+    "back": "答案：**un billet d'avion**\n\n机票/火车票＝billet；公交、地铁票＝ticket（un ticket de bus）。\n\n自检：老师说 billet 在口语里会怎么样？（省音）",
+    "answer": "un billet d'avion"
+  },
+  "un euro vingt is how prices are read": {
+    "front": "用法语写出这个价格的读法：**1,20 €**",
+    "back": "答案：**un euro vingt**\n\n法语把单位放中间：数字 ＋ euro ＋ 小数部分。\n\n自检：题干问价格时常用的那句是什么？（Combien coûte … ?）",
+    "answer": "un euro vingt"
+  },
+  "beau becomes bel before a vowel": {
+    "front": "翻译成法语（用 beau 那一族）：**这是个漂亮的地方。**",
+    "back": "答案：**C'est un bel endroit.**\n\nendroit 是元音开头的阳性名词，所以 beau → **bel**。同族：nouveau → nouvel，vieux → vieil。\n\n自检：endroit 是阴性还是阳性？（阳性，老师专门说过）",
+    "answer": "C'est un bel endroit"
+  },
+  "appeler is to call rappeler is to remind": {
+    "front": "翻译成法语（复合过去时）：**老师昨天给你打过电话。**",
+    "back": "答案：**Le professeur t'a appelé hier.**\n\n简单的 call ＝ appeler；rappeler 是 recall / remind（也可指「回电」）。\n\n自检：复合过去时用哪个助动词？（avoir → a appelé）",
+    "answer": "Le professeur t'a appelé hier"
+  },
+  "composer is dial and is recognition only": {
+    "front": "听力里出现 *Composez le 01 40 00 01 01*。这句话让听众做什么？（用中文答一句即可）",
+    "back": "答案：**请拨这个号码。**\n\ncomposer 本意是编曲/写作文，法语里拨号、输入密码也用它。\n\n**老师划的边界**：「了解就可以了，这个词不要求你自己会用。」——只要听懂，不必产出。",
+    "answer": null
+  },
+  "en dessous is the size below": {
+    "front": "店员说 *Je vous apporte la taille en dessous.* 他要去拿什么？（中文一句话）",
+    "back": "答案：**小一号的尺码。**\n\nsous ＝在……下面 → en dessous ＝在下边的 → 用在尺码上就是小一号。\n\n老师给的另一个例句：Je vous attends **en dessous**.（我在下边等你）",
+    "answer": null
+  },
+  "a lot of is de nombreux or beaucoup de": {
+    "front": "翻译成法语（用 de nombreux 那一族）：**一份带有许多有用信息的目录。**",
+    "back": "答案：**un catalogue avec de nombreuses informations utiles**\n\ninformation 是阴性 → nombreuses、utiles 都要跟着变阴性复数。\n\n自检：不想做性数配合时可以换成哪个说法？（beaucoup de）",
+    "answer": "un catalogue avec de nombreuses informations utiles"
+  },
+  "quebec accent is recognition only": {
+    "front": "自查（无标准答案）：这段听力里说话人带魁北克口音（r 音发成英语的 r）。老师对这件事的指示是什么？",
+    "back": "老师的指示：**没必要学他**——听懂就行，不要模仿。\n\n他还提示这题只要抓前半句 Je cherche une activité sportive à faire dans le quartier…，后面是地名，听不懂没关系。",
+    "answer": null
+  },
+  "nom is surname prenom is given name": {
+    "front": "李华要在考试里报出姓和名。补全（用老师给的句式）：\n**Mon ____ c'est Li, mon ____ c'est Hua.**",
+    "back": "答案：**Mon nom c'est Li, mon prénom c'est Hua.**\n\nnom ＝姓，prénom ＝名。记忆法（老师给的）：pré- ＝放在前面的，外国人名在前姓在后，所以 prénom 是名。\n\n自检：句式用的是 c'est 还是 est ?（c'est——见下一张卡）",
+    "answer": "Mon nom c'est Li, mon prénom c'est Hua"
+  },
+  "say je suis ne le not mon date de naissance est": {
+    "front": "考官问你的出生日期。用老师要求的句式说出「我出生于 1977 年 3 月 19 日」。",
+    "back": "答案：**Je suis né le 19 mars 1977.**\n\n顺序是 **日 → 月 → 年**。\n\n老师的红线：千万不要说 *mon date de naissance est…*，那是中文/英文语序搬过来的。\n\n自检：报姓名时同理——是 Mon nom **c'est** …，不是 mon nom est …",
+    "answer": "Je suis né le 19 mars 1977"
+  },
+  "t1 answer length short for facts long for expandable": {
+    "front": "考官问 *Vous jouez souvent avec votre fils ?* 按老师的口径，用一句话答出来（法语）。",
+    "back": "答案：**Oui, on joue souvent ensemble.**\n\n老师原话：「够了。」——T1 只有两分钟，简单信息一问一答即可。\n\n可展开的五类题（家庭 / 住址 / 工作 / 过去的事 / 计划）才说两到三句，**最多三句**。",
+    "answer": "Oui, on joue souvent ensemble"
+  },
+  "t1 covers five topics after personal info": {
+    "front": "自查（无标准答案）：不看答案，列出老师圈定的 T1 六块内容，并说出问「工作」的三种问法。",
+    "back": "六块：**① 个人信息 ② 工作 ③ 海外经历 ④ 兴趣爱好(loisirs) ⑤ 过去发生的事 ⑥ 计划(project)**\n\n问工作的三种问法：**Quelle est votre profession ? / Quel est votre métier ? / Qu'est-ce que vous faites (dans la vie) ?**\n\n老师对「为什么考试」的建议答法：说想在加拿大定居＋一句理由（教育更好／自然风光），不要直白说「为了移民」。",
+    "answer": null
+  },
+  "do not let chatgpt write the t1 script": {
+    "front": "自查（无标准答案）：老师允许你用 AI 做哪两件事？不允许做哪一件？",
+    "back": "**允许**：① 个别不确定的表达拿去问；② 让 AI 换着花样问同一个问题，练听懂。\n\n**不允许**：整篇口语稿让 GPT 写。老师：「太高级了，然后不口语化」，「我如果是考官，我马上就打断他，一听就知道不是自己写的」。\n\n句式的来源：**直接用听力材料里的句式**，老师说听力用的句式其实挺简单。",
+    "answer": null
+  },
+  "fluency beats sophistication in speaking and writing": {
+    "front": "自查（无标准答案）：把你准备的 T1 稿念一遍，标出念到卡壳的句子，每一句换成你能一口气说完的更简单说法。",
+    "back": "老师的标准：**顺**。「你写出来的文章如果能够做到顺，就很了不起了。」\n\n配套做法：句式取自听力材料（简单且地道），不确定的单点才问 AI。",
+    "answer": null
+  }
+}
