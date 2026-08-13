@@ -176,6 +176,12 @@
         },
         {
           "type": "vocab",
+          "fr": "louer",
+          "pos": "verbe",
+          "zh": "[L36写作T2] 租；出租"
+        },
+        {
+          "type": "vocab",
           "fr": "le temps libre",
           "pos": "expr",
           "zh": "[L36写作T2] 空闲时间"

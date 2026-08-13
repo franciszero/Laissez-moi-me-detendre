@@ -687,6 +687,32 @@
     ]
   },
   {
+    "lemma": "louer",
+    "pos": "verbe",
+    "zh": "[L36写作T2] 租；出租",
+    "lesson": "L36",
+    "source_lesson": "L36",
+    "category": "CORE_VOCAB",
+    "example": "Nous allons louer une voiture.",
+    "raw": "louer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "writing_correction",
+        "source_ref": "L36:writing-T2",
+        "teacher_action": "correction",
+        "selection_reason": "老师在作文里替学生改写的句子：nous allons louer une voiture。",
+        "evidence": {
+          "file": "docker-data/outputs/L36/L36_final_working.md",
+          "time": "25:00-25:30",
+          "lines": "368-373"
+        },
+        "learning_note": "这一窗被 L36_uncertain_windows.md 判为低可信（第 16 条，Whisper 把整句听成中文），曾据此删除本条。**学习者 2026-08-13 听过录音确认：确实是 louer une voiture**，因此恢复收录——证据来自本人听音，不再只依赖 ASR。"
+      }
+    ]
+  },
+  {
     "lemma": "le temps libre",
     "pos": "expr",
     "zh": "[L36写作T2] 空闲时间",
