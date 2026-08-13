@@ -346,12 +346,13 @@
         "source_kind": "opening_review",
         "source_ref": "L36:opening-dictation:protéger",
         "teacher_action": "memorize",
-        "selection_reason": "开课听写词，三路 ASR 一致。学生答「protect」，老师通过。",
+        "selection_reason": "开课听写词，三路 ASR 一致。核对拼写时老师指出这个词学生没写出来，并强调「这个单词非常的重要」；后面核对词义时学生答「protect」，老师通过。",
         "evidence": {
           "file": "docker-data/outputs/L36/L36_final_working.md",
-          "time": "03:00-03:30; 16:30-17:00",
-          "lines": "76-81; 250-254"
-        }
+          "time": "03:00-03:30; 10:30-11:00; 16:30-17:00",
+          "lines": "76-81; 174-179; 250-254"
+        },
+        "learning_note": "10:30-11:00 那一窗三路 ASR 分歧极大（protection / poaching / protéger），**学习者 2026-08-13 听音确认老师说的是 protéger**。老师那句「法语没有 protecté」的具体措辞仍不可靠，因此本条只收词形与词义，不据此立规则。"
       }
     ]
   },
@@ -581,32 +582,6 @@
           "time": "18:00-18:30; 25:30-26:30",
           "lines": "270-275; 375-387"
         }
-      }
-    ]
-  },
-  {
-    "lemma": "la protection",
-    "pos": "nom",
-    "zh": "[L36课前复习] 保护",
-    "lesson": "L36",
-    "source_lesson": "L36",
-    "category": "CORE_VOCAB",
-    "example": "la protection de l'environnement",
-    "raw": "la protection",
-    "fem": null,
-    "fem_raw": null,
-    "provenance": [
-      {
-        "source_kind": "opening_review",
-        "source_ref": "L36:opening-dictation:protection",
-        "teacher_action": "correction",
-        "selection_reason": "老师核对听写时指出这个词学生没写出来，并说「这个单词非常的重要」。",
-        "evidence": {
-          "file": "docker-data/outputs/L36/L36_final_working.md",
-          "time": "10:30-11:00",
-          "lines": "174-179"
-        },
-        "learning_note": "这一窗三路 ASR 分歧很大（VibeVoice: protection / Qwen: poaching / Whisper: protéger），老师那句「法语没有 protecté」的原话不可靠，本条只收词形与词义，不据此立规则。已列入 L36_uncertain_windows.md 待你确认。"
       }
     ]
   },
