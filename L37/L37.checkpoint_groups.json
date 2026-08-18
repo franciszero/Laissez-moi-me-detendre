@@ -1,0 +1,200 @@
+{
+  "groups": [
+    {
+      "id": "dictation-core",
+      "label": "开课听写：词义边界与固定表达",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "monnaie swaps with argent in reading",
+          "order": 10
+        },
+        {
+          "source_species": "emmener takes a person to a place",
+          "order": 20
+        },
+        {
+          "source_species": "composer dials a number or enters a code",
+          "order": 30
+        },
+        {
+          "source_species": "quel dommage is how dommage shows up",
+          "order": 40
+        },
+        {
+          "source_species": "demain works as a bare adverb",
+          "order": 50
+        },
+        {
+          "source_species": "alimentation is food not augmentation",
+          "order": 60
+        },
+        {
+          "source_species": "etablissement can stand for a school",
+          "order": 70
+        },
+        {
+          "source_species": "a la disposition de means at the service of",
+          "order": 80
+        },
+        {
+          "source_species": "requerir and acquerir are two verbs",
+          "order": 90
+        },
+        {
+          "source_species": "preter is to lend out",
+          "order": 100
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "reading-t11",
+      "label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "past participle without auxiliary is not the verb",
+          "order": 10
+        },
+        {
+          "source_species": "past participle as a postposed modifier",
+          "order": 20
+        },
+        {
+          "source_species": "consister en takes a noun consister a takes an infinitive",
+          "order": 30
+        },
+        {
+          "source_species": "location is the renting not the place",
+          "order": 40
+        },
+        {
+          "source_species": "faire attention a takes a noun",
+          "order": 50
+        },
+        {
+          "source_species": "jusqu a in the stem decides the whole item",
+          "order": 60
+        },
+        {
+          "source_species": "boutique is the shop cadeau is the gift",
+          "order": 70
+        },
+        {
+          "source_species": "epreuve concours examen are one synonym set",
+          "order": 80
+        },
+        {
+          "source_species": "entretien is a job interview",
+          "order": 90
+        },
+        {
+          "source_species": "q9 answer is a because he is replying",
+          "order": 100
+        },
+        {
+          "source_species": "degustation matches gouter des recettes",
+          "order": 110
+        },
+        {
+          "source_species": "en temps reel is one fixed block",
+          "order": 120
+        },
+        {
+          "source_species": "three driver words are recognition only",
+          "order": 130
+        },
+        {
+          "source_species": "signaler information not accelerer intervention",
+          "order": 140
+        },
+        {
+          "source_species": "read the keyword when the sentence will not parse",
+          "order": 150
+        },
+        {
+          "source_species": "suivre les cours and suivi de",
+          "order": 160
+        },
+        {
+          "source_species": "debut de and a la fin de are a pair",
+          "order": 170
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "speaking-t1",
+      "label": "口语 T1：听懂问句与冠词介词",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "je m appelle not j appelle",
+          "order": 10
+        },
+        {
+          "source_species": "je suis ne le plus the date",
+          "order": 20
+        },
+        {
+          "source_species": "two ways to say how many in the family",
+          "order": 30
+        },
+        {
+          "source_species": "t1 fails on not understanding the question",
+          "order": 40
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-t3",
+      "label": "写作 T3：第一段骨架与好处／坏处句式",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "t3 paragraph one is exactly three sentences",
+          "order": 10
+        },
+        {
+          "source_species": "tandis que links sentence two to three",
+          "order": 20
+        },
+        {
+          "source_species": "tandis que carries contrast quand does not",
+          "order": 30
+        },
+        {
+          "source_species": "condense by turning a clause into a noun",
+          "order": 40
+        },
+        {
+          "source_species": "contribuer a is the default benefit verb",
+          "order": 50
+        },
+        {
+          "source_species": "aider needs a person and an infinitive",
+          "order": 60
+        },
+        {
+          "source_species": "empecher qn de is the downside verb",
+          "order": 70
+        },
+        {
+          "source_species": "t3 whole essay is summary stance reasons",
+          "order": 80
+        },
+        {
+          "source_species": "grammar first fancy expressions later",
+          "order": 90
+        },
+        {
+          "source_species": "do not let ai write every draft",
+          "order": 100
+        }
+      ],
+      "practice_cards": []
+    }
+  ]
+}

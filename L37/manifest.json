@@ -1,0 +1,1785 @@
+{
+  "lesson": "L37",
+  "source": "L37_final_working.md",
+  "coverage": {
+    "source_type": "within_region_species",
+    "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L37.species.json",
+    "expected_species_count": 41
+  },
+  "chunks": [
+    {
+      "id": "vocab",
+      "title": "L37 词汇",
+      "bucket": "vocab",
+      "items": [
+        {
+          "type": "vocab",
+          "fr": "protéger",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 保护"
+        },
+        {
+          "type": "vocab",
+          "fr": "un métier",
+          "pos": "nom",
+          "zh": "[L37课前复习] 职业；行当"
+        },
+        {
+          "type": "vocab",
+          "fr": "un séjour",
+          "pos": "nom",
+          "zh": "[L37课前复习] 逗留；逗留期"
+        },
+        {
+          "type": "vocab",
+          "fr": "faible",
+          "pos": "adj",
+          "zh": "[L37课前复习] 弱的；微弱的；（数量）低的"
+        },
+        {
+          "type": "vocab",
+          "fr": "risquer de faire quelque chose",
+          "pos": "expr",
+          "zh": "[L37课前复习] 冒着……的风险；有可能……"
+        },
+        {
+          "type": "vocab",
+          "fr": "un locataire",
+          "pos": "nom",
+          "zh": "[L37课前复习] 租客；承租人"
+        },
+        {
+          "type": "vocab",
+          "fr": "actuellement",
+          "pos": "adv",
+          "zh": "[L37课前复习] 目前；现在"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'alimentation",
+          "pos": "nom",
+          "zh": "[L37课前复习] 食物（总称）；饮食"
+        },
+        {
+          "type": "vocab",
+          "fr": "une augmentation",
+          "pos": "nom",
+          "zh": "[L37课前复习] 上升；增加；涨（价／薪）"
+        },
+        {
+          "type": "vocab",
+          "fr": "raconter",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 讲述；叙述"
+        },
+        {
+          "type": "vocab",
+          "fr": "un propriétaire",
+          "pos": "nom",
+          "zh": "[L37课前复习] 业主；所有人；房东"
+        },
+        {
+          "type": "vocab",
+          "fr": "essayer",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 尝试；试（穿）"
+        },
+        {
+          "type": "vocab",
+          "fr": "un établissement",
+          "pos": "nom",
+          "zh": "[L37课前复习] 机构；单位（可代指学校）"
+        },
+        {
+          "type": "vocab",
+          "fr": "le début de",
+          "pos": "expr",
+          "zh": "[L37课前复习] ……的开头；开始时"
+        },
+        {
+          "type": "vocab",
+          "fr": "à la fin de",
+          "pos": "expr",
+          "zh": "[T11Q8] 在……的末尾；……结束时"
+        },
+        {
+          "type": "vocab",
+          "fr": "manquer",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 想念；缺少"
+        },
+        {
+          "type": "vocab",
+          "fr": "profiter de",
+          "pos": "expr",
+          "zh": "[L37课前复习] 利用；享受"
+        },
+        {
+          "type": "vocab",
+          "fr": "éviter",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 避免"
+        },
+        {
+          "type": "vocab",
+          "fr": "rencontrer",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 遇见；碰到；会面"
+        },
+        {
+          "type": "vocab",
+          "fr": "un concours",
+          "pos": "nom",
+          "zh": "[L37课前复习] 竞赛；选拔考试"
+        },
+        {
+          "type": "vocab",
+          "fr": "à la disposition de quelqu'un",
+          "pos": "expr",
+          "zh": "[L37课前复习] 供……使用；听……差遣"
+        },
+        {
+          "type": "vocab",
+          "fr": "la monnaie",
+          "pos": "nom",
+          "zh": "[L37课前复习] 零钱；找零"
+        },
+        {
+          "type": "vocab",
+          "fr": "emmener",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 带（某人）去；送（某人）"
+        },
+        {
+          "type": "vocab",
+          "fr": "composer",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 拨（号）；输入（密码）；创作"
+        },
+        {
+          "type": "vocab",
+          "fr": "un dommage",
+          "pos": "nom",
+          "zh": "[L37课前复习] 遗憾；损害"
+        },
+        {
+          "type": "vocab",
+          "fr": "les transports en commun",
+          "pos": "nom",
+          "zh": "[L37课前复习] 公共交通"
+        },
+        {
+          "type": "vocab",
+          "fr": "prêter",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 借出（把东西借给别人）"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'inscrire",
+          "pos": "verbe pronominal",
+          "zh": "[L37课前复习] 注册；报名"
+        },
+        {
+          "type": "vocab",
+          "fr": "le maillot de bain",
+          "pos": "nom",
+          "zh": "[L37课前复习] 泳衣；泳裤"
+        },
+        {
+          "type": "vocab",
+          "fr": "recevoir",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 收到；接待"
+        },
+        {
+          "type": "vocab",
+          "fr": "permettre",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 允许；使得以"
+        },
+        {
+          "type": "vocab",
+          "fr": "acquérir",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 获得；习得"
+        },
+        {
+          "type": "vocab",
+          "fr": "requérir",
+          "pos": "verbe",
+          "zh": "[L37课前复习] 要求；需要"
+        },
+        {
+          "type": "vocab",
+          "fr": "dépenser",
+          "pos": "verbe",
+          "zh": "[T11Q4] 花费（钱）"
+        },
+        {
+          "type": "vocab",
+          "fr": "faire attention à",
+          "pos": "expr",
+          "zh": "[T11Q4] 注意；重视"
+        },
+        {
+          "type": "vocab",
+          "fr": "la location",
+          "pos": "nom",
+          "zh": "[T11Q4] 租赁（这件事）；出租"
+        },
+        {
+          "type": "vocab",
+          "fr": "louer",
+          "pos": "verbe",
+          "zh": "[T11Q4] 租；出租"
+        },
+        {
+          "type": "vocab",
+          "fr": "jusqu'à",
+          "pos": "prep",
+          "zh": "[T11Q6] 直到；到……为止"
+        },
+        {
+          "type": "vocab",
+          "fr": "une boutique",
+          "pos": "nom",
+          "zh": "[T11Q7] 商店；精品店"
+        },
+        {
+          "type": "vocab",
+          "fr": "un cadeau",
+          "pos": "nom",
+          "zh": "[T11Q7] 礼物"
+        },
+        {
+          "type": "vocab",
+          "fr": "une épreuve",
+          "pos": "nom",
+          "zh": "[T11Q8] 考试；考验"
+        },
+        {
+          "type": "vocab",
+          "fr": "un examen",
+          "pos": "nom",
+          "zh": "[T11Q8] 考试"
+        },
+        {
+          "type": "vocab",
+          "fr": "un dossier",
+          "pos": "nom",
+          "zh": "[T11Q9] 文件；卷宗；档案"
+        },
+        {
+          "type": "vocab",
+          "fr": "vérifier",
+          "pos": "verbe",
+          "zh": "[T11Q9] 核实；核对"
+        },
+        {
+          "type": "vocab",
+          "fr": "chercher une information",
+          "pos": "expr",
+          "zh": "[T11Q9] 找信息；打听消息"
+        },
+        {
+          "type": "vocab",
+          "fr": "un entretien",
+          "pos": "nom",
+          "zh": "[T11Q9] 面谈；（尤指）面试"
+        },
+        {
+          "type": "vocab",
+          "fr": "une dégustation",
+          "pos": "nom",
+          "zh": "[T11Q14] 品尝；品鉴会"
+        },
+        {
+          "type": "vocab",
+          "fr": "déguster",
+          "pos": "verbe",
+          "zh": "[T11Q14] 品尝"
+        },
+        {
+          "type": "vocab",
+          "fr": "en temps réel",
+          "pos": "expr",
+          "zh": "[T11Q16] 实时；即时"
+        },
+        {
+          "type": "vocab",
+          "fr": "signaler",
+          "pos": "verbe",
+          "zh": "[T11Q16] 提示；标示；报告（情况）"
+        },
+        {
+          "type": "vocab",
+          "fr": "accélérer",
+          "pos": "verbe",
+          "zh": "[T11Q16] 加速；加快"
+        },
+        {
+          "type": "vocab",
+          "fr": "un conducteur",
+          "pos": "nom",
+          "zh": "[T11Q16] 司机；驾驶员"
+        },
+        {
+          "type": "vocab",
+          "fr": "un chauffeur",
+          "pos": "nom",
+          "zh": "[T11Q16] 司机"
+        },
+        {
+          "type": "vocab",
+          "fr": "un automobiliste",
+          "pos": "nom",
+          "zh": "[T11Q16] 驾车人；司机"
+        },
+        {
+          "type": "vocab",
+          "fr": "consister en",
+          "pos": "expr",
+          "zh": "[T11Q17] 由……组成；包括"
+        },
+        {
+          "type": "vocab",
+          "fr": "consister à faire quelque chose",
+          "pos": "expr",
+          "zh": "[T11Q17] 在于（做某事）"
+        },
+        {
+          "type": "vocab",
+          "fr": "effectuer",
+          "pos": "verbe",
+          "zh": "[T11Q17] 执行；完成（任务）"
+        },
+        {
+          "type": "vocab",
+          "fr": "une tâche administrative",
+          "pos": "expr",
+          "zh": "[T11Q17] 行政事务；文书工作"
+        },
+        {
+          "type": "vocab",
+          "fr": "suivi de",
+          "pos": "expr",
+          "zh": "[T11Q13] 紧接着……的；后面跟着……"
+        },
+        {
+          "type": "vocab",
+          "fr": "suivre les cours",
+          "pos": "expr",
+          "zh": "[T11Q13] 上课；听课"
+        },
+        {
+          "type": "vocab",
+          "fr": "tandis que",
+          "pos": "expr",
+          "zh": "[L37写作T3] 而……（同时性 ＋ 对比）"
+        },
+        {
+          "type": "vocab",
+          "fr": "certains considèrent que",
+          "pos": "expr",
+          "zh": "[L37写作T3] 有些人认为……"
+        },
+        {
+          "type": "vocab",
+          "fr": "diviser l'opinion publique",
+          "pos": "expr",
+          "zh": "[L37写作T3] 引起公众意见分歧"
+        },
+        {
+          "type": "vocab",
+          "fr": "susciter de nombreuses interrogations",
+          "pos": "expr",
+          "zh": "[L37写作T3] 引发诸多疑问／讨论"
+        },
+        {
+          "type": "vocab",
+          "fr": "contribuer à",
+          "pos": "expr",
+          "zh": "[L37写作T3] 有助于；对……有贡献"
+        },
+        {
+          "type": "vocab",
+          "fr": "aider quelqu'un à faire quelque chose",
+          "pos": "expr",
+          "zh": "[L37写作T3] 帮助某人做某事"
+        },
+        {
+          "type": "vocab",
+          "fr": "permettre à quelqu'un de faire quelque chose",
+          "pos": "expr",
+          "zh": "[L37写作T3] 使某人能够做某事"
+        },
+        {
+          "type": "vocab",
+          "fr": "empêcher quelqu'un de faire quelque chose",
+          "pos": "expr",
+          "zh": "[L37写作T3] 阻止某人做某事"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'autonomie",
+          "pos": "nom",
+          "zh": "[L37写作T3] 自主性；独立性"
+        },
+        {
+          "type": "vocab",
+          "fr": "un moment partagé",
+          "pos": "expr",
+          "zh": "[L37写作T3] 共处的时光"
+        },
+        {
+          "type": "vocab",
+          "fr": "bénéficier de",
+          "pos": "expr",
+          "zh": "[L37写作T3] 从……中受益"
+        },
+        {
+          "type": "vocab",
+          "fr": "être favorable à",
+          "pos": "expr",
+          "zh": "[L37写作T3] 对……有利；赞成……"
+        },
+        {
+          "type": "vocab",
+          "fr": "un loisir",
+          "pos": "nom",
+          "zh": "[L37口语T1] 业余爱好；休闲活动"
+        },
+        {
+          "type": "vocab",
+          "fr": "la date de naissance",
+          "pos": "expr",
+          "zh": "[L37口语T1] 出生日期"
+        },
+        {
+          "type": "vocab",
+          "fr": "la situation familiale",
+          "pos": "expr",
+          "zh": "[L37口语T1] 家庭状况"
+        },
+        {
+          "type": "vocab",
+          "fr": "un horaire",
+          "pos": "nom",
+          "zh": "[T11Q1 补] 时刻表；作息时间 [Opus5 建议：TCF 便条题的四选项常年是 horaire／adresse／date／tarif 这一组，四个词互为干扰项，缺一个就可能整题猜]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un tarif",
+          "pos": "nom",
+          "zh": "[T11Q5 补] 价目；收费标准 [Opus5 建议：和 horaire／adresse／date 同属那组固定干扰项；Q5 学生选的就是它的邻项，说明这组还没分清]"
+        },
+        {
+          "type": "vocab",
+          "fr": "embrasser",
+          "pos": "verbe",
+          "zh": "[T11Q3 补] 拥抱；亲吻 [Opus5 建议：Je t'embrasse 是法语私人便条最常见的结尾套语，写作 T1 便条题可以直接抄用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "garder des enfants",
+          "pos": "expr",
+          "zh": "[T11Q2 补] 看孩子；照看小孩 [Opus5 建议：口语 T1／T2 讲家庭和打工经历时的现成表达，而且是招聘广告里的高频岗位]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une glace",
+          "pos": "nom",
+          "zh": "[T11Q4 补] 冰淇淋；冰 [Opus5 建议：Q4 全文围绕它展开，是理解「父母舍不得花钱」的具体证据，也是描写夏天／度假的常用词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un promeneur",
+          "pos": "nom",
+          "zh": "[T11Q11 补] 散步者；行人 [Opus5 建议：由 se promener 派生，口语 T1 讲爱好时学生刚好用过 se promener，正好连起来记]"
+        },
+        {
+          "type": "vocab",
+          "fr": "se renseigner",
+          "pos": "verbe pronominal",
+          "zh": "[T11Q12 补] 打听；了解情况 [Opus5 建议：和 chercher une information（老师本课讲过的 Q9 干扰项）意思接近但用法不同，放一起才不会混]"
+        },
+        {
+          "type": "vocab",
+          "fr": "déposer sa candidature",
+          "pos": "expr",
+          "zh": "[T11Q12 补] 投递申请；递交简历 [Opus5 建议：写作／口语讲求职经历时的成套表达，比逐词翻译「找工作」像样得多]"
+        },
+        {
+          "type": "vocab",
+          "fr": "recruter",
+          "pos": "verbe",
+          "zh": "[T11Q12 补] 招聘；招募 [Opus5 建议：就业主题（T3 高频话题之一）的核心动词，和 emploi／poste／candidature 是一套]"
+        },
+        {
+          "type": "vocab",
+          "fr": "s'exiler",
+          "pos": "verbe pronominal",
+          "zh": "[T11Q15 补] 流亡；背井离乡（去外国谋生） [Opus5 建议：Q15 的正确选项就靠它，而学生在卷面上给它打了叉表示不认识——这是本卷他自己标出的最明确的一个缺口]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un stage",
+          "pos": "nom",
+          "zh": "[T11Q15 补] 实习 [Opus5 建议：和 emploi／poste／candidature 一起构成就业词群；Q15 用它做干扰项，认错就整题错]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la colocation",
+          "pos": "nom",
+          "zh": "[T11Q18 补] 合租 [Opus5 建议：住房主题（T2／T3 常考）的高频词，且和老师本课讲的 location／locataire 同族，一起记不费力]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le loyer",
+          "pos": "nom",
+          "zh": "[T11Q18 补] 房租 [Opus5 建议：住房主题的核心名词，Q18 原文出现两次，且和 location 是不同的词（一个是租金，一个是租赁行为）]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une facture",
+          "pos": "nom",
+          "zh": "[T11Q18 补] 账单；发票 [Opus5 建议：生活场景高频词，Q18 用它做干扰项；写作讲开销、节约时也用得上]"
+        },
+        {
+          "type": "vocab",
+          "fr": "le plagiat",
+          "pos": "nom",
+          "zh": "[T11Q19 补] 抄袭；仿冒 [Opus5 建议：Q19 的答案完全建立在 plagiat ↔ imitations 这组同义替换上，正是老师反复强调的「选项是原文的同义替换」那种题]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une imitation",
+          "pos": "nom",
+          "zh": "[T11Q19 补] 仿制品；模仿 [Opus5 建议：与 plagiat 配成同义替换对；Q19 学生原本选错，改对的关键就是认出这一对]"
+        },
+        {
+          "type": "vocab",
+          "fr": "avaler",
+          "pos": "verbe",
+          "zh": "[T11Q20 补] 吞下；咽下 [Opus5 建议：Q20 的干扰项 A 用的就是它，和正确项的差别在「吞下去了」还是「发现了」——一个动词决定整题]"
+        },
+        {
+          "type": "vocab",
+          "fr": "tousser",
+          "pos": "verbe",
+          "zh": "[T11Q20 补] 咳嗽 [Opus5 建议：Q20 原文靠它和 recracher 交代事情经过，是判断「东西没咽下去」的直接证据]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un morceau",
+          "pos": "nom",
+          "zh": "[T11Q20 补] 一块；一片 [Opus5 建议：食物／物品计量的通用词，口语描述吃什么时随时能用]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une portion",
+          "pos": "nom",
+          "zh": "[T11Q20 补] 一份（食物） [Opus5 建议：和 morceau 一起构成「食物分量」小词群；写作讲饮食习惯时用得上]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un ouvrage",
+          "pos": "nom",
+          "zh": "[T11Q13 补] 著作；作品 [Opus5 建议：Q13 判断「他是专家」的直接依据（写了好几本金融著作），也是书面语里 livre 的高级替换]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un intervenant",
+          "pos": "nom",
+          "zh": "[T11Q13 补] 主讲人；发言人 [Opus5 建议：Q13 题干词，认不出题干就没法做题——和老师本课在 Q6 强调的「题干词一样要背」是同一类]"
+        },
+        {
+          "type": "vocab",
+          "fr": "la comptabilité",
+          "pos": "nom",
+          "zh": "[T11Q17 补] 会计；财务 [Opus5 建议：Q17 原文和干扰项 D 都靠它；老师讲了这道题的语法和 consister，但没碰这个词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "un logiciel",
+          "pos": "nom",
+          "zh": "[T11Q17 补] 软件 [Opus5 建议：招聘广告里的固定要求项，写作讲新技术（T3 高频话题）时也是基础词]"
+        }
+      ]
+    },
+    {
+      "id": "species-checkpoints",
+      "title": "L37 reviewed species checkpoints",
+      "bucket": "checkpoint",
+      "items": [
+        {
+          "type": "checkpoint",
+          "id": "L37:species:monnaie-swaps-with-argent-in-reading",
+          "front": "结账时把零钱留给服务员，用法语怎么说（三个词）？",
+          "back": "答案：**Gardez la monnaie.**\n\n＝ keep the change。老师说这个词「阅读跟听力都考过」，是本次听写里唯一被点名「非常重要」的。\n\n阅读里还要记住另一层：**monnaie ↔ argent 是常见的同义替换**，看到一个要想到另一个。\n\n自检：如果原文写 argent，选项写 monnaie，这算不算同一个意思？（算，这正是出题点）",
+          "answer": "Gardez la monnaie",
+          "source_species": "monnaie swaps with argent in reading",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "memory_hook",
+            "listening_keyword"
+          ],
+          "french_items": [
+            "la monnaie",
+            "Gardez la monnaie.",
+            "l'argent"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:88-92",
+            "L37_final_working.md:175-187",
+            "L37_final_working.md:308-319"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:emmener-takes-a-person-to-a-place",
+          "front": "翻译成法语（用 emmener）：**您能送孩子们去学校吗？**",
+          "back": "答案：**Pouvez-vous emmener les enfants à l'école ?**\n\nemmener 的宾语是**人**，后面用 à ＋地点。学生当堂造的第二句：Pouvez-vous m'emmener à l'aéroport demain ?（您明天早上能送我去机场吗？）\n\n自检：emmener 后面能直接跟东西吗？（不能，跟人）",
+          "answer": "Pouvez-vous emmener les enfants à l'école",
+          "source_species": "emmener takes a person to a place",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "sentence_frame",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "emmener",
+            "Pouvez-vous emmener les enfants à l'école ?",
+            "Pouvez-vous m'emmener à l'aéroport demain ?"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:88-99",
+            "L37_final_working.md:182-200",
+            "L37_final_working.md:315-319"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:composer-dials-a-number-or-enters-a-code",
+          "front": "电话录音里说 « Composez votre code »，是让你做什么？用法语再写一句「请拨打这个号码」。",
+          "back": "答案：意思是**输入你的密码**；「请拨打这个号码」＝ **Composez ce numéro.**\n\ncomposer 除了「创作」，在电话／门禁场景里就是**拨号、输入密码**。老师用英语 composition 帮着记：都是「按规律编排」。\n\n自检：听力里听到 composer，你第一反应该是哪个意思？（拨号／输密码，不是作曲）",
+          "answer": "Composez ce numéro",
+          "source_species": "composer dials a number or enters a code",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "listening_keyword",
+            "same_surface_diff_meaning"
+          ],
+          "french_items": [
+            "composer",
+            "Composez votre numéro.",
+            "Composez votre code."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:94-99",
+            "L37_final_working.md:215-234",
+            "L37_final_working.md:315-319"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:quel-dommage-is-how-dommage-shows-up",
+          "front": "朋友说他去不了了。用两个词表达「真遗憾！」",
+          "back": "答案：**Quel dommage !**\n\n＝ What a pity! 老师原话：dommage「最常出现的表达就是 quel dommage，就是跟这个连用」。\n\n自检：只背名词 dommage 够不够？（不够，考的是整块）",
+          "answer": "Quel dommage",
+          "source_species": "quel dommage is how dommage shows up",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "A2",
+            "memory_hook",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "Quel dommage !",
+            "un dommage"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:94-99",
+            "L37_final_working.md:215-227",
+            "L37_final_working.md:321-326"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:demain-works-as-a-bare-adverb",
+          "front": "翻译成法语：**我明天去机场。**（注意 demain 前面加不加东西）",
+          "back": "答案：**Je vais à l'aéroport demain.**\n\ndemain 直接做时间状语，**前面什么介词都不加**，跟英语 tomorrow 一样。老师原话：「直接 demain 就可以了，它跟 tomorrow 是一样的」。\n\n自检：aujourd'hui 是不是也一样？（是）",
+          "answer": "Je vais à l'aéroport demain",
+          "source_species": "demain works as a bare adverb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "A1",
+            "preposition_interface",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "demain",
+            "aujourd'hui",
+            "Je vais à l'aéroport demain."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:202-213",
+            "L37_final_working.md:215-220"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:alimentation-is-food-not-augmentation",
+          "front": "两个词分别什么意思：**alimentation** / **augmentation**？各写一个中文词。",
+          "back": "答案：**alimentation ＝食物（总称）／饮食**；**augmentation ＝上升／增加**。\n\n这是本课听写核对里唯一被老师直接判错的一处——学生把 alimentation 当成了「上升」。两个词长得像，意思毫不相干。\n\n自检：涨工资用哪个？（une augmentation de salaire）",
+          "answer": "alimentation 食物 augmentation 上升",
+          "source_species": "alimentation is food not augmentation",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "word_family_confusion",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "l'alimentation",
+            "une augmentation"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:49-53",
+            "L37_final_working.md:278-289"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:etablissement-can-stand-for-a-school",
+          "front": "阅读里出现 « Cet établissement accueille 800 élèves »，这里的 établissement 指什么？",
+          "back": "答案：指**学校**。\n\nétablissement 本义是「机构／单位」，但在教育类文章里它就是**学校**的代称。老师原话：「它可以代指学校」。\n\n自检：看到这个词只翻成「机构」会不会读不懂？（会，很多题就靠它指学校）",
+          "answer": "学校",
+          "source_species": "etablissement can stand for a school",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "same_surface_diff_meaning"
+          ],
+          "french_items": [
+            "un établissement",
+            "un établissement scolaire"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:55-65",
+            "L37_final_working.md:285-299"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:a-la-disposition-de-means-at-the-service-of",
+          "front": "翻译成法语：**这套房子供 Pascal 自由支配。**",
+          "back": "答案：**Cette maison est à la disposition de Pascal.**\n\nà la disposition de ＋人 ＝ at the service of。正式邮件收尾常用 **Je suis à votre disposition.**（我随时听候您的吩咐）\n\n自检：把 de ＋人 换成 votre，整句变成什么？（Je suis à votre disposition.）",
+          "answer": "Cette maison est à la disposition de Pascal",
+          "source_species": "a la disposition de means at the service of",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "B1",
+            "formal",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "à la disposition de",
+            "Je suis à votre disposition.",
+            "Cette maison est à la disposition de Pascal."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:74-86",
+            "L37_final_working.md:301-313"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:requerir-and-acquerir-are-two-verbs",
+          "front": "**requérir** 和 **acquérir** 各是什么意思？各配一个英语词。",
+          "back": "答案：**requérir ＝要求（require）**；**acquérir ＝获得／习得（acquire）**。\n\n老师在变位环节专门拎出来防混：「他俩，一个是 require，一个是 acquire」。本课变位表过的是 acquérir（J'ai acquis…），连同 recevoir 和 permettre。\n\n自检：「这个职位需要经验」用哪个？（Ce poste requiert de l'expérience.）",
+          "answer": "requérir 要求 acquérir 获得",
+          "source_species": "requerir and acquerir are two verbs",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "word_family_confusion",
+            "conjugation"
+          ],
+          "french_items": [
+            "requérir",
+            "acquérir",
+            "J'ai acquis",
+            "Ce poste requiert de l'expérience."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:243-255",
+            "L37_final_working.md:335-347"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:preter-is-to-lend-out",
+          "front": "翻译成法语：**我把自行车借给他了。**（用 prêter）",
+          "back": "答案：**Je lui ai prêté mon vélo.**\n\n结构是 **prêter quelque chose à quelqu'un**——东西作直接宾语，人用 à 引出（这里用间接宾语代词 lui）。\n\n自检：prêter 是「借出」还是「借入」？（借出）",
+          "answer": "Je lui ai prêté mon vélo",
+          "source_species": "preter is to lend out",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "sentence_frame",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "prêter",
+            "prêter quelque chose à quelqu'un",
+            "Je lui ai prêté mon vélo."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:101-105",
+            "L37_final_working.md:321-326"
+          ],
+          "curated": true,
+          "study_group": "dictation-core",
+          "study_group_label": "开课听写：词义边界与固定表达",
+          "study_group_order": 10,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:past-participle-without-auxiliary-is-not-the-verb",
+          "front": "题干是 « En quoi consiste l'emploi proposé ? »。哪个词是谓语动词？**说出你的判断依据。**",
+          "back": "答案：谓语是 **consiste**。\n\n依据：**proposé 是过去分词，前面没有 avoir／être**，所以它不可能当谓语，只能当形容词——l'emploi proposé ＝ the proposed employment（被提供的这个职位）。\n\n老师给的通用做法：「你看到过去分词你就去找它有没有助动词，没有助动词它百分之百是独立使用，一般都是当形容词用。」\n\n自检：如果 proposé 前面有 a 或 est，结论还成立吗？（不成立，那时它就是复合时态的一部分）",
+          "answer": "consiste",
+          "source_species": "past participle without auxiliary is not the verb",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "B1",
+            "foundational",
+            "mastery"
+          ],
+          "french_items": [
+            "l'emploi proposé",
+            "En quoi consiste l'emploi proposé ?",
+            "consister"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:715-737",
+            "L37_final_working.md:760-765"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:past-participle-as-a-postposed-modifier",
+          "front": "把「一场公开讲座，之后有一场关于金融危机的辩论」写成法语的一个名词短语。**注意配合。**",
+          "back": "答案：**une conférence publique suivie d'un débat sur la crise financière**\n\n这是 Q13 的原文。suivi 是过去分词作后置定语（＝ followed by），因为修饰阴性的 conférence，所以写 **suivie**。\n\n老师给的其他例子：l'emploi proposé（被提供的职位）、ce poste proposé、un moment partagé avec les enfants。\n\n自检：为什么是 suivie 不是 suivi？（过去分词当形容词用，要跟名词性数配合）",
+          "answer": "une conférence publique suivie d'un débat sur la crise financière",
+          "source_species": "past participle as a postposed modifier",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "B1",
+            "agreement",
+            "written"
+          ],
+          "french_items": [
+            "l'emploi proposé",
+            "ce poste proposé",
+            "un moment partagé",
+            "une conférence publique suivie d'un débat"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:767-780",
+            "L37_final_working.md:782-808",
+            "L37_final_working.md:1259-1264"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:consister-en-takes-a-noun-consister-a-takes-an-infinitive",
+          "front": "补全介词，并说明为什么：\n① Son métier consiste ___ fabriquer du pain.\n② Cet examen consiste ___ l'épreuve orale et l'épreuve de l'écoute.",
+          "back": "答案：① **à**（后面是不定式 fabriquer）② **en**（后面是名词 l'épreuve…）\n\n规则很简单：**consister à ＋不定式**（在于做某事）／**consister en ＋名词**（由……组成）。\n\n自检：Q17 的题干 En quoi consiste l'emploi proposé ? 里，回答要接名词还是动词？（都行——选项 B 用的是不定式 Effectuer des tâches administratives）",
+          "answer": "à en",
+          "source_species": "consister en takes a noun consister a takes an infinitive",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "preposition_interface",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "consister en",
+            "consister à",
+            "Son métier consiste à fabriquer du pain.",
+            "Cet examen consiste en l'épreuve orale et l'épreuve de l'écoute."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:739-751"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:location-is-the-renting-not-the-place",
+          "front": "原文说 « ils payent déjà cher pour la location »。这句话说明这家人**有没有**自己的房子？为什么？",
+          "back": "答案：**没有**——la location 说明房子是**租**的。\n\n法语 location ＝**租赁**，和英语 location（位置）没关系，这是典型假朋友。老师原话：「它只有租赁的意思」。\n\n一族三个一起记：**louer**（租，动词）／**la location**（租赁这件事）／**le locataire**（租的人）。\n\n自检：Q4 为什么能排除 D（Ils ont une maison de vacances）？（原文明说是租的）",
+          "answer": "没有 房子是租的",
+          "source_species": "location is the renting not the place",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "false_friend",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "la location",
+            "louer",
+            "un locataire"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:512-518"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:faire-attention-a-takes-a-noun",
+          "front": "写作里想说「我很重视练习」。用 faire attention à 写出来。**注意后面接什么词性。**",
+          "back": "答案：**Je fais beaucoup attention à la pratique.**（或 à l'exercice）\n\nfaire attention à ＝ pay attention to，写作里就是「重视」。**后面一般接名词**——老师原话：「我们一般接名词接的多一点」，接动词「不常」。\n\n自检：写成 faire attention à pratiquer 行不行？（学生当堂就这么问的，老师答「不常再接动词」）",
+          "answer": "Je fais attention à la pratique",
+          "source_species": "faire attention a takes a noun",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "preposition_interface",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "faire attention à",
+            "faire attention à l'argent",
+            "faire attention à la pratique",
+            "faire attention à l'exercice"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:520-532"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:jusqu-a-in-the-stem-decides-the-whole-item",
+          "front": "« Que fait Marc jusqu'à 16 h ? » 问的是什么？原文只说 « Viens me chercher au stade à 16 h, après mon match de foot »，答案是什么？",
+          "back": "答案：题干问的是 **16 点之前**（jusqu'à ＝ until）Marc 在做什么；答案是 **Il fait du sport**。\n\n原文 après mon match de foot 说明 16 点前他在踢球。\n\n这题的教训：**四个选项全认识也能做错**——卡点在题干词。老师原话：「它是 until，是在十六点之前」。\n\n自检：你复习时会背题干里的介词吗？",
+          "answer": "Il fait du sport",
+          "source_species": "jusqu a in the stem decides the whole item",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "A2",
+            "listening_keyword",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "jusqu'à",
+            "Que fait Marc jusqu'à 16 h ?"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:534-545"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:boutique-is-the-shop-cadeau-is-the-gift",
+          "front": "原文：« Venez vite retirer votre surprise dans notre boutique. »\n选项 D 是 « Il promet un cadeau »。boutique 和 cadeau 各是什么意思？这两者之间是**同义替换**吗？",
+          "back": "答案：**boutique ＝商店（shop）**，**cadeau ＝礼物**。**不是**同义替换。\n\n学生原本把 boutique 当成「礼物」所以选错。老师纠正后指出：原文只说「来我们商店领一份惊喜」，选项写成「承诺一份礼物」是**语义推断**，不是换词。\n\n自检：做题时是不是只会找原词的同义词？（这题证明还要会推断）",
+          "answer": "boutique 商店 cadeau 礼物 不是",
+          "source_species": "boutique is the shop cadeau is the gift",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "word_family_confusion",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "une boutique",
+            "un cadeau",
+            "Venez vite retirer votre surprise dans notre boutique."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:547-559"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:epreuve-concours-examen-are-one-synonym-set",
+          "front": "原文写的是 « au début de l'épreuve »，正确选项写的是 « Pour passer un examen »。**为什么这两个能对上？**再补出第三个同义词。",
+          "back": "答案：因为 **épreuve ／ examen ／ concours 是一组同义替换**，都指「考试」。\n\n老师原话：「épreuve，它其实本身是考验，它的同义替换 concours，还有同义替换 examen。**这三个单词经常考**。」\n\nQ8 就是靠这组替换判定的：原文 épreuve → 选项 examen。\n\n自检：concours 在开课听写里也报过，你当时答的是什么？（竞赛和考试）",
+          "answer": "concours",
+          "source_species": "epreuve concours examen are one synonym set",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "memory_hook",
+            "mastery"
+          ],
+          "french_items": [
+            "une épreuve",
+            "un concours",
+            "un examen",
+            "au début de l'épreuve"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:568-573"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:entretien-is-a-job-interview",
+          "front": "选项 « Il organise un entretien » 里的 entretien 指什么？这一项为什么在 Q9 里不成立？",
+          "back": "答案：entretien ＝**面谈，尤其是面试**（不是「采访」）。Q9 里不成立，因为原文只是说「见领导之前我陪你核对文件，中午再聊」，**没有任何人在组织面试**。\n\n老师原话：「entretien……它更多侧重于是面试的交谈」，并补了一句「interview 不是采访，它就是面试」。\n\n自检：中文「采访」对应哪个法语词？（不是 entretien，别硬套）",
+          "answer": "面试",
+          "source_species": "entretien is a job interview",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "false_friend",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "un entretien",
+            "Il organise un entretien.",
+            "une interview"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:575-583",
+            "L37_final_working.md:612-617"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:q9-answer-is-a-because-he-is-replying",
+          "front": "Q9：René 给 Louise 写信是为了什么？说出答案，并说明**为什么不是「他在找信息」**。",
+          "back": "答案：**Il accepte de l'aider.**（他答应帮她）\n\n不是「找信息」，因为 René 是在**回应**Louise 的留言——« J'ai bien reçu ton mot pas de problème »（我收到你的留言了，没问题），然后主动提出 « On pourra vérifier ensemble le dossier »。老师原话：「chercher 就是 look for 的意思，**他没有在寻找任何信息**」。\n\n老师对这题的原话：「这题很神奇的，好多人选错了，**你记下来就可以了**。」错因：「你想的有点多了。」\n\n自检：C（请吃饭）为什么不行？（原文只说中午再聊，没请客）",
+          "answer": "Il accepte de l'aider",
+          "source_species": "q9 answer is a because he is replying",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "teacher_corrected_error",
+            "mastery"
+          ],
+          "french_items": [
+            "Il accepte de l'aider.",
+            "J'ai bien reçu ton mot pas de problème.",
+            "On pourra vérifier ensemble le dossier."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:592-624"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 100
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:degustation-matches-gouter-des-recettes",
+          "front": "Q14 原文里同时有 « des dégustations de desserts » 和 « voir sur grand écran les princes et princesses du cinéma »。为什么答案是 « Goûter des recettes » 而不是 « Jouer dans un film »？",
+          "back": "答案：因为 **dégustations de desserts ↔ Goûter des recettes** 才是那组同义替换（déguster ＝品尝）。\n\n« Jouer dans un film » 是**演**电影，而原文只是说能在大屏上**看**电影人物——老师当场反问：「Jouer dans un film 是他拍电影的意思吗？」\n\n教训：看到原文里有 cinéma 就选带 film 的选项，是被显眼词牵走了。\n\n自检：dégustation 和 déguster 什么关系？（同一词族，一名一动）",
+          "answer": "Goûter des recettes",
+          "source_species": "degustation matches gouter des recettes",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "une dégustation",
+            "déguster",
+            "des dégustations de desserts",
+            "Goûter des recettes."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:626-652"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 110
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:en-temps-reel-is-one-fixed-block",
+          "front": "「实时信息」用法语怎么说？（老师当场让记下来的那个固定表达）",
+          "back": "答案：**l'information en temps réel**\n\n**en temps réel** ＝实时／即时，是固定表达，整块记。老师原话：「en temps réel 是一个固定的表达，就即时……**你把这个记下来**」。\n\n自检：能不能拆成 temps ＋ réel 分别记？（不能，整块才有意义）",
+          "answer": "en temps réel",
+          "source_species": "en temps reel is one fixed block",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "B1",
+            "memory_hook",
+            "written"
+          ],
+          "french_items": [
+            "en temps réel",
+            "grâce à l'information en temps réel"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:681-692"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 120
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:three-driver-words-are-recognition-only",
+          "front": "Q16 里出现了 chauffeur、conducteur、automobiliste 三个「司机」。老师要求你**背到什么程度**？",
+          "back": "答案：**只要求认读，不要求产出。**\n\n老师原话：「有熟就可以了，就看到它认识就可以了，**你自己用的时候用其中一个就可以了**」。\n\n也就是说：阅读听力里三个都要能认出来；自己写作说话时，挑一个会用的就行，不用三个都背到能产出。\n\n自检：这一课还有哪个词是老师说「不管」的？（写作范文里的 sentiment d'appartenance——「这个词但是不管啊，主要看结构」）",
+          "answer": "只要求认识 不要求产出",
+          "source_species": "three driver words are recognition only",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "listening_keyword"
+          ],
+          "french_items": [
+            "un chauffeur",
+            "un conducteur",
+            "un automobiliste"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:694-706"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 130
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:signaler-information-not-accelerer-intervention",
+          "front": "Q16 原文说这些 boitiers « transmettront rapidement ces informations à une centrale »。为什么答案不是 « Accélérer les interventions d'urgence »？",
+          "back": "答案：因为原文里的动作是**传递信息**，不是**加快干预**。答案是 **Signaler les difficultés de circulation**。\n\n老师原话：「它其实就是快速的把这些信息上传，上传到一个 centrale……**它并没有说你要干预，它只跟信息有关**」。\n\n教训：选项里的动词认得没用，要拿回原文核对**做的是哪个动作**。\n\n自检：这一题的关键表达是什么？（en temps réel）",
+          "answer": "Signaler les difficultés de circulation",
+          "source_species": "signaler information not accelerer intervention",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "Signaler les difficultés de circulation.",
+            "Accélérer les interventions d'urgence.",
+            "transmettront rapidement ces informations à une centrale"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:661-685"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 140
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:read-the-keyword-when-the-sentence-will-not-parse",
+          "front": "Q4 的原文你读得半懂不懂。老师教的应急做法是什么？用在这题上，关键词是哪个，推出哪个选项？",
+          "back": "答案：**先抓一个能定调的关键词**，用它排选项。\n\n这题的关键词是 **dépenser**（花钱）——老师原话：「它整个题都是钱的事儿」。整段都围绕钱，所以选 **Ils font attention à l'argent**。\n\n自检：这个做法和「把整篇背下来」是不是一回事？（不是，正好相反）",
+          "answer": "dépenser",
+          "source_species": "read the keyword when the sentence will not parse",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "A2",
+            "mastery"
+          ],
+          "french_items": [
+            "dépenser",
+            "Ils font attention à l'argent."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:498-510"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 150
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:suivre-les-cours-and-suivi-de",
+          "front": "两个都用 suivre，各是什么意思：\n① Je suis les cours de français en ligne.\n② une conférence suivie d'un débat",
+          "back": "答案：① **我在线上法语课**（suivre les cours ＝上课）② **一场讲座，后面跟着一场辩论**（suivi de ＝ followed by）\n\n两个都从本义 **follow** 来：跟着老师 → 上课；跟在后面 → 紧接着。\n\n自检：②里为什么是 suivie？（配合阴性名词 conférence）",
+          "answer": "上课 后面跟着",
+          "source_species": "suivre les cours and suivi de",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "suivre les cours",
+            "suivi de",
+            "une conférence publique suivie d'un débat"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:789-801"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 160
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:debut-de-and-a-la-fin-de-are-a-pair",
+          "front": "「考试开始时」和「考试结束时」分别怎么说？",
+          "back": "答案：**au début de l'épreuve** / **à la fin de l'épreuve**\n\nau début de ↔ à la fin de 是一对，老师讲 Q8 原文时顺手补的反义。\n\n注意 **à la fin de** 里有冠词 la，而 **au début de** 是 à ＋ le 缩合。\n\n自检：début 在本课还出现在哪里？（开课听写词表里）",
+          "answer": "au début de à la fin de",
+          "source_species": "debut de and a la fin de are a pair",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "A2",
+            "memory_hook"
+          ],
+          "french_items": [
+            "au début de",
+            "à la fin de",
+            "au début de l'épreuve"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:561-566",
+            "L37_final_working.md:291-299"
+          ],
+          "curated": true,
+          "study_group": "reading-t11",
+          "study_group_label": "阅读 test 11：语法判定、词义边界与题型陷阱",
+          "study_group_order": 20,
+          "study_order": 170
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:je-m-appelle-not-j-appelle",
+          "front": "考官问 « Comment vous appelez-vous ? »。用法语回答（你叫 Francis）。**注意反身代词。**",
+          "back": "答案：**Je m'appelle Francis.**\n\n不是 J'appelle Francis——那是「我打电话给 Francis」。s'appeler 是自反动词，je 对应的反身代词是 **me**。\n\n老师当堂纠的原话：「je m'appelle，不是 j'appelle」。\n\n自检：「我在公园散步」呢？（Je me promène dans le parc.——同一个坑）",
+          "answer": "Je m'appelle Francis",
+          "source_species": "je m appelle not j appelle",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "A1",
+            "pronominal_reflexive",
+            "teacher_corrected_error"
+          ],
+          "french_items": [
+            "Je m'appelle Francis.",
+            "Comment vous appelez-vous ?"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:824-829",
+            "L37_final_working.md:875-880"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：听懂问句与冠词介词",
+          "study_group_order": 30,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:je-suis-ne-le-plus-the-date",
+          "front": "考官问 « Quelle est votre date de naissance ? »。用法语回答（1987 年 5 月 25 日）。**注意日期前用什么。**",
+          "back": "答案：**Je suis né le vingt-cinq mai mille neuf cent quatre-vingt-sept.**\n\n日期前用**定冠词 le**，不是 à。老师原话：「它是用定冠词 le 连起来的……它不是 à」。\n\n课末他又强调了一遍：这句要练到「**脱口而出，不用再想**」。\n\n自检：Je suis né à 1987 错在哪？（à 用错了，而且年份前也不能这么接）",
+          "answer": "Je suis né le vingt-cinq mai mille neuf cent quatre-vingt-sept",
+          "source_species": "je suis ne le plus the date",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "A2",
+            "preposition_interface",
+            "teacher_corrected_error",
+            "mastery"
+          ],
+          "french_items": [
+            "Je suis né le 25 mai 1987.",
+            "Quelle est votre date de naissance ?"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:838-850",
+            "L37_final_working.md:889-894"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：听懂问句与冠词介词",
+          "study_group_order": 30,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:two-ways-to-say-how-many-in-the-family",
+          "front": "考官问 « Quelle est votre situation familiale ? »。用**两种**方式说「我们家四口人」。",
+          "back": "答案：**Nous sommes quatre dans la famille.** / **Il y a quatre personnes dans la famille.**\n\n第一种用 être ＋数字（不加 personnes），第二种用 il y a ＋数字 ＋ personnes。老师两种都给了，选一种说利索即可。\n\n自检：Nous sommes quatre personnes 这样说别扭吗？（用 nous sommes 时直接跟数字就够）",
+          "answer": "Nous sommes quatre dans la famille",
+          "source_species": "two ways to say how many in the family",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "Nous sommes quatre dans la famille.",
+            "Il y a quatre personnes dans la famille.",
+            "Quelle est votre situation familiale ?"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:852-867"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：听懂问句与冠词介词",
+          "study_group_order": 30,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:t1-fails-on-not-understanding-the-question",
+          "front": "老师说 T1 你最该先补的是哪一项能力？他点名要求「一定要知道」的是哪个词？",
+          "back": "答案：先补**听懂问句**的能力；点名的词是 **loisir**（业余爱好）。\n\n老师原话：「第一就是关于这种关键词你要听得懂」「像 loisir，其实是一种最常规的问法，**就这种词一定要知道**」。第二条是「介词和冠词的选用，其实还是有点模糊」（对应 je suis né **le** 那条）。\n\n本课 T1 对练里三次卡壳全是没听懂问句：loisirs、date de naissance、situation familiale。\n\n自检：这三个问句你现在能不看提示答出来吗？",
+          "answer": "听懂问句 loisir",
+          "source_species": "t1 fails on not understanding the question",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "listening_keyword",
+            "mastery"
+          ],
+          "french_items": [
+            "Quels sont vos loisirs préférés ?",
+            "Quelle est votre date de naissance ?",
+            "Quelle est votre situation familiale ?"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:869-894"
+          ],
+          "curated": true,
+          "study_group": "speaking-t1",
+          "study_group_label": "口语 T1：听懂问句与冠词介词",
+          "study_group_order": 30,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:t3-paragraph-one-is-exactly-three-sentences",
+          "front": "T3 第一段要写几句话？分别写什么？多少词？",
+          "back": "答案：**正好三句，40–60 词。**\n\n① 点明这篇讨论的**主题**（X 引起了讨论）\n② **一方**观点（Certains considèrent que…）\n③ **另一方**观点（tandis que d'autres…）\n\n老师原话：「你的第一段只能这样写，不能写别的……**多一句少一句都是错的**」「T3 的第一段永远都限制在这三句话」。\n\n整篇 T3 是纯议论文，**120–180 词**。\n\n自检：两个 document 的观点关系一定是什么？（一定相反——「一定是，没有例外」）",
+          "answer": "三句 40到60词",
+          "source_species": "t3 paragraph one is exactly three sentences",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "mastery"
+          ],
+          "french_items": [
+            "Les devoirs à la maison sont un sujet qui divise l'opinion publique.",
+            "Certains considèrent que…",
+            "tandis que d'autres…"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:924-936",
+            "L37_final_working.md:992-1007",
+            "L37_final_working.md:1037-1042"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 10
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:tandis-que-links-sentence-two-to-three",
+          "front": "T3 第一段第二句和第三句之间，老师要求固定用哪个连接词？把两句的骨架写出来。",
+          "back": "答案：**tandis que**\n\n骨架：**Certains considèrent que … , tandis que d'autres …**\n\n老师原话：「这个单词**要背下来**，你的第二句跟第三句之间就用这个词联系起来」「你就**永远都用这个词**去连接你的第二句第三句」。他还明确说不需要换成 mais 之类。\n\n自检：这是本课老师唯一说「要背下来」的写作词，你记住了吗？",
+          "answer": "tandis que",
+          "source_species": "tandis que links sentence two to three",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "sentence_frame",
+            "mastery"
+          ],
+          "french_items": [
+            "tandis que",
+            "Certains considèrent que…, tandis que d'autres…"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1016-1035"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 20
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:tandis-que-carries-contrast-quand-does-not",
+          "front": "两句话都成立，但意思不同：\n① Je fais mes devoirs **quand** mon frère joue aux jeux vidéo.\n② Je fais mes devoirs **tandis que** mon frère joue aux jeux vidéo.\n差别在哪？T3 第一段该用哪个？",
+          "back": "答案：① 只强调**同时发生**；② 同时发生**并且带对比**（我在写作业，而他在打游戏）。T3 第一段用 **②tandis que**。\n\n老师原话：「如果你用 quand，它只有强调同时性……但如果你用 tandis que，它会有一个对比在里面」，例子是「我在努力工作，而他在睡懒觉」。\n\n第一段第二三句正是两方**相反**观点，所以必须用带对比的那个。\n\n自检：两个 document 的观点是相反的，这和用 tandis que 有什么关系？（正因为相反，才需要对比连词）",
+          "answer": "tandis que 带对比",
+          "source_species": "tandis que carries contrast quand does not",
+          "primary_class": "grammar_rule",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "word_family_confusion"
+          ],
+          "french_items": [
+            "tandis que",
+            "quand",
+            "Je fais mes devoirs, tandis que mon frère joue aux jeux vidéo."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1023-1035"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 30
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:condense-by-turning-a-clause-into-a-noun",
+          "front": "把这句压短：« … apprendre à organiser leur temps de manière autonome »。用**一个名词**替换整个从句，写出完整的新句。",
+          "back": "答案：**Cela contribue à l'autonomie des enfants.**\n\n整个「学着用自主的方式组织时间」被压成一个名词 **l'autonomie**。\n\n老师原话：「你把它换成名词，可不可以？它这么长，你就可以用一个词啊」「**改写最重要的其实是缩写**」。\n\n他同时警告：**不要百分之百照抄原文**——「考官……还是想看这个学生有没有一个总结的能力」。\n\n自检：T3 第一段是「复述」还是「总结」？（总结）",
+          "answer": "Cela contribue à l'autonomie des enfants",
+          "source_species": "condense by turning a clause into a noun",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "mastery"
+          ],
+          "french_items": [
+            "l'autonomie",
+            "apprendre à organiser leur temps de manière autonome",
+            "Cela contribue à l'autonomie des enfants."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1165-1184",
+            "L37_final_working.md:1266-1281"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 40
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:contribuer-a-is-the-default-benefit-verb",
+          "front": "「这有助于孩子的自主性」用法语怎么写？（用老师当堂让你写下来的那个动词）",
+          "back": "答案：**Cela contribue à l'autonomie des enfants.**\n\ncontribuer **à ＋名词**。老师原话：「那我们可以用一个什么样的单词呢？contribuer。**把这个单词写下来啊**」。\n\n通则：「通常我们说有什么什么好处的时候，你可以直接说 contribuer，那你就可以把后面换成名词」——正好和「缩写成名词」那条配套。\n\n升级版（老师现场给的）：Cela contribue à l'autonomie des enfants **et au moment partagé** dans la famille.\n\n自检：后面接名词还是不定式？（名词）",
+          "answer": "Cela contribue à l'autonomie des enfants",
+          "source_species": "contribuer a is the default benefit verb",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "preposition_interface",
+            "sentence_frame"
+          ],
+          "french_items": [
+            "contribuer à",
+            "Cela contribue à l'autonomie des enfants.",
+            "Cela contribue à l'autonomie des enfants et au moment partagé dans la famille."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1238-1257",
+            "L37_final_working.md:1273-1281"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:aider-needs-a-person-and-an-infinitive",
+          "front": "« Cela aide à l'autonomie des enfants » 这句老师判错了。**错在哪？**给出两种合法写法。",
+          "back": "答案：错在 **aider 后面必须先有「人」**，不能直接接抽象名词。\n\n两种合法结构：\n① **aider quelqu'un à ＋不定式** — Cela aide les élèves à organiser leur temps.\n② **aider quelqu'un dans ＋名词** — aider les enfants dans l'autonomie（老师说「这个很奇怪」，能说但别用）\n\n老师原话：「aider 完全等于英文的 help，要不然就是 help somebody to do something，要不然就是 help somebody in 什么」。\n\n所以这句最后换成了 **Cela contribue à l'autonomie des enfants.**\n\n自检：contribuer 后面能不能直接接抽象名词？（能——这正是两个词的分工）",
+          "answer": "aider 后面要先有人",
+          "source_species": "aider needs a person and an infinitive",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "A2",
+            "written",
+            "teacher_corrected_error",
+            "preposition_interface"
+          ],
+          "french_items": [
+            "aider quelqu'un à faire quelque chose",
+            "aider quelqu'un dans quelque chose",
+            "Cela aide les élèves à organiser leur temps."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1238-1243",
+            "L37_final_working.md:1291-1296"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:empecher-qn-de-is-the-downside-verb",
+          "front": "「这会妨碍学生集中注意力」用法语怎么写？（用老师说的「反方向第一选择」那个动词）",
+          "back": "答案：**Cela empêche les élèves de se concentrer.**\n\n结构：**empêcher quelqu'un de ＋不定式** ＝ stop somebody from doing something。\n\n老师原话：「如果我们是一种反方向的表达……那我们**首先用的第一个就是 empêcher**」。\n\n配对记忆：正面用 **contribuer à ＋名词**，反面用 **empêcher qn de ＋不定式**。\n\n自检：de 能省吗？（不能）",
+          "answer": "Cela empêche les élèves de se concentrer",
+          "source_species": "empecher qn de is the downside verb",
+          "primary_class": "lexical_usage",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "sentence_frame",
+            "requires_de"
+          ],
+          "french_items": [
+            "empêcher quelqu'un de faire quelque chose",
+            "Cela empêche les élèves de se concentrer."
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1291-1303"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 70
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:t3-whole-essay-is-summary-stance-reasons",
+          "front": "T3 一共几段？每段写什么？第三段怎么组织？",
+          "back": "答案：**四段。**\n\n① 第一段：**总结**两个 document（固定三句）\n② 第二段：**你的立场**\n③ 第三段：**为什么这样想**——按角度切（对学生 / 对学校 / 对家长），第一第二第三列出来\n④ 结尾：总结\n\n老师原话：「第一段总结，三句话总结。第二段你就说你的立场。第三段分析你为什么是这样想的」，并提醒「**不需要展开那么多的解释，因为你的字数有限**」。\n\n范文的 C2 表达不用学：「这个范文有一点点超纲，它是个 C2 的范文，我们没必要学成这样」。\n\n自检：全文多少词？（120–180）",
+          "answer": "四段 总结 立场 分角度论证 结论",
+          "source_species": "t3 whole essay is summary stance reasons",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "mastery"
+          ],
+          "french_items": [
+            "Je pense que…",
+            "Premièrement… Deuxièmement… Troisièmement…"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1403-1432"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 80
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:grammar-first-fancy-expressions-later",
+          "front": "写 T3 时你卡在「想不出高级说法」。老师要求你**先做什么**？",
+          "back": "答案：**先把话说清楚、保证语法不出错**，之后才谈表达。\n\n老师原话：「先把话说清楚，尽量保证语法没有错，**不要过度地纠结表达**。先保证语法没错的基础之上，我们才能纠结表达。」\n\n他给的理由很具体：「有很多同学语法搞不清楚，就开始把注意力放在 fancy 的表达上……后来写出来的句子就很奇怪」。\n\n自检：范文里那些 C2 级表达要不要学？（不用，老师说「没必要学成这样」）",
+          "answer": "先保证语法没错",
+          "source_species": "grammar first fancy expressions later",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "mastery"
+          ],
+          "french_items": [
+            "Cela contribue à…",
+            "Certains considèrent que…"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:1305-1317",
+            "L37_final_working.md:1434-1439"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 90
+        },
+        {
+          "type": "checkpoint",
+          "id": "L37:species:do-not-let-ai-write-every-draft",
+          "front": "老师对「用 AI 改作文」给了什么硬性要求？交作业时他要你先发哪一版？",
+          "back": "答案：**考试前至少一半的文章要完全自己写出来**；交作业时先发**第一版（自己写的初稿）**。\n\n老师原话：「你在考试之前，一定要最起码有一半的东西是完全自己写出来的，而不是每次都跟它商量」「你写完可以把你的**第一版**直接发给我，我看一眼」——之后再拿去让 AI 改、再讨论都可以。\n\n理由他说得很直白：「要不然考试的时候，你一下就写不出来了，**你就只能写出最初的那个版本**」。\n\n配套建议：把自己的模板固定下来，多积累「到处都能套的那种词」，否则考场遇到生题会很痛苦。\n\n自检：你上一篇作文是先自己写完的吗？",
+          "answer": "至少一半完全自己写 先发第一版",
+          "source_species": "do not let ai write every draft",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "B1",
+            "written",
+            "mastery"
+          ],
+          "french_items": [
+            "Je pense que…"
+          ],
+          "evidence_refs": [
+            "L37_final_working.md:370-375",
+            "L37_final_working.md:433-455",
+            "L37_final_working.md:1427-1432"
+          ],
+          "curated": true,
+          "study_group": "writing-t3",
+          "study_group_label": "写作 T3：第一段骨架与好处／坏处句式",
+          "study_group_order": 40,
+          "study_order": 100
+        }
+      ]
+    }
+  ]
+}

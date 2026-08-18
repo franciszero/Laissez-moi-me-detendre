@@ -1,0 +1,2706 @@
+[
+  {
+    "lemma": "protéger",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 保护",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il faut protéger les enfants.",
+    "raw": "protéger",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:protéger",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写第 1 个词。核对时学生答「protect」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "00:00-00:30; 18:00-18:30",
+          "lines": "36-41; 271-276"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      }
+    ]
+  },
+  {
+    "lemma": "un métier",
+    "pos": "nom",
+    "zh": "[L37课前复习] 职业；行当",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Son métier consiste à fabriquer du pain.",
+    "raw": "un métier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:métier",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「职业」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "00:30-01:00; 18:00-18:30",
+          "lines": "43-47; 271-276"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。 老师后面讲 consister à 时又用它造了例句：Son métier consiste à fabriquer du pain."
+      }
+    ]
+  },
+  {
+    "lemma": "un séjour",
+    "pos": "nom",
+    "zh": "[L37课前复习] 逗留；逗留期",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "J'ai fait un séjour au Canada.",
+    "raw": "un séjour",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:séjour",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「逗留期」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "00:30-01:00; 03:00-03:30; 18:00-18:30",
+          "lines": "43-47; 74-79; 271-276"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      }
+    ]
+  },
+  {
+    "lemma": "faible",
+    "pos": "adj",
+    "zh": "[L37课前复习] 弱的；微弱的；（数量）低的",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Aux locataires qui ont de faibles revenus.",
+    "raw": "faible",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:faible",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「弱的」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "00:30-01:00; 18:00-18:30",
+          "lines": "43-47; 271-276"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q15;Q18",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷里又出现两次：Q15 选项 D「Le niveau trop faible des salaires proposés」、Q18 选项 C「Aux locataires qui ont de faibles revenus」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "听写词在当天考卷上复现＝这是活考点，不是死单词。"
+      }
+    ]
+  },
+  {
+    "lemma": "risquer de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L37课前复习] 冒着……的风险；有可能……",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il risque de perdre son travail.",
+    "raw": "risquer de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:risquer",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「take risk」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "00:30-01:30; 18:30-19:00",
+          "lines": "43-53; 278-283"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q11",
+        "teacher_action": "word_family",
+        "selection_reason": "同卷 Q11 选项 B 出现名词形式「les risques d'accident」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "记成一对：动词 risquer de ＋不定式 ↔ 名词 le risque。选项里出现的是名词，不是听写的动词形式。"
+      }
+    ]
+  },
+  {
+    "lemma": "un locataire",
+    "pos": "nom",
+    "zh": "[L37课前复习] 租客；承租人",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Aux locataires qui ont de faibles revenus.",
+    "raw": "un locataire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:locataire",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「租户」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:00-01:30; 18:30-19:00",
+          "lines": "49-53; 278-283"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q18",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷 Q18 选项 C 原样出现：「Aux locataires qui ont de faibles revenus」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "老师在 Q4 讲 location／louer 时，学生自己在卷子上把 locataire 写在 location 旁边——三个词是一族：louer（租，动词）／la location（租赁这件事）／le locataire（租的人）。"
+      }
+    ]
+  },
+  {
+    "lemma": "actuellement",
+    "pos": "adv",
+    "zh": "[L37课前复习] 目前；现在",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Le piment d'Espelette célèbre actuellement sa fête.",
+    "raw": "actuellement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:actuellement",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「现在」，老师通过。老师另外纠了拼写：「actuellement，不是 all，是中间这一点写错了」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:00-01:30; 10:00-10:30; 18:30-19:00",
+          "lines": "49-53; 161-166; 278-283"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q19",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷 Q19 原文首句出现：「Le piment d'Espelette, qui célèbre actuellement sa fête」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "l'alimentation",
+    "pos": "nom",
+    "zh": "[L37课前复习] 食物（总称）；饮食",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "L'alimentation des enfants est un vrai sujet.",
+    "raw": "l'alimentation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:alimentation",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生猜成「上升」，老师当场纠正：「不是。augmentation 才是上升。alimentation 是食物总称」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:00-01:30; 18:30-19:30",
+          "lines": "49-53; 278-289"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。 这是本次核对里唯一被直接判错的词义。"
+      }
+    ]
+  },
+  {
+    "lemma": "une augmentation",
+    "pos": "nom",
+    "zh": "[L37课前复习] 上升；增加；涨（价／薪）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "une augmentation des prix",
+    "raw": "une augmentation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:alimentation",
+        "teacher_action": "contrast",
+        "selection_reason": "不是听写词，是老师为纠正 alimentation 而当场给出的对照词：学生把 alimentation 猜成「上升」，老师答「Augmentation。上升，augmentation」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "18:30-19:00",
+          "lines": "278-283"
+        },
+        "learning_note": "两个词长得像、意思毫不相干，专门成对记：alimentation＝食物，augmentation＝上升。"
+      }
+    ]
+  },
+  {
+    "lemma": "raconter",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 讲述；叙述",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "« Comme s'il voulait vomir », raconte Yann son père.",
+    "raw": "raconter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:raconter",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「tell」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:30-02:00; 19:00-19:30",
+          "lines": "55-60; 285-289"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q20",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷 Q20 原文出现：「« Comme s'il voulait Vomir », raconte Yann son père」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "注意这里是「引述某人说话」的用法，直接跟在引号后面倒装。"
+      }
+    ]
+  },
+  {
+    "lemma": "un propriétaire",
+    "pos": "nom",
+    "zh": "[L37课前复习] 业主；所有人；房东",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Le propriétaire de l'appartement arrive samedi.",
+    "raw": "un propriétaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:propriétaire",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「property 的主人」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:30-02:00; 19:00-19:30",
+          "lines": "55-60; 285-289"
+        },
+        "learning_note": "和同一份听写里的 locataire 正好是一对：propriétaire＝房东／业主，locataire＝租客。"
+      }
+    ]
+  },
+  {
+    "lemma": "essayer",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 尝试；试（穿）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Essayez de répondre sans regarder.",
+    "raw": "essayer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:essayer",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「try」，老师通过。老师另外纠了发音／拼写：「essayé 没有这个，ess 本身就可以读 a」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:30-02:00; 10:00-10:30; 19:00-19:30",
+          "lines": "55-60; 161-166; 285-289"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      }
+    ]
+  },
+  {
+    "lemma": "un établissement",
+    "pos": "nom",
+    "zh": "[L37课前复习] 机构；单位（可代指学校）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cet établissement accueille 800 élèves.",
+    "raw": "un établissement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:établissement",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。学生答「机构，学校那个吧」，老师确认：「差不多。它可以代指学校」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:30-02:30; 19:00-20:00",
+          "lines": "55-65; 285-299"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      }
+    ]
+  },
+  {
+    "lemma": "le début de",
+    "pos": "expr",
+    "zh": "[L37课前复习] ……的开头；开始时",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "au début de l'épreuve",
+    "raw": "le début de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:début",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「开头」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "19:30-20:00",
+          "lines": "291-299"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。 听写音频这一段没被 ASR 捕到，但核对环节学生按表逐个读回时它在 établissement 和 manquer 之间，位置明确。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q8",
+        "teacher_action": "explain",
+        "selection_reason": "同一天阅读 Q8 原文就用了它：「au début de l'épreuve」。老师借机补了反义：「它有一个反义词啊，à la fin de，就是 at the end of」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "38:30-39:00",
+          "lines": "561-566"
+        },
+        "learning_note": "成对记：au début de ↔ à la fin de。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q19",
+        "teacher_action": "review",
+        "selection_reason": "同卷 Q19 原文再次出现：「Au début des années 90」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "à la fin de",
+    "pos": "expr",
+    "zh": "[T11Q8] 在……的末尾；……结束时",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "à la fin de l'épreuve",
+    "raw": "à la fin de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q8",
+        "teacher_action": "contrast",
+        "selection_reason": "讲 Q8 原文 au début de l'épreuve 时老师主动给的反义表达：「它有一个反义词啊，à la fin de，就是 at the end of」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "38:30-39:00",
+          "lines": "561-566"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "manquer",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 想念；缺少",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Tu me manques.",
+    "raw": "manquer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:manquer",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「miss」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "02:30-03:00; 20:00-20:30",
+          "lines": "67-72; 301-306"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q15",
+        "teacher_action": "word_family",
+        "selection_reason": "同卷 Q15 选项 C 出现名词「Le manque de formation」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "只记成词族，不当同一个词：动词 manquer 常用义是「想念／缺席」，名词 le manque 是「缺乏」，考场上别互相替换。"
+      }
+    ]
+  },
+  {
+    "lemma": "profiter de",
+    "pos": "expr",
+    "zh": "[L37课前复习] 利用；享受",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Profitez de votre séjour !",
+    "raw": "profiter de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:profiter de",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生说不上来，老师给出英语搭桥：「有一点像 take advantage from，利用」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "02:30-03:00; 19:30-20:30",
+          "lines": "67-72; 291-306"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "explain",
+        "selection_reason": "讲写作 T3「有好处」怎么表达时老师回头点名了它：「我们今天不是报了一个单词叫做 profiter 吗？那你也可以说学生没有办法 profiter de …」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:38:00-01:39:00",
+          "lines": "1389-1401"
+        },
+        "learning_note": "写「没有好处」时不用换词，把 profiter de 整句改成否定即可——老师原话：「当你写它没有好处的时候，全部把它改成否定句就可以了」。"
+      }
+    ]
+  },
+  {
+    "lemma": "éviter",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 避免",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Évitez de partir seul.",
+    "raw": "éviter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:éviter",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「avoid」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "02:30-03:00; 20:00-20:30",
+          "lines": "67-72; 301-306"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q11",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷 Q11 原文出现命令式：「Évitez de partir seul」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "注意搭配：éviter de ＋不定式。"
+      }
+    ]
+  },
+  {
+    "lemma": "rencontrer",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 遇见；碰到；会面",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Vous rencontrez un des conseillers de votre association.",
+    "raw": "rencontrer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:rencontrer",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「meet」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "02:30-03:30; 20:00-20:30",
+          "lines": "67-79; 301-306"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q18",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷 Q18 原文出现：「vous rencontrez un des conseillers de votre association」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "同卷 Q12 里的 la rencontre 是它的名词形式，意思相通但词形不同，别混着背。"
+      }
+    ]
+  },
+  {
+    "lemma": "un concours",
+    "pos": "nom",
+    "zh": "[L37课前复习] 竞赛；选拔考试",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cet examen consiste en l'épreuve orale et l'épreuve de l'écoute.",
+    "raw": "un concours",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:concours",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「竞赛和考试」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "03:00-03:30; 20:00-20:30",
+          "lines": "74-79; 301-306"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q8",
+        "teacher_action": "synonym",
+        "selection_reason": "同一天阅读 Q8 里老师把它列进「考试」三词组：「épreuve，它其实本身是考验，它的同义替换 concours，还有同义替换 examen。这三个单词经常考」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "39:00-39:30",
+          "lines": "568-573"
+        },
+        "learning_note": "épreuve／concours／examen 三个一起记，阅读里互为同义替换。"
+      }
+    ]
+  },
+  {
+    "lemma": "à la disposition de quelqu'un",
+    "pos": "expr",
+    "zh": "[L37课前复习] 供……使用；听……差遣",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cette maison est à la disposition de Pascal.",
+    "raw": "à la disposition de quelqu'un",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:à la disposition de",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生说「没记住」，老师重讲：「à la disposition de ＝ at the service of，à votre disposition ＝ at your service」，并造句「这个房子是 Pascal 可以自由支配的」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "03:00-04:00; 20:00-21:00",
+          "lines": "74-86; 301-313"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      }
+    ]
+  },
+  {
+    "lemma": "la monnaie",
+    "pos": "nom",
+    "zh": "[L37课前复习] 零钱；找零",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Gardez la monnaie.",
+    "raw": "la monnaie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:monnaie",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，也是本次听写老师唯一直接说「非常重要」的词：「这个词非常重要，阅读跟听力都考过」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "04:00-04:30; 20:30-21:30",
+          "lines": "88-92; 308-319"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:opening-dictation:monnaie",
+        "teacher_action": "explain",
+        "selection_reason": "老师给了两件事：一是口语可以直接说「Gardez la monnaie」＝ keep the change；二是阅读里 monnaie 会和 argent 做同义替换。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "11:00-12:00",
+          "lines": "175-187"
+        },
+        "learning_note": "阅读里看到 argent 想到 monnaie，反过来也一样——老师说这个替换他见过考题，只是记不清是哪一套了。"
+      }
+    ]
+  },
+  {
+    "lemma": "emmener",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 带（某人）去；送（某人）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Pouvez-vous emmener les enfants à l'école ?",
+    "raw": "emmener",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:emmener",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「带某人去某地」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "04:00-05:00; 21:00-21:30",
+          "lines": "88-99; 315-319"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:opening-dictation:emmener",
+        "teacher_action": "explain",
+        "selection_reason": "老师专门停下来做了造句练习：「emmener 这个单词，我们很多听力题里都出现了，我们自己用它来造个句试试看」，并强调宾语通常是人。学生当堂造出 Pouvez-vous emmener les enfants à l'école ? 和 Pouvez-vous m'emmener à l'aéroport demain ?",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "11:30-13:00",
+          "lines": "182-200"
+        },
+        "learning_note": "字面是「带走」，但用法是带**人**去某地——送孩子上学、送我去机场都用它。"
+      }
+    ]
+  },
+  {
+    "lemma": "composer",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 拨（号）；输入（密码）；创作",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Composez votre numéro / votre code.",
+    "raw": "composer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:composer",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生只答出「创作作文和音乐」，老师补了最常考的那层。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "04:30-05:00; 21:00-21:30",
+          "lines": "94-99; 315-319"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:opening-dictation:composer",
+        "teacher_action": "explain",
+        "selection_reason": "老师给的用法：「你给人家打电话的时候，你拨打某个号码。拨打号码以及输入密码，其实都可以用这个单词」，并用英语 composition 搭桥解释为什么——「它其实是那种有规律的一种编」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "14:00-15:30",
+          "lines": "215-234"
+        },
+        "learning_note": "听力里「拨号／输密码」几乎只用这个词，别只记住「作曲」那层。"
+      }
+    ]
+  },
+  {
+    "lemma": "un dommage",
+    "pos": "nom",
+    "zh": "[L37课前复习] 遗憾；损害",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Quel dommage !",
+    "raw": "un dommage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:dommage",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生两次说「忘了」，老师给出最常用的固定表达。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "04:30-05:00; 21:30-22:00",
+          "lines": "94-99; 321-326"
+        },
+        "learning_note": "这个词 L36 开课听写也报过一次（L36/vocab.json 同名词条）。同一份词表在两课之间重叠了 18 个词，重复报的就是老师反复要的。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:opening-dictation:dommage",
+        "teacher_action": "explain",
+        "selection_reason": "老师原话：「它最常出现的表达就是 quel dommage，what a pity，就是跟这个连用」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "14:00-14:30",
+          "lines": "215-227"
+        },
+        "learning_note": "单背名词没用——记整块 Quel dommage !"
+      }
+    ]
+  },
+  {
+    "lemma": "les transports en commun",
+    "pos": "nom",
+    "zh": "[L37课前复习] 公共交通",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Je prends les transports en commun tous les jours.",
+    "raw": "les transports en commun",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:transports en commun",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「公共交通」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "04:30-05:30; 21:30-22:00",
+          "lines": "94-105; 321-326"
+        },
+        "learning_note": "固定用复数 les transports en commun，写作里讲生活方式／环保时是现成素材。"
+      }
+    ]
+  },
+  {
+    "lemma": "prêter",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 借出（把东西借给别人）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Je lui ai prêté mon vélo.",
+    "raw": "prêter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:prêter",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生说「忘了」，答成「还得借出」，老师补齐搭配：「它很好用的，把什么东西借给谁」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "05:00-05:30; 21:30-22:00",
+          "lines": "101-105; 321-326"
+        },
+        "learning_note": "方向别搞反：prêter 是「借出」，搭配是 prêter quelque chose à quelqu'un。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'inscrire",
+    "pos": "verbe pronominal",
+    "zh": "[L37课前复习] 注册；报名",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Pour s'inscrire à des cours.",
+    "raw": "s'inscrire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:s'inscrire",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生答「注册」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "05:00-06:00; 22:00-22:30",
+          "lines": "101-112; 328-333"
+        }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q8;Q10",
+        "teacher_action": "review",
+        "selection_reason": "同一天的阅读卷里出现两次：Q8 选项 D「Pour s'inscrire à des cours」、Q10 选项 D「Il s'inscrit à l'université」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "两次都带介词 à，记成 s'inscrire à quelque chose。"
+      }
+    ]
+  },
+  {
+    "lemma": "le maillot de bain",
+    "pos": "nom",
+    "zh": "[L37课前复习] 泳衣；泳裤",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "N'oublie pas ton maillot de bain.",
+    "raw": "le maillot de bain",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-dictation:maillot de bain",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写最后一个词。核对时学生答「泳衣」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "05:30-06:00; 22:00-22:30",
+          "lines": "107-112; 328-333"
+        },
+        "learning_note": "L36 讲听力时老师就点名要背过这个词，这次又出现在听写表里——两课都点到，属于反复要的那批。"
+      }
+    ]
+  },
+  {
+    "lemma": "recevoir",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 收到；接待",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Je reçois, tu reçois, il reçoit, nous recevons, vous recevez, ils reçoivent.",
+    "raw": "recevoir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-conjugation:recevoir",
+        "teacher_action": "memorize",
+        "selection_reason": "开课动词变位第 1 个。老师带着学生把现在时六个人称完整过了一遍。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "22:00-23:00",
+          "lines": "328-341"
+        },
+        "learning_note": "注意 ç：je reçois / il reçoit 有软音符，nous recevons / vous recevez 没有。"
+      }
+    ]
+  },
+  {
+    "lemma": "permettre",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 允许；使得以",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cela permet aux élèves d'organiser leur temps.",
+    "raw": "permettre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-conjugation:permettre",
+        "teacher_action": "memorize",
+        "selection_reason": "开课动词变位第 2 个，现在时六个人称过了一遍。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "22:30-23:00",
+          "lines": "335-341"
+        },
+        "learning_note": "老师后面讲写作 T3 时又回头用它：permettre à quelqu'un de ＋不定式，中间的 à quelqu'un 可以省。"
+      }
+    ]
+  },
+  {
+    "lemma": "acquérir",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 获得；习得",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "J'ai acquis une bonne méthode de travail.",
+    "raw": "acquérir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-conjugation:acquérir",
+        "teacher_action": "memorize",
+        "selection_reason": "开课动词变位第 3 个。学生读得磕巴，老师带读。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "22:30-23:30",
+          "lines": "335-347"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "requérir",
+    "pos": "verbe",
+    "zh": "[L37课前复习] 要求；需要",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Ce poste requiert de l'expérience.",
+    "raw": "requérir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L37:opening-conjugation:acquérir",
+        "teacher_action": "contrast",
+        "selection_reason": "不是变位表上的词，是老师为了防混而当场拎出来的对照词：「他俩，一个是 require（requérir），一个是 acquire（acquérir）」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "16:00-17:00",
+          "lines": "243-255"
+        },
+        "learning_note": "长得几乎一样、意思完全不同：requérir＝要求（require），acquérir＝获得（acquire）。"
+      }
+    ]
+  },
+  {
+    "lemma": "dépenser",
+    "pos": "verbe",
+    "zh": "[T11Q4] 花费（钱）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "On ne peut plus dépenser beaucoup.",
+    "raw": "dépenser",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q4",
+        "teacher_action": "explain",
+        "selection_reason": "老师把它当成整道题的关键词：「你就看它的关键词嘛，dépenser 嘛，它整个题都是钱的事儿」，由它推出答案「Ils font attention à l'argent」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "34:00-35:00",
+          "lines": "498-510"
+        },
+        "learning_note": "老师演示的是关键词法：整句读不顺就先抓一个能定调的词。"
+      }
+    ]
+  },
+  {
+    "lemma": "faire attention à",
+    "pos": "expr",
+    "zh": "[T11Q4] 注意；重视",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il faut faire attention à la pratique.",
+    "raw": "faire attention à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q4",
+        "teacher_action": "explain",
+        "selection_reason": "Q4 正确选项就是它：「Ils font attention à l'argent」。老师给了等式：「faire attention à，完全等于英文的 pay attention to。固定，faire attention à」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "35:30-36:00",
+          "lines": "520-525"
+        }
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing:faire-attention-a",
+        "teacher_action": "explain",
+        "selection_reason": "学生追问写作里怎么用，老师给了写作口径「重视」和搭配限制：faire attention à l'exercice / à la pratique，「我们一般接名词接的多一点」，后面「不常再接动词」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "36:00-36:30",
+          "lines": "527-532"
+        },
+        "learning_note": "写作里当「重视」用，后面尽量接名词，别接动词不定式。"
+      }
+    ]
+  },
+  {
+    "lemma": "la location",
+    "pos": "nom",
+    "zh": "[T11Q4] 租赁（这件事）；出租",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Ils payent déjà cher pour la location.",
+    "raw": "la location",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q4",
+        "teacher_action": "correction",
+        "selection_reason": "老师专门纠一个常见误解：「很多同学以为这个单词的意思是 location（英语的「位置」），不是的。它只有租赁的意思」。这一步是排除 Q4 选项 D（une maison de vacances）的依据——原文说明房子是租的。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "35:00-35:30",
+          "lines": "512-518"
+        },
+        "learning_note": "假朋友：法语 location ≠ 英语 location。三个一起记：louer（租，动词）／la location（租赁）／le locataire（租客）。"
+      }
+    ]
+  },
+  {
+    "lemma": "louer",
+    "pos": "verbe",
+    "zh": "[T11Q4] 租；出租",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Vous quittez l'appartement que vous louez.",
+    "raw": "louer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q4",
+        "teacher_action": "explain",
+        "selection_reason": "老师在纠正 location 时给出的动词形式：「louer 是它的动词」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "35:00-35:30",
+          "lines": "512-518"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "jusqu'à",
+    "pos": "prep",
+    "zh": "[T11Q6] 直到；到……为止",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Que fait Marc jusqu'à 16 h ?",
+    "raw": "jusqu'à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q6",
+        "teacher_action": "explain",
+        "selection_reason": "Q6 卡住学生的就是这个题干词。老师直接给英语对应：「它是 until，是在十六点之前」，题意通了答案立刻出来（Il fait du sport）。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "36:30-37:30",
+          "lines": "534-545"
+        },
+        "learning_note": "典型的「四个选项全认识、栽在题干词上」——题干词和选项词一样要背。"
+      }
+    ]
+  },
+  {
+    "lemma": "une boutique",
+    "pos": "nom",
+    "zh": "[T11Q7] 商店；精品店",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Venez vite retirer votre surprise dans notre boutique.",
+    "raw": "une boutique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q7",
+        "teacher_action": "correction",
+        "selection_reason": "学生把 boutique 当成「礼物」，老师当场纠正：「boutique 是商店，它是 shop……它是商店精品店的意思」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "37:30-38:00",
+          "lines": "547-552"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un cadeau",
+    "pos": "nom",
+    "zh": "[T11Q7] 礼物",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il promet un cadeau.",
+    "raw": "un cadeau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q7",
+        "teacher_action": "explain",
+        "selection_reason": "Q7 正确选项的关键词。老师把它和 boutique 拆开讲：「嘎斗（cadeau）是礼物」，并提醒这里不是同义替换——原文说的是「来店里领一份惊喜」，选项是推断出来的。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "38:00-38:30",
+          "lines": "554-559"
+        },
+        "learning_note": "选项不总是换词，也可能是**推断**。别死等原词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une épreuve",
+    "pos": "nom",
+    "zh": "[T11Q8] 考试；考验",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "au début de l'épreuve",
+    "raw": "une épreuve",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q8",
+        "teacher_action": "memorize",
+        "selection_reason": "老师明确说这一组「经常考」：「考试这个单词 épreuve，它其实本身是考验，它的同义替换 concours，还有同义替换 examen。这三个单词经常考」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "39:00-39:30",
+          "lines": "568-573"
+        },
+        "learning_note": "épreuve／concours／examen 三个一起背，阅读里互为同义替换。"
+      }
+    ]
+  },
+  {
+    "lemma": "un examen",
+    "pos": "nom",
+    "zh": "[T11Q8] 考试",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Pour passer un examen.",
+    "raw": "un examen",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q8",
+        "teacher_action": "synonym",
+        "selection_reason": "Q8 正确选项用的就是它（Pour passer un examen），而原文写的是 épreuve——这一题本身就是一次同义替换。老师把它列进「经常考」的三词组。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "39:00-39:30",
+          "lines": "568-573"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un dossier",
+    "pos": "nom",
+    "zh": "[T11Q9] 文件；卷宗；档案",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "On pourra vérifier ensemble le dossier de M. Lambera.",
+    "raw": "un dossier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q9",
+        "teacher_action": "explain",
+        "selection_reason": "学生问「dossier 是什么意思」，老师答 document。这是读懂 Q9 原文的关键词。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "40:00-40:30",
+          "lines": "585-590"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "vérifier",
+    "pos": "verbe",
+    "zh": "[T11Q9] 核实；核对",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "On pourra vérifier ensemble le dossier.",
+    "raw": "vérifier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q9",
+        "teacher_action": "explain",
+        "selection_reason": "Q9 判定正确答案 A（Il accepte de l'aider）的那句原文里的动词：「vérifier 就 verify、核实嘛」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "40:30-41:30",
+          "lines": "592-603"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "chercher une information",
+    "pos": "expr",
+    "zh": "[T11Q9] 找信息；打听消息",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il cherche une information.",
+    "raw": "chercher une information",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q9",
+        "teacher_action": "explain",
+        "selection_reason": "Q9 的干扰项 B。老师用它演示怎么排除：「chercher 就是 look for 的意思，他没有在寻找任何信息」——René 是在回应留言，不是在要信息。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "41:30-42:30",
+          "lines": "605-617"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un entretien",
+    "pos": "nom",
+    "zh": "[T11Q9] 面谈；（尤指）面试",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il organise un entretien.",
+    "raw": "un entretien",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q9",
+        "teacher_action": "correction",
+        "selection_reason": "Q9 的干扰项 D。老师纠正词义边界：「entretien 我们通常更多的指的是……它是一个交谈，但是它更多侧重于是面试的交谈」，并顺带纠了 interview：「interview 不是采访，它就是面试」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "39:30-40:00; 42:00-42:30",
+          "lines": "575-583; 612-617"
+        },
+        "learning_note": "别翻成「采访」。学生自己在卷子上就写了「面试 interview」。"
+      }
+    ]
+  },
+  {
+    "lemma": "une dégustation",
+    "pos": "nom",
+    "zh": "[T11Q14] 品尝；品鉴会",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "des dégustations de desserts",
+    "raw": "une dégustation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q14",
+        "teacher_action": "explain",
+        "selection_reason": "Q14 的判定词。学生因为原文里有 cinéma 而误选 D，老师把他拉回第四行：「déguster／dégustation 是什么意思？——品尝」，原文的 dégustations de desserts 对应选项 Goûter des recettes。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "43:00-45:00",
+          "lines": "626-652"
+        },
+        "learning_note": "老师原话：「dégustation、déguster，同一词族，一个名词一个动词而已」。"
+      }
+    ]
+  },
+  {
+    "lemma": "déguster",
+    "pos": "verbe",
+    "zh": "[T11Q14] 品尝",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "déguster des desserts",
+    "raw": "déguster",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q14",
+        "teacher_action": "word_family",
+        "selection_reason": "老师讲 Q14 时把名词和动词一起给：「dégustation、déguster……一个名词一个动词而已」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "44:00-44:30",
+          "lines": "640-645"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "en temps réel",
+    "pos": "expr",
+    "zh": "[T11Q16] 实时；即时",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "grâce à l'information en temps réel",
+    "raw": "en temps réel",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在 Q16 原文上直接下了记忆指令：「grâce à l'information en temps réel，**你把这个记下来**。en temps réel 是一个固定的表达，就即时、实时更新的」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "47:00-48:00",
+          "lines": "681-692"
+        },
+        "learning_note": "整块记，不要拆开背 temps 和 réel。"
+      }
+    ]
+  },
+  {
+    "lemma": "signaler",
+    "pos": "verbe",
+    "zh": "[T11Q16] 提示；标示；报告（情况）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Signaler les difficultés de circulation.",
+    "raw": "signaler",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "Q16 的正确选项动词。老师的排除逻辑是「原文只谈信息，不谈干预」：「它其实就是快速的把这些信息上传……它并没有说你要干预，它只跟信息有关」，所以是 signaler 而不是 accélérer les interventions。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "45:30-47:30",
+          "lines": "661-685"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "accélérer",
+    "pos": "verbe",
+    "zh": "[T11Q16] 加速；加快",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Accélérer les interventions d'urgence.",
+    "raw": "accélérer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "Q16 学生原本选的干扰项。老师承认词认得，但原文不支持：「他没有加速的含义」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "45:30-46:30",
+          "lines": "661-673"
+        },
+        "learning_note": "认得词 ≠ 选得对：这一题错在把「传信息」读成了「加快干预」。"
+      }
+    ]
+  },
+  {
+    "lemma": "un conducteur",
+    "pos": "nom",
+    "zh": "[T11Q16] 司机；驾驶员",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Repérer les mauvais conducteurs.",
+    "raw": "un conducteur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "Q16 一带出现三个「司机」词（chauffeur／conducteur／automobiliste）。学生问要不要背，老师给了明确边界。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "48:00-49:00",
+          "lines": "694-706"
+        },
+        "learning_note": "**只要求认读，不要求产出**。老师原话：「有熟就可以了，就看到它认识就可以了，你自己用的时候用其中一个就可以了」。"
+      }
+    ]
+  },
+  {
+    "lemma": "un chauffeur",
+    "pos": "nom",
+    "zh": "[T11Q16] 司机",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "la conduite sans chauffeur",
+    "raw": "un chauffeur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "同上，三个「司机」词之一，出现在 Q16 选项 B「Généraliser la conduite sans chauffeur」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "48:00-49:00",
+          "lines": "694-706"
+        },
+        "learning_note": "**只要求认读，不要求产出**（老师原话见 conducteur 条）。"
+      }
+    ]
+  },
+  {
+    "lemma": "un automobiliste",
+    "pos": "nom",
+    "zh": "[T11Q16] 驾车人；司机",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "l'information en temps réel des automobilistes",
+    "raw": "un automobiliste",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "explain",
+        "selection_reason": "同上，三个「司机」词之一，出现在 Q16 原文末句。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "48:00-49:00",
+          "lines": "694-706"
+        },
+        "learning_note": "**只要求认读，不要求产出**（老师原话见 conducteur 条）。"
+      }
+    ]
+  },
+  {
+    "lemma": "consister en",
+    "pos": "expr",
+    "zh": "[T11Q17] 由……组成；包括",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cet examen consiste en l'épreuve orale et l'épreuve de l'écoute.",
+    "raw": "consister en",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q17",
+        "teacher_action": "memorize",
+        "selection_reason": "Q17 题干「En quoi consiste l'emploi proposé ?」是学生打问号的原因。老师给了两个搭配，这是第一个：「consister en 的意思是由什么什么组成」，并造句「这个考试包括听力和口语」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "51:00-52:00",
+          "lines": "739-751"
+        },
+        "learning_note": "en ＋名词。和 consister à ＋不定式成对记。"
+      }
+    ]
+  },
+  {
+    "lemma": "consister à faire quelque chose",
+    "pos": "expr",
+    "zh": "[T11Q17] 在于（做某事）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Son métier consiste à fabriquer du pain.",
+    "raw": "consister à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q17",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的第二个搭配：「consister à，就在于什么什么」，例句「他的工作是做面包」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "51:00-52:00",
+          "lines": "739-751"
+        },
+        "learning_note": "à ＋不定式。和 consister en ＋名词成对记。"
+      }
+    ]
+  },
+  {
+    "lemma": "effectuer",
+    "pos": "verbe",
+    "zh": "[T11Q17] 执行；完成（任务）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Effectuer des tâches administratives.",
+    "raw": "effectuer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q17",
+        "teacher_action": "explain",
+        "selection_reason": "Q17 正确选项 B 的动词。学生说自己写作文时认识了这个词，老师确认词义。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "52:00-52:30",
+          "lines": "753-758"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une tâche administrative",
+    "pos": "expr",
+    "zh": "[T11Q17] 行政事务；文书工作",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Effectuer des tâches administratives.",
+    "raw": "une tâche administrative",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q17",
+        "teacher_action": "explain",
+        "selection_reason": "Q17 正确选项 B。老师直接给英语对应：「administrative tasks」，由原文 notions de comptabilité／sens de l'organisation 支持。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "52:00-52:30",
+          "lines": "753-758"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "suivi de",
+    "pos": "expr",
+    "zh": "[T11Q13] 紧接着……的；后面跟着……",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "une conférence publique suivie d'un débat sur la crise financière",
+    "raw": "suivi de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q13",
+        "teacher_action": "explain",
+        "selection_reason": "老师讲「过去分词作后置定语」时回头引用 Q13 原文：「Une conférence publique suivie d'un débat sur la crise financière……这不也就是过去分词作后置定语吗？」",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "53:30-55:30",
+          "lines": "774-808"
+        },
+        "learning_note": "要配合：conférence 是阴性，所以写 suivie。"
+      }
+    ]
+  },
+  {
+    "lemma": "suivre les cours",
+    "pos": "expr",
+    "zh": "[T11Q13] 上课；听课",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Je suis les cours de français en ligne.",
+    "raw": "suivre les cours",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:CE-test11:Q13",
+        "teacher_action": "explain",
+        "selection_reason": "学生问「线上上课为什么是 suivi de cours」，老师解释 suivre 的本义：「它本身的意思就是 follow……suivre les cours 是一个固定表达，上课」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "54:30-55:30",
+          "lines": "789-801"
+        },
+        "learning_note": "follow the lessons of ＋人＝上谁的课。"
+      }
+    ]
+  },
+  {
+    "lemma": "tandis que",
+    "pos": "expr",
+    "zh": "[L37写作T3] 而……（同时性 ＋ 对比）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Certains considèrent que les devoirs sont utiles, tandis que d'autres pensent le contraire.",
+    "raw": "tandis que",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:paragraph1",
+        "teacher_action": "memorize",
+        "selection_reason": "本课唯一一个老师直接说「要背下来」的写作词：「这个单词要背下来，你的第二句跟第三句之间就用这个词联系起来」，并要求固定使用：「你就永远都用这个词去连接你的第二句第三句」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:10:30-01:12:00",
+          "lines": "1016-1035"
+        },
+        "learning_note": "和 quand 的区别老师专门讲了：quand 只强调同时，tandis que 同时**还带对比**——「我在写作业，而他在打游戏」。"
+      }
+    ]
+  },
+  {
+    "lemma": "certains considèrent que",
+    "pos": "expr",
+    "zh": "[L37写作T3] 有些人认为……",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Certains considèrent que les devoirs à la maison sont utiles.",
+    "raw": "certains considèrent que",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:paragraph1",
+        "teacher_action": "explain",
+        "selection_reason": "T3 第一段第二句的固定开头。老师给的模板：「你的第二句话就是 certains ＋句子」，学生当堂写出「Certains considèrent que les devoirs à la maison sont utiles car il permet aux élèves d'apprendre à organiser leur temps de manière autonome」，老师认可结构但要求缩短。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:20:00-01:21:30",
+          "lines": "1145-1163"
+        },
+        "learning_note": "第三句用 tandis que d'autres … 接上，两句一对。"
+      }
+    ]
+  },
+  {
+    "lemma": "diviser l'opinion publique",
+    "pos": "expr",
+    "zh": "[L37写作T3] 引起公众意见分歧",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Les devoirs à la maison sont un sujet qui divise l'opinion publique.",
+    "raw": "diviser l'opinion publique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:paragraph1",
+        "teacher_action": "explain",
+        "selection_reason": "T3 第一段第一句的现成句式。老师说范文用的就是它：「小孩用网络，它分化了公共的观点」，并让学生当堂套到「在家写作业」这道题上，学生写出的句子老师直接通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:13:00-01:13:30; 01:19:30-01:20:00",
+          "lines": "1051-1056; 1135-1143"
+        },
+        "learning_note": "第一句只需要点明「讨论的主题是什么」，别多写。"
+      }
+    ]
+  },
+  {
+    "lemma": "susciter de nombreuses interrogations",
+    "pos": "expr",
+    "zh": "[L37写作T3] 引发诸多疑问／讨论",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "… crée un débat qui suscite de nombreuses interrogations aujourd'hui.",
+    "raw": "susciter de nombreuses interrogations",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:paragraph1",
+        "teacher_action": "explain",
+        "selection_reason": "T3 第一段第一句的另一个写法，老师念的范文原句：「crée un débat qui suscite de nombreuses interrogations aujourd'hui」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:09:30-01:10:00",
+          "lines": "999-1007"
+        },
+        "learning_note": "和 diviser l'opinion publique 二选一，别两个都堆。"
+      }
+    ]
+  },
+  {
+    "lemma": "contribuer à",
+    "pos": "expr",
+    "zh": "[L37写作T3] 有助于；对……有贡献",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cela contribue à l'autonomie des enfants.",
+    "raw": "contribuer à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "memorize",
+        "selection_reason": "老师当堂让学生写下来的词：「那我们可以用一个什么样的单词呢？contribuer。**把这个单词写下来啊**」，用来替换学生写错的 aider 结构。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:27:00-01:28:30",
+          "lines": "1238-1257"
+        },
+        "learning_note": "à ＋名词。老师说「通常我们说有什么什么好处的时候，你可以直接说 contribuer」，后面把长句换成名词就行。"
+      }
+    ]
+  },
+  {
+    "lemma": "aider quelqu'un à faire quelque chose",
+    "pos": "expr",
+    "zh": "[L37写作T3] 帮助某人做某事",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cela aide les élèves à organiser leur temps.",
+    "raw": "aider quelqu'un à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "correction",
+        "selection_reason": "学生写了「Cela aide à l'autonomie」，老师判为不成立：「aider 没有这种用法。aider 这个单词其实完全等于英文的 help，我们要不然就是 help somebody to do something，要不然就是 help somebody in 什么」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:27:00-01:27:30; 01:30:30-01:31:00",
+          "lines": "1238-1243; 1291-1296"
+        },
+        "learning_note": "两种合法结构：aider qn à ＋不定式，或 aider qn dans ＋名词。**没有** aider à ＋抽象名词 这种写法。"
+      }
+    ]
+  },
+  {
+    "lemma": "permettre à quelqu'un de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L37写作T3] 使某人能够做某事",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cela permet aux élèves d'organiser leur temps.",
+    "raw": "permettre à quelqu'un de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "explain",
+        "selection_reason": "老师给的第二个「正向好处」句式：「它 permettre de 什么什么。你如果一定要加对象的话，那我们就是 permettre à quelqu'un，它中间这个 à quelqu'un 可以不要的，然后后面加动词不定式」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:30:00-01:30:30",
+          "lines": "1283-1289"
+        },
+        "learning_note": "对象可省：permettre de ＋不定式 就已经成立。"
+      }
+    ]
+  },
+  {
+    "lemma": "empêcher quelqu'un de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L37写作T3] 阻止某人做某事",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cela empêche les élèves de se concentrer.",
+    "raw": "empêcher quelqu'un de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「反方向」首选词：「如果我们是一种反方向的表达，就是说它会有什么坏处，那我们首先用的第一个就是 empêcher……stop somebody from doing something，就是阻止你做某事」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:31:00-01:31:30",
+          "lines": "1298-1303"
+        },
+        "learning_note": "写坏处时的第一选择。结构：empêcher qn de ＋不定式。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'autonomie",
+    "pos": "nom",
+    "zh": "[L37写作T3] 自主性；独立性",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cela contribue à l'autonomie des enfants.",
+    "raw": "l'autonomie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:condense",
+        "teacher_action": "explain",
+        "selection_reason": "老师用它示范「改写＝缩写」：学生原句「apprendre à organiser leur temps de manière autonome」太长，老师问「那我可不可以就是它可以提升小孩的 autonomie？你把它换成名词，可不可以？」",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:22:00-01:22:30",
+          "lines": "1172-1177"
+        },
+        "learning_note": "T3 第一段是**总结**，把原文的长从句压成一个名词是最省字数的手法。"
+      }
+    ]
+  },
+  {
+    "lemma": "un moment partagé",
+    "pos": "expr",
+    "zh": "[L37写作T3] 共处的时光",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Il apprécie ce moment partagé avec les enfants.",
+    "raw": "un moment partagé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:condense",
+        "teacher_action": "explain",
+        "selection_reason": "老师现场造的升级说法，同时又是一个过去分词后置定语的例子：「moment partagé，你看这就是过去分词做后置定语，shared moment」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:28:30-01:29:00",
+          "lines": "1259-1264"
+        },
+        "learning_note": "老师给的整句：Cela contribue à l'autonomie des enfants et au moment partagé dans la famille."
+      }
+    ]
+  },
+  {
+    "lemma": "bénéficier de",
+    "pos": "expr",
+    "zh": "[L37写作T3] 从……中受益",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Les élèves ne bénéficient pas de ces devoirs.",
+    "raw": "bénéficier de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "explain",
+        "selection_reason": "老师在学生写不出「有好处」时给的一串备选之一：「我给你写几个比较简单的词啊……bénéfice／bénéficier，这就是好处」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:38:00-01:38:30",
+          "lines": "1389-1394"
+        },
+        "learning_note": "同一串里还有 être en faveur de、être favorable pour、profiter de。写「没有好处」就整句改否定。"
+      }
+    ]
+  },
+  {
+    "lemma": "être favorable à",
+    "pos": "expr",
+    "zh": "[L37写作T3] 对……有利；赞成……",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Cette méthode est favorable aux élèves.",
+    "raw": "être favorable à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:writing-t3:benefit-verbs",
+        "teacher_action": "explain",
+        "selection_reason": "同上，老师给的「好处」备选词串之一：「或者 en faveur de，就是 be in favor of，或者是 be favorable for」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:38:00-01:38:30",
+          "lines": "1389-1394"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un loisir",
+    "pos": "nom",
+    "zh": "[L37口语T1] 业余爱好；休闲活动",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Quels sont vos loisirs préférés ?",
+    "raw": "un loisir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "speaking_task",
+        "source_ref": "L37:oral-t1:loisir",
+        "teacher_action": "memorize",
+        "selection_reason": "老师课末总结时点名的词：「像 loisir，其实是一种最常规的问法，**就这种词一定要知道**」。学生当场没听懂这个提问，反问「这个是怎么解释」。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "01:00:00-01:00:30; 01:01:00-01:01:30",
+          "lines": "869-873; 882-887"
+        },
+        "learning_note": "T1 最怕的不是不会说，是听不懂问句——老师把这条重复了一遍。"
+      }
+    ]
+  },
+  {
+    "lemma": "la date de naissance",
+    "pos": "expr",
+    "zh": "[L37口语T1] 出生日期",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Quelle est votre date de naissance ?",
+    "raw": "la date de naissance",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "speaking_task",
+        "source_ref": "L37:oral-t1:date-de-naissance",
+        "teacher_action": "memorize",
+        "selection_reason": "T1 必问句之一，老师问完还用英语点了一遍「date of birth」，因为学生第一次没反应过来。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "57:30-58:00",
+          "lines": "831-836"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "la situation familiale",
+    "pos": "expr",
+    "zh": "[L37口语T1] 家庭状况",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Quelle est votre situation familiale ?",
+    "raw": "la situation familiale",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "speaking_task",
+        "source_ref": "L37:oral-t1:situation-familiale",
+        "teacher_action": "memorize",
+        "selection_reason": "T1 必问句之一。老师问了两遍学生才反应过来。",
+        "evidence": {
+          "file": "docker-data/outputs/L37/L37_final_working.md",
+          "time": "58:30-59:00",
+          "lines": "845-850"
+        },
+        "learning_note": "两种答法老师都给了：Nous sommes quatre dans la famille. / Il y a quatre personnes dans la famille."
+      }
+    ]
+  },
+  {
+    "lemma": "un horaire",
+    "pos": "nom",
+    "zh": "[T11Q1 补] 时刻表；作息时间 [Opus5 建议：TCF 便条题的四选项常年是 horaire／adresse／date／tarif 这一组，四个词互为干扰项，缺一个就可能整题猜]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Quelle information est communiquée au public ? — Un horaire.",
+    "raw": "un horaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q1",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q1 与 Q5 的选项里都出现，学生两题都把它划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un tarif",
+    "pos": "nom",
+    "zh": "[T11Q5 补] 价目；收费标准 [Opus5 建议：和 horaire／adresse／date 同属那组固定干扰项；Q5 学生选的就是它的邻项，说明这组还没分清]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Gratuit pour les moins de 12 ans → un tarif.",
+    "raw": "un tarif",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q5",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q5 选项 D，学生在卷面上划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "embrasser",
+    "pos": "verbe",
+    "zh": "[T11Q3 补] 拥抱；亲吻 [Opus5 建议：Je t'embrasse 是法语私人便条最常见的结尾套语，写作 T1 便条题可以直接抄用]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Je t'embrasse, Cyprien.",
+    "raw": "embrasser",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q3",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q3 原文结尾「Je t'embrasse, Cyprien」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "garder des enfants",
+    "pos": "expr",
+    "zh": "[T11Q2 补] 看孩子；照看小孩 [Opus5 建议：口语 T1／T2 讲家庭和打工经历时的现成表达，而且是招聘广告里的高频岗位]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "L'association recherche des étudiants pour garder des enfants.",
+    "raw": "garder des enfants",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q2",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q2 原文「recherche des étudiants pour garder des enfants」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une glace",
+    "pos": "nom",
+    "zh": "[T11Q4 补] 冰淇淋；冰 [Opus5 建议：Q4 全文围绕它展开，是理解「父母舍不得花钱」的具体证据，也是描写夏天／度假的常用词]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Nos parents voudraient bien aussi manger des glaces.",
+    "raw": "une glace",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q4",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q4 原文出现两次，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un promeneur",
+    "pos": "nom",
+    "zh": "[T11Q11 补] 散步者；行人 [Opus5 建议：由 se promener 派生，口语 T1 讲爱好时学生刚好用过 se promener，正好连起来记]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "À conseiller le promeneur.",
+    "raw": "un promeneur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q11",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q11 选项 A，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "se renseigner",
+    "pos": "verbe pronominal",
+    "zh": "[T11Q12 补] 打听；了解情况 [Opus5 建议：和 chercher une information（老师本课讲过的 Q9 干扰项）意思接近但用法不同，放一起才不会混]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Ils ont pu se renseigner sur les différents secteurs d'activité.",
+    "raw": "se renseigner",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 原文「les élèves ont pu se renseigner sur les différents secteurs d'activité」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "老师本课讲了 chercher une information，这个词是它的近义反射，一起记更划算。"
+      }
+    ]
+  },
+  {
+    "lemma": "déposer sa candidature",
+    "pos": "expr",
+    "zh": "[T11Q12 补] 投递申请；递交简历 [Opus5 建议：写作／口语讲求职经历时的成套表达，比逐词翻译「找工作」像样得多]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "déposer leur candidature pour les postes qui les intéressent",
+    "raw": "déposer sa candidature",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 原文「déposer leur candidature pour les postes qui les intéressent」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "recruter",
+    "pos": "verbe",
+    "zh": "[T11Q12 补] 招聘；招募 [Opus5 建议：就业主题（T3 高频话题之一）的核心动词，和 emploi／poste／candidature 是一套]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "les entreprises qui recrutent",
+    "raw": "recruter",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q12",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q12 原文「les entreprises qui recrutent」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'exiler",
+    "pos": "verbe pronominal",
+    "zh": "[T11Q15 补] 流亡；背井离乡（去外国谋生） [Opus5 建议：Q15 的正确选项就靠它，而学生在卷面上给它打了叉表示不认识——这是本卷他自己标出的最明确的一个缺口]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "La nécessité de s'exiler pour pouvoir travailler.",
+    "raw": "s'exiler",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q15 选项 B「La nécessité de s'exiler pour pouvoir travailler」，学生打叉标为生词。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在卷面上明确标为生词（打叉），且这一题的答案完全取决于它。"
+      }
+    ]
+  },
+  {
+    "lemma": "un stage",
+    "pos": "nom",
+    "zh": "[T11Q15 补] 实习 [Opus5 建议：和 emploi／poste／candidature 一起构成就业词群；Q15 用它做干扰项，认错就整题错]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "La difficulté de trouver un stage à l'étranger.",
+    "raw": "un stage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q15",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q15 选项 A「La difficulté de trouver un stage à l'étranger」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "la colocation",
+    "pos": "nom",
+    "zh": "[T11Q18 补] 合租 [Opus5 建议：住房主题（T2／T3 常考）的高频词，且和老师本课讲的 location／locataire 同族，一起记不费力]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Aux jeunes qui veulent vivre en colocation.",
+    "raw": "la colocation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 选项 B，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "和老师本课在 Q4 讲的 louer／location／locataire 是同一族，顺手收进来。"
+      }
+    ]
+  },
+  {
+    "lemma": "le loyer",
+    "pos": "nom",
+    "zh": "[T11Q18 补] 房租 [Opus5 建议：住房主题的核心名词，Q18 原文出现两次，且和 location 是不同的词（一个是租金，一个是租赁行为）]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Cette aide peut aller jusqu'à 75% de votre loyer.",
+    "raw": "le loyer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 原文「payer leur loyer」「75% de votre loyer」，学生所选答案就靠这两句。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une facture",
+    "pos": "nom",
+    "zh": "[T11Q18 补] 账单；发票 [Opus5 建议：生活场景高频词，Q18 用它做干扰项；写作讲开销、节约时也用得上]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Aux familles qui ont des factures élevées.",
+    "raw": "une facture",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q18",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q18 选项 A「Aux familles qui ont des factures élevées」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "le plagiat",
+    "pos": "nom",
+    "zh": "[T11Q19 补] 抄袭；仿冒 [Opus5 建议：Q19 的答案完全建立在 plagiat ↔ imitations 这组同义替换上，正是老师反复强调的「选项是原文的同义替换」那种题]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "l'appellation d'origine contrôlée (AOC) interdisant tout plagiat",
+    "raw": "le plagiat",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q19",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 原文「interdisant tout plagiat」，学生用红笔在旁边写了 plagiarism。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "红笔笔记在转录里没有对应讲解（课上阅读讲评讲到 Q17 就结束了），因此只能走补充档。"
+      }
+    ]
+  },
+  {
+    "lemma": "une imitation",
+    "pos": "nom",
+    "zh": "[T11Q19 补] 仿制品；模仿 [Opus5 建议：与 plagiat 配成同义替换对；Q19 学生原本选错，改对的关键就是认出这一对]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "De lutter contre les imitations.",
+    "raw": "une imitation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q19",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q19 选项 A「De lutter contre les imitations」，学生用红笔写了「imitation 仿造」。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "红笔笔记在转录里没有对应讲解，只能走补充档。"
+      }
+    ]
+  },
+  {
+    "lemma": "avaler",
+    "pos": "verbe",
+    "zh": "[T11Q20 补] 吞下；咽下 [Opus5 建议：Q20 的干扰项 A 用的就是它，和正确项的差别在「吞下去了」还是「发现了」——一个动词决定整题]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Il a avalé un mauvais morceau de fromage.",
+    "raw": "avaler",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 选项 A「Il a avalé un mauvais morceau de fromage」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "tousser",
+    "pos": "verbe",
+    "zh": "[T11Q20 补] 咳嗽 [Opus5 建议：Q20 原文靠它和 recracher 交代事情经过，是判断「东西没咽下去」的直接证据]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Ses parents l'entendant tousser.",
+    "raw": "tousser",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 原文「l'entendant tousser」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un morceau",
+    "pos": "nom",
+    "zh": "[T11Q20 补] 一块；一片 [Opus5 建议：食物／物品计量的通用词，口语描述吃什么时随时能用]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "un mauvais morceau de fromage",
+    "raw": "un morceau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 选项 A 出现，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une portion",
+    "pos": "nom",
+    "zh": "[T11Q20 补] 一份（食物） [Opus5 建议：和 morceau 一起构成「食物分量」小词群；写作讲饮食习惯时用得上]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "une portion individuelle de fromage",
+    "raw": "une portion",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q20",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q20 原文「mange une portion individuelle de fromage」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un ouvrage",
+    "pos": "nom",
+    "zh": "[T11Q13 补] 著作；作品 [Opus5 建议：Q13 判断「他是专家」的直接依据（写了好几本金融著作），也是书面语里 livre 的高级替换]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Il est l'auteur de plusieurs ouvrages sur la finance.",
+    "raw": "un ouvrage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q13 原文「Il est l'auteur de plusieurs ouvrages sur la finance」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "un intervenant",
+    "pos": "nom",
+    "zh": "[T11Q13 补] 主讲人；发言人 [Opus5 建议：Q13 题干词，认不出题干就没法做题——和老师本课在 Q6 强调的「题干词一样要背」是同一类]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "L'intervenant sera Monsieur Étienne Borel.",
+    "raw": "un intervenant",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q13",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q13 题干「Pourquoi l'association a-t-elle choisi cet intervenant ?」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "la comptabilité",
+    "pos": "nom",
+    "zh": "[T11Q17 补] 会计；财务 [Opus5 建议：Q17 原文和干扰项 D 都靠它；老师讲了这道题的语法和 consister，但没碰这个词]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "notions de comptabilité",
+    "raw": "la comptabilité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 原文「notions de comptabilité」「notre département comptabilité」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "老师本题只讲了题干语法与 consister 的搭配，这个词没讲，走补充档。"
+      }
+    ]
+  },
+  {
+    "lemma": "un logiciel",
+    "pos": "nom",
+    "zh": "[T11Q17 补] 软件 [Opus5 建议：招聘广告里的固定要求项，写作讲新技术（T3 高频话题）时也是基础词]",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "AUTRES",
+    "example": "Excellente connaissance des logiciels de bureautique",
+    "raw": "un logiciel",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q17",
+        "teacher_action": "agent_supplement",
+        "selection_reason": "Q17 原文「Excellente connaissance des logiciels de bureautique」，学生划了线。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  }
+]
