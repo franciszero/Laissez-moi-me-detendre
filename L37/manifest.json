@@ -605,6 +605,18 @@
           "fr": "un logiciel",
           "pos": "nom",
           "zh": "[T11Q17 补] 软件 [Opus5 建议：招聘广告里的固定要求项，写作讲新技术（T3 高频话题）时也是基础词]"
+        },
+        {
+          "type": "vocab",
+          "fr": "une intervention",
+          "pos": "nom",
+          "zh": "[T11Q16] 干预；出动（抢险、急救）"
+        },
+        {
+          "type": "vocab",
+          "fr": "décevoir",
+          "pos": "verbe",
+          "zh": "[L37课后补注] 使失望"
         }
       ]
     },
@@ -968,7 +980,7 @@
           "type": "checkpoint",
           "id": "L37:species:consister-en-takes-a-noun-consister-a-takes-an-infinitive",
           "front": "补全介词，并说明为什么：\n① Son métier consiste ___ fabriquer du pain.\n② Cet examen consiste ___ l'épreuve orale et l'épreuve de l'écoute.",
-          "back": "答案：① **à**（后面是不定式 fabriquer）② **en**（后面是名词 l'épreuve…）\n\n规则很简单：**consister à ＋不定式**（在于做某事）／**consister en ＋名词**（由……组成）。\n\n自检：Q17 的题干 En quoi consiste l'emploi proposé ? 里，回答要接名词还是动词？（都行——选项 B 用的是不定式 Effectuer des tâches administratives）",
+          "back": "答案：① **à**（后面是不定式 fabriquer）② **en**（后面是名词 l'épreuve…）\n\n规则很简单：**consister à ＋不定式**（在于做某事）／**consister en ＋名词**（由……组成）。\n\n自检：Q17 的题干 En quoi consiste l'emploi proposé ? 里，回答要接名词还是动词？（都行——选项 B 用的是不定式 Effectuer des tâches administratives）\n\n老师课后发回的批改卷，在这道题的题干旁边亲笔写着「consister en 由…组成／à …在于…」。",
           "answer": "à en",
           "source_species": "consister en takes a noun consister a takes an infinitive",
           "primary_class": "lexical_usage",
@@ -997,7 +1009,7 @@
           "type": "checkpoint",
           "id": "L37:species:location-is-the-renting-not-the-place",
           "front": "原文说 « ils payent déjà cher pour la location »。这句话说明这家人**有没有**自己的房子？为什么？",
-          "back": "答案：**没有**——la location 说明房子是**租**的。\n\n法语 location ＝**租赁**，和英语 location（位置）没关系，这是典型假朋友。老师原话：「它只有租赁的意思」。\n\n一族三个一起记：**louer**（租，动词）／**la location**（租赁这件事）／**le locataire**（租的人）。\n\n自检：Q4 为什么能排除 D（Ils ont une maison de vacances）？（原文明说是租的）",
+          "back": "答案：**没有**——la location 说明房子是**租**的。\n\n法语 location ＝**租赁**，和英语 location（位置）没关系，这是典型假朋友。老师原话：「它只有租赁的意思」。\n\n一族三个一起记：**louer**（租，动词）／**la location**（租赁这件事）／**le locataire**（租的人）。\n\n自检：Q4 为什么能排除 D（Ils ont une maison de vacances）？（原文明说是租的）\n\n老师课后发回的批改卷，在这道题旁边亲笔写了一整组：**location／租赁／locataire／louer**。",
           "answer": "没有 房子是租的",
           "source_species": "location is the renting not the place",
           "primary_class": "lexical_usage",
@@ -1109,7 +1121,7 @@
           "type": "checkpoint",
           "id": "L37:species:epreuve-concours-examen-are-one-synonym-set",
           "front": "原文写的是 « au début de l'épreuve »，正确选项写的是 « Pour passer un examen »。**为什么这两个能对上？**再补出第三个同义词。",
-          "back": "答案：因为 **épreuve ／ examen ／ concours 是一组同义替换**，都指「考试」。\n\n老师原话：「épreuve，它其实本身是考验，它的同义替换 concours，还有同义替换 examen。**这三个单词经常考**。」\n\nQ8 就是靠这组替换判定的：原文 épreuve → 选项 examen。\n\n自检：concours 在开课听写里也报过，你当时答的是什么？（竞赛和考试）",
+          "back": "答案：因为 **épreuve ／ examen ／ concours 是一组同义替换**，都指「考试」。\n\n老师原话：「épreuve，它其实本身是考验，它的同义替换 concours，还有同义替换 examen。**这三个单词经常考**。」\n\nQ8 就是靠这组替换判定的：原文 épreuve → 选项 examen。\n\n自检：concours 在开课听写里也报过，你当时答的是什么？（竞赛和考试）\n\n老师课后发回的批改卷上，把这三个词并排亲笔写了一遍——课上说的和纸上写的是同一组。",
           "answer": "concours",
           "source_species": "epreuve concours examen are one synonym set",
           "primary_class": "lexical_usage",
@@ -1223,7 +1235,7 @@
           "type": "checkpoint",
           "id": "L37:species:en-temps-reel-is-one-fixed-block",
           "front": "「实时信息」用法语怎么说？（老师当场让记下来的那个固定表达）",
-          "back": "答案：**l'information en temps réel**\n\n**en temps réel** ＝实时／即时，是固定表达，整块记。老师原话：「en temps réel 是一个固定的表达，就即时……**你把这个记下来**」。\n\n自检：能不能拆成 temps ＋ réel 分别记？（不能，整块才有意义）",
+          "back": "答案：**l'information en temps réel**\n\n**en temps réel** ＝实时／即时，是固定表达，整块记。老师原话：「en temps réel 是一个固定的表达，就即时……**你把这个记下来**」。\n\n自检：能不能拆成 temps ＋ réel 分别记？（不能，整块才有意义）\n\n老师课后发回的批改卷，在这个短语旁边亲笔注了「即时」。",
           "answer": "en temps réel",
           "source_species": "en temps reel is one fixed block",
           "primary_class": "expression",
@@ -1357,7 +1369,7 @@
           "type": "checkpoint",
           "id": "L37:species:debut-de-and-a-la-fin-de-are-a-pair",
           "front": "「考试开始时」和「考试结束时」分别怎么说？",
-          "back": "答案：**au début de l'épreuve** / **à la fin de l'épreuve**\n\nau début de ↔ à la fin de 是一对，老师讲 Q8 原文时顺手补的反义。\n\n注意 **à la fin de** 里有冠词 la，而 **au début de** 是 à ＋ le 缩合。\n\n自检：début 在本课还出现在哪里？（开课听写词表里）",
+          "back": "答案：**au début de l'épreuve** / **à la fin de l'épreuve**\n\nau début de ↔ à la fin de 是一对，老师讲 Q8 原文时顺手补的反义。\n\n注意 **à la fin de** 里有冠词 la，而 **au début de** 是 à ＋ le 缩合。\n\n自检：début 在本课还出现在哪里？（开课听写词表里）\n\n老师课后发回的批改卷上亲笔写着「début·开始／au début de／à la fin de」——他自己也是成对写的。",
           "answer": "au début de à la fin de",
           "source_species": "debut de and a la fin de are a pair",
           "primary_class": "expression",

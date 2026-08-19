@@ -181,7 +181,7 @@
         "evidence": {
           "file": "L37/L37.T11.reading-evidence.md"
         },
-        "learning_note": "老师在 Q4 讲 location／louer 时，学生自己在卷子上把 locataire 写在 location 旁边——三个词是一族：louer（租，动词）／la location（租赁这件事）／le locataire（租的人）。"
+        "learning_note": "老师在 Q4 讲 location／louer 时，学生自己在卷子上把 locataire 写在 location 旁边——三个词是一族：louer（租，动词）／la location（租赁这件事）／le locataire（租的人）。 老师的批改卷在 Q4 旁边亲笔把 locataire 和 location／louer 写在一起，确认这三个是一族。"
       }
     ]
   },
@@ -420,7 +420,7 @@
           "time": "38:30-39:00",
           "lines": "561-566"
         },
-        "learning_note": "成对记：au début de ↔ à la fin de。"
+        "learning_note": "成对记：au début de ↔ à la fin de。 老师的批改卷上亲笔写了「début·开始／au début de／à la fin de」，与课上讲的一致。"
       },
       {
         "source_kind": "reading_question",
@@ -454,7 +454,8 @@
           "file": "docker-data/outputs/L37/L37_final_working.md",
           "time": "38:30-39:00",
           "lines": "561-566"
-        }
+        },
+        "learning_note": "老师的批改卷上亲笔写了「au début de ／ à la fin de」成对，确认这是要成对记的。"
       }
     ]
   },
@@ -638,7 +639,7 @@
           "time": "39:00-39:30",
           "lines": "568-573"
         },
-        "learning_note": "épreuve／concours／examen 三个一起记，阅读里互为同义替换。"
+        "learning_note": "épreuve／concours／examen 三个一起记，阅读里互为同义替换。 老师的批改卷上把 épreuve／concours／examen 三个词并排亲笔写了一遍。"
       }
     ]
   },
@@ -694,7 +695,7 @@
       },
       {
         "source_kind": "teacher_extension",
-        "source_ref": "L37:opening-dictation:monnaie",
+        "source_ref": "L37:teacher-extension:monnaie",
         "teacher_action": "explain",
         "selection_reason": "老师给了两件事：一是口语可以直接说「Gardez la monnaie」＝ keep the change；二是阅读里 monnaie 会和 argent 做同义替换。",
         "evidence": {
@@ -732,7 +733,7 @@
       },
       {
         "source_kind": "teacher_extension",
-        "source_ref": "L37:opening-dictation:emmener",
+        "source_ref": "L37:teacher-extension:emmener",
         "teacher_action": "explain",
         "selection_reason": "老师专门停下来做了造句练习：「emmener 这个单词，我们很多听力题里都出现了，我们自己用它来造个句试试看」，并强调宾语通常是人。学生当堂造出 Pouvez-vous emmener les enfants à l'école ? 和 Pouvez-vous m'emmener à l'aéroport demain ?",
         "evidence": {
@@ -770,7 +771,7 @@
       },
       {
         "source_kind": "teacher_extension",
-        "source_ref": "L37:opening-dictation:composer",
+        "source_ref": "L37:teacher-extension:composer",
         "teacher_action": "explain",
         "selection_reason": "老师给的用法：「你给人家打电话的时候，你拨打某个号码。拨打号码以及输入密码，其实都可以用这个单词」，并用英语 composition 搭桥解释为什么——「它其实是那种有规律的一种编」。",
         "evidence": {
@@ -808,7 +809,7 @@
       },
       {
         "source_kind": "teacher_extension",
-        "source_ref": "L37:opening-dictation:dommage",
+        "source_ref": "L37:teacher-extension:dommage",
         "teacher_action": "explain",
         "selection_reason": "老师原话：「它最常出现的表达就是 quel dommage，what a pity，就是跟这个连用」。",
         "evidence": {
@@ -1121,7 +1122,7 @@
           "time": "35:00-35:30",
           "lines": "512-518"
         },
-        "learning_note": "假朋友：法语 location ≠ 英语 location。三个一起记：louer（租，动词）／la location（租赁）／le locataire（租客）。"
+        "learning_note": "假朋友：法语 location ≠ 英语 location。三个一起记：louer（租，动词）／la location（租赁）／le locataire（租客）。 老师的批改卷在 Q4 旁边亲笔写了一组：location／租赁／locataire／louer。这是本条唯一转录来源（35:00-35:30）之外的独立书面证据。"
       }
     ]
   },
@@ -1146,7 +1147,8 @@
           "file": "docker-data/outputs/L37/L37_final_working.md",
           "time": "35:00-35:30",
           "lines": "512-518"
-        }
+        },
+        "learning_note": "老师的批改卷在 Q4 旁边亲笔写了 location／租赁／locataire／louer 一组。"
       }
     ]
   },
@@ -1223,7 +1225,7 @@
           "time": "38:00-38:30",
           "lines": "554-559"
         },
-        "learning_note": "选项不总是换词，也可能是**推断**。别死等原词。"
+        "learning_note": "选项不总是换词，也可能是**推断**。别死等原词。 老师的批改卷上把选项里的 cadeau 和原文的 surprise／boutique 一起标了出来。"
       }
     ]
   },
@@ -1249,7 +1251,7 @@
           "time": "39:00-39:30",
           "lines": "568-573"
         },
-        "learning_note": "épreuve／concours／examen 三个一起背，阅读里互为同义替换。"
+        "learning_note": "épreuve／concours／examen 三个一起背，阅读里互为同义替换。 老师的批改卷上把 épreuve／concours／examen 三个词并排亲笔写了一遍，与课上「这三个单词经常考」一致。"
       }
     ]
   },
@@ -1274,7 +1276,8 @@
           "file": "docker-data/outputs/L37/L37_final_working.md",
           "time": "39:00-39:30",
           "lines": "568-573"
-        }
+        },
+        "learning_note": "老师的批改卷上把 épreuve／concours／examen 三个词并排亲笔写了一遍。"
       }
     ]
   },
@@ -1452,7 +1455,7 @@
           "time": "47:00-48:00",
           "lines": "681-692"
         },
-        "learning_note": "整块记，不要拆开背 temps 和 réel。"
+        "learning_note": "整块记，不要拆开背 temps 和 réel。 老师的批改卷上在 en temps réel 旁亲笔注了「即时」。"
       }
     ]
   },
@@ -1503,7 +1506,7 @@
           "time": "45:30-46:30",
           "lines": "661-673"
         },
-        "learning_note": "认得词 ≠ 选得对：这一题错在把「传信息」读成了「加快干预」。"
+        "learning_note": "认得词 ≠ 选得对：这一题错在把「传信息」读成了「加快干预」。 老师的批改卷上在 Accélérer 旁亲笔注了「加速」。"
       }
     ]
   },
@@ -1607,7 +1610,7 @@
           "time": "51:00-52:00",
           "lines": "739-751"
         },
-        "learning_note": "en ＋名词。和 consister à ＋不定式成对记。"
+        "learning_note": "en ＋名词。和 consister à ＋不定式成对记。 老师的批改卷上在 Q17 题干旁亲笔写了「consister en 由…组成／à …在于…」，与课上讲的两条搭配完全一致。"
       }
     ]
   },
@@ -1633,7 +1636,7 @@
           "time": "51:00-52:00",
           "lines": "739-751"
         },
-        "learning_note": "à ＋不定式。和 consister en ＋名词成对记。"
+        "learning_note": "à ＋不定式。和 consister en ＋名词成对记。 老师的批改卷上在 Q17 题干旁亲笔写了「consister en 由…组成／à …在于…」。"
       }
     ]
   },
@@ -2700,6 +2703,54 @@
           "file": "L37/L37.T11.reading-evidence.md"
         },
         "learning_note": "学生在课堂笔记里划了线／写了注，但老师本题未逐词讲解，属补充词。"
+      }
+    ]
+  },
+  {
+    "lemma": "une intervention",
+    "pos": "nom",
+    "zh": "[T11Q16] 干预；出动（抢险、急救）",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Accélérer les interventions d'urgence.",
+    "raw": "une intervention",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L37:CE-test11:Q16",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在批改卷上给 Q16 干扰项 A 的 interventions 亲笔注了中文（干预）。课上他排除这一项的理由正是「它并没有说你要干预，它只跟信息有关」——认得这个词才看得出选项和原文的动作对不上。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "和 accélérer 一起记：les interventions d'urgence ＝紧急出动／急救干预。"
+      }
+    ]
+  },
+  {
+    "lemma": "décevoir",
+    "pos": "verbe",
+    "zh": "[L37课后补注] 使失望",
+    "lesson": "L37",
+    "source_lesson": "L37",
+    "category": "CORE_VOCAB",
+    "example": "Je ne veux pas vous décevoir.",
+    "raw": "décevoir",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L37:teacher-marked-paper",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在批改卷第 3 页顶端用大字亲笔写下的唯一一个卷面上没有的词。按归属原则，老师亲笔写的词属于老师要求档。",
+        "evidence": {
+          "file": "L37/L37.T11.reading-evidence.md"
+        },
+        "learning_note": "**转录里没有对应讲解**，他为什么写这个词无法从录音确认。可查证的一点：décevoir 的变位跟本课练的 recevoir 完全同型（je déçois / il déçoit / nous décevons / ils déçoivent），和 requérir↔acquérir 是同一类防混。等你确认课上是否提过。"
       }
     ]
   }
