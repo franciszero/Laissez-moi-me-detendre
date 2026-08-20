@@ -2746,11 +2746,11 @@
         "source_kind": "teacher_extension",
         "source_ref": "L37:teacher-marked-paper",
         "teacher_action": "memorize",
-        "selection_reason": "老师在批改卷第 3 页顶端用大字亲笔写下的唯一一个卷面上没有的词。按归属原则，老师亲笔写的词属于老师要求档。",
+        "selection_reason": "老师在批改卷第 3 页顶端用大字亲笔写下的唯一一个卷面上没有的词。用户 2026-08-19 确认：这个词他已经遇到过很多次，是高频词，要背。",
         "evidence": {
           "file": "L37/L37.T11.reading-evidence.md"
         },
-        "learning_note": "**转录里没有对应讲解**，他为什么写这个词无法从录音确认。可查证的一点：décevoir 的变位跟本课练的 recevoir 完全同型（je déçois / il déçoit / nous décevons / ils déçoivent），和 requérir↔acquérir 是同一类防混。等你确认课上是否提过。"
+        "learning_note": "转录里没有对应讲解，老师为什么单独写它无法从录音确认；收录依据是他的亲笔＋用户确认它高频。变位跟本课练的 recevoir 完全同型：je déçois / tu déçois / il déçoit / nous décevons / vous décevez / ils déçoivent——和 requérir↔acquérir 属于同一类防混。"
       }
     ]
   }
