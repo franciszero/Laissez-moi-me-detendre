@@ -1,0 +1,188 @@
+{
+  "groups": [
+    {
+      "id": "dictation-core",
+      "label": "开课听写复盘：这批词是 L37 阅读卷的重报",
+      "order": 10,
+      "species": [
+        {
+          "source_species": "l38 dictation replays the l37 reading vocabulary",
+          "order": 10
+        },
+        {
+          "source_species": "gateau is cake cadeau is gift",
+          "order": 20
+        },
+        {
+          "source_species": "au debut keeps its de before a noun",
+          "order": 30
+        },
+        {
+          "source_species": "faire attention a has a ready made street sentence",
+          "order": 40
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-t1",
+      "label": "写作 T1：给朋友介绍自己的国家",
+      "order": 20,
+      "species": [
+        {
+          "source_species": "the opening paragraph states purpose only",
+          "order": 10
+        },
+        {
+          "source_species": "three angles cover a country introduction",
+          "order": 20
+        },
+        {
+          "source_species": "recommander not partager for a country",
+          "order": 30
+        },
+        {
+          "source_species": "a noun beats a present participle for introducing",
+          "order": 40
+        },
+        {
+          "source_species": "ce que is what not a general relative",
+          "order": 50
+        },
+        {
+          "source_species": "dire is say parler is speak",
+          "order": 60
+        },
+        {
+          "source_species": "de before a place means from",
+          "order": 70
+        },
+        {
+          "source_species": "soupe is uncountable so you prendre it",
+          "order": 80
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "writing-t3",
+      "label": "写作 T3：好处表达的万金油系统",
+      "order": 30,
+      "species": [
+        {
+          "source_species": "four benefit angles work in every topic",
+          "order": 10
+        },
+        {
+          "source_species": "consolidation et approfondissement is the flagship phrase",
+          "order": 20
+        },
+        {
+          "source_species": "acquises is an adjective not a place complement",
+          "order": 30
+        },
+        {
+          "source_species": "autonomie beats independance for children",
+          "order": 40
+        },
+        {
+          "source_species": "une occasion de has two ready frames",
+          "order": 50
+        },
+        {
+          "source_species": "apprendre la gestion du temps et des ressources",
+          "order": 60
+        },
+        {
+          "source_species": "four cause connectors and car sits mid sentence",
+          "order": 70
+        },
+        {
+          "source_species": "four result connectors and alors is spoken only",
+          "order": 80
+        },
+        {
+          "source_species": "memorise the verb usage not the sentence",
+          "order": 90
+        },
+        {
+          "source_species": "parents autoritaires ou severes is a yearly topic",
+          "order": 100
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "oral-t1",
+      "label": "口语 T1：自我介绍的纠错与边界",
+      "order": 40,
+      "species": [
+        {
+          "source_species": "depuis for ongoing il y a for ago",
+          "order": 10
+        },
+        {
+          "source_species": "ca fait combien de temps is a listening problem",
+          "order": 20
+        },
+        {
+          "source_species": "no article before a profession or nationality",
+          "order": 30
+        },
+        {
+          "source_species": "t1 answers stay under three sentences",
+          "order": 40
+        },
+        {
+          "source_species": "three hobby collocations are fixed",
+          "order": 50
+        },
+        {
+          "source_species": "two extra t1 questions are homework",
+          "order": 60
+        }
+      ],
+      "practice_cards": []
+    },
+    {
+      "id": "oral-t2",
+      "label": "口语 T2：向邻居提问的完整打法",
+      "order": 50,
+      "species": [
+        {
+          "source_species": "t2 is the only oral task with prep time",
+          "order": 10
+        },
+        {
+          "source_species": "bracket prompts are categories you must all cover",
+          "order": 20
+        },
+        {
+          "source_species": "t2 opens with a fixed politeness block",
+          "order": 30
+        },
+        {
+          "source_species": "three question frames fill the three minutes",
+          "order": 40
+        },
+        {
+          "source_species": "eight to ten questions is the target six is the floor",
+          "order": 50
+        },
+        {
+          "source_species": "ask by category never ping pong",
+          "order": 60
+        },
+        {
+          "source_species": "follow ups stop at what a neighbour would know",
+          "order": 70
+        },
+        {
+          "source_species": "three ways to say nearby",
+          "order": 80
+        }
+      ],
+      "practice_cards": []
+    }
+  ]
+}

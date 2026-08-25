@@ -1,0 +1,2076 @@
+[
+  {
+    "lemma": "la location",
+    "pos": "nom",
+    "zh": "[L38课前复习] 租赁（这件事）；出租",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "la location",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:location",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写第 1 个词，老师连报三遍。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "00:30-01:00",
+          "lines": "42-48"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "jusqu'à",
+    "pos": "prep",
+    "zh": "[L38课前复习] 直到；到……为止",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "jusqu'à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:jusqu-a",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。核对时学生把它答成「由于」，老师没有接受这个中文。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "00:30-01:00; 08:30-09:00",
+          "lines": "42-48; 146-151"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 学生这次的中文答案是错的：jusqu'à 是「直到」，不是「由于」。"
+      }
+    ]
+  },
+  {
+    "lemma": "un gâteau",
+    "pos": "nom",
+    "zh": "[L38课前复习] 蛋糕",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Le gâteau et le cadeau, ce n'est pas la même chose.",
+    "raw": "un gâteau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:gateau",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词。学生把它当成「礼物」，老师当堂纠正：礼物是 cadeau，你写的这个是蛋糕。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "00:30-01:00; 09:00-09:30",
+          "lines": "42-48; 152-158"
+        },
+        "learning_note": "老师原话：「你写的这个 gâteau 还真不是礼物，这个（cadeau）是礼物，这俩有点像啊。」他还说两个词严格来说发音有轻重差别，但「你发的差不多，不要紧的」——所以这一对要靠拼写分，不要靠耳朵分。"
+      }
+    ]
+  },
+  {
+    "lemma": "un cadeau",
+    "pos": "nom",
+    "zh": "[L38课前复习] 礼物",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un cadeau",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:gateau",
+        "teacher_action": "contrast",
+        "selection_reason": "老师纠正 gâteau 时当场写出的对照词，两个词只差一个字母。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "09:00-09:30",
+          "lines": "152-158"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 L37 是在 boutique/cadeau 的题里出现的；L38 换成了和 gâteau 配对。"
+      }
+    ]
+  },
+  {
+    "lemma": "au début de",
+    "pos": "expr",
+    "zh": "[L38课前复习] 在……开始的时候",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "au début de l'épreuve",
+    "raw": "au début de",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:debut",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。老师专门强调它的词组形式，不要自己往里加东西。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "09:30-10:00; 10:00-10:30",
+          "lines": "159-166; 169-175"
+        },
+        "learning_note": "老师原话：「它的词组叫 au début de，不要不要随便……不要给它自己加东西啊，au début 和 au début de。」au début＝单用「一开始」，后面要接名词时才补 de。"
+      }
+    ]
+  },
+  {
+    "lemma": "un entretien",
+    "pos": "nom",
+    "zh": "[L38课前复习] 面试；面谈",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un entretien",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:entretien",
+        "teacher_action": "correction",
+        "selection_reason": "开课听写词。学生先说它是 test，老师否掉，给出「面试」；学生这次还写错了拼写。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:00-01:30; 10:00-10:30; 10:30-11:00",
+          "lines": "49-54; 169-175; 176-182"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 拼写是本课新暴露的问题：老师说「entretien，这个写错了」，让学生重写了一遍。"
+      }
+    ]
+  },
+  {
+    "lemma": "en temps réel",
+    "pos": "expr",
+    "zh": "[L38课前复习] 实时地；即时地",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "en temps réel",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:en-temps-reel",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。老师核对时点名它是「中间那个词」，给出中文「实时地」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:30-02:00; 08:00-08:30",
+          "lines": "55-60; 139-145"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "un chauffeur",
+    "pos": "nom",
+    "zh": "[L38课前复习] 司机",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un chauffeur",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:chauffeur",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，学生答「司机」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:30-02:00; 11:00-11:30",
+          "lines": "55-60; 183-188"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "un automobiliste",
+    "pos": "nom",
+    "zh": "[L38课前复习] 驾车人；司机",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un automobiliste",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:automobiliste",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。老师专门说「automobiliste 也写对了」——这个词拼写长，是听写的难点。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:30-02:00; 07:00-07:30; 11:00-11:30",
+          "lines": "55-60; 125-131; 183-188"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 L37 讲这题时老师说过三个「司机」词只要求认读；L38 把它放进听写，等于要求升级成会拼。"
+      }
+    ]
+  },
+  {
+    "lemma": "consister en",
+    "pos": "expr",
+    "zh": "[L38课前复习] 由……组成（后接名词）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "consister en",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:consister-en",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，和 consister à 连着报，学生答「由什么组成」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "02:30-03:00; 11:00-11:30",
+          "lines": "66-72; 183-188"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "consister à faire quelque chose",
+    "pos": "expr",
+    "zh": "[L38课前复习] 在于（做某事）（后接动词原形）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "consister à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:consister-a",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，紧跟着 consister en 报，两个介词的区别就是考点。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "02:30-03:00; 11:00-11:30",
+          "lines": "66-72; 183-188"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "une imitation",
+    "pos": "nom",
+    "zh": "[L38课前复习] 模仿；仿制品",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "une imitation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:imitation",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词，学生答「模仿」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "02:30-03:00; 11:30-12:00",
+          "lines": "66-72; 189-194"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "le plagiat",
+    "pos": "nom",
+    "zh": "[L38课前复习] 抄袭；剽窃",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "le plagiat",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:imitation",
+        "teacher_action": "synonym",
+        "selection_reason": "老师核对 imitation 时主动补的同义替换词：「它还有一个词叫 plagiat，剽窃」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "11:30-12:00",
+          "lines": "189-194"
+        },
+        "learning_note": "三路 ASR 在这个词上都拼不准（听成 plagiarisme）；认定为 le plagiat 的依据是 L37 讲同一套阅读题时老师用的就是这个词（L37/vocab.json 里已有 le plagiat）。老师这次说「那道题你做对了所以我没讲」，但仍点名这是一组同义替换。"
+      }
+    ]
+  },
+  {
+    "lemma": "une épreuve",
+    "pos": "nom",
+    "zh": "[L38课前复习] 考验；考试",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "une épreuve",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:epreuve",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。老师说它「最本身的意思是考验，用得多了当考试讲也可以」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "03:00-03:30; 07:30-08:00",
+          "lines": "73-79; 132-138"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 老师这次把「考试」一族又数了一遍：test／examen／épreuve／concours，并说 examen 在口语听力里多，épreuve 和 concours 在阅读里多。"
+      }
+    ]
+  },
+  {
+    "lemma": "un concours",
+    "pos": "nom",
+    "zh": "[L38课前复习] 竞赛；（选拔性）考试",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un concours",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:epreuve",
+        "teacher_action": "synonym",
+        "selection_reason": "老师数「考试」同义词族时点到的第四个，说它「阅读见得多一点」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "07:30-08:00; 08:00-08:30",
+          "lines": "132-138; 139-145"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "une boutique",
+    "pos": "nom",
+    "zh": "[L38课前复习] 商店；精品店",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "une boutique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:boutique",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。学生这次写对了，老师说「你写的是对的呀」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "03:00-03:30; 12:00-12:30",
+          "lines": "73-79; 195-200"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。"
+      }
+    ]
+  },
+  {
+    "lemma": "faire attention à",
+    "pos": "expr",
+    "zh": "[L38课前复习] 注意；当心",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Il faut faire attention aux voitures quand on traverse la rue.",
+    "raw": "faire attention à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:faire-attention-a",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写词。学生猜成「花精力在什么事情上」，老师纠正成 pay attention to，并说它「泛用性非常高」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "03:00-03:30; 12:00-12:30; 12:30-13:00",
+          "lines": "73-79; 195-200; 201-207"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 老师这次当堂造了一句可以直接背走的例句（过马路要注意车辆）。"
+      }
+    ]
+  },
+  {
+    "lemma": "une occasion",
+    "pos": "nom",
+    "zh": "[L38课前复习] 机会",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "une occasion",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "opening_review",
+        "source_ref": "L38:opening-dictation:occasion",
+        "teacher_action": "memorize",
+        "selection_reason": "开课听写核对环节，学生答「机会」，老师通过。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "08:30-09:00",
+          "lines": "146-151"
+        },
+        "learning_note": "它在本课后半程又变成写作 T3 的主力句式（une occasion de faire quelque chose），是这一课里唯一一个「听写词直接进写作模板」的词。"
+      }
+    ]
+  },
+  {
+    "lemma": "recommander",
+    "pos": "verbe",
+    "zh": "[L38写作T1] 推荐",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je voudrais vous recommander mon pays.",
+    "raw": "recommander",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:recommander",
+        "teacher_action": "correction",
+        "selection_reason": "学生写 Je voudrais partager mon pays（＝share），老师说这样很奇怪，当场换成 recommander，并说「我们记两个单词」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "23:00-23:30; 23:30-24:00",
+          "lines": "346-352; 353-359"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "conseiller",
+    "pos": "verbe",
+    "zh": "[L38写作T1] 建议；推荐",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "conseiller",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:recommander",
+        "teacher_action": "synonym",
+        "selection_reason": "老师给的「推荐」第二个词，和 recommander 并列报出。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "23:30-24:00",
+          "lines": "353-359"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un monument historique",
+    "pos": "nom",
+    "zh": "[L38写作T1] 名胜古迹；历史建筑",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Il y a beaucoup de monuments historiques, par exemple le palais d'Été.",
+    "raw": "un monument historique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:monuments",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的介绍国家三个角度里的第一个，说「这个不就是 historic monuments，跟英文是一样的」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "29:00-29:30; 30:00-30:30",
+          "lines": "428-434; 445-451"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un palais",
+    "pos": "nom",
+    "zh": "[L38写作T1] 宫殿",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "le palais d'Été",
+    "raw": "un palais",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:palais",
+        "teacher_action": "explain",
+        "selection_reason": "学生想写「颐和园」写不出来，老师说「在法文里面所有的 palace 都叫 palais」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "29:30-30:00",
+          "lines": "435-442"
+        },
+        "learning_note": "老师顺手给了颐和园＝le palais d'Été（夏宫）。举名胜古迹的例子时有一个能写出来就够了。"
+      }
+    ]
+  },
+  {
+    "lemma": "un musée",
+    "pos": "nom",
+    "zh": "[L38写作T1] 博物馆",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un musée",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:culture",
+        "teacher_action": "memorize",
+        "selection_reason": "介绍国家三个角度里「文化」那一条的主词，老师说学生原文写博物馆那句「写得很好」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "30:30-31:00; 31:00-31:30",
+          "lines": "452-458; 459-465"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les spécialités locales",
+    "pos": "expr",
+    "zh": "[L38写作T1] 当地特色菜；地方特产",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Vous pouvez déguster de nombreuses spécialités locales.",
+    "raw": "les spécialités locales",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:specialites",
+        "teacher_action": "memorize",
+        "selection_reason": "老师本课唯一一次直接说「你把这个单词记下来啊」的词。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "31:00-31:30",
+          "lines": "459-465"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "déguster",
+    "pos": "verbe",
+    "zh": "[L38写作T1] 品尝",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "déguster",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:specialites",
+        "teacher_action": "memorize",
+        "selection_reason": "老师在 spécialités locales 前面「再给你补充一个动词」，就是这个。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "31:30-32:00",
+          "lines": "466-472"
+        },
+        "learning_note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 老师紧接着说：「这都是阅读里面的词，你背的单词每一个都是有作用的」——这正是他让你刷阅读题的理由。"
+      }
+    ]
+  },
+  {
+    "lemma": "à l'étranger",
+    "pos": "expr",
+    "zh": "[L38写作T1] 在国外",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Tu veux prendre tes vacances à l'étranger.",
+    "raw": "à l'étranger",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:abroad",
+        "teacher_action": "correction",
+        "selection_reason": "学生把「在国外度假」写成 de ＋地点，老师改成 à l'étranger，说「作为地点状语我们通通都用 à l'étranger」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "20:30-21:00; 21:00-21:30",
+          "lines": "312-318; 319-324"
+        },
+        "learning_note": "老师给的判别法：de 引导地点状语时，它完全等于英文 from；只要不是「从某地」，就不可能用 de。"
+      }
+    ]
+  },
+  {
+    "lemma": "prendre de la soupe",
+    "pos": "expr",
+    "zh": "[L38写作T1] 喝汤",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "prendre de la soupe au tofu après votre visite au musée",
+    "raw": "prendre de la soupe",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:soupe",
+        "teacher_action": "correction",
+        "selection_reason": "学生写 manger de la soupe，老师改掉：汤要用 prendre，而且是部分冠词 de la。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "26:00-26:30",
+          "lines": "387-392"
+        },
+        "learning_note": "老师给的理由是「因为汤不可数啊」——不可数的吃喝一律 prendre ＋部分冠词。"
+      }
+    ]
+  },
+  {
+    "lemma": "la consolidation",
+    "pos": "nom",
+    "zh": "[L38写作T3] 巩固",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "la consolidation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:consolidation",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说「所以你第一个要背的是这些单词」之后给出的第一个词。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "38:00-38:30; 38:30-39:00",
+          "lines": "557-563; 564-570"
+        },
+        "learning_note": "老师把这一组称作「万金油类的词」：「你可以把它背下来，背下来之后，你可以在所有的话题之下都用它去造句」。它不属于某一个题目，属于所有议论文。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'approfondissement",
+    "pos": "nom",
+    "zh": "[L38写作T3] 深化；加深",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "l'approfondissement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:consolidation",
+        "teacher_action": "memorize",
+        "selection_reason": "和 consolidation 成对给出，构成「巩固＋深化」这个固定并列。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "38:00-38:30; 38:30-39:00",
+          "lines": "557-563; 564-570"
+        },
+        "learning_note": "老师把这一组称作「万金油类的词」：「你可以把它背下来，背下来之后，你可以在所有的话题之下都用它去造句」。它不属于某一个题目，属于所有议论文。"
+      }
+    ]
+  },
+  {
+    "lemma": "les connaissances",
+    "pos": "nom",
+    "zh": "[L38写作T3] 知识（复数时＝knowledge）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "des connaissances acquises en classe",
+    "raw": "les connaissances",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:connaissances",
+        "teacher_action": "explain",
+        "selection_reason": "老师原话：「connaissance 这个单词如果用复数的话，它完全等于英文的 knowledge」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "39:00-39:30",
+          "lines": "571-577"
+        },
+        "learning_note": "单数 une connaissance 是「认识／熟人」，只有复数才是「知识」——这就是要背复数形的原因。"
+      }
+    ]
+  },
+  {
+    "lemma": "acquis",
+    "pos": "adj",
+    "zh": "[L38写作T3] 已获得的；学到的",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "les connaissances acquises en classe",
+    "raw": "acquis",
+    "fem": "acquise",
+    "fem_raw": "acquise",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:acquises",
+        "teacher_action": "explain",
+        "selection_reason": "老师用它讲过去分词做后置定语：acquises 在这里就是个形容词，等于英文 acquired。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "39:00-39:30; 41:00-41:30",
+          "lines": "571-577; 602-608"
+        },
+        "learning_note": "老师纠正了学生的一个理解错误：学生问「acquises 后面可以接任何地点状语吗」，老师说不是——「它本身是一个形容词，只用来修饰名词，跟后面接什么没关系」。"
+      }
+    ]
+  },
+  {
+    "lemma": "permettre quelque chose",
+    "pos": "expr",
+    "zh": "[L38写作T3] 使……成为可能",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Les devoirs à la maison pourraient permettre la consolidation et l'approfondissement des connaissances acquises en classe.",
+    "raw": "permettre quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:permettre",
+        "teacher_action": "memorize",
+        "selection_reason": "把五个名词点连成句子的主动词，老师给的完整句就是围绕它造的。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "40:30-41:00",
+          "lines": "595-601"
+        },
+        "learning_note": "老师给的保险写法：「你不会变位的话就加这个，pourrait permettre」——条件式一挂上去就绕开了变位风险，句子还升了级。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'autonomie",
+    "pos": "nom",
+    "zh": "[L38写作T3] 自主性；独立自主",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "développer l'autonomie et l'organisation des enfants",
+    "raw": "l'autonomie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:autonomie",
+        "teacher_action": "memorize",
+        "selection_reason": "老师原话：「这个单词一定要背下来，所有跟小孩有关的都可以用这个单词」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "44:00-44:30",
+          "lines": "644-650"
+        },
+        "learning_note": "老师同时解释了为什么不用 indépendance：indépendance 只强调「独立」，autonomie 还能强调「自主」。L37 写作 T3 也出现过这个词。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'organisation",
+    "pos": "nom",
+    "zh": "[L38写作T3] 条理性；组织能力",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "l'organisation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:autonomie",
+        "teacher_action": "memorize",
+        "selection_reason": "和 autonomie 绑成一个固定并列出现，是「小孩」类话题的第二个万金油名词。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "44:00-44:30",
+          "lines": "644-650"
+        },
+        "learning_note": "老师把这一组称作「万金油类的词」：「你可以把它背下来，背下来之后，你可以在所有的话题之下都用它去造句」。它不属于某一个题目，属于所有议论文。"
+      }
+    ]
+  },
+  {
+    "lemma": "la gestion du temps et des ressources",
+    "pos": "expr",
+    "zh": "[L38写作T3] 时间和资源的管理",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "apprendre la gestion du temps et des ressources",
+    "raw": "la gestion du temps et des ressources",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:gestion",
+        "teacher_action": "memorize",
+        "selection_reason": "五个点里的第四点，老师直接写下整串给学生。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "44:30-45:00",
+          "lines": "651-658"
+        },
+        "learning_note": "老师提醒 gestion 前面用 apprendre：「apprendre 是可以直接学的」，所以 apprendre la gestion du…＝学会管理……"
+      }
+    ]
+  },
+  {
+    "lemma": "une occasion de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L38写作T3] 做某事的机会",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "C'est une occasion de travailler en famille et de créer du lien.",
+    "raw": "une occasion de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:occasion",
+        "teacher_action": "memorize",
+        "selection_reason": "五个点里的第五点。老师给了两个可以直接套的句式，并说「以后你见到这种 occasion 的句式，你都这么写」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "45:00-45:30",
+          "lines": "659-666"
+        },
+        "learning_note": "两个句式：① C'est une occasion de ＋原形；② Cela nous offre une occasion de ＋原形。开课听写的 occasion 到这里变成了写作模板。"
+      }
+    ]
+  },
+  {
+    "lemma": "travailler en famille",
+    "pos": "expr",
+    "zh": "[L38写作T3] 一家人一起做事",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "travailler en famille",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:occasion",
+        "teacher_action": "memorize",
+        "selection_reason": "occasion 句式后面挂的第一个内容，属于「家庭关系」这条万能角度。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "45:00-45:30",
+          "lines": "659-666"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "créer du lien",
+    "pos": "expr",
+    "zh": "[L38写作T3] 建立联系；增进感情",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "créer du lien",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:lien",
+        "teacher_action": "memorize",
+        "selection_reason": "occasion 句式后面挂的第二个内容。学生自己造句时用上了，老师确认「liens 是联系，建立联系，可以了，挺好的」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "45:00-45:30; 01:11:00-01:11:30",
+          "lines": "659-666; 974-980"
+        },
+        "learning_note": "老师说「所有提到小孩教育的题，都可以讨论它对家庭关系的影响」——créer du lien 就是这条角度的落点。"
+      }
+    ]
+  },
+  {
+    "lemma": "parce que",
+    "pos": "conj",
+    "zh": "[L38写作T3] 因为（最通用，可放句首或句中）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "parce que",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:cause",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个因果连词之一，说这四个「意思一模一样」，背四个就够了。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:00-48:30",
+          "lines": "702-708"
+        },
+        "learning_note": "四个原因连词：parce que／car／puisque／comme。老师的两条位置规则：car 必须放在句中，comme 必须放在句首。四个都只能接句子，不能接名词。"
+      }
+    ]
+  },
+  {
+    "lemma": "car",
+    "pos": "conj",
+    "zh": "[L38写作T3] 因为（只能放在句中）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "car",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:cause",
+        "teacher_action": "memorize",
+        "selection_reason": "老师专门点名的位置限制词：「一定要记得 car 只能放在句中」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:00-48:30",
+          "lines": "702-708"
+        },
+        "learning_note": "想让内容丰富一点就把 parce que 换成 car，但换了就不能再放句首。"
+      }
+    ]
+  },
+  {
+    "lemma": "puisque",
+    "pos": "conj",
+    "zh": "[L38写作T3] 既然；因为",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "puisque",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:cause",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个因果连词之一，用来替换「太普通」的 parce que。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:00-48:30",
+          "lines": "702-708"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "comme",
+    "pos": "conj",
+    "zh": "[L38写作T3] 因为（只能放在句首）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "comme",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:cause",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个因果连词之一，位置和 car 正好相反：必须放在句首。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:00-48:30",
+          "lines": "702-708"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "étant donné que",
+    "pos": "conj",
+    "zh": "[L38写作T3] 鉴于；既然（＝given that）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "étant donné que",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:cause",
+        "teacher_action": "explain",
+        "selection_reason": "老师补的第五个，说它「有点像 given that，这个就叫显而易见的原因」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:30-49:00",
+          "lines": "709-715"
+        },
+        "learning_note": "老师同时给了退路：「如果你觉得背太麻烦了，你就背上面四个」——这个词是加分项不是必背项。三路 ASR 在这个词上拼写都不准，认定依据是老师给出的英文对照 given that。"
+      }
+    ]
+  },
+  {
+    "lemma": "ainsi",
+    "pos": "adv",
+    "zh": "[L38写作T3] 这样；因此（＝in this way）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "ainsi",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:result",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个结果连词之一，他给的英文对照是 in this way。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:30-49:00; 49:00-49:30",
+          "lines": "709-715; 716-722"
+        },
+        "learning_note": "四个结果连词：ainsi／donc／c'est pourquoi／par conséquent，都接句子。老师说 alors 比较口语，「所以我没有圈起来」——写作里别用 alors。"
+      }
+    ]
+  },
+  {
+    "lemma": "donc",
+    "pos": "adv",
+    "zh": "[L38写作T3] 因此；所以",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "donc",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:result",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个结果连词之一，中文对照「因此」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:30-49:00",
+          "lines": "709-715"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "c'est pourquoi",
+    "pos": "expr",
+    "zh": "[L38写作T3] 这就是为什么（＝that's why）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "C'est pourquoi je suis venu ici.",
+    "raw": "c'est pourquoi",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:result",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个结果连词之一，后面接结果句。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "48:30-49:00; 49:00-49:30",
+          "lines": "709-715; 716-722"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "par conséquent",
+    "pos": "expr",
+    "zh": "[L38写作T3] 因此；结果",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "par conséquent",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:result",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的四个结果连词里最正式的一个，用法是「par conséquent，逗号，加结果」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "49:00-49:30",
+          "lines": "716-722"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "autoritaire",
+    "pos": "adj",
+    "zh": "[L38写作T3] 专制的；说一不二的",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "des parents autoritaires",
+    "raw": "autoritaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:homework-topic",
+        "teacher_action": "memorize",
+        "selection_reason": "老师布置的课后写作原题就是这个话题（是否该对小孩非常严厉），他说「这个题也考过很多次，写作和口语会同时考，每年都考」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:11:30-01:12:00",
+          "lines": "981-987"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "sévère",
+    "pos": "adj",
+    "zh": "[L38写作T3] 严厉的",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "des parents sévères",
+    "raw": "sévère",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:homework-topic",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的同话题第二种说法：des parents sévères＝虎爸虎妈。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:11:30-01:12:00",
+          "lines": "981-987"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "je suis né le",
+    "pos": "expr",
+    "zh": "[L38口语T1] 我出生于（后接日期，用定冠词 le）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je suis né le vingt-cinq mars mille neuf cent quatre-vingt-sept.",
+    "raw": "je suis né le",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:naissance",
+        "teacher_action": "correction",
+        "selection_reason": "学生说成 je me nais，老师纠正：这是固定表达，就是 je suis né le ＋日期。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:23:30-01:24:00",
+          "lines": "1148-1153"
+        },
+        "learning_note": "L36／L37 都练过同一句，L38 学生仍然说错——这是他自我介绍里最顽固的一个错。"
+      }
+    ]
+  },
+  {
+    "lemma": "depuis",
+    "pos": "prep",
+    "zh": "[L38口语T1] 已经……（时间段，动作持续到现在）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je suis au Canada depuis cinq ans.",
+    "raw": "depuis",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:depuis-vs-il-y-a",
+        "teacher_action": "correction",
+        "selection_reason": "考官问「你在加拿大多久了」，学生答 il y a cinq ans，老师当场否掉并说「这个非常重要」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:16:30-01:17:00; 01:24:30-01:25:00; 01:25:00-01:25:30",
+          "lines": "1052-1059; 1161-1167; 1168-1175"
+        },
+        "learning_note": "老师给的判别法：事情现在还在继续就用 depuis；il y a ＋时间段只能表示「多久之前」。他说中国学生特别容易把「有五年了」直译成 il y a。"
+      }
+    ]
+  },
+  {
+    "lemma": "il y a",
+    "pos": "expr",
+    "zh": "[L38口语T1] ……之前（后接时间段）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Il y a cinq ans, je suis arrivé au Canada.",
+    "raw": "il y a",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:depuis-vs-il-y-a",
+        "teacher_action": "contrast",
+        "selection_reason": "老师用它和 depuis 做对照：il y a cinq ans ＝五年前，不是「已经五年了」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:24:30-01:25:00",
+          "lines": "1161-1167"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "Ça fait combien de temps que...",
+    "pos": "expr",
+    "zh": "[L38口语T1] 你……多久了？（考官提问句）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Ça fait combien de temps que vous apprenez le français ?",
+    "raw": "Ça fait combien de temps que...",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:ca-fait",
+        "teacher_action": "memorize",
+        "selection_reason": "本课学生两次没听懂的问句，老师拆开讲了一遍：Ça fait combien de temps ＋你干什么。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:24:30-01:25:00; 01:25:00-01:25:30",
+          "lines": "1161-1167; 1168-1175"
+        },
+        "learning_note": "这是 T1 的「听力题」不是「产出题」：老师说学生卡壳都卡在没听懂问句上。"
+      }
+    ]
+  },
+  {
+    "lemma": "Combien de langues parlez-vous ?",
+    "pos": "expr",
+    "zh": "[L38口语T1] 您会说几门语言？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je parle trois langues : chinois, français et anglais.",
+    "raw": "Combien de langues parlez-vous ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:langues",
+        "teacher_action": "memorize",
+        "selection_reason": "考官问句。老师给的标准答法是一句话报数再列举，不要一个一个往外蹦。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:17:00-01:17:30; 01:25:00-01:25:30",
+          "lines": "1060-1065; 1168-1175"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un centre d'intérêt",
+    "pos": "nom",
+    "zh": "[L38口语T1] 兴趣爱好（考官换的说法）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un centre d'intérêt",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:loisirs",
+        "teacher_action": "memorize",
+        "selection_reason": "考官问兴趣爱好时的第二种问法，老师说「像这些词你要听得懂啊」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:25:30-01:26:00; 01:26:00-01:26:30",
+          "lines": "1176-1182; 1183-1189"
+        },
+        "learning_note": "和 loisirs 是同一个意思的两种问法，都要能听出来。老师说学生这次就是没听懂这个词。"
+      }
+    ]
+  },
+  {
+    "lemma": "les loisirs",
+    "pos": "nom",
+    "zh": "[L38口语T1] 休闲活动；业余爱好",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "les loisirs",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:loisirs",
+        "teacher_action": "memorize",
+        "selection_reason": "考官原句 Quels sont vos loisirs préférés ? 学生当场没听懂。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:20:30-01:21:00; 01:25:30-01:26:00",
+          "lines": "1110-1115; 1176-1182"
+        },
+        "learning_note": "L36 开课听写报过同一个词（L36/vocab.json）。老师 L37 也点名过「这种词一定要知道」，L38 是第三次在同一个词上卡住。"
+      }
+    ]
+  },
+  {
+    "lemma": "faire de la course",
+    "pos": "expr",
+    "zh": "[L38口语T1] 跑步",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je fais de la course dans mon temps libre.",
+    "raw": "faire de la course",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:hobbies",
+        "teacher_action": "correction",
+        "selection_reason": "学生想说跑步，说出来的是一个老师听不出的词；老师给出标准说法。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:27:00-01:27:30",
+          "lines": "1197-1203"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "faire de la randonnée",
+    "pos": "expr",
+    "zh": "[L38口语T1] 徒步；远足",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je fais de la randonnée en weekend.",
+    "raw": "faire de la randonnée",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:hobbies",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给学生梳理的自我介绍第二句活动。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:27:30-01:28:00",
+          "lines": "1204-1210"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "jouer aux échecs",
+    "pos": "expr",
+    "zh": "[L38口语T1] 下象棋（固定表达）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "On joue aux échecs à la maison.",
+    "raw": "jouer aux échecs",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:hobbies",
+        "teacher_action": "memorize",
+        "selection_reason": "学生说不出「下象棋」，老师给出并连说两遍「固定表达」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:27:30-01:28:00",
+          "lines": "1204-1210"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "le temps libre",
+    "pos": "nom",
+    "zh": "[L38口语T1] 空余时间",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "le temps libre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:oral-T1:hobbies",
+        "teacher_action": "explain",
+        "selection_reason": "老师给的自我介绍时间状语，对应英文 in my free time。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:27:00-01:27:30",
+          "lines": "1197-1203"
+        },
+        "learning_note": "老师给这个词加了明确的边界：「你觉得有用的话你就记一下，**你觉得无所谓的话也可以不管**」——它是可选项，不是必背项。另外他课上说的是「en mon temps libre」，书面更常见的是 dans／pendant mon temps libre，用哪个介词按你老师的口径。L36 开课听写也报过这个词。"
+      }
+    ]
+  },
+  {
+    "lemma": "Quels sont vos projets pour l'avenir ?",
+    "pos": "expr",
+    "zh": "[L38口语T1] 您未来的计划是什么？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je vais continuer mon travail comme informaticien.",
+    "raw": "Quels sont vos projets pour l'avenir ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T1:projets",
+        "teacher_action": "memorize",
+        "selection_reason": "老师布置的 T1 拓展题之一，说考官问这个是因为你在考移民考试。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:28:00-01:28:30; 01:29:00-01:29:30",
+          "lines": "1211-1217; 1225-1231"
+        },
+        "learning_note": "老师说听懂 projet 这个词就够了。回答两到三句：继续现在的工作＋已经适应这里的生活。"
+      }
+    ]
+  },
+  {
+    "lemma": "Pouvez-vous me raconter un de vos voyages ?",
+    "pos": "expr",
+    "zh": "[L38口语T1] 您能讲一次您的旅行吗？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "Pouvez-vous me raconter un de vos voyages ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T1:voyage",
+        "teacher_action": "memorize",
+        "selection_reason": "老师布置的 T1 拓展题之一，本课当场问了学生，学生只答出「十年前去过法国」被判太短。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:18:30-01:19:00; 01:28:00-01:28:30",
+          "lines": "1079-1085; 1211-1217"
+        },
+        "learning_note": "老师的边界：不必挑和法国／法语有关的旅行，说上个月去温哥华都行，但要有介绍性的细节，不能一句话完事。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'adapter à",
+    "pos": "expr",
+    "zh": "[L38口语T1] 适应（某种生活）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Je m'adapte bien à la vie canadienne.",
+    "raw": "s'adapter à",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T1:projets",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给未来计划题的现成句子里用的动词。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:29:30-01:30:00",
+          "lines": "1232-1239"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "Je viens d'emménager ici.",
+    "pos": "expr",
+    "zh": "[L38口语T2] 我刚搬到这里来。",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "Je viens d'emménager ici.",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:opening",
+        "teacher_action": "memorize",
+        "selection_reason": "老师说「所有问邻居的题都可以用这个」，是 T2 开场白的第二句。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:35:30-01:36:00; 01:36:00-01:36:30",
+          "lines": "1319-1325; 1326-1332"
+        },
+        "learning_note": "emménager＝搬进来，和 déménager（搬走）方向相反。"
+      }
+    ]
+  },
+  {
+    "lemma": "Avez-vous du temps ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 您有时间吗？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "Avez-vous du temps ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:opening",
+        "teacher_action": "memorize",
+        "selection_reason": "T2 礼貌开场三件套的第二句。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:36:00-01:36:30",
+          "lines": "1326-1332"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "Puis-je vous poser quelques questions ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 我可以问您几个问题吗？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "Puis-je vous poser quelques questions ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:opening",
+        "teacher_action": "memorize",
+        "selection_reason": "T2 礼貌开场三件套的第三句。老师说 Puis-je 是倒装，「你不需要管它为什么，直接背，直接抄下来」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:36:00-01:36:30",
+          "lines": "1326-1332"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un quartier",
+    "pos": "nom",
+    "zh": "[L38口语T2] 社区；小区",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Y a-t-il des supermarchés dans le quartier ?",
+    "raw": "un quartier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:quartier",
+        "teacher_action": "memorize",
+        "selection_reason": "T2 题面里的核心词，老师说「可以理解成 community，中文叫小区，国外叫社区」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:33:00-01:33:30; 01:45:00-01:45:30",
+          "lines": "1284-1290; 1457-1463"
+        },
+        "learning_note": "L36 开课听写报过这个词（L36/vocab.json）。在 T2 里它还兼作地点状语：dans le quartier。"
+      }
+    ]
+  },
+  {
+    "lemma": "un supermarché",
+    "pos": "nom",
+    "zh": "[L38口语T2] 超市",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Y a-t-il des supermarchés dans le quartier ?",
+    "raw": "un supermarché",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:commerces",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「购物」类三个词之一，也是他示范提问时用的第一个词。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:40:30-01:41:00; 01:41:30-01:42:00",
+          "lines": "1393-1399; 1407-1414"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "les petits commerces",
+    "pos": "expr",
+    "zh": "[L38口语T2] 小商铺；街边小店",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "les petits commerces",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:commerces",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「购物」类三个词之二，他说这三个「你知道一个就可以了」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:40:30-01:41:00; 01:41:30-01:42:00",
+          "lines": "1393-1399; 1407-1414"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un marché local",
+    "pos": "nom",
+    "zh": "[L38口语T2] 本地集市",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un marché local",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:commerces",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「购物」类三个词之三。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:40:30-01:41:00",
+          "lines": "1393-1399"
+        },
+        "learning_note": "这个词三路 ASR 拼写不一致，采信的是 Whisper 的读法，和老师同一句里的 supermarché／petits commerces 属于同一组。"
+      }
+    ]
+  },
+  {
+    "lemma": "une pharmacie",
+    "pos": "nom",
+    "zh": "[L38口语T2] 药店",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "une pharmacie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:sante",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「社区生活」类三个词之一。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:41:00-01:41:30",
+          "lines": "1400-1406"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un médecin",
+    "pos": "nom",
+    "zh": "[L38口语T2] 医生",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un médecin",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:sante",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「社区生活」类三个词之二。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:41:00-01:41:30",
+          "lines": "1400-1406"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un centre de santé",
+    "pos": "nom",
+    "zh": "[L38口语T2] 健康中心",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "un centre de santé",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:sante",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的「社区生活」类三个词之三，他说这三个是「特地挑的、不太重复的」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:41:00-01:41:30",
+          "lines": "1400-1406"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une école primaire",
+    "pos": "nom",
+    "zh": "[L38口语T2] 小学",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Y a-t-il une école primaire dans le quartier ?",
+    "raw": "une école primaire",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:ecole",
+        "teacher_action": "memorize",
+        "selection_reason": "老师圈出来让学生一定要问的词，因为学生自己有两个小孩，这题对他特别友好。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:48:30-01:49:00; 01:49:00-01:49:30",
+          "lines": "1506-1512; 1513-1519"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "une crèche",
+    "pos": "nom",
+    "zh": "[L38口语T2] 托儿所",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "une crèche",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:ecole",
+        "teacher_action": "explain",
+        "selection_reason": "老师举例说明「同类替换」时给的词：题面写 école，你问有没有托儿所也算问到了。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:34:00-01:34:30",
+          "lines": "1298-1304"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "Y a-t-il ... ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 有……吗？（il y a 的倒装问句）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Y a-t-il des restaurants à proximité ?",
+    "raw": "Y a-t-il ... ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:frames",
+        "teacher_action": "memorize",
+        "selection_reason": "T2 三个提问句式里的第一个，老师说这句和 Est-ce qu'il y a 「要做到脱口而出」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:41:30-01:42:00",
+          "lines": "1407-1414"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "Est-ce qu'il y a ... ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 有……吗？（后面直接加名词）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Est-ce qu'il y a une pharmacie près d'ici ?",
+    "raw": "Est-ce qu'il y a ... ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:frames",
+        "teacher_action": "memorize",
+        "selection_reason": "和 Y a-t-il 并列的第二种问法，老师说后面「加什么名词都可以」。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:41:30-01:42:00",
+          "lines": "1407-1414"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "Où peut-on faire les courses ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 我们可以在哪里购物？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "Où peut-on faire les courses ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:frames",
+        "teacher_action": "memorize",
+        "selection_reason": "T2 三个提问句式里的第二个：把提示词当成对方的答案，自己问一个特殊疑问句。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:43:00-01:43:30",
+          "lines": "1429-1435"
+        },
+        "learning_note": "老师的思路：别人回答「有超市」的前提，就是你问了「在哪里能购物」。同一个模具可以问买药、找医生。"
+      }
+    ]
+  },
+  {
+    "lemma": "Avez-vous quelque chose à me conseiller ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 您有什么可以推荐给我的吗？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": "Avez-vous des cafés ou des restaurants à me conseiller ?",
+    "raw": "Avez-vous quelque chose à me conseiller ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:frames",
+        "teacher_action": "memorize",
+        "selection_reason": "T2 三个提问句式里的第三个，老师说这是这个场景下「最好用的三个句子」之一。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:44:30-01:45:00",
+          "lines": "1450-1456"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "à proximité",
+    "pos": "expr",
+    "zh": "[L38口语T2] 在附近",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "à proximité",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:lieu",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的三个「在附近」地点状语之二，用来把问句撑得更充实。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:45:00-01:45:30",
+          "lines": "1457-1463"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "près d'ici",
+    "pos": "expr",
+    "zh": "[L38口语T2] 离这儿不远；这附近",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "CORE_VOCAB",
+    "example": null,
+    "raw": "près d'ici",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:lieu",
+        "teacher_action": "memorize",
+        "selection_reason": "老师给的三个「在附近」地点状语之三。",
+        "evidence": {
+          "file": "docker-data/outputs/L38/L38_final_working.md",
+          "time": "01:45:30-01:46:00",
+          "lines": "1464-1470"
+        },
+        "learning_note": "三个可以轮换：dans le quartier／à proximité／près d'ici。老师说把它们加在句子后面，句子会「更充实一些」。"
+      }
+    ]
+  }
+]

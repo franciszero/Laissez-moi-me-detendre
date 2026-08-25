@@ -1,0 +1,182 @@
+{
+  "l38 dictation replays the l37 reading vocabulary": {
+    "front": "本课开课听写的这批词，你在**哪一课**已经见过一次？老师用哪句话说明了刷阅读题和背单词的关系？",
+    "back": "答案：**L37**（阅读 test 11）。这批词几乎全部在 L37 的 vocab.json 里已经有条目。\n\n老师原话：「这都是阅读里面的词。**你背的单词每一个都是有作用的**啊……就为什么要一定要让你刷阅读题，就是因为你发现这些词其实阅读可以给你的。」\n\n含义：阅读题不是单独一项技能，它是你写作和口语的词库来源。同一个词第二次出现（听写）＝老师认定你必须真的会拼、会用。\n\n自检：L38 听写里哪个词是 L37 明确说过「只要求认读」的？（automobiliste——L38 把它升级成要会拼了）",
+    "answer": "L37"
+  },
+  "gateau is cake cadeau is gift": {
+    "front": "听写报到一个读音像「ga-to」的词，你要写「礼物」。写哪个？另一个是什么意思？",
+    "back": "答案：**礼物＝un cadeau**；**un gâteau＝蛋糕**。\n\n老师当堂纠错：「你写的这个 gâteau 还真不是礼物，这个是礼物，这俩有点像啊。」\n\n关键边界：他明说两个词的发音差别「对我们来说其实听的差不多」，所以**不要试图靠听力分辨**，靠首字母记：c－cadeau－送人的，g－gâteau－吃的。\n\n自检：L37 里 cadeau 是在哪个语境出现的？（boutique／cadeau 那道阅读题，当时也是被当成「同义替换」误判过一次）",
+    "answer": "cadeau"
+  },
+  "au debut keeps its de before a noun": {
+    "front": "「在考试开始的时候」用法语怎么写？如果句子里后面不接名词，这个词组写到哪里为止？",
+    "back": "答案：**au début de l'épreuve**；不接名词时就写到 **au début** 为止。\n\n老师原话：「它的词组叫 au début de……**不要给它自己加东西啊**，au début 和 au début de。」\n\n两个形式各有各的位置，不是一个可以随便省略 de 的词组：\n· au début＝一开始（单独作状语）\n· au début de ＋名词＝在……的开始\n\n自检：L37 里和它配对的是哪个词组？（à la fin de——开头结尾成对记）",
+    "answer": "au début de l'épreuve"
+  },
+  "faire attention a has a ready made street sentence": {
+    "front": "用 faire attention à 造一句：**过马路的时候要注意车辆。**（注意 à ＋定冠词的缩合）",
+    "back": "答案：**Il faut faire attention aux voitures quand on traverse la rue.**\n\n两个要点：\n· à ＋ les → **aux**（aux voitures，不是 à les voitures）\n· faire attention à 后面接**名词**\n\n老师原话：「它百分百的 pay attention to，可以表示注意……**泛用性非常高的**。」\n\n自检：学生原来把它猜成什么意思？（「花精力在某事上」——那是 consacrer du temps à，不是这个）",
+    "answer": "Il faut faire attention aux voitures quand on traverse la rue"
+  },
+  "the opening paragraph states purpose only": {
+    "front": "T1 书信第一段应该写什么、不应该写什么？老师对学生原来那个开头的评价是什么？",
+    "back": "答案：**只写目的和信息**——「我给你写信是为了给你推荐我的国家，我知道你想去度假」。\n\n**不要写**：让步句（「虽然我也去过很多国家，但是……」）、铺垫、任何介绍性的客套。\n\n老师原话：「我们开篇只写目的和信息……就这种让步的这种句子，在 TE 里面是完全没有必要的。」对学生原稿的评价：「**考官会对你印象不是很好的**。」\n\n他给的两种等价写法：\n① 我给你写信是为了推荐我的国家，我知道你想去度假\n② 我给你写信是因为我知道你想去度假，所以我要给你推荐我的国家\n\n自检：这篇里唯一被他保留的是哪一段？（最后写去北京博物馆那一段）",
+    "answer": "只写目的和信息 不写让步句"
+  },
+  "three angles cover a country introduction": {
+    "front": "「介绍你的国家」这类纯介绍型的题，老师给的三个角度是哪三个？每个角度后面要接什么？",
+    "back": "答案：**① 名胜古迹（monuments historiques）② 自然风光 ③ 文化**。\n\n每个角度后面**打冒号举一个你会写的例子**：\n· 名胜古迹：le palais d'Été（颐和园／夏宫）\n· 自然风光：la mer / le lac / la montagne\n· 文化：le musée ＋ **déguster les spécialités locales**\n\n老师原话：「不要写成那种流水账啊，**写它不同的方面**。」\n\n他对这道题难度的判断：「这个文章是难一点的，因为它是**纯介绍型**的」——纯介绍型没有立场可写，所以更要靠框架撑住。\n\n自检：三个角度里哪一个老师说学生原文「写得很好」？（第三个，文化／博物馆那一句）",
+    "answer": "名胜古迹 自然风光 文化"
+  },
+  "recommander not partager for a country": {
+    "front": "「我想给你推荐我的国家」——学生写成 Je voudrais partager mon pays，老师为什么否掉？他给了哪两个替换词？",
+    "back": "答案：因为 **partager ＝ share**，「分享我的国家」在法语里听起来很奇怪。\n\n老师给的两个词：**recommander** 和 **conseiller**。\n\n改后：**Je voudrais vous recommander mon pays.**\n\n老师原话：「partager 这个词它完全等于英文的 share……它其实是有一点点奇怪的。」\n\n这是一个典型的「英译法直译陷阱」：中文说「分享」很自然，法语的 partager 却要求真的有一样东西被分出去。\n\n自检：L36 开课听写报过 partager，当时的意思是什么？（分享、分担——那才是它的本行）",
+    "answer": "recommander"
+  },
+  "a noun beats a present participle for introducing": {
+    "front": "英语的「Introducing my country」直接搬成法语现在分词行不行？老师给的两个替代方案是什么？他给的理由是什么？",
+    "back": "答案：**不行**，法语的现在分词没有这个用法。\n\n两个替代方案，按老师推荐的顺序：\n① **用名词**——des informations sur mon pays（他说「这个不会错的，用名词好一点」）\n② 用**动词原形**（不定式）——比现在分词好\n\n理由：英语的动词不能单独当名词用，所以必须变成 to do 或 doing；而**法语的动词原形本身就等于英语的 to do**，已经是不定式了，不需要再变一次形。\n\n老师原话：「不合适。法语的现在分词没有这个用法……你直接用动词不定式也比用现在分词要好一点。」\n\n自检：你为什么会想写现在分词？（因为在拿英语语法套法语——这一课里这类错误出现了不止一次）",
+    "answer": "用名词 information sur"
+  },
+  "ce que is what not a general relative": {
+    "front": "ce que 什么时候才该用？老师说学生那句话的真正问题是「太长」还是别的？",
+    "back": "答案：**ce que ＝ 英语的 what**，只有在能换成 what 的位置才用。\n\n例：I don't know what you want. → **Je ne sais pas ce que tu veux.**\n\n学生那句 je pense ce que tu veux prendre… 里的 ce que 是多余的，「我得知你想去度假」直接用 **J'apprends que tu veux…** 就够了。\n\n真正的问题**不是长**。老师原话：「不是变长了，**是它语法不对**……在法语里面，如果句子写得长但没有语法错误，我也是完全可以接受的。**我最大的问题在于语法错误。**」\n\n自检：写作时你缩短句子，是为了躲语法还是为了更清楚？（躲语法是躲不掉的，会被看出来）",
+    "answer": "等于英语的 what"
+  },
+  "dire is say parler is speak": {
+    "front": "「我不知道你在说什么」用法语怎么说？为什么不能用 parler？",
+    "back": "答案：**Je ne sais pas ce que tu dis.**\n\n老师原话：「**parler 其实更像 speak，dire 才是真正的 say**……我不会说 I don't know what you speak，what you speak 是一个很奇怪的讲法。」\n\n分工：\n· **dire** ＋说的内容（dire quelque chose à quelqu'un）\n· **parler** ＝讲话这个行为，或说某种语言（parler français、parler à quelqu'un）\n\n自检：Je parle trois langues 为什么用 parler？（说的是「语言」不是「内容」）",
+    "answer": "Je ne sais pas ce que tu dis"
+  },
+  "de before a place means from": {
+    "front": "「他想去国外度假」写成 de ＋地点错在哪？老师给的判别法是什么？「在国外」的固定说法是什么？",
+    "back": "答案：固定说法是 **à l'étranger**（Tu veux prendre tes vacances **à l'étranger**）。\n\n判别法（老师原话）：「当 **de** 引导地点状语的时候，**它完全等于英文的 from ＋地点**。」\n\n所以写地点状语之前先自问一句：我要说的是「**从**这个地方」吗？\n· 是 → 用 de\n· 不是（在、去、到）→ 不能用 de\n\n自检：abroad 这个概念在法语里要说得多复杂？（不复杂——à l'étranger 一个词组通吃）",
+    "answer": "à l'étranger"
+  },
+  "soupe is uncountable so you prendre it": {
+    "front": "「参观完博物馆之后喝一碗豆腐汤」用法语怎么写？动词和冠词各要注意什么？",
+    "back": "答案：**prendre de la soupe au tofu après votre visite au musée**\n\n两处要点：\n· 动词用 **prendre**，不是 manger——老师原话「豆腐汤不可以用 manger，用 prendre」\n· 冠词用**部分冠词 de la**——理由是「**因为汤不可数啊**」\n\n推广：不可数的吃喝一律 prendre ＋部分冠词（prendre du café、prendre de l'eau）。\n\n自检：「豆腐汤」里的 au 是什么？（soupe **au** tofu ＝以豆腐为原料的汤，à + le 缩合）",
+    "answer": "prendre de la soupe au tofu"
+  },
+  "four benefit angles work in every topic": {
+    "front": "老师说「这些词是你要背下来的」，指的是哪四个角度？他用什么方法证明这四个角度不只属于这一道题？",
+    "back": "答案：四个万能角度——\n① **学到什么**（apprendre）\n② **给一个做某事的机会**（une occasion de faire）\n③ **发展什么**（développer）\n④ **准备什么**（préparer）\n\n证明方法：他当场把题目从「在家写作业的好处」换成「喜欢住农村还是城市」，同一组词照样造得出句子（发展身体健康、学到大自然的美、有休息的机会）。\n\n老师原话：「这些词是你要背下来的，不仅仅是在这一个话题之下……**你在所有的话题之下都可以背这个东西**。」他把这类词叫「**万金油类的词**」。\n\n结构提示：他给的是「五个点」（左边名词＋右边内容），写作时不必真写五点，可以合并成三点。\n\n自检：这四个角度之外，「小孩」类话题还有一条万能角度是什么？（家庭关系——travailler en famille / créer du lien）",
+    "answer": "学到 机会 发展 准备"
+  },
+  "consolidation et approfondissement is the flagship phrase": {
+    "front": "「在家写作业能巩固和深化课上学到的知识」——把老师给的那一整串写出来。如果你对 permettre 的变位没把握，他教你怎么绕？",
+    "back": "答案：**Les devoirs à la maison pourraient permettre la consolidation et l'approfondissement des connaissances acquises en classe.**\n\n拆开：\n· la **consolidation** ＝巩固\n· l'**approfondissement** ＝深化\n· des **connaissances acquises en classe** ＝课上学到的知识\n\n变位没把握时的避险写法（老师原话）：「你不会变位的话就加这个，**pourrait permettre**」——条件式 pourrait ＋原形 permettre，既绕开变位风险，语气还更委婉、更高级。\n\n老师对这串的评价：「这就是一个**比较高级的表达**。」\n\n自检：为什么是 connaissances（复数）？（复数才等于英语 knowledge，单数是「熟人」）",
+    "answer": "Les devoirs à la maison pourraient permettre la consolidation et l'approfondissement des connaissances acquises en classe"
+  },
+  "acquises is an adjective not a place complement": {
+    "front": "「课上学到的知识」里的 acquises 是什么成分？学生问「它能接什么地点状语」，老师为什么说这个问题本身就问错了？",
+    "back": "答案：acquises 是**过去分词做后置定语，等于一个形容词**。\n\n老师原话：「不是说它后面可以接地点状语，而是**它本身是一个形容词**……它只是用来修饰名词，这个句子到底是什么结构，其实跟它没有太大的关系。」\n\n问错在哪：学生把 acquises 当成一个「需要带状语」的动词，于是去找它的搭配规则；其实它已经降格成修饰语了，en classe 是句子层面的状语，不归它管。\n\n英语对照（老师用的办法）：the skills **acquired** / the knowledge **acquired** in the class。\n\n自检：acquises 为什么带 -es？（配合前面的阴性复数 connaissances）",
+    "answer": "形容词 后置定语"
+  },
+  "autonomie beats independance for children": {
+    "front": "「发展孩子的自主性和条理性」用法语怎么写？为什么老师不让用 indépendance？",
+    "back": "答案：**développer l'autonomie et l'organisation des enfants**\n\n老师原话：「这个单词一定要背下来，**所有跟小孩有关的都可以用这个单词**……它比 indépendance 要好一点，因为 indépendance 只能强调他独立，**autonomie 还可以强调他自主**。」\n\n语义差：\n· indépendance ＝不依赖别人（状态）\n· autonomie ＝自己做决定、自己安排（能力）——议论文要的是后者\n\n正反两用：赞成严厉教育可以说它培养 autonomie；反对严厉教育也可以说给自由才能发展 autonomie。\n\n自检：和 autonomie 绑一起的第二个名词是什么？（l'organisation——条理性）",
+    "answer": "développer l'autonomie et l'organisation des enfants"
+  },
+  "une occasion de has two ready frames": {
+    "front": "用「机会」这个角度写一句：**这是一个一家人一起做事、增进感情的机会。**老师给的另一个等价句式是什么？",
+    "back": "答案：**C'est une occasion de travailler en famille et de créer du lien.**\n\n等价句式：**Cela nous offre une occasion de ＋动词原形**。\n\n老师原话：「你用两个句式，**以后你见到这种 occasion 的句式，你都这么写**。」\n\n两个句式的共同点：occasion **de** ＋**动词原形**，不接名词。\n\n内容提示：「机会」这一点在小孩／教育类题目里，最好挂到**家庭关系**上——老师说「所有提到小孩教育的题，我们都可以讨论它对家庭关系有什么影响」。\n\n自检：occasion 这个词你在哪儿第一次见到？（本课开课听写——听写词直接变成写作模板）",
+    "answer": "C'est une occasion de travailler en famille et de créer du lien"
+  },
+  "apprendre la gestion du temps et des ressources": {
+    "front": "「（作业让孩子）学会管理自己的时间和资源」用法语怎么写？老师说这一点可以和哪一点合并？怎么合并？",
+    "back": "答案：**apprendre la gestion du temps et des ressources**\n\n· apprendre 后面**直接接名词**（老师原话：「apprendre 是可以直接学的」）\n· la gestion **du** temps et **des** ressources——两个 de 都要缩合\n\n合并方式：和 **développer l'autonomie** 那一点合成因果——\n「小孩可以学着管理时间和资源，**从而**发展他的独立自主」，或者反过来「小孩能发展自主性，**是因为**作业让他们学着管理时间和资源」。\n\n老师的原则：「我没有硬性规定……**你这两个点就可以合成一个**。」写作写不了五个点，合并是必须做的动作。\n\n自检：五个点最后应该压缩成几个？（三个——他说合并完「这就正好三个点」）",
+    "answer": "apprendre la gestion du temps et des ressources"
+  },
+  "four cause connectors and car sits mid sentence": {
+    "front": "老师给的四个原因连词是哪四个？其中哪两个有位置限制、分别是什么限制？这四个后面能接名词吗？",
+    "back": "答案：**parce que / car / puisque / comme**。\n\n两条位置限制：\n· **car 只能放在句中**（不能开头）\n· **comme 只能放在句首**\n\n共同限制：**只能接句子，不能接名词**（老师原话：「它们只能加句子啊，不要加名词」）。\n\n老师的用法建议：想让内容丰富一点，就把默认的 parce que 换成 car；觉得 parce que 太普通就换 puisque 或 comme。「你背四个就够了，那肯定够的。」\n\n加分项（可选）：**étant donné que** ＝ given that，用于「显而易见的原因」。他明说这个嫌麻烦可以不背。\n\n自检：这四个「意思一模一样」，那它们的区别在哪？（只在位置和语体，不在语义）",
+    "answer": "parce que car puisque comme"
+  },
+  "four result connectors and alors is spoken only": {
+    "front": "老师给的四个结果连词是哪四个？他为什么把 alors 排除在外？par conséquent 后面怎么加标点？",
+    "back": "答案：**ainsi / donc / c'est pourquoi / par conséquent**。\n\n· **ainsi** ＝ in this way（这样一来）\n· **donc** ＝因此\n· **c'est pourquoi** ＝ that's why，后面接结果句\n· **par conséquent** ＝因此——用法是「**par conséquent，逗号，加结果**」\n\n为什么排除 alors：老师原话「**alors 比较口语哈，所以我没有圈起来**」。写作里用它会掉语体，口语里随便用。\n\n和原因连词一样，这四个也**只接句子**。\n\n自检：因果两组各背几个？（各四个，加起来八个就够写整篇议论文）",
+    "answer": "ainsi donc c'est pourquoi par conséquent"
+  },
+  "memorise the verb usage not the sentence": {
+    "front": "老师为什么坚持只给你「五个点」而不给你现成的句子？他说的「巩固」到底指什么动作？",
+    "back": "答案：因为**给了句子你就会去背句子**，而背出来的句子一定会缺斤少两。\n\n老师原话（第一次）：「为什么我没有直接给你句子啊？因为我直接给你句子，你会拿去背，背了之后呢，你一定会缺一点东西，或者多一点东西……**我特别不推荐学生背句子，你以后还要说口语呢**。」\n\n他定义的「巩固」（第二次）：「巩固不是让你把这个句子背下来，**而是体会这个动词的用法**。**你记动词的用法，自己去造句，会比你背句子要好得很多。**」\n\n唯一的例外：**万金油类的词本身可以整个背下来**——因为词是零件，句子才是成品。\n\n自检：你上一次「背下来」的法语句子，现在还能一字不差写出来吗？（这就是他担心的事）",
+    "answer": "背动词用法 自己造句"
+  },
+  "parents autoritaires ou severes is a yearly topic": {
+    "front": "老师布置的课后写作题是什么话题？他给了哪两个形容词？他说这个题的考频如何？",
+    "back": "答案：话题是**是否应该对小孩非常严厉**（家庭教育）。\n\n两个形容词：\n· **autoritaire** ＝专制的（des parents autoritaires）\n· **sévère** ＝严厉的（des parents sévères ＝虎爸虎妈）\n\n考频（老师原话）：「这个题也考过很多次。他不仅写作考过，**这个题是写作和口语会同时考的**。今年也在考，考过好多年，**每年都考**。」\n\n怎么准备：正反两面都要能写。他给的两条现成思路——\n· 反对严厉：给自由才能 développer l'autonomie et l'organisation\n· 任一立场都可以谈：对**家庭关系**的影响（travailler en famille / créer du lien）\n\n自检：写之前第一件事是什么？（回头看本课那五个万金油点，挑三个能用的）",
+    "answer": "des parents autoritaires 严厉教育"
+  },
+  "depuis for ongoing il y a for ago": {
+    "front": "考官问「您在加拿大多久了」，怎么答？为什么不能用 il y a？「我学法语学了四个月了」又怎么说？",
+    "back": "答案：**Je suis au Canada depuis cinq ans.**（我学法语：**J'apprends le français depuis quatre mois.**）\n\n为什么不能用 il y a：**il y a ＋时间段 ＝「多久之前」**，是一个已经结束的时间点。你人还在加拿大，事情还在继续，只能用 **depuis**。\n\n老师原话：「没有 il y a 啊，不可以有 il y a……因为你现在人还在加拿大嘛，那你就是 depuis cinq ans。**这个非常重要。**」\n\n成因诊断（他自己说的）：「因为我们中国人喜欢说『哦，有五年了』，然后就马上理解成 il y a，不是的。」中文的「有五年了」是个陷阱。\n\n自检：Il y a cinq ans, je suis arrivé au Canada. 这句对吗？（对——因为「到达」是五年前发生完的一个动作）",
+    "answer": "Je suis au Canada depuis cinq ans"
+  },
+  "ca fait combien de temps is a listening problem": {
+    "front": "本课你在 T1 卡住的三次，卡的是「不会说」还是「没听懂」？针对这个诊断，回去该练什么？",
+    "back": "答案：三次全是**没听懂问句**。老师每次把问句拆开重念，你马上就能答。\n\n三个卡点：\n· Ça fait combien de temps ...? → 问你干这件事多久了\n· Quels sont vos **loisirs** préférés ? → 兴趣爱好（换个说法是 **centres d'intérêt**）\n· Combien de langues parlez-vous ? → 听懂了答案只有一句：\n  **Je parle trois langues : chinois, français et anglais.**\n\n所以 T1 的练习对象不只是你的答案，还有**考官的问句本身**——老师原话：「**像这些词你要听得懂啊**。」\n\n自检：你的自我介绍稿背得再熟，听不懂问题有用吗？（没用——他说要背到「一点都不卡」，前提是先听得懂在问什么）",
+    "answer": "没听懂问句"
+  },
+  "no article before a profession or nationality": {
+    "front": "「我是程序员」「我是中国人」用法语怎么说？和英语最大的差别在哪？",
+    "back": "答案：**Je suis informaticien.** / **Je suis chinois.**——**中间不加冠词**。\n\n老师原话：「你不要说在英语里边你是 I am a 什么什么……法语不是这样的，Je suis informaticien 就可以了，**中间是没有冠词的**，因为法语的这种系表结构表示职业或者国籍，它就是不要冠词。」\n\n同一段他还纠了另外两处（都在你的自我介绍里）：\n· **je suis né le ＋日期**是固定表达（你说成了 je me nais）\n· **être responsable de ＋名词／动词原形**（你用错了介词）\n\n自检：Je suis **un** informaticien 错在哪？（多了 un，这是英语 a 的残留）",
+    "answer": "Je suis informaticien"
+  },
+  "t1 answers stay under three sentences": {
+    "front": "T1 每个问题该答多长？哪几个问题需要答得详细一点？「详细」又是多长？",
+    "back": "答案：**两到三句话**，而且**超过三句就不要了**。\n\n老师原话：「在 TE 里面**我们没有超过三句话的回答**。」\n\n需要「详细一点」的问题：**兴趣爱好** ＋ 他布置的三个拓展题（讲一次旅行 / 为什么考这个考试 / 未来的计划）。但「详细」的定义仍然是**两到三句**。\n\n两个现成答案：\n· 未来计划：**Je vais continuer mon travail comme informaticien.**\n· 加拿大生活：**Je m'adapte bien à la vie canadienne.**\n\n长度有上限，**流利度没有上限**：「你要背得滚瓜烂熟……要背到一点都不卡的程度是最好的。」\n\n自检：答得短会不会扣分？（不会——扣分的是卡顿和听不懂，不是简短）",
+    "answer": "两到三句"
+  },
+  "three hobby collocations are fixed": {
+    "front": "把「跑步／周末徒步／在家和孩子下象棋」三件事各说一句。老师为什么特意让这三句用不同的结构？",
+    "back": "答案：\n· **Je fais de la course** dans mon temps libre.（跑步）\n· **Je fais de la randonnée** en weekend.（徒步）\n· **On joue aux échecs** à la maison.（下象棋——**固定表达**）\n\n老师连说两遍「jouer aux échecs，**固定表达**」。\n\n为什么要用不同结构：他原话「我稍微给你换了一下，**faire de la / jouer avec / jouer au**，这也够的」——三个结构轮换就是考官眼里的表达多样性，全用 j'aime 会显得贫瘠。\n\n自检：你原来说爱好时的问题是什么？（「说得太散了」，而且有一个词老师根本没听出来）",
+    "answer": "faire de la course faire de la randonnée jouer aux échecs"
+  },
+  "two extra t1 questions are homework": {
+    "front": "老师布置的 T1 三道拓展题是哪三道？「讲一次旅行」这题你上课答成什么样了，问题在哪？选旅行题材有什么限制？",
+    "back": "答案：三道拓展题——\n① **Pouvez-vous me raconter un de vos voyages ?**（讲述一次旅行）\n② **Quels sont vos projets pour l'avenir ?**（未来的计划）\n③ 你为什么要考这个考试\n\n课上你只说了「十年前去过法国」，老师判**太短**：「这太短了，你要讲你喜欢它哪里。」\n\n题材限制：**没有限制**。老师原话「你不一定非得答就是跟法语有关的……你说你上个月去温哥华了都可以」，而且**选近的更好说**。要点是要有介绍性的细节。\n\n第三题的现成思路：因为想在加拿大定下来，这里有更好的教育和自然环境。\n\n自检：这三道答多长？（还是两到三句——拓展题也不例外）",
+    "answer": "讲述一次旅行 未来的计划 为什么考这个考试"
+  },
+  "t2 is the only oral task with prep time": {
+    "front": "T2 的准备时间和答题时间各是多久？谁主导对话？考试时你能看到题目吗？能看到时间吗？",
+    "back": "答案：**准备 2 分钟，答题 3 分半钟**——这是口语三道题里**唯一有准备时间**的一道。\n\n· 题型：**cosplay**。考官给场景，你扮一个角色，**由你向考官提问**。\n· 主导权在你：老师原话「**C'est vous qui guidez la conversation**，是你来引导整个对话」，考官「不负责」引导方向。\n· 题目**可以看**（考官拿 iPad 给你看，虽然是口语考试）。\n· 时间**也能看到**（加拿大各考点都是机考），但老师不推荐盯着：「大部分的学生看到这个表开始动，他就越来越紧张。」\n\n自检：T1 有准备时间吗？（没有，直接考两分钟——这就是 T2 特殊的地方）",
+    "answer": "两分钟准备 三分半答题"
+  },
+  "bracket prompts are categories you must all cover": {
+    "front": "题目括号里的提示词必须逐个用上原词吗？可以多问吗？这条规则只适用于口语吗？",
+    "back": "答案：**必须每一类都覆盖到，但不必用他的原词；可以比他多，不能比他少。**\n\n老师原话：「他括号里面给到的我们一定要问到，**可以比他多，不能比他少**。」「但你可以不用他的词啊。」\n\n为什么可以换词：「**它的提示词相当于全部都是分类**。」\n· 括号写 commerces → 你问「有超市吗／有咖啡店吗／有饭店吗」，阅卷时算你提到了\n· 括号写 école → 你问「有初中吗／有托儿所（**crèche**）吗」，一样算\n\n**适用范围：口语和写作都适用。**这是学生当堂追问出来的——「不管是写作还是口语，只要括号里提到的这些栏目或者是分类都要提到。」\n\n自检：括号有四类，你只问了三类，会怎样？（少一类就是漏答，直接扣分）",
+    "answer": "每一类都要覆盖 可多不可少"
+  },
+  "t2 opens with a fixed politeness block": {
+    "front": "T2 开口第一件事是什么？把老师给的整段开场白说出来。Puis-je 要不要研究它的语法？",
+    "back": "答案：第一件事是**自我介绍，不是提问**。\n\n整段开场白：\n> **Bonjour monsieur / madame, je viens d'emménager ici. Avez-vous du temps ? Puis-je vous poser quelques questions ?**\n\n老师原话：「你不能上来就问……因为你是 cosplay，所以你还是必须要有一些**礼貌性的前奏**。」\n\n· **Je viens d'emménager ici** 是从题干那句话改的，他说「**所有问邻居的题都可以用这个**」\n· **Puis-je** 是倒装——他的指令是「**你不需要管它为什么，直接背，直接抄下来**」\n\n长度：「够了。**也不需要说太多，有就可以了。**」礼貌前奏不是用来凑时间的。\n\n自检：开场白说完考官会怎么回？（Bien sûr——然后你就开始问了）",
+    "answer": "Bonjour je viens d'emménager ici avez-vous du temps puis-je vous poser quelques questions"
+  },
+  "three question frames fill the three minutes": {
+    "front": "T2 里只用「这里有……吗」一种句式会怎样？老师给的另外两种句式是什么？「我们可以在哪里购物」怎么说？",
+    "back": "答案：只用一种句式，考官会觉得你「**只换了词而已**」，语言贫瘠。\n\n三种句式：\n① **Y a-t-il ＋名词** / **Est-ce qu'il y a ＋名词**——老师说这两句「**要做到脱口而出**」\n　例：Y a-t-il des supermarchés dans le quartier ?\n② **Où peut-on ＋动词原形**——把提示词当成对方的答案，自己问特殊疑问句\n　例：**Où peut-on faire les courses ?**（也可以问买药、找医生）\n③ **Avez-vous ... à me conseiller ?**\n　例：Avez-vous des cafés ou des restaurants à me conseiller ?\n\n第②种的思路很妙：「你什么时候人家会跟你说有超市呢？」——把提示词从**你的问题**变成**他的答案**，一个词就能造两种问句。\n\n老师的总结：「这三个句子是……在这个场景之下**最好用的三个句子**。」\n\n自检：三种句式够撑满八到十个问题吗？（够——每种轮三次就是九个）",
+    "answer": "Où peut-on faire les courses"
+  },
+  "eight to ten questions is the target six is the floor": {
+    "front": "T2 三分钟大概要问出几个问题？下限是多少？说到三分半被打断要紧吗？",
+    "back": "答案：**三分钟 8–10 个问题**是理想状态，**下限是 6 个**。\n\n老师原话：「如果你连六个问题都问不到的话，**就证明这个题你一定有问题**。」\n\n时间策略：**别顶格**。「三分半钟是最多，而不是你一定要说到三分半钟……我比较推荐的时间是你大概说个**三分钟左右**就可以了。你不用担心我少三十秒他会不会给我扣分，不会的。」\n\n被打断要不要紧：**本身不扣分**。语速快、问得多、被打断——「无所谓的，因为他有效的问题已经问过了」。真正扣分的是说得慢、前摇长，到三分半被打断时**该问的还没问完，内容不够充实**。\n\n自检：你练的时候有没有掐过表数问题个数？（这是这道题唯一能自测的硬指标）",
+    "answer": "8到10个 下限6个"
+  },
+  "ask by category never ping pong": {
+    "front": "T2 提问可以想到哪问到哪吗？老师给的组织方法是什么？「商业」这一类里面能拆出几个问题？",
+    "back": "答案：**不可以**。老师原话：「你不可以突然问人家商业的问题之后去问学校，问完学校又跑去问商业，**这样是不行的**……你给考官的答案要 **logic**，你要 **make sense**。」\n\n方法：准备时间里画一张**分类思维导图**，答题时**一类问完 pass 掉，再进下一类**。\n\n「商业」一类可以拆出**三个**问题：**购物 / 吃饭 / 健康**——老师说「你这三样问完了……这已经有三个问题了」。（三分钟只要 8–10 个，一类就贡献了三个。）\n\n他额外给的两类（这道题没写，别的题能用）：\n· **公共交通**——附近有没有地铁站\n· **停车**——「你不是刚搬来吗？这些其实就是非常好用的呀」\n\n自检：你自己怎么复述这条规则的？（「围绕一个大问题的几个小方面轮询，一部分一部分地去了解」——老师说「是的」）",
+    "answer": "按类别成组问 一类问完再换"
+  },
+  "follow ups stop at what a neighbour would know": {
+    "front": "问到「有药店吗」之后，能不能追问药店里卖什么药？为什么？哪一种追问是老师批准的？",
+    "back": "答案：**不能。**老师连说三遍「不可以」，理由是：**他只是你的邻居**，「正常来说邻居不知道的」。问结算方式（现金／刷卡）同样算偏题。\n\n判据就一条：**一个普通邻居会知道这件事吗？**\n\n被批准的追问例子：问到**小学**之后追问**公立还是私立**——「因为作为邻居，他其实是知道是公立还是私立小学的」。但要**点到即止**。再往下问学费「不是不能问，就是看你时间够不够了」（邻居未必知道）。\n\n老师的总结：「你只能**合理地**去追问。」\n\n追问的两个风险（他结课时说的）：**① 你会跑题 ② 时间把控不好**。所以「**先完成这个答案，先完成这个题目**，我们再看可不可以做更深刻的」。\n\n自检：跑题的本质是什么？（「就变成不是问社区了，变成问药店了」——你的问题重心必须始终在社区生活上）",
+    "answer": "不能 邻居不会知道"
+  },
+  "three ways to say nearby": {
+    "front": "「在这附近」老师给了哪三种说法？加它们的目的是什么？",
+    "back": "答案：**dans le quartier / à proximité / près d'ici**。\n\n· **dans le quartier** ＝ in this community（老师说这是「固定表达」）\n· **à proximité** ＝在附近\n· **près d'ici** ＝ near here\n\n目的（老师原话）：「这三个都可以再放到你的句子后面，**让这个句子变得更充实一些**。」\n\n配合三种提问句式一起用，同一个主题词就能造出好几个不重样的问句：\nY a-t-il des supermarchés **dans le quartier** ? / Est-ce qu'il y a une pharmacie **près d'ici** ?\n\n自检：不加地点状语的问句有什么问题？（太光秃，考官听起来像在念单词表）",
+    "answer": "dans le quartier à proximité près d'ici"
+  }
+}
