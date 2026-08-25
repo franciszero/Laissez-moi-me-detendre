@@ -203,5 +203,15 @@
     "front": "「参观完博物馆之后别忘了尝尝豆腐汤」整句写出来。你原来那句 n'obligé pas manger le soupe 里有几个错？",
     "back": "答案：**N'oublie pas de prendre de la soupe au tofu après ta visite au musée.**\n\n你原句 `n'obligé pas manger le soupe` 里有**三个**错：\n① **n'obligé → n'oublie**（obliger 是「迫使」，不是「忘记」）\n② **漏了 de**——n'oublie pas **de** ＋动词原形\n③ **manger le → prendre de la**（汤不可数，用 prendre ＋部分冠词）\n\n老师还改了同句末尾的 `à le musée` → **`au musée`**（à + le 缩合）。\n\n自检：这三个错里哪个是课上讲过的？（只有第③个；①②是他课后在纸上改的）",
     "answer": "N'oublie pas de prendre de la soupe au tofu"
+  },
+  "t2 has a closing half you never practised": {
+    "front": "T2 里考官回答完你的问题，你要接什么？问够了怎么收场？老师的框架一共分几块，L38 课上讲了哪几块？",
+    "back": "答案：框架分**四块**，L38 只讲了**前两块**。\n\n① **Politesse 开场** ← L38 讲了（Bonjour + Je viens d'emménager ici + Avez-vous du temps + Puis-je…）\n② **les questions 提问** ← L38 讲了（Y a-t-il ／ Où peut-on ／ Avez-vous … à me conseiller）\n③ **les réactions 回应** ← **没讲**\n④ **Politesse 收尾** ← **没讲**\n\n**回应**（人家答完你接一句）：C'est super ! ／ C'est génial ! ／ Impeccable ! ／ Bien sûr ! ／ Je comprends. ／ C'est bien noté ／ Exactement !\n\n**收尾**（三句连着说）：\n> Ok, je pense que **j'ai toutes les informations dont j'ai besoin**.\n> **Je vais y réfléchir** ／ Je vais …（结合题目）\n> **Merci pour votre temps, bonne journée !**\n\n为什么重要：三分半钟里如果你只会问、不会接，考官会听出你在背问句表。\n\n自检：你练 T2 时练过收尾吗？（大概率没有——L38 根本没讲到这里）",
+    "answer": "回应和收尾 四块只讲了前两块"
+  },
+  "this t2 task type repeats every few months": {
+    "front": "「向邻居打听街区」这个题型考得频不频繁？括号提示词换来换去，背后的类别一共就那几类，是哪几类？",
+    "back": "答案：**很频繁**。老师的历年汇总里，2024-10 到 2025-05 这 8 个月至少考了 **7 次**，分类全部标着 `Neighborhood_Info`。\n\n他课上的原话：「像这种 I have a question 的题还是**比较固定**的啊……它问来问去是一样的。」\n\n提示词换词不换类，七类：\n**商业**（commerces）／**服务**（services disponibles）／**休闲活动**（loisirs, activités）／**氛围**（l'ambiance du quartier）／**学校**（écoles）／**交通**（transports）／**价格**（les tarifs）\n\n另外两个只在真题里出现过的：**居民与生活规约**（habitants, règles de vie）、**设施**（équipements）。\n\n怎么用：**每一类备两句**，进考场按类别成组问（见「按类别成组问」那张卡），三分钟 8–10 个问题自然就够了。\n\n自检：你现在能对着「ambiance」和「tarifs」各说一句吗？（这两类 L38 课上没练到）",
+    "answer": "很频繁 8个月7次"
   }
 }

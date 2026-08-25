@@ -186,7 +186,7 @@
     },
     {
       "id": "doc-followup",
-      "label": "老师课后材料补的：音频里定不下来的五个点",
+      "label": "老师课后材料补的：音频里没有的部分",
       "order": 60,
       "species": [
         {
@@ -208,6 +208,14 @@
         {
           "source_species": "noublie pas de takes an infinitive",
           "order": 50
+        },
+        {
+          "source_species": "t2 has a closing half you never practised",
+          "order": 60
+        },
+        {
+          "source_species": "this t2 task type repeats every few months",
+          "order": 70
         }
       ],
       "practice_cards": []

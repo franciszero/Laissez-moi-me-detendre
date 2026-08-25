@@ -2692,6 +2692,17 @@
           "lines": "222-264"
         },
         "learning_note": "老师只圈出没写改法，所以「这里有错」是他的判定。具体改法（拼写 promène，以及频率副词放在变位动词后面）来自你课前那次 AI 批改，不是老师写的。"
+      },
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上从 un parc / un espace vert 引出的动词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这个词在本课出现了两次，来源不同：写作 T1 批改里老师圈出了你写的 premène，口语 T2 讲义上他又把它写在公园那条线旁边。同一个词，写作和口语都要用。"
       }
     ]
   },
@@ -2767,6 +2778,606 @@
           "lines": "222-264"
         },
         "learning_note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。"
+      }
+    ]
+  },
+  {
+    "lemma": "C'est super !",
+    "pos": "expr",
+    "zh": "[L38口语T2] 太好了！",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "C'est super !",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏第 1 个回应用语。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "C'est génial !",
+    "pos": "expr",
+    "zh": "[L38口语T2] 太棒了！",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "C'est génial !",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏的回应用语。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "Impeccable !",
+    "pos": "expr",
+    "zh": "[L38口语T2] 完美！",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Impeccable !",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏里语气最强的一个。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "Bien sûr !",
+    "pos": "expr",
+    "zh": "[L38口语T2] 当然！",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Bien sûr !",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏，也是考官答你时最常说的一句。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "Je comprends.",
+    "pos": "expr",
+    "zh": "[L38口语T2] 我明白了。",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Je comprends.",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏，中性回应，任何回答都接得上。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "C'est bien noté",
+    "pos": "expr",
+    "zh": "[L38口语T2] 记下了；知道了",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "C'est bien noté",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏，记信息时的回应。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "Exactement !",
+    "pos": "expr",
+    "zh": "[L38口语T2] 正是；没错！",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Exactement !",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义「les réactions」栏（与 Carrément 并列给出）。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。"
+      }
+    ]
+  },
+  {
+    "lemma": "Je vais y réfléchir.",
+    "pos": "expr",
+    "zh": "[L38口语T2] 我会考虑一下。",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Je vais y réfléchir.",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义收尾三句之一，用于结束对话前的过渡。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 讲义写的是「Je vais y réfléchir / Je vais …（结合题目）」——后半句要按当场题目补，不是死记。"
+      }
+    ]
+  },
+  {
+    "lemma": "Merci pour votre temps",
+    "pos": "expr",
+    "zh": "[L38口语T2] 谢谢您的时间，祝您愉快！",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Merci pour votre temps",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义收尾三句的最后一句，T2 的结束语。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 T2 是完整的 cosplay 对话，有开场就要有收尾。L38 教了开场（Bonjour + Je viens d'emménager ici…），没教这一头。"
+      }
+    ]
+  },
+  {
+    "lemma": "J'ai toutes les informations dont j'ai besoin.",
+    "pos": "expr",
+    "zh": "[L38口语T2] 我需要的信息都拿到了。",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "Ok, je pense que j'ai toutes les informations dont j'ai besoin.",
+    "raw": "J'ai toutes les informations dont j'ai besoin.",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:handout-framework",
+        "teacher_action": "handout",
+        "selection_reason": "讲义收尾三句的第一句，用来宣告提问结束。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "356-385"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 讲义原句带 Ok, je pense que 起头。它同时是一个信号：你已经问够了，可以收了。"
+      }
+    ]
+  },
+  {
+    "lemma": "une clinique",
+    "pos": "nom",
+    "zh": "[L38口语T2] 诊所",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une clinique",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上写在 un centre de santé 旁边，是「健康」类的第四个词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。"
+      }
+    ]
+  },
+  {
+    "lemma": "se garer",
+    "pos": "verbe",
+    "zh": "[L38口语T2] 停车（把车停好）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "se garer",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上从 stationnement, parking 引出，老师还标了中文「泊车」。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。"
+      }
+    ]
+  },
+  {
+    "lemma": "un collège",
+    "pos": "nom",
+    "zh": "[L38口语T2] 初中",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un collège",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上从 crèche / école maternelle / primaire 那条线延伸出来，老师标了中文「初中」。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。"
+      }
+    ]
+  },
+  {
+    "lemma": "un lycée",
+    "pos": "nom",
+    "zh": "[L38口语T2] 高中",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un lycée",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上与 collège 并列，补全了学校的四个学段。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。"
+      }
+    ]
+  },
+  {
+    "lemma": "la fête des voisins",
+    "pos": "nom",
+    "zh": "[L38口语T2] 邻里节；社区聚会",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "la fête des voisins",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上从 des associations / des événements 引出，是「社区活动」最具体的一个例子。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。"
+      }
+    ]
+  },
+  {
+    "lemma": "Est-ce qu'on organise ... ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 会组织……吗？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "Est-ce qu'on organise des événements dans le quartier ?",
+    "raw": "Est-ce qu'on organise ... ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap-handout",
+        "teacher_action": "handout",
+        "selection_reason": "讲义上蓝笔写的第四种提问句式，专门用来问社区活动。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "332-355"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 L38 课上只讲了三种句式（Y a-t-il／Où peut-on／Avez-vous à me conseiller）。这是第四种，问「有没有组织什么活动」时比 Y a-t-il 自然。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'ambiance du quartier",
+    "pos": "expr",
+    "zh": "[L38口语T2] 小区氛围",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "l'ambiance du quartier",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "handout",
+        "selection_reason": "历年真题的括号提示词，7 道里出现了 3 次，是最高频的类别之一。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。"
+      }
+    ]
+  },
+  {
+    "lemma": "les tarifs",
+    "pos": "nom",
+    "zh": "[L38口语T2] 价格；收费",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "les tarifs",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "handout",
+        "selection_reason": "2025-02 那道真题的提示词（les lieux à découvrir, les activités disponibles, les tarifs）。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。"
+      }
+    ]
+  },
+  {
+    "lemma": "les équipements",
+    "pos": "nom",
+    "zh": "[L38口语T2] 设施",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "les équipements",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "handout",
+        "selection_reason": "2024-12 那道真题的提示词（habitants, règles de vie, équipements）。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。"
+      }
+    ]
+  },
+  {
+    "lemma": "les règles de vie",
+    "pos": "expr",
+    "zh": "[L38口语T2] （小区的）生活规约",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "les règles de vie",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "handout",
+        "selection_reason": "2024-12 那道真题的提示词，问的是楼里的规矩。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。"
+      }
+    ]
+  },
+  {
+    "lemma": "les services disponibles",
+    "pos": "expr",
+    "zh": "[L38口语T2] 可用的服务",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "les services disponibles",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "handout",
+        "selection_reason": "历年真题的括号提示词，2025-01 和 2025-02 两道都出现了。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。"
+      }
+    ]
+  },
+  {
+    "lemma": "un apéritif",
+    "pos": "nom",
+    "zh": "[L38口语T2] 餐前酒；小酌聚会",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un apéritif",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "handout",
+        "selection_reason": "两道真题的场景设定：邻居请你喝 apéritif de bienvenue（口语里常缩成 un apéro）。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。"
+      }
+    ]
+  },
+  {
+    "lemma": "prendre un verre",
+    "pos": "expr",
+    "zh": "[L38口语T2] 喝一杯；小聚",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "Où peut-on prendre un verre avec les amis ?",
+    "raw": "prendre un verre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "memorize",
+        "selection_reason": "老师红笔把三种句式套到真题上时造的句：Où peut-on prendre un verre avec les amis ?",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "这一条是**老师亲笔写在真题旁边的示范**，不是讲义里的现成词。他同时示范了另外两句：Avez-vous des restaurants chinois à me conseiller ? 和 Ça coûte cher ?"
+      }
+    ]
+  },
+  {
+    "lemma": "Ça coûte cher ?",
+    "pos": "expr",
+    "zh": "[L38口语T2] 贵吗？",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "Ça coûte cher ?",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:past-prompts",
+        "teacher_action": "memorize",
+        "selection_reason": "老师红笔示范的第三句，对应 les tarifs 那一类提示词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "303-331"
+        },
+        "learning_note": "问价格是 T2 里一个独立的提问角度，L38 课上没提到，但历年真题的提示词里出现过（les tarifs）。"
       }
     ]
   }

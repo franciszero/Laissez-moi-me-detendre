@@ -4,7 +4,7 @@
   "coverage": {
     "source_type": "within_region_species",
     "source_path": "/Users/francis/Documents/Georgian_College/GitHub/VibeVoice/docs/french-wiki/census/recapture/reconciled/L38.species.json",
-    "expected_species_count": 41
+    "expected_species_count": 43
   },
   "chunks": [
     {
@@ -659,6 +659,150 @@
           "fr": "une réponse",
           "pos": "nom",
           "zh": "[L38写作T1 补] 回复；答复 [Opus5 建议：你写成 attends te rèpose，把 réponse（回复）和 repos（休息）混了，属于写作里会直接扣分的形近混淆]"
+        },
+        {
+          "type": "vocab",
+          "fr": "C'est super !",
+          "pos": "expr",
+          "zh": "[L38口语T2] 太好了！"
+        },
+        {
+          "type": "vocab",
+          "fr": "C'est génial !",
+          "pos": "expr",
+          "zh": "[L38口语T2] 太棒了！"
+        },
+        {
+          "type": "vocab",
+          "fr": "Impeccable !",
+          "pos": "expr",
+          "zh": "[L38口语T2] 完美！"
+        },
+        {
+          "type": "vocab",
+          "fr": "Bien sûr !",
+          "pos": "expr",
+          "zh": "[L38口语T2] 当然！"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je comprends.",
+          "pos": "expr",
+          "zh": "[L38口语T2] 我明白了。"
+        },
+        {
+          "type": "vocab",
+          "fr": "C'est bien noté",
+          "pos": "expr",
+          "zh": "[L38口语T2] 记下了；知道了"
+        },
+        {
+          "type": "vocab",
+          "fr": "Exactement !",
+          "pos": "expr",
+          "zh": "[L38口语T2] 正是；没错！"
+        },
+        {
+          "type": "vocab",
+          "fr": "Je vais y réfléchir.",
+          "pos": "expr",
+          "zh": "[L38口语T2] 我会考虑一下。"
+        },
+        {
+          "type": "vocab",
+          "fr": "Merci pour votre temps",
+          "pos": "expr",
+          "zh": "[L38口语T2] 谢谢您的时间，祝您愉快！"
+        },
+        {
+          "type": "vocab",
+          "fr": "J'ai toutes les informations dont j'ai besoin.",
+          "pos": "expr",
+          "zh": "[L38口语T2] 我需要的信息都拿到了。"
+        },
+        {
+          "type": "vocab",
+          "fr": "une clinique",
+          "pos": "nom",
+          "zh": "[L38口语T2] 诊所"
+        },
+        {
+          "type": "vocab",
+          "fr": "se garer",
+          "pos": "verbe",
+          "zh": "[L38口语T2] 停车（把车停好）"
+        },
+        {
+          "type": "vocab",
+          "fr": "un collège",
+          "pos": "nom",
+          "zh": "[L38口语T2] 初中"
+        },
+        {
+          "type": "vocab",
+          "fr": "un lycée",
+          "pos": "nom",
+          "zh": "[L38口语T2] 高中"
+        },
+        {
+          "type": "vocab",
+          "fr": "la fête des voisins",
+          "pos": "nom",
+          "zh": "[L38口语T2] 邻里节；社区聚会"
+        },
+        {
+          "type": "vocab",
+          "fr": "Est-ce qu'on organise ... ?",
+          "pos": "expr",
+          "zh": "[L38口语T2] 会组织……吗？"
+        },
+        {
+          "type": "vocab",
+          "fr": "l'ambiance du quartier",
+          "pos": "expr",
+          "zh": "[L38口语T2] 小区氛围"
+        },
+        {
+          "type": "vocab",
+          "fr": "les tarifs",
+          "pos": "nom",
+          "zh": "[L38口语T2] 价格；收费"
+        },
+        {
+          "type": "vocab",
+          "fr": "les équipements",
+          "pos": "nom",
+          "zh": "[L38口语T2] 设施"
+        },
+        {
+          "type": "vocab",
+          "fr": "les règles de vie",
+          "pos": "expr",
+          "zh": "[L38口语T2] （小区的）生活规约"
+        },
+        {
+          "type": "vocab",
+          "fr": "les services disponibles",
+          "pos": "expr",
+          "zh": "[L38口语T2] 可用的服务"
+        },
+        {
+          "type": "vocab",
+          "fr": "un apéritif",
+          "pos": "nom",
+          "zh": "[L38口语T2] 餐前酒；小酌聚会"
+        },
+        {
+          "type": "vocab",
+          "fr": "prendre un verre",
+          "pos": "expr",
+          "zh": "[L38口语T2] 喝一杯；小聚"
+        },
+        {
+          "type": "vocab",
+          "fr": "Ça coûte cher ?",
+          "pos": "expr",
+          "zh": "[L38口语T2] 贵吗？"
         }
       ]
     },
@@ -1765,7 +1909,7 @@
           ],
           "curated": true,
           "study_group": "doc-followup",
-          "study_group_label": "老师课后材料补的：音频里定不下来的五个点",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
           "study_group_order": 60,
           "study_order": 10
         },
@@ -1792,7 +1936,7 @@
           ],
           "curated": true,
           "study_group": "doc-followup",
-          "study_group_label": "老师课后材料补的：音频里定不下来的五个点",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
           "study_group_order": 60,
           "study_order": 20
         },
@@ -1820,7 +1964,7 @@
           ],
           "curated": true,
           "study_group": "doc-followup",
-          "study_group_label": "老师课后材料补的：音频里定不下来的五个点",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
           "study_group_order": 60,
           "study_order": 30
         },
@@ -1846,7 +1990,7 @@
           "evidence_refs": [],
           "curated": true,
           "study_group": "doc-followup",
-          "study_group_label": "老师课后材料补的：音频里定不下来的五个点",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
           "study_group_order": 60,
           "study_order": 40
         },
@@ -1873,9 +2017,68 @@
           ],
           "curated": true,
           "study_group": "doc-followup",
-          "study_group_label": "老师课后材料补的：音频里定不下来的五个点",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
           "study_group_order": 60,
           "study_order": 50
+        },
+        {
+          "type": "checkpoint",
+          "id": "L38:species:t2-has-a-closing-half-you-never-practised",
+          "front": "T2 里考官回答完你的问题，你要接什么？问够了怎么收场？老师的框架一共分几块，L38 课上讲了哪几块？",
+          "back": "答案：框架分**四块**，L38 只讲了**前两块**。\n\n① **Politesse 开场** ← L38 讲了（Bonjour + Je viens d'emménager ici + Avez-vous du temps + Puis-je…）\n② **les questions 提问** ← L38 讲了（Y a-t-il ／ Où peut-on ／ Avez-vous … à me conseiller）\n③ **les réactions 回应** ← **没讲**\n④ **Politesse 收尾** ← **没讲**\n\n**回应**（人家答完你接一句）：C'est super ! ／ C'est génial ! ／ Impeccable ! ／ Bien sûr ! ／ Je comprends. ／ C'est bien noté ／ Exactement !\n\n**收尾**（三句连着说）：\n> Ok, je pense que **j'ai toutes les informations dont j'ai besoin**.\n> **Je vais y réfléchir** ／ Je vais …（结合题目）\n> **Merci pour votre temps, bonne journée !**\n\n为什么重要：三分半钟里如果你只会问、不会接，考官会听出你在背问句表。\n\n自检：你练 T2 时练过收尾吗？（大概率没有——L38 根本没讲到这里）",
+          "answer": "回应和收尾 四块只讲了前两块",
+          "source_species": "t2 has a closing half you never practised",
+          "primary_class": "expression",
+          "tags": [
+            "core",
+            "A2",
+            "sentence_frame",
+            "informal"
+          ],
+          "french_items": [
+            "C'est super !",
+            "Bien sûr !",
+            "Je comprends.",
+            "Ok, je pense que j'ai toutes les informations dont j'ai besoin.",
+            "Merci pour votre temps, bonne journée !"
+          ],
+          "evidence_refs": [
+            "L38.doc-evidence.md:356-385"
+          ],
+          "curated": true,
+          "study_group": "doc-followup",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
+          "study_group_order": 60,
+          "study_order": 60
+        },
+        {
+          "type": "checkpoint",
+          "id": "L38:species:this-t2-task-type-repeats-every-few-months",
+          "front": "「向邻居打听街区」这个题型考得频不频繁？括号提示词换来换去，背后的类别一共就那几类，是哪几类？",
+          "back": "答案：**很频繁**。老师的历年汇总里，2024-10 到 2025-05 这 8 个月至少考了 **7 次**，分类全部标着 `Neighborhood_Info`。\n\n他课上的原话：「像这种 I have a question 的题还是**比较固定**的啊……它问来问去是一样的。」\n\n提示词换词不换类，七类：\n**商业**（commerces）／**服务**（services disponibles）／**休闲活动**（loisirs, activités）／**氛围**（l'ambiance du quartier）／**学校**（écoles）／**交通**（transports）／**价格**（les tarifs）\n\n另外两个只在真题里出现过的：**居民与生活规约**（habitants, règles de vie）、**设施**（équipements）。\n\n怎么用：**每一类备两句**，进考场按类别成组问（见「按类别成组问」那张卡），三分钟 8–10 个问题自然就够了。\n\n自检：你现在能对着「ambiance」和「tarifs」各说一句吗？（这两类 L38 课上没练到）",
+          "answer": "很频繁 8个月7次",
+          "source_species": "this t2 task type repeats every few months",
+          "primary_class": "strategy",
+          "tags": [
+            "core",
+            "memory_hook"
+          ],
+          "french_items": [
+            "voisins / ambiance",
+            "habitants / règles de vie / équipements",
+            "commerces / services disponibles / activités locales",
+            "les lieux à découvrir / les activités disponibles / les tarifs",
+            "écoles / loisirs / commerces"
+          ],
+          "evidence_refs": [
+            "L38_final_working.md:1530-1536",
+            "L38.doc-evidence.md:303-331"
+          ],
+          "curated": true,
+          "study_group": "doc-followup",
+          "study_group_label": "老师课后材料补的：音频里没有的部分",
+          "study_group_order": 60,
+          "study_order": 70
         }
       ]
     }
