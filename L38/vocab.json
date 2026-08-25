@@ -488,7 +488,8 @@
           "file": "docker-data/outputs/L38/L38_final_working.md",
           "time": "23:00-23:30; 23:30-24:00",
           "lines": "346-352; 353-359"
-        }
+        },
+        "learning_note": "老师在 T1 卷页边手写了完整搭配：**recommander qch à qn**（L38/L38.doc-evidence.md:222-264），同一处还写了「(建议) conseiller」和「partager = (分) share」，三个词是一起给的。"
       }
     ]
   },
@@ -796,7 +797,7 @@
           "time": "39:00-39:30; 41:00-41:30",
           "lines": "571-577; 602-608"
         },
-        "learning_note": "老师纠正了学生的一个理解错误：学生问「acquises 后面可以接任何地点状语吗」，老师说不是——「它本身是一个形容词，只用来修饰名词，跟后面接什么没关系」。"
+        "learning_note": "老师在骨架图上给 acquises 括注了英文 **(acquired)**，并对你写的 aquises 做了勾划（L38/L38.doc-evidence.md:88-111）——少一个 c 是你两份材料里重复出现的拼写错。他纠正的那个理解错误仍然是重点：acquises 是形容词，只修饰名词，跟后面接什么状语无关。"
       }
     ]
   },
@@ -822,7 +823,7 @@
           "time": "40:30-41:00",
           "lines": "595-601"
         },
-        "learning_note": "老师给的保险写法：「你不会变位的话就加这个，pourrait permettre」——条件式一挂上去就绕开了变位风险，句子还升了级。"
+        "learning_note": "老师课后发的批改（L38/L38.doc-evidence.md:52-87）里另起一栏手写了两个论元框架：**① permettre qch ② permettre à qn de + inf.**，并把你写的 ils permettre les enfants à préparer 改成 aux enfants de se préparer。接名词用这一条，接人＋动作用另一条（见词条 permettre à quelqu'un de faire quelque chose）。音频里这一段被三路 ASR 全部听成 back matter，是纸面才补回来的。他给的保险写法「pourrait permettre」照旧有效。"
       }
     ]
   },
@@ -1232,6 +1233,17 @@
           "time": "01:11:30-01:12:00",
           "lines": "981-987"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:homework:education-des-enfants",
+        "teacher_action": "review",
+        "selection_reason": "老师课后发的作业原题（doc/7.jpg）印刷正文里再次出现了这个词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "265-273"
+        },
+        "learning_note": "原题两篇 document 的原句：Mon père et ma mère restent autoritaires avec moi ／ Les parents ont parfois peur d'être trop sévères avec leurs enfants。写这篇作文时可以直接引用题面用词。"
       }
     ]
   },
@@ -1257,6 +1269,17 @@
           "time": "01:11:30-01:12:00",
           "lines": "981-987"
         }
+      },
+      {
+        "source_kind": "reading_question",
+        "source_ref": "L38:homework:education-des-enfants",
+        "teacher_action": "review",
+        "selection_reason": "老师课后发的作业原题（doc/7.jpg）印刷正文里再次出现了这个词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "265-273"
+        },
+        "learning_note": "原题两篇 document 的原句：Mon père et ma mère restent autoritaires avec moi ／ Les parents ont parfois peur d'être trop sévères avec leurs enfants。写这篇作文时可以直接引用题面用词。"
       }
     ]
   },
@@ -1410,7 +1433,7 @@
           "time": "01:25:30-01:26:00; 01:26:00-01:26:30",
           "lines": "1176-1182; 1183-1189"
         },
-        "learning_note": "和 loisirs 是同一个意思的两种问法，都要能听出来。老师说学生这次就是没听懂这个词。"
+        "learning_note": "老师课后的 T1 清单上，在 loisirs préférés 旁边手写并圈出了**两个**同义说法：**passe-temps** 和 **centre d'intérêt**（L38/L38.doc-evidence.md:121-158）。这三处在清单上是绿色高亮，绿色＝听力关键词，正好是你课上三次卡壳的位置。"
       }
     ]
   },
@@ -1537,7 +1560,7 @@
           "time": "01:27:00-01:27:30",
           "lines": "1197-1203"
         },
-        "learning_note": "老师给这个词加了明确的边界：「你觉得有用的话你就记一下，**你觉得无所谓的话也可以不管**」——它是可选项，不是必背项。另外他课上说的是「en mon temps libre」，书面更常见的是 dans／pendant mon temps libre，用哪个介词按你老师的口径。L36 开课听写也报过这个词。"
+        "learning_note": "老师课后发的 T1 清单（L38/L38.doc-evidence.md:121-158）上，他自己写的是 **dans mon temps libre**——纸面定案，用 dans。课上他念的是「en mon temps libre」，上线时我把介词标成了存疑，现在以纸面为准。他给这个词的边界仍然有效：「你觉得有用的话你就记一下，你觉得无所谓的话也可以不管」。L36 开课听写也报过这个词。"
       }
     ]
   },
@@ -2070,6 +2093,680 @@
           "lines": "1464-1470"
         },
         "learning_note": "三个可以轮换：dans le quartier／à proximité／près d'ici。老师说把它们加在句子后面，句子会「更充实一些」。"
+      }
+    ]
+  },
+  {
+    "lemma": "un parc",
+    "pos": "nom",
+    "zh": "[L38口语T2] 公园",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un parc",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "「休闲娱乐」类的第一个词，老师在讲义上划了线。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "un espace vert",
+    "pos": "nom",
+    "zh": "[L38口语T2] 绿地；绿色空间",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un espace vert",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "和 parc 并列给出，是「带小孩去玩」那一问的用词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "une piscine",
+    "pos": "nom",
+    "zh": "[L38口语T2] 游泳池",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une piscine",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "「可以运动的地方」那一支的例子之一。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "une salle de sport",
+    "pos": "nom",
+    "zh": "[L38口语T2] 健身房",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une salle de sport",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "「可以运动的地方」那一支的例子之一。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "une association",
+    "pos": "nom",
+    "zh": "[L38口语T2] 协会；社团",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une association",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "「休闲娱乐」类的第三支，老师在讲义上划了线。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "un événement",
+    "pos": "nom",
+    "zh": "[L38口语T2] 活动；集体活动",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un événement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "和 association 并列，问社区有没有活动时用。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "une station de métro",
+    "pos": "nom",
+    "zh": "[L38口语T2] 地铁站",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une station de métro",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "「公共交通」类的第一个具体词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "le stationnement",
+    "pos": "nom",
+    "zh": "[L38口语T2] 停车（这件事）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "le stationnement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "老师把 parking 圈了起来，旁边补了 privé ou public。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "un parking",
+    "pos": "nom",
+    "zh": "[L38口语T2] 停车场",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un parking",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "和 stationnement 并列，老师圈出并追问公私。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "une école maternelle",
+    "pos": "nom",
+    "zh": "[L38口语T2] 幼儿园",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une école maternelle",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "「学校与托育」类里介于 crèche 和 école primaire 之间的一档。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "les commerces",
+    "pos": "nom",
+    "zh": "[L38口语T2] 商铺；商业",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "les commerces",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "题面括号提示词本身，也是思维导图第一个大类的名字。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "s'inscrire aux activités",
+    "pos": "expr",
+    "zh": "[L38口语T2] 报名参加活动",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "s'inscrire aux activités",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:mindmap",
+        "teacher_action": "memorize",
+        "selection_reason": "老师讲义上「可以运动或报名活动的地方」那一支的原话搭配。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。 L36 开课听写报过 s'inscrire à quelque chose，这里是它在社区场景下的固定搭配。"
+      }
+    ]
+  },
+  {
+    "lemma": "public",
+    "pos": "adj",
+    "zh": "[L38口语T2] 公立的；公共的",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "ADJECTIFS",
+    "example": null,
+    "raw": "public",
+    "fem": "publique",
+    "fem_raw": "publique",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:prive-public",
+        "teacher_action": "memorize",
+        "selection_reason": "老师把 parking 圈起来后手写「→ privé ou public」，问学校时也是同一组词。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        },
+        "learning_note": "老师在转录里说这是「点到即止」的合理追问：邻居知道小学是公立还是私立，但未必知道学费。"
+      }
+    ]
+  },
+  {
+    "lemma": "privé",
+    "pos": "adj",
+    "zh": "[L38口语T2] 私立的；私人的",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "ADJECTIFS",
+    "example": null,
+    "raw": "privé",
+    "fem": "privée",
+    "fem_raw": "privée",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T2:prive-public",
+        "teacher_action": "memorize",
+        "selection_reason": "和 public 成对，老师手写在 parking 旁边。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "159-201"
+        }
+      }
+    ]
+  },
+  {
+    "lemma": "un passe-temps",
+    "pos": "nom",
+    "zh": "[L38口语T1] 消遣；业余爱好",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un passe-temps",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:oral-T1:loisirs",
+        "teacher_action": "synonym",
+        "selection_reason": "老师在 loisirs préférés 旁边手写并圈出的两个同义说法之一。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "121-158"
+        },
+        "learning_note": "三个说法都要能听出来：les loisirs ／ un passe-temps ／ un centre d'intérêt。这三处在讲义上是绿色高亮，绿色＝听力关键词——正好是你课上卡壳的地方。"
+      }
+    ]
+  },
+  {
+    "lemma": "permettre à quelqu'un de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L38写作T3] 使某人能够做某事",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "Les devoirs permettent aux enfants de se préparer aux évaluations.",
+    "raw": "permettre à quelqu'un de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:permettre-frames",
+        "teacher_action": "correction",
+        "selection_reason": "你写成 ils permettre les enfants à préparer，老师改成 aux enfants de se préparer，并在旁边另起一栏写下两个论元框架。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "52-87"
+        },
+        "learning_note": "老师手写的三行原文：① permettre qch ② permettre à qn de + inf. ③ aider qn à + inf。音频里这一段被三路 ASR 全部听成 back matter，只有这张图能定案。"
+      }
+    ]
+  },
+  {
+    "lemma": "une évaluation",
+    "pos": "nom",
+    "zh": "[L38写作T3] 测验；评估",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une évaluation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:preparation",
+        "teacher_action": "memorize",
+        "selection_reason": "五点骨架第二点的宾语：préparer aux évaluations & aux examens。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "88-111"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "la préparation",
+    "pos": "nom",
+    "zh": "[L38写作T3] 准备",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "la préparation",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:preparation",
+        "teacher_action": "memorize",
+        "selection_reason": "五点骨架第二个名词点，老师在旁边补了它的动词形式 préparer à。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "88-111"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "le développement",
+    "pos": "nom",
+    "zh": "[L38写作T3] 发展；培养",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "le développement",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:developpement",
+        "teacher_action": "memorize",
+        "selection_reason": "五点骨架第三个名词点，老师在旁边补了动词 développer。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "88-111"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "un apprentissage",
+    "pos": "nom",
+    "zh": "[L38写作T3] 学习；学会",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "un apprentissage",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:apprentissage",
+        "teacher_action": "memorize",
+        "selection_reason": "五点骨架第四个名词点，老师在下面手写了动词 apprendre。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "88-111"
+        },
+        "learning_note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。"
+      }
+    ]
+  },
+  {
+    "lemma": "aider quelqu'un à faire quelque chose",
+    "pos": "expr",
+    "zh": "[L38写作T3] 帮助某人做某事",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "Les devoirs aident les enfants à développer leur autonomie.",
+    "raw": "aider quelqu'un à faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T3:permettre-frames",
+        "teacher_action": "memorize",
+        "selection_reason": "老师那栏论元框架笔记的第三行，和 permettre 的两个框架并排写。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "52-87"
+        },
+        "learning_note": "L37 已有同一词条（L37/vocab.json）。L38 老师把它和 permettre 并排重写了一次，因为这两个动词是连接五个名词点的全部工具。"
+      }
+    ]
+  },
+  {
+    "lemma": "n'oublie pas de faire quelque chose",
+    "pos": "expr",
+    "zh": "[L38写作T1] 别忘了做某事",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "N'oublie pas de prendre de la soupe au tofu.",
+    "raw": "n'oublie pas de faire quelque chose",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:noublie",
+        "teacher_action": "correction",
+        "selection_reason": "你写成 n'obligé pas manger，老师划掉手写 n'oublie，后面接 de + 动词原形。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "222-264"
+        },
+        "learning_note": "同一句他还把 manger le 改成 de prendre de la——两个错叠在一句里：动词错、冠词错、连接介词漏。"
+      }
+    ]
+  },
+  {
+    "lemma": "le meilleur",
+    "pos": "adj",
+    "zh": "[L38写作T1] 最好的（形容词最高级）",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "ADJECTIFS",
+    "example": null,
+    "raw": "le meilleur",
+    "fem": "la meilleure",
+    "fem_raw": "la meilleure",
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:meilleur",
+        "teacher_action": "correction",
+        "selection_reason": "你写 C'est le mieux musée，老师划掉 mieux 手写 le meilleur。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "222-264"
+        },
+        "learning_note": "mieux 是副词（做得更好），meilleur 是形容词（更好的东西）。修饰名词只能用 meilleur。"
+      }
+    ]
+  },
+  {
+    "lemma": "se promener",
+    "pos": "verbe",
+    "zh": "[L38写作T1] 散步",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": "Je me promène souvent au bord du lac.",
+    "raw": "se promener",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "teacher_extension",
+        "source_ref": "L38:writing-T1:promener",
+        "teacher_action": "correction",
+        "selection_reason": "你写 je me souvent premène，老师把 souvent premène 整个圈了出来。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "222-264"
+        },
+        "learning_note": "老师只圈出没写改法，所以「这里有错」是他的判定。具体改法（拼写 promène，以及频率副词放在变位动词后面）来自你课前那次 AI 批改，不是老师写的。"
+      }
+    ]
+  },
+  {
+    "lemma": "la campagne",
+    "pos": "nom",
+    "zh": "[L38写作T1 补] 乡村；农村 [Opus5 建议：你写成 la compagne（女伴），一个字母之差意思完全不同，属于写作里会直接扣分的形近混淆]",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "la campagne",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "user_supplied",
+        "source_ref": "L38:writing-T1:ai-pass",
+        "teacher_action": "user_supplied",
+        "selection_reason": "你写成 la compagne（女伴），一个字母之差意思完全不同。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "222-264"
+        },
+        "learning_note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。"
+      }
+    ]
+  },
+  {
+    "lemma": "l'Angleterre",
+    "pos": "nom",
+    "zh": "[L38写作T1 补] 英格兰 [Opus5 建议：你列举去过的国家时写成 l'anglais（英语），国名和语言名混了，属于写作里会直接扣分的形近混淆]",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "l'Angleterre",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "user_supplied",
+        "source_ref": "L38:writing-T1:ai-pass",
+        "teacher_action": "user_supplied",
+        "selection_reason": "你列举去过的国家时写成 l'anglais（英语），国名和语言名混了。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "222-264"
+        },
+        "learning_note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。"
+      }
+    ]
+  },
+  {
+    "lemma": "une réponse",
+    "pos": "nom",
+    "zh": "[L38写作T1 补] 回复；答复 [Opus5 建议：你写成 attends te rèpose，把 réponse（回复）和 repos（休息）混了，属于写作里会直接扣分的形近混淆]",
+    "lesson": "L38",
+    "source_lesson": "L38",
+    "category": "AUTRES",
+    "example": null,
+    "raw": "une réponse",
+    "fem": null,
+    "fem_raw": null,
+    "provenance": [
+      {
+        "source_kind": "user_supplied",
+        "source_ref": "L38:writing-T1:ai-pass",
+        "teacher_action": "user_supplied",
+        "selection_reason": "你写成 attends te rèpose，把 réponse（回复）和 repos（休息）混了。",
+        "evidence": {
+          "file": "L38/L38.doc-evidence.md",
+          "lines": "222-264"
+        },
+        "learning_note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。"
       }
     ]
   }

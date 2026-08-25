@@ -183,6 +183,34 @@
         }
       ],
       "practice_cards": []
+    },
+    {
+      "id": "doc-followup",
+      "label": "老师课后材料补的：音频里定不下来的五个点",
+      "order": 60,
+      "species": [
+        {
+          "source_species": "permettre has two argument frames",
+          "order": 10
+        },
+        {
+          "source_species": "developper is directly transitive",
+          "order": 20
+        },
+        {
+          "source_species": "the five noun points also exist as verbs",
+          "order": 30
+        },
+        {
+          "source_species": "meilleur is the adjective mieux is the adverb",
+          "order": 40
+        },
+        {
+          "source_species": "noublie pas de takes an infinitive",
+          "order": 50
+        }
+      ],
+      "practice_cards": []
     }
   ]
 }
