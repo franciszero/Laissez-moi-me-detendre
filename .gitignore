@@ -22,3 +22,9 @@
 .DS_Store
 __pycache__/
 *.pyc
+
+# omx 工具的草稿目录
+.omx/
+
+# pytest 缓存
+.pytest_cache/
