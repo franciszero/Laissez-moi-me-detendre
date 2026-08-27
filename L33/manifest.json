@@ -233,7 +233,7 @@
           "type": "checkpoint",
           "id": "L33:species:aider-quelquun-a-infinitive",
           "front": "写出“帮助某人做某事”的完整结构。",
-          "back": "答案：**aider quelqu'un à faire quelque chose**。\n\n被帮助的人是直接宾语，动作接 `à + infinitif`。例如：`Pouvez-vous m'aider à le rechercher ?`",
+          "back": "答案：**aider quelqu'un à faire quelque chose**。\n\n被帮助的人是直接宾语，动作接 `à + infinitif`。例如：`Pouvez-vous m'aider à le rechercher ?`\n\n---\n**跨课**：同一个点在 **L33／L37／L38** 各有一张卡，层层递进——L33 给基本结构（aider qn à + inf.），L37 是老师判错 « Cela aide à l'autonomie » 那次，讲 aider **后面必须先有人**，本课把它和 permettre 并排对比。**记忆钩子：permettre 用 de，aider 用 à。**",
           "answer": "aider quelqu'un à faire quelque chose",
           "source_species": "aider quelquun a infinitive",
           "primary_class": "expression",
