@@ -1,0 +1,666 @@
+<title>L38 结构手册</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+:root{
+  --paper:#f4f6f8; --surface:#ffffff; --surface-2:#eef1f5;
+  --ink:#151b23; --ink-2:#39434f; --muted:#6a7482; --hair:#d9dee5;
+  --blue:#3d6193; --blue-soft:#e7edf6; --blue-line:#b9c9e0;
+  --red:#c2384c; --red-soft:#fbeaec; --red-line:#e9bcc3;
+  --ochre:#8a6a34; --ochre-soft:#f7f0e2; --ochre-line:#e0cfae;
+  --slate:#4a5a6b; --slate-soft:#eaeef2;
+  --fr:"Newsreader",Georgia,serif;
+  --zh:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  --mono:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --paper:#12161b; --surface:#1a1f26; --surface-2:#222831;
+  --ink:#e8ecf1; --ink-2:#c2cad4; --muted:#8d97a4; --hair:#2e3640;
+  --blue:#8fb0dd; --blue-soft:#1c2735; --blue-line:#33455f;
+  --red:#ef8f9d; --red-soft:#2e1c20; --red-line:#5c3239;
+  --ochre:#d3b077; --ochre-soft:#2a2318; --ochre-line:#4f4227;
+  --slate:#a6b4c2; --slate-soft:#1e242b;
+}}
+:root[data-theme="dark"]{
+  --paper:#12161b; --surface:#1a1f26; --surface-2:#222831;
+  --ink:#e8ecf1; --ink-2:#c2cad4; --muted:#8d97a4; --hair:#2e3640;
+  --blue:#8fb0dd; --blue-soft:#1c2735; --blue-line:#33455f;
+  --red:#ef8f9d; --red-soft:#2e1c20; --red-line:#5c3239;
+  --ochre:#d3b077; --ochre-soft:#2a2318; --ochre-line:#4f4227;
+  --slate:#a6b4c2; --slate-soft:#1e242b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--zh);
+     font-size:16px;line-height:1.75;-webkit-font-smoothing:antialiased}
+.fr{font-family:var(--fr);font-weight:500;font-style:italic}
+.wrap{display:grid;grid-template-columns:220px minmax(0,1fr);gap:0;max-width:1180px;margin:0 auto}
+@media(max-width:900px){.wrap{grid-template-columns:1fr}}
+
+/* ── rail ── */
+nav.rail{position:sticky;top:0;align-self:start;height:100vh;overflow-y:auto;
+  padding:32px 20px 40px;border-right:1px solid var(--hair);background:var(--paper)}
+@media(max-width:900px){nav.rail{position:static;height:auto;border-right:0;border-bottom:1px solid var(--hair)}}
+.rail .brand{font-family:var(--mono);font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:18px}
+.rail a{display:block;padding:5px 0;color:var(--ink-2);text-decoration:none;font-size:14px;
+  border-left:2px solid transparent;padding-left:10px;margin-left:-10px;transition:.15s}
+.rail a:hover{color:var(--blue);border-left-color:var(--blue-line)}
+.rail a.on{color:var(--blue);border-left-color:var(--blue);font-weight:600}
+.rail .grp{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--muted);margin:20px 0 6px;padding-left:10px}
+.rail a:focus-visible,main a:focus-visible,button:focus-visible{outline:2px solid var(--blue);outline-offset:2px;border-radius:3px}
+
+main{padding:40px 40px 120px;min-width:0}
+@media(max-width:900px){main{padding:28px 20px 80px}}
+
+/* ── masthead ── */
+.mast{border-bottom:2px solid var(--ink);padding-bottom:22px;margin-bottom:14px}
+.mast .kick{font-family:var(--mono);font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--red)}
+h1{font-family:var(--fr);font-weight:600;font-size:40px;line-height:1.15;margin:8px 0 0;letter-spacing:-.01em;text-wrap:balance}
+.thesis{font-size:17px;line-height:1.7;color:var(--ink-2);margin:14px 0 0;max-width:62ch}
+.thesis strong{color:var(--ink);font-weight:600;box-shadow:inset 0 -8px 0 var(--blue-soft)}
+.facts{display:flex;flex-wrap:wrap;gap:26px;margin:18px 0 0;padding:0;list-style:none}
+.facts li{font-size:13px;color:var(--muted)}
+.facts b{display:block;font-family:var(--mono);font-size:19px;color:var(--ink);font-variant-numeric:tabular-nums}
+
+/* ── tier system ── */
+.legend{display:flex;flex-wrap:wrap;gap:8px;margin:24px 0 0;padding:14px;background:var(--surface);
+  border:1px solid var(--hair);border-radius:2px}
+.legend p{margin:0 0 8px;flex:1 0 100%;max-width:none;font-size:13px;color:var(--muted)}
+button.tier{font-family:var(--zh);font-size:12.5px;padding:5px 11px;border-radius:2px;cursor:pointer;
+  border:1px solid var(--hair);background:var(--surface-2);color:var(--ink-2);transition:.15s}
+button.tier:hover{border-color:var(--muted)}
+button.tier[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:6px;vertical-align:1px}
+.dot.class{background:var(--blue)} .dot.handout{background:var(--ochre)} .dot.ai{background:var(--red)}
+
+/* ── sections ── */
+section{margin:52px 0 0;scroll-margin-top:20px}
+h2{font-family:var(--fr);font-size:26px;font-weight:600;margin:0 0 4px;letter-spacing:-.01em;text-wrap:balance}
+h2 .n{font-family:var(--mono);font-size:12px;color:var(--red);letter-spacing:.1em;
+  display:block;font-weight:500;margin-bottom:5px;font-style:normal}
+.lede{color:var(--muted);font-size:14.5px;margin:0 0 22px;max-width:64ch}
+h3{font-family:var(--fr);font-size:19px;font-weight:600;margin:34px 0 10px;text-wrap:balance}
+p{max-width:66ch}
+
+/* ── blocks ── */
+.rule{background:var(--surface);border:1px solid var(--hair);border-left:3px solid var(--blue);
+  padding:16px 18px;margin:14px 0;border-radius:0 2px 2px 0}
+.rule.fix{border-left-color:var(--red)}
+.rule.paper{border-left-color:var(--ochre)}
+.rule h4{margin:0 0 8px;font-size:15px;font-weight:600}
+.rule p{margin:0 0 8px}.rule p:last-child{margin-bottom:0}
+.q{font-family:var(--fr);font-style:italic;color:var(--ink-2);border-left:2px solid var(--hair);
+  padding-left:12px;margin:10px 0;font-size:15px}
+.q.zh{font-family:var(--zh);font-style:normal}
+
+.tpl{background:var(--blue-soft);border:1px solid var(--blue-line);padding:14px 16px;margin:12px 0;border-radius:2px}
+.tpl .lbl{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:var(--blue);display:block;margin-bottom:7px}
+.tpl code,.tpl .fr{font-size:15.5px;color:var(--ink)}
+
+.stamp{font-family:var(--mono);font-size:10.5px;color:var(--muted);font-variant-numeric:tabular-nums;white-space:nowrap}
+.stamp.paper{color:var(--ochre)}
+
+/* ── tables ── */
+.tw{overflow-x:auto;margin:14px 0;border:1px solid var(--hair);background:var(--surface);border-radius:2px}
+table{border-collapse:collapse;width:100%;font-size:14px}
+th{text-align:left;font-family:var(--mono);font-size:10.5px;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--muted);font-weight:500;padding:10px 12px;border-bottom:1px solid var(--hair);white-space:nowrap;
+  background:var(--surface-2)}
+td{padding:9px 12px;border-bottom:1px solid var(--hair);vertical-align:top}
+tr:last-child td{border-bottom:0}
+td.f{font-family:var(--fr);font-style:italic;font-weight:500;white-space:nowrap}
+td.f b{font-style:normal;font-family:var(--mono);font-size:12px;color:var(--red);font-weight:500}
+.bad{color:var(--red);text-decoration:line-through;text-decoration-thickness:1px}
+.good{color:var(--blue);font-weight:600}
+
+/* ── vocab ── */
+.vgroup{margin:22px 0 0}
+.vgroup h4{font-size:14px;margin:0 0 2px;display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.vgroup h4 .cnt{font-family:var(--mono);font-size:11px;color:var(--muted)}
+.vgroup .sub{font-size:13px;color:var(--muted);margin:0 0 8px}
+.vrow{display:grid;grid-template-columns:minmax(150px,1.1fr) minmax(120px,1fr) auto;gap:12px;
+  padding:7px 12px;border-bottom:1px solid var(--hair);align-items:baseline;font-size:14px;background:var(--surface)}
+.vrow:first-of-type{border-top:1px solid var(--hair)}
+@media(max-width:640px){.vrow{grid-template-columns:1fr;gap:2px}}
+.vrow .l{font-family:var(--fr);font-style:italic;font-weight:500}
+.vrow .m{color:var(--ink-2)}
+.vrow.t-handout{background:var(--ochre-soft)}
+.vrow.t-ai{background:var(--red-soft)}
+.vrow[hidden]{display:none}
+.vex{grid-column:1/-1;font-family:var(--fr);font-style:italic;font-size:13.5px;color:var(--muted);margin-top:2px}
+
+/* ── threads ── */
+.thread{background:var(--surface);border:1px solid var(--hair);padding:16px 18px;margin:14px 0;border-radius:2px}
+.thread h4{margin:0 0 10px;font-size:15px}
+.chain{display:flex;flex-wrap:wrap;align-items:center;gap:7px;font-size:13.5px;margin:0}
+.chain .node{background:var(--surface-2);border:1px solid var(--hair);padding:3px 9px;border-radius:2px}
+.chain .node.hi{background:var(--blue-soft);border-color:var(--blue-line);color:var(--ink)}
+.chain .ar{color:var(--muted);font-family:var(--mono)}
+
+.warn{background:var(--ochre-soft);border:1px solid var(--ochre-line);padding:14px 16px;margin:14px 0;border-radius:2px;font-size:14.5px}
+.warn strong{color:var(--ochre)}
+footer{margin:70px 0 0;padding-top:20px;border-top:1px solid var(--hair);font-size:12.5px;color:var(--muted)}
+footer code{font-family:var(--mono);font-size:11.5px}
+@media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+html{scroll-behavior:smooth}
+</style>
+
+<div class="wrap">
+<nav class="rail">
+  <div class="brand">L38 · 01:51:38</div>
+  <a href="#m">方法论</a>
+  <div class="grp">零件与接口</div>
+  <a href="#iface">动词接口表</a>
+  <a href="#glue">万金油五点</a>
+  <a href="#conn">因果八连词</a>
+  <div class="grp">篇章结构</div>
+  <a href="#w1">写作 T1 · 介绍国家</a>
+  <a href="#w3">写作 T3 · 议论文</a>
+  <a href="#o1">口语 T1 · 自我介绍</a>
+  <a href="#o2">口语 T2 · 问邻居</a>
+  <div class="grp">考场</div>
+  <a href="#nums">量化规则</a>
+  <a href="#fixes">逐处纠错</a>
+  <div class="grp">数据</div>
+  <a href="#vocab">词表 132</a>
+  <a href="#threads">四条贯穿线</a>
+  <a href="#edge">边界与缺口</a>
+</nav>
+<main>
+
+<div class="mast">
+  <div class="kick">TEF/TCF · 写作与口语 · 2026-08-24</div>
+  <h1>L38 结构手册</h1>
+  <p class="thesis">这节课两小时的全部内容，可以压成老师自己说的一句话：<strong>不要背句子，背「动词的用法」，然后自己造句。</strong>下面每一层都是这句话的展开——词是零件，接口决定零件怎么拼，框架是拼好的模具，篇章规则决定模具怎么排，考场规则决定你有多少时间排。</p>
+  <ul class="facts">
+    <li><b>132</b>词条</li>
+    <li><b>43</b>知识点</li>
+    <li><b>62</b>来源锚点</li>
+    <li><b>01:51:38</b>课堂时长</li>
+  </ul>
+</div>
+
+<div class="legend">
+  <p>每一条都标了证据档位。点下面的按钮可以只看某一档——这决定你该多信它。</p>
+  <button class="tier" data-t="class" aria-pressed="true"><span class="dot class"></span>课上讲的 107</button>
+  <button class="tier" data-t="handout" aria-pressed="true"><span class="dot handout"></span>讲义档 22</button>
+  <button class="tier" data-t="ai" aria-pressed="true"><span class="dot ai"></span>AI 补的 3</button>
+</div>
+
+<section id="m">
+<h2><span class="n">§0 · 地基</span>方法论：这节课为什么长这样</h2>
+<p class="lede">这四条不是学习建议，是老师拒绝给你现成句子的理由。理解它们，下面所有结构才讲得通。</p>
+
+<div class="rule">
+  <h4>1 · 不给你句子，是怕你去背句子 <span class="stamp">45:30</span></h4>
+  <p class="q">「为什么我没有直接给你句子啊？因为我直接给你句子，你会拿去背，背了之后呢，你一定会缺一点东西，或者多一点东西……<b>我特别不推荐学生背句子，你以后还要说口语呢</b>。」</p>
+  <p>所以他只给「五个点」的名词骨架，让你自己连成句。</p>
+</div>
+
+<div class="rule">
+  <h4>2 · 「巩固」＝体会动词用法，不是抄写 <span class="stamp">01:11:00</span></h4>
+  <p class="q">「巩固不是让你把这个句子背下来，<b>而是体会这个动词的用法</b>。你记动词的用法，自己去造句，会比你背句子要好得很多。」</p>
+  <p>这句话直接定义了下一节那张<a href="#iface">动词接口表</a>——它才是这节课真正的核心资产。</p>
+</div>
+
+<div class="rule">
+  <h4>3 · 两层词汇观：万金油词 vs 主题词汇 <span class="stamp">36:30 / 45:30</span></h4>
+  <p class="q">「这些词是你要背下来的，不仅仅是在这一个话题之下……<b>你在所有的话题之下都可以背这个东西</b>。」</p>
+  <p><b>唯一允许整段背下来的就是万金油词本身</b>——因为词是零件，句子才是成品。主题词汇则跟着题目走，用完即弃。</p>
+</div>
+
+<div class="rule">
+  <h4>4 · 不要背 GPT 生成的问句库 <span class="stamp">01:39:30</span></h4>
+  <p class="q">「你背多了的话，很容易把自己绕进去，然后很容易不通顺，很容易缺斤少两的，这样的话，<b>背的痕迹太明显，很容易扣分</b>。」</p>
+  <p>替代方案是<a href="#o2">三种问句模具 + 分类思维导图</a>：三个句式轮换，比背一百个问句可靠。</p>
+</div>
+</section>
+
+<section id="iface">
+<h2><span class="n">§1 · 零件接口</span>动词接口表</h2>
+<p class="lede">这是全课信息密度最高的一张表，也是最容易在考场上写错的地方。老师课后在批改截图上专门另起一栏手写了前三行——因为音频里这一段被主路和 Qwen3 转成了别的词，Whisper q4 也把介词写错了，所以以纸面为准。</p>
+
+<div class="tw"><table>
+<thead><tr><th>结构</th><th>后面接什么</th><th>例句</th><th>出处</th></tr></thead>
+<tbody>
+<tr><td class="f">permettre <b>qch</b></td><td>直接接名词</td><td class="f">permettre la consolidation…</td><td class="stamp">40:30</td></tr>
+<tr><td class="f">permettre <b>à qn de</b> + inf.</td><td>接人用 à，动作用 <b>de</b></td><td class="f">Les devoirs permettent aux enfants <b>de</b> se préparer.</td><td class="stamp paper">讲义 01:09</td></tr>
+<tr><td class="f">aider <b>qn à</b> + inf.</td><td>接人用 à，动作也用 <b>à</b></td><td class="f">aider les enfants <b>à</b> développer leur autonomie</td><td class="stamp paper">讲义 01:09</td></tr>
+<tr><td class="f">développer + <b>n</b></td><td>直接及物，<b>中间什么都不加</b></td><td class="f">développer l'autonomie et l'organisation</td><td class="stamp">01:10:30</td></tr>
+<tr><td class="f">apprendre + <b>n</b></td><td>直接接名词，不用 à</td><td class="f">apprendre la gestion du temps</td><td class="stamp">44:30</td></tr>
+<tr><td class="f">consister <b>en</b> + n</td><td>由……组成</td><td class="f">consister en trois parties</td><td class="stamp">02:30</td></tr>
+<tr><td class="f">consister <b>à</b> + inf.</td><td>在于做某事</td><td class="f">consister à fabriquer du pain</td><td class="stamp">02:30</td></tr>
+<tr><td class="f">faire attention <b>à</b> + n</td><td>à + les → <b>aux</b></td><td class="f">faire attention <b>aux</b> voitures</td><td class="stamp">12:30</td></tr>
+<tr><td class="f">n'oublie pas <b>de</b> + inf.</td><td>de 不能漏</td><td class="f">N'oublie pas <b>de</b> prendre de la soupe.</td><td class="stamp">纸面批改</td></tr>
+<tr><td class="f">être responsable <b>de</b></td><td>接名词或动词原形都行</td><td class="f">Je suis responsable <b>de</b> la sécurité.</td><td class="stamp paper">讲义 01:24</td></tr>
+<tr><td class="f">s'adapter <b>à</b> + n</td><td>—</td><td class="f">Je m'adapte bien à la vie canadienne.</td><td class="stamp">01:29:30</td></tr>
+<tr><td class="f">au début <b>de</b> + n</td><td>接名词才补 de，单用就到 au début</td><td class="f">au début <b>de</b> l'épreuve</td><td class="stamp">09:30</td></tr>
+<tr><td class="f">une occasion <b>de</b> + inf.</td><td>永远接原形</td><td class="f">une occasion <b>de</b> travailler en famille</td><td class="stamp">45:00</td></tr>
+<tr><td class="f">prendre <b>de la / du</b> + 不可数</td><td>吃喝类不可数用 prendre ＋部分冠词</td><td class="f">prendre <b>de la</b> soupe au tofu</td><td class="stamp">26:00</td></tr>
+</tbody></table></div>
+
+<div class="rule fix">
+  <h4>记忆钩子：permettre 用 de，aider 用 à</h4>
+  <p>两个最常用的「好处」动词，介词正好相反。你课上写的是 <span class="bad">ils permettre les enfants à préparer</span>，两处都错——接人要 <span class="good">aux</span>，动作要 <span class="good">de</span>。</p>
+</div>
+</section>
+
+<section id="glue">
+<h2><span class="n">§2 · 框架</span>万金油五点：任何「有什么好处」都能套</h2>
+<p class="lede">老师当场把题目从「在家写作业的好处」换成「喜欢住农村还是城市」，同一组词照样造得出句子——这就是他证明这套东西跨话题的方式。写作时不要五点全写，<b>合并成三点</b>。</p>
+
+<div class="tw"><table>
+<thead><tr><th>角度</th><th>名词版（老师给的骨架）</th><th>动词版（写句子时换成这个）</th><th>接什么</th></tr></thead>
+<tbody>
+<tr><td>巩固 / 深化</td><td class="f">la consolidation et l'approfondissement</td><td class="f">consolider / approfondir</td><td class="f">des connaissances acquises en classe</td></tr>
+<tr><td>准备</td><td class="f">la préparation</td><td class="f">préparer à</td><td class="f">aux évaluations &amp; aux examens</td></tr>
+<tr><td>发展</td><td class="f">le développement</td><td class="f">développer</td><td class="f">l'autonomie et l'organisation</td></tr>
+<tr><td>学会</td><td class="f">l'apprentissage</td><td class="f">apprendre</td><td class="f">la gestion du temps et des ressources</td></tr>
+<tr><td>机会</td><td class="f">une occasion</td><td class="f">c'est une / cela nous offre une</td><td class="f">de travailler en famille et de créer du lien</td></tr>
+</tbody></table></div>
+
+<div class="tpl">
+  <span class="lbl">本课的旗舰句 · 整串背下来</span>
+  <span class="fr">Les devoirs à la maison <b>pourraient permettre</b> la consolidation et l'approfondissement des connaissances acquises en classe.</span>
+</div>
+
+<div class="rule">
+  <h4>三个必须记住的细节</h4>
+  <p>① <span class="fr">connaissances</span> <b>必须用复数</b>——只有复数才等于英语 knowledge，单数是「熟人」。<span class="stamp">39:00</span></p>
+  <p>② <span class="fr">acquises</span> 是<b>过去分词做后置定语，等于形容词</b>，只修饰名词。你问「它后面能接什么地点状语」——这个问题本身就问错了。<span class="stamp">41:00</span></p>
+  <p>③ 变位没把握时用 <span class="fr">pourrait permettre</span>——条件式一挂上去就绕开变位风险，语气还更委婉。<span class="stamp">40:30</span></p>
+</div>
+
+<div class="rule">
+  <h4>为什么是 autonomie 不是 indépendance <span class="stamp">44:00</span></h4>
+  <p class="q">「这个单词<b>一定要背下来</b>，所有跟小孩有关的都可以用这个单词……indépendance 只能强调他独立，<b>autonomie 还可以强调他自主</b>。」</p>
+  <p>正反两用：赞成严厉教育可以说它培养 autonomie；反对严厉教育也可以说给自由才能发展 autonomie。</p>
+</div>
+</section>
+
+<section id="conn">
+<h2><span class="n">§3 · 框架</span>因果八连词</h2>
+<p class="lede">四个原因、四个结果，老师两次都说「背四个就够了」。真正的考点不是词义（他说四个「意思一模一样」），而是<b>位置限制</b>。</p>
+
+<div class="tw"><table>
+<thead><tr><th>原因</th><th>位置</th><th>结果</th><th>说明</th></tr></thead>
+<tbody>
+<tr><td class="f">parce que</td><td>句首句中都行（最通用）</td><td class="f">ainsi</td><td>＝in this way</td></tr>
+<tr><td class="f">car</td><td><b>只能放句中</b></td><td class="f">donc</td><td>因此</td></tr>
+<tr><td class="f">puisque</td><td>较正式，替换 parce que</td><td class="f">c'est pourquoi</td><td>＝that's why，后接结果句</td></tr>
+<tr><td class="f">comme</td><td><b>只能放句首</b></td><td class="f">par conséquent</td><td>用法：<span class="fr">par conséquent，逗号，加结果</span></td></tr>
+</tbody></table></div>
+
+<div class="rule">
+  <h4>两条共同限制 + 两个例外</h4>
+  <p>八个都<b>只能接句子，不能接名词</b>。</p>
+  <p><span class="fr">alors</span> <b>不要用在写作里</b>——「alors 比较口语哈，所以我没有圈起来」。<span class="stamp">49:00</span></p>
+  <p><span class="fr">étant donné que</span>（＝given that，显而易见的原因）是加分项不是必背项——「如果你觉得背太麻烦了，你就背上面四个」。<span class="stamp">48:30</span></p>
+</div>
+</section>
+
+<section id="w1">
+<h2><span class="n">§4 · 篇章</span>写作 T1：给朋友介绍自己的国家</h2>
+<p class="lede">这一篇被判「回去重写」——只有写博物馆那一段保留，前面全部重来。老师的原话：「从这儿开始我都可以接受，但你这之前的<b>我是不能接受的</b>，这之前的是完全不符合规范的。」<span class="stamp">32:00</span></p>
+
+<h3>开头：只写两句</h3>
+<div class="tpl">
+  <span class="lbl">第一段 · 目的 + 对方的需求，别的全删</span>
+  <span class="fr">Je t'écris pour te recommander mon pays.<br>Je sais que tu veux prendre tes vacances à l'étranger.</span>
+</div>
+<div class="rule fix">
+  <p><b>不要写</b>让步句、铺垫、个人经历。你原稿写了「我自己也参观了很多国家，但我还是想给你推荐我的国家」——老师整句删掉：「这种让步的句子，在 TE 里面是<b>完全没有必要</b>的，不需要有介绍性的东西。」他对原开头的评价是「<b>考官会对你印象不是很好的</b>」。<span class="stamp">22:00</span></p>
+</div>
+
+<h3>正文：固定切三刀，每刀打冒号举例</h3>
+<div class="tw"><table>
+<thead><tr><th>角度</th><th>关键词</th><th>举例（写一个你会写的就够）</th></tr></thead>
+<tbody>
+<tr><td>① 名胜古迹</td><td class="f">les monuments historiques</td><td class="f">le palais d'Été（颐和园）</td></tr>
+<tr><td>② 自然风光</td><td class="f">la mer / le lac / la montagne</td><td>海边、湖边、山里，三选二</td></tr>
+<tr><td>③ 文化</td><td class="f">le musée · les spécialités locales</td><td class="f">déguster les spécialités locales</td></tr>
+</tbody></table></div>
+<p>老师原话：「<b>不要写成那种流水账啊，写它不同的方面</b>。」他对这道题的判断是「这个文章是难一点的，因为它是<b>纯介绍型</b>的」——没有立场可写，所以更要靠框架撑住。<span class="stamp">29:00</span></p>
+<div class="rule">
+  <p>这一段里唯一一次对单个词说「<b>你把这个单词记下来啊</b>」，给的是 <span class="fr">les spécialités locales</span>；紧接着他补了动词 <span class="fr">déguster</span>，并说「这都是阅读里面的词，<b>你背的单词每一个都是有作用的</b>」。<span class="stamp">31:00</span></p>
+</div>
+</section>
+
+<section id="w3">
+<h2><span class="n">§4 · 篇章</span>写作 T3：议论文的组装</h2>
+<p class="lede">结构他说没问题，不再讲了——「你的结构，T3 的结构已经没什么问题了，我就不再讲了。<b>我们再来看表达啊。</b>」问题全在表达层。<span class="stamp">35:30</span></p>
+
+<h3>五点 → 三点：合并是必须动作，不是可选</h3>
+<p>写作写不了五个点。老师给的合并示范：</p>
+<div class="rule">
+  <p class="q zh">「小孩可以学着管理时间和资源，<b>从而</b>发展他的独立自主。」或者反过来「小孩能发展自主性，<b>是因为</b>作业让他们学着管理时间和资源。」</p>
+  <p>把「学会管理」和「发展自主」两点用因果串成一点，「甚至有的同学把上面两个点也合成一个了」——合并完「<b>这就正好三个点</b>」。<span class="stamp">47:00</span></p>
+</div>
+</section>
+
+<section id="o1">
+<h2><span class="n">§4 · 篇章</span>口语 T1：自我介绍</h2>
+<p class="lede">老师的诊断很明确：<b>你的问题是听不懂问句，不是说不出来。</b>三次卡壳全部卡在没听懂，他把问句拆开重念一遍，你立刻就能答。</p>
+
+<h3>先练这三个问句（讲义上是绿色高亮＝听力关键词）</h3>
+<div class="tw"><table>
+<thead><tr><th>考官问句</th><th>问的是</th><th>你的答案</th></tr></thead>
+<tbody>
+<tr><td class="f">Ça fait combien de temps que… ?</td><td>你干这件事多久了</td><td class="f">Je suis au Canada depuis cinq ans.</td></tr>
+<tr><td class="f">Quels sont vos loisirs préférés ?</td><td>兴趣爱好</td><td>三个爱好各一句，见下</td></tr>
+<tr><td class="f">Combien de langues parlez-vous ?</td><td>会几门语言</td><td class="f">Je parle trois langues : chinois, français et anglais.</td></tr>
+</tbody></table></div>
+<p>「兴趣爱好」有<b>三种问法</b>都要能听出来：<span class="fr">les loisirs</span> / <span class="fr">un centre d'intérêt</span> / <span class="fr">un passe-temps</span>（后两个是他课后在讲义上手写并圈出来的）。</p>
+
+<h3>本课最强的一条规则：depuis 对 il y a</h3>
+<div class="rule fix">
+  <h4>老师唯一说「这个非常重要」的语法点 <span class="stamp">01:24:30</span></h4>
+  <p><span class="fr">depuis</span> ＋时间段＝<b>到现在还在继续</b>；<span class="fr">il y a</span> ＋时间段＝<b>多久之前</b>（一个已经结束的时间点）。</p>
+  <p><span class="bad">Il y a cinq ans（你答的）</span> → <span class="good">Je suis au Canada depuis cinq ans.</span></p>
+  <p>他连成因都点出来了：「因为我们<b>中国人喜欢说『哦，有五年了』</b>，然后就马上理解成 il y a，不是的。」中文的「有五年了」是个陷阱。</p>
+  <p>反过来这句是对的：<span class="fr">Il y a cinq ans, je suis arrivé au Canada.</span>——「到达」是五年前发生完的动作。</p>
+</div>
+
+<h3>三个爱好，三种不同结构</h3>
+<div class="tpl">
+  <span class="lbl">整串背 · 结构轮换本身就是给考官看的多样性</span>
+  <span class="fr">Je fais de la course dans mon temps libre.<br>Je fais de la randonnée en week-ends.<br>On joue aux échecs à la maison.</span>
+</div>
+<p><span class="fr">jouer aux échecs</span> 他连说两遍「<b>固定表达</b>」。<span class="fr">dans mon temps libre</span> 以他自己打的讲义为准（课上念的是 en，纸面写的是 dans）。</p>
+
+<h3>长度上限 2–3 句，流利度上不封顶</h3>
+<div class="rule">
+  <p class="q zh">「在 TE 里面<b>我们没有超过三句话的回答</b>。」需要「详细一点」的只有兴趣爱好和三道拓展题，而「详细」的定义仍然是两到三句。</p>
+  <p>反过来对流利度没有上限：「你自我介绍这一部分的内容，<b>你要背得滚瓜烂熟</b>……要背到一点都不卡的程度是最好的。」<span class="stamp">01:26:00</span></p>
+</div>
+
+<h3>三道拓展题（回去准备）</h3>
+<div class="tw"><table>
+<thead><tr><th>题</th><th>要点</th><th>优先级</th></tr></thead>
+<tbody>
+<tr><td class="f">Pouvez-vous me raconter un de vos voyages ?</td><td>题材不限，说上个月去温哥华都行，但要有细节。你课上只说「十年前去过法国」被判太短。</td><td><b>★ 最高</b>（他在讲义上画了红色五角星）</td></tr>
+<tr><td class="f">Quels sont vos projets pour l'avenir ?</td><td class="f">Je vais continuer mon travail comme informaticien.</td><td>中</td></tr>
+<tr><td>为什么考这个考试</td><td>想在加拿大定下来；这里有更好的教育和自然环境</td><td>中</td></tr>
+</tbody></table></div>
+</section>
+
+<section id="o2">
+<h2><span class="n">§4 · 篇章</span>口语 T2：向邻居打听街区</h2>
+<p class="lede">口语三道题里<b>唯一有准备时间</b>的一道。题型是 cosplay：考官给场景，<b>由你提问并主导整个对话</b>——「C'est vous qui guidez la conversation」，考官不负责引导方向。题目可以看（考官拿 iPad 给你）。</p>
+
+<h3>完整对话分四块 —— 课上只讲了前两块</h3>
+<div class="tw"><table>
+<thead><tr><th>块</th><th>内容</th><th>来源</th></tr></thead>
+<tbody>
+<tr><td><b>① 礼貌开场</b></td><td class="f">Bonjour monsieur/madame, je viens d'emménager ici. Avez-vous du temps ? Puis-je vous poser quelques questions ?</td><td class="stamp">课上 01:35</td></tr>
+<tr><td><b>② 提问</b></td><td>三种句式轮换，见下</td><td class="stamp">课上 01:41</td></tr>
+<tr><td><b>③ 回应</b></td><td class="f">C'est super ! / C'est génial ! / Impeccable ! / Bien sûr ! / Je comprends. / C'est bien noté / Exactement !</td><td class="stamp paper">讲义 · 课上没讲</td></tr>
+<tr><td><b>④ 礼貌收尾</b></td><td class="f">Ok, je pense que j'ai toutes les informations dont j'ai besoin. → Je vais y réfléchir → Merci pour votre temps, bonne journée !</td><td class="stamp paper">讲义 · 课上没讲</td></tr>
+</tbody></table></div>
+<div class="warn"><strong>这是本课最大的缺口。</strong>在把讲义摄入之前，你的 T2 练到「问完问题」就断了——<b>考官答完你不会接，问够了不会收场</b>。三分半的完整对话里全程只会问不会应，考官一听就知道你在背问句表。</div>
+<p><span class="fr">Puis-je</span> 是倒装，他的指令很干脆：「<b>你不需要管它为什么，直接背，直接抄下来</b>。」开场白长度：「够了。<b>也不需要说太多，有就可以了。</b>」</p>
+
+<h3>三种问句模具</h3>
+<div class="tw"><table>
+<thead><tr><th>#</th><th>句式</th><th>例</th><th>思路</th></tr></thead>
+<tbody>
+<tr><td>1</td><td class="f">Y a-t-il … ? / Est-ce qu'il y a … ?</td><td class="f">Y a-t-il des supermarchés dans le quartier ?</td><td>直接接名词，<b>要做到脱口而出</b></td></tr>
+<tr><td>2</td><td class="f">Où peut-on + inf. ?</td><td class="f">Où peut-on faire les courses ?</td><td><b>把提示词当成对方的答案</b>，反过来问</td></tr>
+<tr><td>3</td><td class="f">Avez-vous … à me conseiller ?</td><td class="f">Avez-vous des cafés à me conseiller ?</td><td>请对方推荐</td></tr>
+<tr><td class="stamp paper">4</td><td class="f">Est-ce qu'on organise … ?</td><td class="f">Est-ce qu'on organise des événements ?</td><td class="stamp paper">讲义补的第四种，问活动</td></tr>
+</tbody></table></div>
+<p>只用第一种会怎样？「你站在考官的角度，你会不会觉得这个学生的语言其实还是蛮贫瘠的？<b>他只换了词而已</b>。」<span class="stamp">01:42:00</span></p>
+
+<h3>每句后面挂一个「在附近」</h3>
+<div class="tpl"><span class="lbl">三个轮换 · 让句子不单薄</span>
+<span class="fr">dans le quartier　·　à proximité　·　près d'ici</span></div>
+
+<h3>思维导图：按类别成组问，不能跳</h3>
+<div class="tw"><table>
+<thead><tr><th>类别（讲义原名）</th><th>可以问什么</th></tr></thead>
+<tbody>
+<tr><td class="f">commerces &amp; services</td><td class="f">supermarchés / les petits commerces / marché local · restaurants / cafés / bars · une pharmacie / un médecin / un centre de santé</td></tr>
+<tr><td class="f">loisirs &amp; activités</td><td class="f">un parc / un espace vert · piscine, salle de sport · des associations / des événements</td></tr>
+<tr><td class="f">transports &amp; accessibilité</td><td class="f">stations de métro, de bus ou de tram · stationnement, parking</td></tr>
+<tr><td class="f">écoles &amp; garde enfant</td><td class="f">crèche, école maternelle ou primaire</td></tr>
+</tbody></table></div>
+<div class="rule fix">
+  <p><b>不能跳来跳去。</b>「你不可以突然问人家商业的问题之后去问学校，问完学校又跑去问商业，<b>这样是不行的</b>……你给考官的答案要 logic，你要 make sense。」</p>
+  <p>一类问完 pass 掉再进下一类。光「商业」一类就能拆出<b>三个</b>问题（购物 / 吃饭 / 健康）。<span class="stamp">01:47:30</span></p>
+</div>
+
+<h3>追问的边界：一个普通邻居会知道吗</h3>
+<div class="tw"><table>
+<thead><tr><th>可以问</th><th>跑题</th></tr></thead>
+<tbody>
+<tr><td>小学是公立还是私立（<span class="fr">privé ou public</span>）——邻居知道，但<b>点到即止</b></td><td>药店里有没有某种具体的药——「他只是你的邻居」</td></tr>
+<tr><td>学费多少——邻居未必知道，看时间够不够，边缘</td><td>药店能不能刷卡、怎么结算——「这个就算偏题了」</td></tr>
+</tbody></table></div>
+<p>他连说三遍「不可以」。结课时又补了追问的两个风险：「<b>第一就是你会跑题，第二就是你时间把控不好</b>。所以先完成这个答案，先完成这个题目，我们再看可不可以做更深刻的。」</p>
+</section>
+
+<section id="nums">
+<h2><span class="n">§5 · 考场</span>可量化的规则</h2>
+<p class="lede">这一节全是能自测的硬指标——练的时候掐表数数就行。</p>
+<div class="tw"><table>
+<thead><tr><th>项目</th><th>指标</th><th>说明</th></tr></thead>
+<tbody>
+<tr><td>T2 准备时间</td><td><b>2 分钟</b></td><td>口语三题里唯一有准备时间的</td></tr>
+<tr><td>T2 答题时间</td><td><b>3 分半（上限）</b></td><td>推荐说到 <b>3 分钟左右</b>就收；「少三十秒不会扣分」</td></tr>
+<tr><td>T2 问题数</td><td><b>8–10 个</b>，下限 <b>6 个</b></td><td>「连六个都问不到，就证明这个题你一定有问题」</td></tr>
+<tr><td>T1 每题长度</td><td><b>2–3 句，不超过 3 句</b></td><td>「在 TE 里面我们没有超过三句话的回答」</td></tr>
+<tr><td>括号提示词</td><td><b>每类必答，可多不可少</b></td><td>可以换同类词替换；<b>口语和写作都适用</b></td></tr>
+<tr><td>被打断</td><td>本身<b>不扣分</b></td><td>扣分的是说得慢、前摇长，到点了该问的还没问完</td></tr>
+</tbody></table></div>
+<div class="rule">
+  <h4>括号提示词为什么可以换词 <span class="stamp">01:34:00</span></h4>
+  <p>「<b>它的提示词相当于全部都是分类</b>。」括号写 <span class="fr">commerces</span>，你问「有超市吗／有咖啡店吗／有饭店吗」，阅卷时算你提到了；括号写 <span class="fr">école</span>，你问「有初中吗／有托儿所（<span class="fr">crèche</span>）吗」一样算。</p>
+</div>
+</section>
+
+<section id="fixes">
+<h2><span class="n">§6 · 纠错</span>逐处纠错清单</h2>
+<p class="lede">这节课老师动笔改的每一处，按材料分组。左边是你写的，右边是他改的——这份表是这节课最具体的产出。</p>
+
+<h3>开课听写核对（15 个词逐个报、逐个核对）</h3>
+<div class="tw"><table>
+<thead><tr><th>词</th><th>你答的</th><th>老师给的</th><th>出处</th></tr></thead>
+<tbody>
+<tr><td class="f">gâteau</td><td class="bad">礼物</td><td class="good">蛋糕；礼物是 cadeau</td><td class="stamp">09:00</td></tr>
+<tr><td class="f">entretien</td><td class="bad">test；且拼写写错</td><td class="good">面试；当场重写了一遍</td><td class="stamp">10:00</td></tr>
+<tr><td class="f">jusqu'à</td><td class="bad">由于</td><td class="good">直到；到……为止</td><td class="stamp">08:30</td></tr>
+<tr><td class="f">faire attention à</td><td class="bad">花精力在某事上</td><td class="good">注意（pay attention to）</td><td class="stamp">12:00</td></tr>
+<tr><td class="f">automobiliste</td><td>写对了 ✓</td><td>他专门表扬——L37 说这词只要求认读，L38 升级成要会拼</td><td class="stamp">07:00</td></tr>
+</tbody></table></div>
+<p>顺带的扩展：<span class="fr">imitation</span> 的同义替换 <span class="fr">le plagiat</span>（剽窃）；「考试」词族 <span class="fr">test / examen / épreuve / concours</span> 的分工——examen 在口语听力里多，épreuve 和 concours 在阅读里多。<span class="stamp">07:30</span></p>
+
+<h3>写作 T1 卷（老师红笔，逐处）</h3>
+<div class="tw"><table>
+<thead><tr><th>你写的</th><th>老师改成</th><th>为什么</th></tr></thead>
+<tbody>
+<tr><td class="f bad">Objet: Partagant mon pays</td><td class="f good">partager / nous partageons</td><td>现在分词用法不对</td></tr>
+<tr><td class="f bad">je pense ce que tu veux prendre…</td><td class="f good">J'apprends que tu veux…</td><td><span class="fr">ce que</span>＝英语 what，这里不需要</td></tr>
+<tr><td class="f bad">vacances du pays étrangé</td><td class="f good">à l'étranger</td><td><b>de ＋地点＝from</b>，不是「从某地」就不能用 de</td></tr>
+<tr><td class="f bad">J'ai même visité quelque pays: la France, l'anglais, le Japon</td><td class="good">整句删除</td><td>与任务无关；<span class="fr">l'anglais</span> 是「英语」，国名是 <span class="fr">l'Angleterre</span></td></tr>
+<tr><td class="f bad">Je voudrais partager mon pays</td><td class="f good">Je voudrais te recommander mon pays</td><td><span class="fr">partager</span>＝share，「分享我的国家」很奇怪</td></tr>
+<tr><td class="f bad">Dans la compagne</td><td class="f good">la campagne</td><td><span class="fr">compagne</span>＝女伴，<span class="fr">campagne</span>＝乡村</td></tr>
+<tr><td class="f bad">je me souvent premène</td><td class="f good">je me promène souvent</td><td>老师圈出；拼写＋频率副词位置</td></tr>
+<tr><td class="f bad">à la plage de lac</td><td class="f good">du lac</td><td>de + le → du</td></tr>
+<tr><td class="f bad">En autre,</td><td class="f good">En outre,</td><td>两份卷子上都写错了同一个词</td></tr>
+<tr><td class="f bad">C'est le mieux musée</td><td class="f good">le meilleur musée</td><td><b>mieux 是副词，meilleur 是形容词</b>；修饰名词只能用 meilleur</td></tr>
+<tr><td class="f bad">n'obligé pas manger le soupe</td><td class="f good">n'oublie pas de prendre de la soupe</td><td>一句三错：认错动词、漏 de、汤要 prendre ＋部分冠词</td></tr>
+<tr><td class="f bad">après votre visite à le musée</td><td class="f good">au musée</td><td>à + le → au</td></tr>
+<tr><td class="f bad">attends te rèpose</td><td class="f good">j'attends ta réponse</td><td><span class="fr">réponse</span>＝回复，<span class="fr">repos</span>＝休息</td></tr>
+<tr><td class="bad">全文 tu / vous 混用</td><td class="good">选定一套人称就用到底</td><td>写给 Pierre 已用 tu，后面不能突然 vous</td></tr>
+</tbody></table></div>
+<p class="stamp">最后四条来自你课前自己跑的 AI 批改，老师的红笔没有碰这几处——优先级排在他亲手改的后面。</p>
+
+<h3>写作 T3 卷（老师红笔）</h3>
+<div class="tw"><table>
+<thead><tr><th>你写的</th><th>问题</th></tr></thead>
+<tbody>
+<tr><td class="f">…tandis que d'autres pensent que <span class="bad">les autres considèrent que</span> cela n'aide pas</td><td>写重了，删掉其中一个</td></tr>
+<tr><td class="f">ils ne doivent pas <span class="bad">fini</span> les devoirs</td><td>动词形式错，应为 <span class="good">finir</span></td></tr>
+<tr><td class="f">quand <span class="bad">ils est libre</span></td><td>主谓不一致，应为 <span class="good">ils sont libres</span></td></tr>
+<tr><td class="f bad">En autre,</td><td>同 T1，应为 <span class="good">En outre</span></td></tr>
+<tr><td class="f bad">comprendre leurs enfants à leur situation d'études</td><td>「几乎写成了 Parents can understand their children in their situation of studies，就很奇怪」</td></tr>
+<tr><td class="f bad">pour les memoires de que les apprendent</td><td>词组用错</td></tr>
+</tbody></table></div>
+
+<h3>你自己把五点连成的句子（老师批改截图）</h3>
+<div class="tw"><table>
+<thead><tr><th>你写的</th><th>老师改成</th><th>规则</th></tr></thead>
+<tbody>
+<tr><td class="f bad">ils permettre les enfants à préparer</td><td class="f good">permettent aux enfants de se préparer</td><td>permettre à qn <b>de</b> + inf.</td></tr>
+<tr><td class="f bad">ils aident les enfants à leur développement de l'autonomie</td><td class="f good">à développer leur autonomie</td><td>développer <b>直接及物</b></td></tr>
+<tr><td class="f bad">connaissances aquises</td><td class="f good">acquises</td><td>少一个 c，两份材料里重复出现</td></tr>
+</tbody></table></div>
+
+<h3>口语对练</h3>
+<div class="tw"><table>
+<thead><tr><th>你说的</th><th>老师改成</th><th>规则</th></tr></thead>
+<tbody>
+<tr><td class="f bad">je me nais le…</td><td class="f good">je suis né le…</td><td>固定表达，日期前用定冠词 le</td></tr>
+<tr><td class="f bad">Il y a cinq ans</td><td class="f good">depuis cinq ans</td><td><b>「这个非常重要」</b></td></tr>
+<tr><td class="f bad">Je suis un informaticien</td><td class="f good">Je suis informaticien</td><td>职业、国籍前<b>不加冠词</b></td></tr>
+<tr><td class="f bad">Je suis responsable + 错介词</td><td class="f good">responsable de + n / inf.</td><td>—</td></tr>
+<tr><td class="f bad">je préfère faire… gros（老师没听出来）</td><td class="f good">faire de la course</td><td>跑步的固定说法</td></tr>
+<tr><td class="bad">爱好说得太散</td><td class="good">三句三种结构</td><td>faire de la / jouer avec / jouer aux</td></tr>
+</tbody></table></div>
+</section>
+
+<section id="threads">
+<h2><span class="n">§7 · 连线</span>四条贯穿线</h2>
+<p class="lede">上面每一节都是横切面。这四条是纵向的——它们解释了为什么同一个东西会在不同章节里反复出现。</p>
+
+<div class="thread">
+  <h4>① 一个词的一生：听写 → 写作模板</h4>
+  <p class="chain">
+    <span class="node">开课听写报的词</span><span class="ar">→</span>
+    <span class="node hi fr">une occasion</span><span class="ar">→</span>
+    <span class="node">写作 T3 五点的第五点</span><span class="ar">→</span>
+    <span class="node fr">C'est une occasion de + inf.</span>
+  </p>
+  <p>这是本课唯一一个「听写词直接变成写作模板」的词。同类的还有 <span class="fr">se promener</span>：写作 T1 里老师圈出你写错的 <span class="fr">premène</span>，口语 T2 讲义上他又把它写在公园那条线旁边——<b>同一个词，写作和口语都要用</b>，它在词表里因此带两条来源记录。</p>
+</div>
+
+<div class="thread">
+  <h4>② 一个错误的一生：写错 → 纠正 → 规则 → 模板</h4>
+  <p class="chain">
+    <span class="node bad">ils permettre les enfants à préparer</span><span class="ar">→</span>
+    <span class="node">老师红笔改 aux / de se</span><span class="ar">→</span>
+    <span class="node hi">permettre 用 de，aider 用 à</span><span class="ar">→</span>
+    <span class="node fr">Les devoirs permettent aux enfants de se préparer.</span>
+  </p>
+  <p>这条链是这节课的方法论在单个案例上的完整体现：<b>他没有给你正确句子让你背，而是给了你论元结构让你自己重造</b>。也是唯一一条音频里完全听不出、只有纸面能定案的规则。</p>
+</div>
+
+<div class="thread">
+  <h4>③ 跨课复用：L38 的听写＝L37 的阅读卷</h4>
+  <p class="chain">
+    <span class="node">L37 阅读 test 11</span><span class="ar">→</span>
+    <span class="node hi">18 个词</span><span class="ar">→</span>
+    <span class="node">L38 开课听写重报</span>
+  </p>
+  <p><span class="fr">location · jusqu'à · entretien · épreuve · boutique · consister en/à · faire attention à · en temps réel · chauffeur · automobiliste · imitation · le plagiat · déguster · le début de · cadeau</span> ——L37 的词表里全都有。</p>
+  <p>老师没说破，但说了推论：「<b>这都是阅读里面的词，你背的单词每一个都是有作用的</b>，就为什么一定要让你刷阅读题。」两个后果：同一个词第二次出现＝优先级最高；<b>认读要求升级成拼写要求</b>。</p>
+</div>
+
+<div class="thread">
+  <h4>④ 同一话题，写作口语同时考</h4>
+  <p class="chain">
+    <span class="node hi">严厉教育（parents autoritaires / sévères）</span><span class="ar">→</span>
+    <span class="node">写作原题</span><span class="ar">+</span><span class="node">口语题</span>
+  </p>
+  <p>老师原话：「这个题也考过很多次。他不仅写作考过，<b>这个题是写作和口语会同时考的</b>。今年也在考，考过好多年，<b>每年都考</b>。」</p>
+  <p>「向邻居打听街区」同理——他自制的历年真题表显示 <b>2024-10 到 2025-05 至少考了 7 次</b>，分类栏全部是 <span class="fr">Neighborhood_Info</span>，括号提示词换词不换类。</p>
+</div>
+</section>
+
+<section id="edge">
+<h2><span class="n">§8 · 边界</span>明确不用背的，和没有证据的</h2>
+<p class="lede">负向信息和正向信息一样重要——这些是老师明确划掉的，或者证据不足不该收进来的。收在这里，免得下次又被当成教学点捡回去。</p>
+
+<h3>老师明说可以不管的</h3>
+<div class="tw"><table>
+<thead><tr><th>项</th><th>老师原话</th></tr></thead>
+<tbody>
+<tr><td class="f">en / dans mon temps libre</td><td>「你觉得有用的话你就记一下，<b>你觉得无所谓的话也可以不管</b>」</td></tr>
+<tr><td class="f">étant donné que</td><td>「如果你觉得背太麻烦了，你就<b>背上面四个</b>」——加分项</td></tr>
+<tr><td class="f">j'ai hâte de</td><td>你写进 T1 信里，他说「<b>这可以不要</b>」。因此没有收词条</td></tr>
+<tr><td class="f">alors</td><td>「比较口语哈，<b>所以我没有圈起来</b>」——写作别用</td></tr>
+<tr><td>背整篇句子</td><td>「我<b>特别不推荐</b>学生背句子」</td></tr>
+<tr><td>GPT 生成的问句库</td><td>「<b>背的痕迹太明显，很容易扣分</b>」</td></tr>
+</tbody></table></div>
+
+<h3>证据不足，没有收进来的</h3>
+<div class="warn">
+  <p><strong>en tout cas</strong> —— <span class="stamp">06:30–07:00</span> 那个窗口三路 ASR 分歧极大，而且老师那句「它中间没有空格，这是一个词」和 <span class="fr">en tout cas</span> 本身有空格矛盾。<b>宁可缺一个词，也不写一个拼不准的词。</b></p>
+  <p><strong>开课听写有几个词丢了</strong> —— <span class="stamp">03:30–04:00</span> 那个窗口不可恢复。所以这份手册只保证「收进来的每个词都有证据」，<b>不声称「一个都没漏」</b>。</p>
+  <p><strong>动词变位那三个词</strong>（entendre / recevoir / ouvrir）没有收词条 —— 变位练习正好落在待核对窗口上，不作为唯一证据来源。</p>
+  <p><strong>形容词性数配合表</strong>（现在叫 <code>阴阳性变词尾规则及特殊例外.jpg</code>）—— <b>L38 音频从头到尾没有讲它</b>。据此出卡等于替老师编一节课。它值得学，但应该单独立组。</p>
+</div>
+
+<h3>三个档位的含义</h3>
+<div class="tw"><table>
+<thead><tr><th>档</th><th>数量</th><th>意思</th><th>你该怎么用</th></tr></thead>
+<tbody>
+<tr><td><span class="dot class"></span>课上讲的</td><td>107</td><td>有转录时间戳，老师当堂说过</td><td>第一优先，全部要会</td></tr>
+<tr><td><span class="dot handout"></span>讲义档</td><td>22</td><td>老师亲手准备并发给你的材料，但<b>课上没讲到</b></td><td>是他给的不是我补的，但没听他讲过——第二优先</td></tr>
+<tr><td><span class="dot ai"></span>AI 补的</td><td>3</td><td>你课前自己跑的 AI 批改里，老师红笔<b>没有碰过</b>的部分</td><td>词本身是真的，优先级最低</td></tr>
+</tbody></table></div>
+</section>
+
+<section id="vocab">
+<h2><span class="n">§9 · 数据</span>完整词表 · 132 条</h2>
+<p class="lede">按课堂来源分组，不按字母序——同一组的词是老师在同一个动作里给的，一起记效率最高。上面的档位按钮可以过滤这一节。</p>
+<div id="vlist"></div>
+</section>
+
+<footer>
+<p>依据：<code>docker-data/outputs/L38/L38_final_working.md</code>（1556 行三路 ASR 合并转录）· <code>L38/vocab.json</code>（132 条，每条带结构化 provenance）· <code>L38.species.json</code>（43 个已审核知识点）· <code>L38/L38.doc-evidence.md</code>（老师课后材料的转写、归属与 SHA-256）。</p>
+<p>时间戳指向转录中的合并窗口。标「讲义」的条目没有转录出处，来自老师课后发的材料。</p>
+</footer>
+</main></div>
+
+<script>
+const VOCAB = [{"lemma": "la location", "pos": "nom", "zh": "租赁（这件事）；出租", "tier": "class", "ref": "L38:opening-dictation:location", "time": "00:30-01:00", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写第 1 个词，老师连报三遍。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:location"]}, {"lemma": "jusqu'à", "pos": "prep", "zh": "直到；到……为止", "tier": "class", "ref": "L38:opening-dictation:location", "time": "00:30-01:00; 08:30-09:00", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 学生这次的中文答案是错的：jusqu'à 是「直到」，不是「由于」。", "why": "开课听写词。核对时学生把它答成「由于」，老师没有接受这个中文。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:jusqu-a"]}, {"lemma": "un gâteau", "pos": "nom", "zh": "蛋糕", "tier": "class", "ref": "L38:opening-dictation:location", "time": "00:30-01:00; 09:00-09:30", "ex": "Le gâteau et le cadeau, ce n'est pas la même chose.", "note": "老师原话：「你写的这个 gâteau 还真不是礼物，这个（cadeau）是礼物，这俩有点像啊。」他还说两个词严格来说发音有轻重差别，但「你发的差不多，不要紧的」——所以这一对要靠拼写分，不要靠耳朵分。", "why": "开课听写词。学生把它当成「礼物」，老师当堂纠正：礼物是 cadeau，你写的这个是蛋糕。", "act": "correction", "sug": "", "refs": ["L38:opening-dictation:gateau"]}, {"lemma": "un cadeau", "pos": "nom", "zh": "礼物", "tier": "class", "ref": "L38:opening-dictation:location", "time": "09:00-09:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 L37 是在 boutique/cadeau 的题里出现的；L38 换成了和 gâteau 配对。", "why": "老师纠正 gâteau 时当场写出的对照词，两个词只差一个字母。", "act": "contrast", "sug": "", "refs": ["L38:opening-dictation:gateau"]}, {"lemma": "au début de", "pos": "expr", "zh": "在……开始的时候", "tier": "class", "ref": "L38:opening-dictation:location", "time": "09:30-10:00; 10:00-10:30", "ex": "au début de l'épreuve", "note": "老师原话：「它的词组叫 au début de，不要不要随便……不要给它自己加东西啊，au début 和 au début de。」au début＝单用「一开始」，后面要接名词时才补 de。", "why": "开课听写词。老师专门强调它的词组形式，不要自己往里加东西。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:debut"]}, {"lemma": "un entretien", "pos": "nom", "zh": "面试；面谈", "tier": "class", "ref": "L38:opening-dictation:location", "time": "01:00-01:30; 10:00-10:30; 10:30-11:00", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 拼写是本课新暴露的问题：老师说「entretien，这个写错了」，让学生重写了一遍。", "why": "开课听写词。学生先说它是 test，老师否掉，给出「面试」；学生这次还写错了拼写。", "act": "correction", "sug": "", "refs": ["L38:opening-dictation:entretien"]}, {"lemma": "en temps réel", "pos": "expr", "zh": "实时地；即时地", "tier": "class", "ref": "L38:opening-dictation:location", "time": "01:30-02:00; 08:00-08:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写词。老师核对时点名它是「中间那个词」，给出中文「实时地」。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:en-temps-reel"]}, {"lemma": "un chauffeur", "pos": "nom", "zh": "司机", "tier": "class", "ref": "L38:opening-dictation:location", "time": "01:30-02:00; 11:00-11:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写词，学生答「司机」，老师通过。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:chauffeur"]}, {"lemma": "un automobiliste", "pos": "nom", "zh": "驾车人；司机", "tier": "class", "ref": "L38:opening-dictation:location", "time": "01:30-02:00; 07:00-07:30; 11:00-11:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 L37 讲这题时老师说过三个「司机」词只要求认读；L38 把它放进听写，等于要求升级成会拼。", "why": "开课听写词。老师专门说「automobiliste 也写对了」——这个词拼写长，是听写的难点。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:automobiliste"]}, {"lemma": "consister en", "pos": "expr", "zh": "由……组成（后接名词）", "tier": "class", "ref": "L38:opening-dictation:location", "time": "02:30-03:00; 11:00-11:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写词，和 consister à 连着报，学生答「由什么组成」。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:consister-en"]}, {"lemma": "consister à faire quelque chose", "pos": "expr", "zh": "在于（做某事）（后接动词原形）", "tier": "class", "ref": "L38:opening-dictation:location", "time": "02:30-03:00; 11:00-11:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写词，紧跟着 consister en 报，两个介词的区别就是考点。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:consister-a"]}, {"lemma": "une imitation", "pos": "nom", "zh": "模仿；仿制品", "tier": "class", "ref": "L38:opening-dictation:location", "time": "02:30-03:00; 11:30-12:00", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写词，学生答「模仿」，老师通过。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:imitation"]}, {"lemma": "le plagiat", "pos": "nom", "zh": "抄袭；剽窃", "tier": "class", "ref": "L38:opening-dictation:location", "time": "11:30-12:00", "ex": "", "note": "三路 ASR 在这个词上都拼不准（听成 plagiarisme）；认定为 le plagiat 的依据是 L37 讲同一套阅读题时老师用的就是这个词（L37/vocab.json 里已有 le plagiat）。老师这次说「那道题你做对了所以我没讲」，但仍点名这是一组同义替换。", "why": "老师核对 imitation 时主动补的同义替换词：「它还有一个词叫 plagiat，剽窃」。", "act": "synonym", "sug": "", "refs": ["L38:opening-dictation:imitation"]}, {"lemma": "une épreuve", "pos": "nom", "zh": "考验；考试", "tier": "class", "ref": "L38:opening-dictation:location", "time": "03:00-03:30; 07:30-08:00", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 老师这次把「考试」一族又数了一遍：test／examen／épreuve／concours，并说 examen 在口语听力里多，épreuve 和 concours 在阅读里多。", "why": "开课听写词。老师说它「最本身的意思是考验，用得多了当考试讲也可以」。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:epreuve"]}, {"lemma": "un concours", "pos": "nom", "zh": "竞赛；（选拔性）考试", "tier": "class", "ref": "L38:opening-dictation:location", "time": "07:30-08:00; 08:00-08:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "老师数「考试」同义词族时点到的第四个，说它「阅读见得多一点」。", "act": "synonym", "sug": "", "refs": ["L38:opening-dictation:epreuve"]}, {"lemma": "une boutique", "pos": "nom", "zh": "商店；精品店", "tier": "class", "ref": "L38:opening-dictation:location", "time": "03:00-03:30; 12:00-12:30", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。", "why": "开课听写词。学生这次写对了，老师说「你写的是对的呀」。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:boutique"]}, {"lemma": "faire attention à", "pos": "expr", "zh": "注意；当心", "tier": "class", "ref": "L38:opening-dictation:location", "time": "03:00-03:30; 12:00-12:30; 12:30-13:00", "ex": "Il faut faire attention aux voitures quand on traverse la rue.", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 老师这次当堂造了一句可以直接背走的例句（过马路要注意车辆）。", "why": "开课听写词。学生猜成「花精力在什么事情上」，老师纠正成 pay attention to，并说它「泛用性非常高」。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:faire-attention-a"]}, {"lemma": "une occasion", "pos": "nom", "zh": "机会", "tier": "class", "ref": "L38:opening-dictation:location", "time": "08:30-09:00", "ex": "", "note": "它在本课后半程又变成写作 T3 的主力句式（une occasion de faire quelque chose），是这一课里唯一一个「听写词直接进写作模板」的词。", "why": "开课听写核对环节，学生答「机会」，老师通过。", "act": "memorize", "sug": "", "refs": ["L38:opening-dictation:occasion"]}, {"lemma": "recommander", "pos": "verbe", "zh": "推荐", "tier": "class", "ref": "L38:writing-T1:recommander", "time": "23:00-23:30; 23:30-24:00", "ex": "Je voudrais vous recommander mon pays.", "note": "老师在 T1 卷页边手写了完整搭配：**recommander qch à qn**（L38/L38.doc-evidence.md:222-264），同一处还写了「(建议) conseiller」和「partager = (分) share」，三个词是一起给的。", "why": "学生写 Je voudrais partager mon pays（＝share），老师说这样很奇怪，当场换成 recommander，并说「我们记两个单词」。", "act": "correction", "sug": "", "refs": ["L38:writing-T1:recommander"]}, {"lemma": "conseiller", "pos": "verbe", "zh": "建议；推荐", "tier": "class", "ref": "L38:writing-T1:recommander", "time": "23:30-24:00", "ex": "", "note": "", "why": "老师给的「推荐」第二个词，和 recommander 并列报出。", "act": "synonym", "sug": "", "refs": ["L38:writing-T1:recommander"]}, {"lemma": "un monument historique", "pos": "nom", "zh": "名胜古迹；历史建筑", "tier": "class", "ref": "L38:writing-T1:monuments", "time": "29:00-29:30; 30:00-30:30", "ex": "Il y a beaucoup de monuments historiques, par exemple le palais d'Été.", "note": "", "why": "老师给的介绍国家三个角度里的第一个，说「这个不就是 historic monuments，跟英文是一样的」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T1:monuments"]}, {"lemma": "un palais", "pos": "nom", "zh": "宫殿", "tier": "class", "ref": "L38:writing-T1:monuments", "time": "29:30-30:00", "ex": "le palais d'Été", "note": "老师顺手给了颐和园＝le palais d'Été（夏宫）。举名胜古迹的例子时有一个能写出来就够了。", "why": "学生想写「颐和园」写不出来，老师说「在法文里面所有的 palace 都叫 palais」。", "act": "explain", "sug": "", "refs": ["L38:writing-T1:palais"]}, {"lemma": "un musée", "pos": "nom", "zh": "博物馆", "tier": "class", "ref": "L38:writing-T1:monuments", "time": "30:30-31:00; 31:00-31:30", "ex": "", "note": "", "why": "介绍国家三个角度里「文化」那一条的主词，老师说学生原文写博物馆那句「写得很好」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T1:culture"]}, {"lemma": "les spécialités locales", "pos": "expr", "zh": "当地特色菜；地方特产", "tier": "class", "ref": "L38:writing-T1:specialites", "time": "31:00-31:30", "ex": "Vous pouvez déguster de nombreuses spécialités locales.", "note": "", "why": "老师本课唯一一次直接说「你把这个单词记下来啊」的词。", "act": "memorize", "sug": "", "refs": ["L38:writing-T1:specialites"]}, {"lemma": "déguster", "pos": "verbe", "zh": "品尝", "tier": "class", "ref": "L38:writing-T1:specialites", "time": "31:30-32:00", "ex": "", "note": "这个词 L37 讲阅读 test 11 时已经出现过（L37/vocab.json 同名词条）。L38 开课听写整份词表就是那套阅读卷的词，老师重报一次＝他要你真的记住。 老师紧接着说：「这都是阅读里面的词，你背的单词每一个都是有作用的」——这正是他让你刷阅读题的理由。", "why": "老师在 spécialités locales 前面「再给你补充一个动词」，就是这个。", "act": "memorize", "sug": "", "refs": ["L38:writing-T1:specialites"]}, {"lemma": "à l'étranger", "pos": "expr", "zh": "在国外", "tier": "class", "ref": "L38:writing-T1:abroad", "time": "20:30-21:00; 21:00-21:30", "ex": "Tu veux prendre tes vacances à l'étranger.", "note": "老师给的判别法：de 引导地点状语时，它完全等于英文 from；只要不是「从某地」，就不可能用 de。", "why": "学生把「在国外度假」写成 de ＋地点，老师改成 à l'étranger，说「作为地点状语我们通通都用 à l'étranger」。", "act": "correction", "sug": "", "refs": ["L38:writing-T1:abroad"]}, {"lemma": "prendre de la soupe", "pos": "expr", "zh": "喝汤", "tier": "class", "ref": "L38:writing-T1:abroad", "time": "26:00-26:30", "ex": "prendre de la soupe au tofu après votre visite au musée", "note": "老师给的理由是「因为汤不可数啊」——不可数的吃喝一律 prendre ＋部分冠词。", "why": "学生写 manger de la soupe，老师改掉：汤要用 prendre，而且是部分冠词 de la。", "act": "correction", "sug": "", "refs": ["L38:writing-T1:soupe"]}, {"lemma": "la consolidation", "pos": "nom", "zh": "巩固", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "38:00-38:30; 38:30-39:00", "ex": "", "note": "老师把这一组称作「万金油类的词」：「你可以把它背下来，背下来之后，你可以在所有的话题之下都用它去造句」。它不属于某一个题目，属于所有议论文。", "why": "老师说「所以你第一个要背的是这些单词」之后给出的第一个词。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:consolidation"]}, {"lemma": "l'approfondissement", "pos": "nom", "zh": "深化；加深", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "38:00-38:30; 38:30-39:00", "ex": "", "note": "老师把这一组称作「万金油类的词」：「你可以把它背下来，背下来之后，你可以在所有的话题之下都用它去造句」。它不属于某一个题目，属于所有议论文。", "why": "和 consolidation 成对给出，构成「巩固＋深化」这个固定并列。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:consolidation"]}, {"lemma": "les connaissances", "pos": "nom", "zh": "知识（复数时＝knowledge）", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "39:00-39:30", "ex": "des connaissances acquises en classe", "note": "单数 une connaissance 是「认识／熟人」，只有复数才是「知识」——这就是要背复数形的原因。", "why": "老师原话：「connaissance 这个单词如果用复数的话，它完全等于英文的 knowledge」。", "act": "explain", "sug": "", "refs": ["L38:writing-T3:connaissances"]}, {"lemma": "acquis", "pos": "adj", "zh": "已获得的；学到的", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "39:00-39:30; 41:00-41:30", "ex": "les connaissances acquises en classe", "note": "老师在骨架图上给 acquises 括注了英文 **(acquired)**，并对你写的 aquises 做了勾划（L38/L38.doc-evidence.md:88-111）——少一个 c 是你两份材料里重复出现的拼写错。他纠正的那个理解错误仍然是重点：acquises 是形容词，只修饰名词，跟后面接什么状语无关。", "why": "老师用它讲过去分词做后置定语：acquises 在这里就是个形容词，等于英文 acquired。", "act": "explain", "sug": "", "refs": ["L38:writing-T3:acquises"]}, {"lemma": "permettre quelque chose", "pos": "expr", "zh": "使……成为可能", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "40:30-41:00", "ex": "Les devoirs à la maison pourraient permettre la consolidation et l'approfondissement des connaissances acquises en classe.", "note": "老师课后发的批改（L38/L38.doc-evidence.md:52-87）里另起一栏手写了两个论元框架：**① permettre qch ② permettre à qn de + inf.**，并把你写的 ils permettre les enfants à préparer 改成 aux enfants de se préparer。接名词用这一条，接人＋动作用另一条（见词条 perm", "why": "把五个名词点连成句子的主动词，老师给的完整句就是围绕它造的。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:permettre"]}, {"lemma": "l'autonomie", "pos": "nom", "zh": "自主性；独立自主", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "44:00-44:30", "ex": "développer l'autonomie et l'organisation des enfants", "note": "老师同时解释了为什么不用 indépendance：indépendance 只强调「独立」，autonomie 还能强调「自主」。L37 写作 T3 也出现过这个词。", "why": "老师原话：「这个单词一定要背下来，所有跟小孩有关的都可以用这个单词」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:autonomie"]}, {"lemma": "l'organisation", "pos": "nom", "zh": "条理性；组织能力", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "44:00-44:30", "ex": "", "note": "老师把这一组称作「万金油类的词」：「你可以把它背下来，背下来之后，你可以在所有的话题之下都用它去造句」。它不属于某一个题目，属于所有议论文。", "why": "和 autonomie 绑成一个固定并列出现，是「小孩」类话题的第二个万金油名词。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:autonomie"]}, {"lemma": "la gestion du temps et des ressources", "pos": "expr", "zh": "时间和资源的管理", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "44:30-45:00", "ex": "apprendre la gestion du temps et des ressources", "note": "老师提醒 gestion 前面用 apprendre：「apprendre 是可以直接学的」，所以 apprendre la gestion du…＝学会管理……", "why": "五个点里的第四点，老师直接写下整串给学生。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:gestion"]}, {"lemma": "une occasion de faire quelque chose", "pos": "expr", "zh": "做某事的机会", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "45:00-45:30", "ex": "C'est une occasion de travailler en famille et de créer du lien.", "note": "两个句式：① C'est une occasion de ＋原形；② Cela nous offre une occasion de ＋原形。开课听写的 occasion 到这里变成了写作模板。", "why": "五个点里的第五点。老师给了两个可以直接套的句式，并说「以后你见到这种 occasion 的句式，你都这么写」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:occasion"]}, {"lemma": "travailler en famille", "pos": "expr", "zh": "一家人一起做事", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "45:00-45:30", "ex": "", "note": "", "why": "occasion 句式后面挂的第一个内容，属于「家庭关系」这条万能角度。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:occasion"]}, {"lemma": "créer du lien", "pos": "expr", "zh": "建立联系；增进感情", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "45:00-45:30; 01:11:00-01:11:30", "ex": "", "note": "老师说「所有提到小孩教育的题，都可以讨论它对家庭关系的影响」——créer du lien 就是这条角度的落点。", "why": "occasion 句式后面挂的第二个内容。学生自己造句时用上了，老师确认「liens 是联系，建立联系，可以了，挺好的」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:lien"]}, {"lemma": "parce que", "pos": "conj", "zh": "因为（最通用，可放句首或句中）", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:00-48:30", "ex": "", "note": "四个原因连词：parce que／car／puisque／comme。老师的两条位置规则：car 必须放在句中，comme 必须放在句首。四个都只能接句子，不能接名词。", "why": "老师给的四个因果连词之一，说这四个「意思一模一样」，背四个就够了。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:cause"]}, {"lemma": "car", "pos": "conj", "zh": "因为（只能放在句中）", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:00-48:30", "ex": "", "note": "想让内容丰富一点就把 parce que 换成 car，但换了就不能再放句首。", "why": "老师专门点名的位置限制词：「一定要记得 car 只能放在句中」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:cause"]}, {"lemma": "puisque", "pos": "conj", "zh": "既然；因为", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:00-48:30", "ex": "", "note": "", "why": "老师给的四个因果连词之一，用来替换「太普通」的 parce que。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:cause"]}, {"lemma": "comme", "pos": "conj", "zh": "因为（只能放在句首）", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:00-48:30", "ex": "", "note": "", "why": "老师给的四个因果连词之一，位置和 car 正好相反：必须放在句首。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:cause"]}, {"lemma": "étant donné que", "pos": "conj", "zh": "鉴于；既然（＝given that）", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:30-49:00", "ex": "", "note": "老师同时给了退路：「如果你觉得背太麻烦了，你就背上面四个」——这个词是加分项不是必背项。三路 ASR 在这个词上拼写都不准，认定依据是老师给出的英文对照 given that。", "why": "老师补的第五个，说它「有点像 given that，这个就叫显而易见的原因」。", "act": "explain", "sug": "", "refs": ["L38:writing-T3:cause"]}, {"lemma": "ainsi", "pos": "adv", "zh": "这样；因此（＝in this way）", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:30-49:00; 49:00-49:30", "ex": "", "note": "四个结果连词：ainsi／donc／c'est pourquoi／par conséquent，都接句子。老师说 alors 比较口语，「所以我没有圈起来」——写作里别用 alors。", "why": "老师给的四个结果连词之一，他给的英文对照是 in this way。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:result"]}, {"lemma": "donc", "pos": "adv", "zh": "因此；所以", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:30-49:00", "ex": "", "note": "", "why": "老师给的四个结果连词之一，中文对照「因此」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:result"]}, {"lemma": "c'est pourquoi", "pos": "expr", "zh": "这就是为什么（＝that's why）", "tier": "class", "ref": "L38:writing-T3:cause", "time": "48:30-49:00; 49:00-49:30", "ex": "C'est pourquoi je suis venu ici.", "note": "", "why": "老师给的四个结果连词之一，后面接结果句。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:result"]}, {"lemma": "par conséquent", "pos": "expr", "zh": "因此；结果", "tier": "class", "ref": "L38:writing-T3:cause", "time": "49:00-49:30", "ex": "", "note": "", "why": "老师给的四个结果连词里最正式的一个，用法是「par conséquent，逗号，加结果」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:result"]}, {"lemma": "autoritaire", "pos": "adj", "zh": "专制的；说一不二的", "tier": "class", "ref": "L38:writing-T3:homework-topic", "time": "01:11:30-01:12:00", "ex": "des parents autoritaires", "note": "", "why": "老师布置的课后写作原题就是这个话题（是否该对小孩非常严厉），他说「这个题也考过很多次，写作和口语会同时考，每年都考」。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:homework-topic", "L38:homework:education-des-enfants"]}, {"lemma": "sévère", "pos": "adj", "zh": "严厉的", "tier": "class", "ref": "L38:writing-T3:homework-topic", "time": "01:11:30-01:12:00", "ex": "des parents sévères", "note": "", "why": "老师给的同话题第二种说法：des parents sévères＝虎爸虎妈。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:homework-topic", "L38:homework:education-des-enfants"]}, {"lemma": "je suis né le", "pos": "expr", "zh": "我出生于（后接日期，用定冠词 le）", "tier": "class", "ref": "L38:oral-T1:naissance", "time": "01:23:30-01:24:00", "ex": "Je suis né le vingt-cinq mars mille neuf cent quatre-vingt-sept.", "note": "L36／L37 都练过同一句，L38 学生仍然说错——这是他自我介绍里最顽固的一个错。", "why": "学生说成 je me nais，老师纠正：这是固定表达，就是 je suis né le ＋日期。", "act": "correction", "sug": "", "refs": ["L38:oral-T1:naissance"]}, {"lemma": "depuis", "pos": "prep", "zh": "已经……（时间段，动作持续到现在）", "tier": "class", "ref": "L38:oral-T1:depuis-vs-il-y-a", "time": "01:16:30-01:17:00; 01:24:30-01:25:00; 01:25:00-01:25:30", "ex": "Je suis au Canada depuis cinq ans.", "note": "老师给的判别法：事情现在还在继续就用 depuis；il y a ＋时间段只能表示「多久之前」。他说中国学生特别容易把「有五年了」直译成 il y a。", "why": "考官问「你在加拿大多久了」，学生答 il y a cinq ans，老师当场否掉并说「这个非常重要」。", "act": "correction", "sug": "", "refs": ["L38:oral-T1:depuis-vs-il-y-a"]}, {"lemma": "il y a", "pos": "expr", "zh": "……之前（后接时间段）", "tier": "class", "ref": "L38:oral-T1:depuis-vs-il-y-a", "time": "01:24:30-01:25:00", "ex": "Il y a cinq ans, je suis arrivé au Canada.", "note": "", "why": "老师用它和 depuis 做对照：il y a cinq ans ＝五年前，不是「已经五年了」。", "act": "contrast", "sug": "", "refs": ["L38:oral-T1:depuis-vs-il-y-a"]}, {"lemma": "Ça fait combien de temps que...", "pos": "expr", "zh": "你……多久了？（考官提问句）", "tier": "class", "ref": "L38:oral-T1:ca-fait", "time": "01:24:30-01:25:00; 01:25:00-01:25:30", "ex": "Ça fait combien de temps que vous apprenez le français ?", "note": "这是 T1 的「听力题」不是「产出题」：老师说学生卡壳都卡在没听懂问句上。", "why": "本课学生两次没听懂的问句，老师拆开讲了一遍：Ça fait combien de temps ＋你干什么。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:ca-fait"]}, {"lemma": "Combien de langues parlez-vous ?", "pos": "expr", "zh": "您会说几门语言？", "tier": "class", "ref": "L38:oral-T1:ca-fait", "time": "01:17:00-01:17:30; 01:25:00-01:25:30", "ex": "Je parle trois langues : chinois, français et anglais.", "note": "", "why": "考官问句。老师给的标准答法是一句话报数再列举，不要一个一个往外蹦。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:langues"]}, {"lemma": "un centre d'intérêt", "pos": "nom", "zh": "兴趣爱好（考官换的说法）", "tier": "class", "ref": "L38:oral-T1:ca-fait", "time": "01:25:30-01:26:00; 01:26:00-01:26:30", "ex": "", "note": "老师课后的 T1 清单上，在 loisirs préférés 旁边手写并圈出了**两个**同义说法：**passe-temps** 和 **centre d'intérêt**（L38/L38.doc-evidence.md:121-158）。这三处在清单上是绿色高亮，绿色＝听力关键词，正好是你课上三次卡壳的位置。", "why": "考官问兴趣爱好时的第二种问法，老师说「像这些词你要听得懂啊」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:loisirs"]}, {"lemma": "les loisirs", "pos": "nom", "zh": "休闲活动；业余爱好", "tier": "class", "ref": "L38:oral-T1:ca-fait", "time": "01:20:30-01:21:00; 01:25:30-01:26:00", "ex": "", "note": "L36 开课听写报过同一个词（L36/vocab.json）。老师 L37 也点名过「这种词一定要知道」，L38 是第三次在同一个词上卡住。", "why": "考官原句 Quels sont vos loisirs préférés ? 学生当场没听懂。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:loisirs"]}, {"lemma": "faire de la course", "pos": "expr", "zh": "跑步", "tier": "class", "ref": "L38:oral-T1:hobbies", "time": "01:27:00-01:27:30", "ex": "Je fais de la course dans mon temps libre.", "note": "", "why": "学生想说跑步，说出来的是一个老师听不出的词；老师给出标准说法。", "act": "correction", "sug": "", "refs": ["L38:oral-T1:hobbies"]}, {"lemma": "faire de la randonnée", "pos": "expr", "zh": "徒步；远足", "tier": "class", "ref": "L38:oral-T1:hobbies", "time": "01:27:30-01:28:00", "ex": "Je fais de la randonnée en weekend.", "note": "", "why": "老师给学生梳理的自我介绍第二句活动。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:hobbies"]}, {"lemma": "jouer aux échecs", "pos": "expr", "zh": "下象棋（固定表达）", "tier": "class", "ref": "L38:oral-T1:hobbies", "time": "01:27:30-01:28:00", "ex": "On joue aux échecs à la maison.", "note": "", "why": "学生说不出「下象棋」，老师给出并连说两遍「固定表达」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:hobbies"]}, {"lemma": "le temps libre", "pos": "nom", "zh": "空余时间", "tier": "class", "ref": "L38:oral-T1:hobbies", "time": "01:27:00-01:27:30", "ex": "", "note": "老师课后发的 T1 清单（L38/L38.doc-evidence.md:121-158）上，他自己写的是 **dans mon temps libre**——纸面定案，用 dans。课上他念的是「en mon temps libre」，上线时我把介词标成了存疑，现在以纸面为准。他给这个词的边界仍然有效：「你觉得有用的话你就记一下，你觉得无所谓的话也可以不管」。L36 开课听写也报过这个词。", "why": "老师给的自我介绍时间状语，对应英文 in my free time。", "act": "explain", "sug": "", "refs": ["L38:oral-T1:hobbies"]}, {"lemma": "Quels sont vos projets pour l'avenir ?", "pos": "expr", "zh": "您未来的计划是什么？", "tier": "class", "ref": "L38:oral-T1:voyage", "time": "01:28:00-01:28:30; 01:29:00-01:29:30", "ex": "Je vais continuer mon travail comme informaticien.", "note": "老师说听懂 projet 这个词就够了。回答两到三句：继续现在的工作＋已经适应这里的生活。", "why": "老师布置的 T1 拓展题之一，说考官问这个是因为你在考移民考试。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:projets"]}, {"lemma": "Pouvez-vous me raconter un de vos voyages ?", "pos": "expr", "zh": "您能讲一次您的旅行吗？", "tier": "class", "ref": "L38:oral-T1:voyage", "time": "01:18:30-01:19:00; 01:28:00-01:28:30", "ex": "", "note": "老师的边界：不必挑和法国／法语有关的旅行，说上个月去温哥华都行，但要有介绍性的细节，不能一句话完事。", "why": "老师布置的 T1 拓展题之一，本课当场问了学生，学生只答出「十年前去过法国」被判太短。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:voyage"]}, {"lemma": "s'adapter à", "pos": "expr", "zh": "适应（某种生活）", "tier": "class", "ref": "L38:oral-T1:voyage", "time": "01:29:30-01:30:00", "ex": "Je m'adapte bien à la vie canadienne.", "note": "", "why": "老师给未来计划题的现成句子里用的动词。", "act": "memorize", "sug": "", "refs": ["L38:oral-T1:projets"]}, {"lemma": "Je viens d'emménager ici.", "pos": "expr", "zh": "我刚搬到这里来。", "tier": "class", "ref": "L38:oral-T2:opening", "time": "01:35:30-01:36:00; 01:36:00-01:36:30", "ex": "", "note": "emménager＝搬进来，和 déménager（搬走）方向相反。", "why": "老师说「所有问邻居的题都可以用这个」，是 T2 开场白的第二句。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:opening"]}, {"lemma": "Avez-vous du temps ?", "pos": "expr", "zh": "您有时间吗？", "tier": "class", "ref": "L38:oral-T2:opening", "time": "01:36:00-01:36:30", "ex": "", "note": "", "why": "T2 礼貌开场三件套的第二句。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:opening"]}, {"lemma": "Puis-je vous poser quelques questions ?", "pos": "expr", "zh": "我可以问您几个问题吗？", "tier": "class", "ref": "L38:oral-T2:opening", "time": "01:36:00-01:36:30", "ex": "", "note": "", "why": "T2 礼貌开场三件套的第三句。老师说 Puis-je 是倒装，「你不需要管它为什么，直接背，直接抄下来」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:opening"]}, {"lemma": "un quartier", "pos": "nom", "zh": "社区；小区", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:33:00-01:33:30; 01:45:00-01:45:30", "ex": "Y a-t-il des supermarchés dans le quartier ?", "note": "L36 开课听写报过这个词（L36/vocab.json）。在 T2 里它还兼作地点状语：dans le quartier。", "why": "T2 题面里的核心词，老师说「可以理解成 community，中文叫小区，国外叫社区」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:quartier"]}, {"lemma": "un supermarché", "pos": "nom", "zh": "超市", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:40:30-01:41:00; 01:41:30-01:42:00", "ex": "Y a-t-il des supermarchés dans le quartier ?", "note": "", "why": "老师给的「购物」类三个词之一，也是他示范提问时用的第一个词。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:commerces"]}, {"lemma": "les petits commerces", "pos": "expr", "zh": "小商铺；街边小店", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:40:30-01:41:00; 01:41:30-01:42:00", "ex": "", "note": "", "why": "老师给的「购物」类三个词之二，他说这三个「你知道一个就可以了」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:commerces"]}, {"lemma": "un marché local", "pos": "nom", "zh": "本地集市", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:40:30-01:41:00", "ex": "", "note": "这个词三路 ASR 拼写不一致，采信的是 Whisper 的读法，和老师同一句里的 supermarché／petits commerces 属于同一组。", "why": "老师给的「购物」类三个词之三。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:commerces"]}, {"lemma": "une pharmacie", "pos": "nom", "zh": "药店", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:41:00-01:41:30", "ex": "", "note": "", "why": "老师给的「社区生活」类三个词之一。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:sante"]}, {"lemma": "un médecin", "pos": "nom", "zh": "医生", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:41:00-01:41:30", "ex": "", "note": "", "why": "老师给的「社区生活」类三个词之二。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:sante"]}, {"lemma": "un centre de santé", "pos": "nom", "zh": "健康中心", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:41:00-01:41:30", "ex": "", "note": "", "why": "老师给的「社区生活」类三个词之三，他说这三个是「特地挑的、不太重复的」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:sante"]}, {"lemma": "une école primaire", "pos": "nom", "zh": "小学", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:48:30-01:49:00; 01:49:00-01:49:30", "ex": "Y a-t-il une école primaire dans le quartier ?", "note": "", "why": "老师圈出来让学生一定要问的词，因为学生自己有两个小孩，这题对他特别友好。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:ecole"]}, {"lemma": "une crèche", "pos": "nom", "zh": "托儿所", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "01:34:00-01:34:30", "ex": "", "note": "", "why": "老师举例说明「同类替换」时给的词：题面写 école，你问有没有托儿所也算问到了。", "act": "explain", "sug": "", "refs": ["L38:oral-T2:ecole"]}, {"lemma": "Y a-t-il ... ?", "pos": "expr", "zh": "有……吗？（il y a 的倒装问句）", "tier": "class", "ref": "L38:oral-T2:frames", "time": "01:41:30-01:42:00", "ex": "Y a-t-il des restaurants à proximité ?", "note": "", "why": "T2 三个提问句式里的第一个，老师说这句和 Est-ce qu'il y a 「要做到脱口而出」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:frames"]}, {"lemma": "Est-ce qu'il y a ... ?", "pos": "expr", "zh": "有……吗？（后面直接加名词）", "tier": "class", "ref": "L38:oral-T2:frames", "time": "01:41:30-01:42:00", "ex": "Est-ce qu'il y a une pharmacie près d'ici ?", "note": "", "why": "和 Y a-t-il 并列的第二种问法，老师说后面「加什么名词都可以」。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:frames"]}, {"lemma": "Où peut-on faire les courses ?", "pos": "expr", "zh": "我们可以在哪里购物？", "tier": "class", "ref": "L38:oral-T2:frames", "time": "01:43:00-01:43:30", "ex": "", "note": "老师的思路：别人回答「有超市」的前提，就是你问了「在哪里能购物」。同一个模具可以问买药、找医生。", "why": "T2 三个提问句式里的第二个：把提示词当成对方的答案，自己问一个特殊疑问句。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:frames"]}, {"lemma": "Avez-vous quelque chose à me conseiller ?", "pos": "expr", "zh": "您有什么可以推荐给我的吗？", "tier": "class", "ref": "L38:oral-T2:frames", "time": "01:44:30-01:45:00", "ex": "Avez-vous des cafés ou des restaurants à me conseiller ?", "note": "", "why": "T2 三个提问句式里的第三个，老师说这是这个场景下「最好用的三个句子」之一。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:frames"]}, {"lemma": "à proximité", "pos": "expr", "zh": "在附近", "tier": "class", "ref": "L38:oral-T2:lieu", "time": "01:45:00-01:45:30", "ex": "", "note": "", "why": "老师给的三个「在附近」地点状语之二，用来把问句撑得更充实。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:lieu"]}, {"lemma": "près d'ici", "pos": "expr", "zh": "离这儿不远；这附近", "tier": "class", "ref": "L38:oral-T2:lieu", "time": "01:45:30-01:46:00", "ex": "", "note": "三个可以轮换：dans le quartier／à proximité／près d'ici。老师说把它们加在句子后面，句子会「更充实一些」。", "why": "老师给的三个「在附近」地点状语之三。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:lieu"]}, {"lemma": "un parc", "pos": "nom", "zh": "公园", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "「休闲娱乐」类的第一个词，老师在讲义上划了线。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "un espace vert", "pos": "nom", "zh": "绿地；绿色空间", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "和 parc 并列给出，是「带小孩去玩」那一问的用词。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "une piscine", "pos": "nom", "zh": "游泳池", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "「可以运动的地方」那一支的例子之一。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "une salle de sport", "pos": "nom", "zh": "健身房", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "「可以运动的地方」那一支的例子之一。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "une association", "pos": "nom", "zh": "协会；社团", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "「休闲娱乐」类的第三支，老师在讲义上划了线。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "un événement", "pos": "nom", "zh": "活动；集体活动", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "和 association 并列，问社区有没有活动时用。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "une station de métro", "pos": "nom", "zh": "地铁站", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "「公共交通」类的第一个具体词。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "le stationnement", "pos": "nom", "zh": "停车（这件事）", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "老师把 parking 圈了起来，旁边补了 privé ou public。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "un parking", "pos": "nom", "zh": "停车场", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "和 stationnement 并列，老师圈出并追问公私。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "une école maternelle", "pos": "nom", "zh": "幼儿园", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "「学校与托育」类里介于 crèche 和 école primaire 之间的一档。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "les commerces", "pos": "nom", "zh": "商铺；商业", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "题面括号提示词本身，也是思维导图第一个大类的名字。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "s'inscrire aux activités", "pos": "expr", "zh": "报名参加活动", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。 L36 开课听写报过 s'inscrire à quelque chose，这里是它在社区场景下的固定搭配。", "why": "老师讲义上「可以运动或报名活动的地方」那一支的原话搭配。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:mindmap"]}, {"lemma": "public", "pos": "adj", "zh": "公立的；公共的", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "老师在转录里说这是「点到即止」的合理追问：邻居知道小学是公立还是私立，但未必知道学费。", "why": "老师把 parking 圈起来后手写「→ privé ou public」，问学校时也是同一组词。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:prive-public"]}, {"lemma": "privé", "pos": "adj", "zh": "私立的；私人的", "tier": "class", "ref": "L38:oral-T2:quartier", "time": "", "ex": "", "note": "", "why": "和 public 成对，老师手写在 parking 旁边。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:prive-public"]}, {"lemma": "un passe-temps", "pos": "nom", "zh": "消遣；业余爱好", "tier": "class", "ref": "L38:oral-T1:ca-fait", "time": "", "ex": "", "note": "三个说法都要能听出来：les loisirs ／ un passe-temps ／ un centre d'intérêt。这三处在讲义上是绿色高亮，绿色＝听力关键词——正好是你课上卡壳的地方。", "why": "老师在 loisirs préférés 旁边手写并圈出的两个同义说法之一。", "act": "synonym", "sug": "", "refs": ["L38:oral-T1:loisirs"]}, {"lemma": "permettre à quelqu'un de faire quelque chose", "pos": "expr", "zh": "使某人能够做某事", "tier": "class", "ref": "L38:writing-T3:permettre-frames", "time": "", "ex": "Les devoirs permettent aux enfants de se préparer aux évaluations.", "note": "老师手写的三行原文：① permettre qch ② permettre à qn de + inf. ③ aider qn à + inf。音频里这一段主路（VibeVoice）与 Qwen3 都听成 back matter；Whisper q4 转出了 permettre quelque chose，但把 à quelqu'un 写成了 à quelque chose。完整的两个论元框架仍以这张图为准。", "why": "你写成 ils permettre les enfants à préparer，老师改成 aux enfants de se préparer，并在旁边另起一栏写下两个论元框架。", "act": "correction", "sug": "", "refs": ["L38:writing-T3:permettre-frames"]}, {"lemma": "une évaluation", "pos": "nom", "zh": "测验；评估", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "五点骨架第二点的宾语：préparer aux évaluations & aux examens。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:preparation"]}, {"lemma": "la préparation", "pos": "nom", "zh": "准备", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "五点骨架第二个名词点，老师在旁边补了它的动词形式 préparer à。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:preparation"]}, {"lemma": "le développement", "pos": "nom", "zh": "发展；培养", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "五点骨架第三个名词点，老师在旁边补了动词 développer。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:developpement"]}, {"lemma": "un apprentissage", "pos": "nom", "zh": "学习；学会", "tier": "class", "ref": "L38:writing-T3:consolidation", "time": "", "ex": "", "note": "老师课后发的材料里才有的词：课上他只说了中文，音频没有法语依据，上线时按「不造词」排除了。", "why": "五点骨架第四个名词点，老师在下面手写了动词 apprendre。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:apprentissage"]}, {"lemma": "aider quelqu'un à faire quelque chose", "pos": "expr", "zh": "帮助某人做某事", "tier": "class", "ref": "L38:writing-T3:permettre-frames", "time": "", "ex": "Les devoirs aident les enfants à développer leur autonomie.", "note": "L37 已有同一词条（L37/vocab.json）。L38 老师把它和 permettre 并排重写了一次，因为这两个动词是连接五个名词点的全部工具。", "why": "老师那栏论元框架笔记的第三行，和 permettre 的两个框架并排写。", "act": "memorize", "sug": "", "refs": ["L38:writing-T3:permettre-frames"]}, {"lemma": "n'oublie pas de faire quelque chose", "pos": "expr", "zh": "别忘了做某事", "tier": "class", "ref": "L38:writing-T1:abroad", "time": "", "ex": "N'oublie pas de prendre de la soupe au tofu.", "note": "同一句他还把 manger le 改成 de prendre de la——两个错叠在一句里：动词错、冠词错、连接介词漏。", "why": "你写成 n'obligé pas manger，老师划掉手写 n'oublie，后面接 de + 动词原形。", "act": "correction", "sug": "", "refs": ["L38:writing-T1:noublie"]}, {"lemma": "le meilleur", "pos": "adj", "zh": "最好的（形容词最高级）", "tier": "class", "ref": "L38:writing-T1:abroad", "time": "", "ex": "", "note": "mieux 是副词（做得更好），meilleur 是形容词（更好的东西）。修饰名词只能用 meilleur。", "why": "你写 C'est le mieux musée，老师划掉 mieux 手写 le meilleur。", "act": "correction", "sug": "", "refs": ["L38:writing-T1:meilleur"]}, {"lemma": "se promener", "pos": "verbe", "zh": "散步", "tier": "class", "ref": "L38:writing-T1:abroad", "time": "", "ex": "Je me promène souvent au bord du lac.", "note": "老师只圈出没写改法，所以「这里有错」是他的判定。具体改法（拼写 promène，以及频率副词放在变位动词后面）来自你课前那次 AI 批改，不是老师写的。", "why": "你写 je me souvent premène，老师把 souvent premène 整个圈了出来。", "act": "correction", "sug": "", "refs": ["L38:writing-T1:promener", "L38:oral-T2:mindmap-handout"]}, {"lemma": "la campagne", "pos": "nom", "zh": "乡村；农村", "tier": "ai", "ref": "L38:writing-T1:ai-pass", "time": "", "ex": "", "note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。", "why": "你写成 la compagne（女伴），一个字母之差意思完全不同。", "act": "user_supplied", "sug": "你写成 la compagne（女伴），一个字母之差意思完全不同，属于写作里会直接扣分的形近混淆", "refs": ["L38:writing-T1:ai-pass"]}, {"lemma": "l'Angleterre", "pos": "nom", "zh": "英格兰", "tier": "ai", "ref": "L38:writing-T1:ai-pass", "time": "", "ex": "", "note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。", "why": "你列举去过的国家时写成 l'anglais（英语），国名和语言名混了。", "act": "user_supplied", "sug": "你列举去过的国家时写成 l'anglais（英语），国名和语言名混了，属于写作里会直接扣分的形近混淆", "refs": ["L38:writing-T1:ai-pass"]}, {"lemma": "une réponse", "pos": "nom", "zh": "回复；答复", "tier": "ai", "ref": "L38:writing-T1:ai-pass", "time": "", "ex": "", "note": "这条来自你课前自己跑的那次 AI 批改（T1 卷第 2–3 页打字的 v2 清单），**老师的红笔没有碰这一处**，所以它不是老师要求档。词本身是真的、也值得记，但优先级排在无后缀的词后面。", "why": "你写成 attends te rèpose，把 réponse（回复）和 repos（休息）混了。", "act": "user_supplied", "sug": "你写成 attends te rèpose，把 réponse（回复）和 repos（休息）混了，属于写作里会直接扣分的形近混淆", "refs": ["L38:writing-T1:ai-pass"]}, {"lemma": "C'est super !", "pos": "expr", "zh": "太好了！", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏第 1 个回应用语。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "C'est génial !", "pos": "expr", "zh": "太棒了！", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏的回应用语。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "Impeccable !", "pos": "expr", "zh": "完美！", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏里语气最强的一个。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "Bien sûr !", "pos": "expr", "zh": "当然！", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏，也是考官答你时最常说的一句。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "Je comprends.", "pos": "expr", "zh": "我明白了。", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏，中性回应，任何回答都接得上。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "C'est bien noté", "pos": "expr", "zh": "记下了；知道了", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏，记信息时的回应。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "Exactement !", "pos": "expr", "zh": "正是；没错！", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 回应用语是 T2 里**考官说完你要接的那一句**——L38 只教到「怎么问」，没教「人家答完你怎么接」。", "why": "讲义「les réactions」栏（与 Carrément 并列给出）。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "Je vais y réfléchir.", "pos": "expr", "zh": "我会考虑一下。", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 讲义写的是「Je vais y réfléchir / Je vais …（结合题目）」——后半句要按当场题目补，不是死记。", "why": "讲义收尾三句之一，用于结束对话前的过渡。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "Merci pour votre temps", "pos": "expr", "zh": "谢谢您的时间，祝您愉快！", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 T2 是完整的 cosplay 对话，有开场就要有收尾。L38 教了开场（Bonjour + Je viens d'emménager ici…），没教这一头。", "why": "讲义收尾三句的最后一句，T2 的结束语。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "J'ai toutes les informations dont j'ai besoin.", "pos": "expr", "zh": "我需要的信息都拿到了。", "tier": "handout", "ref": "L38:oral-T2:handout-framework", "time": "", "ex": "Ok, je pense que j'ai toutes les informations dont j'ai besoin.", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 讲义原句带 Ok, je pense que 起头。它同时是一个信号：你已经问够了，可以收了。", "why": "讲义收尾三句的第一句，用来宣告提问结束。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:handout-framework"]}, {"lemma": "une clinique", "pos": "nom", "zh": "诊所", "tier": "handout", "ref": "L38:oral-T2:mindmap-handout", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。", "why": "讲义上写在 un centre de santé 旁边，是「健康」类的第四个词。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:mindmap-handout"]}, {"lemma": "se garer", "pos": "verbe", "zh": "停车（把车停好）", "tier": "handout", "ref": "L38:oral-T2:mindmap-handout", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。", "why": "讲义上从 stationnement, parking 引出，老师还标了中文「泊车」。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:mindmap-handout"]}, {"lemma": "un collège", "pos": "nom", "zh": "初中", "tier": "handout", "ref": "L38:oral-T2:mindmap-handout", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。", "why": "讲义上从 crèche / école maternelle / primaire 那条线延伸出来，老师标了中文「初中」。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:mindmap-handout"]}, {"lemma": "un lycée", "pos": "nom", "zh": "高中", "tier": "handout", "ref": "L38:oral-T2:mindmap-handout", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。", "why": "讲义上与 collège 并列，补全了学校的四个学段。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:mindmap-handout"]}, {"lemma": "la fête des voisins", "pos": "nom", "zh": "邻里节；社区聚会", "tier": "handout", "ref": "L38:oral-T2:mindmap-handout", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。", "why": "讲义上从 des associations / des événements 引出，是「社区活动」最具体的一个例子。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:mindmap-handout"]}, {"lemma": "Est-ce qu'on organise ... ?", "pos": "expr", "zh": "会组织……吗？", "tier": "handout", "ref": "L38:oral-T2:mindmap-handout", "time": "", "ex": "Est-ce qu'on organise des événements dans le quartier ?", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 L38 课上只讲了三种句式（Y a-t-il／Où peut-on／Avez-vous à me conseiller）。这是第四种，问「有没有组织什么活动」时比 Y", "why": "讲义上蓝笔写的第四种提问句式，专门用来问社区活动。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:mindmap-handout"]}, {"lemma": "l'ambiance du quartier", "pos": "expr", "zh": "小区氛围", "tier": "handout", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。", "why": "历年真题的括号提示词，7 道里出现了 3 次，是最高频的类别之一。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "les tarifs", "pos": "nom", "zh": "价格；收费", "tier": "handout", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。", "why": "2025-02 那道真题的提示词（les lieux à découvrir, les activités disponibles, les tarifs）。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "les équipements", "pos": "nom", "zh": "设施", "tier": "handout", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。", "why": "2024-12 那道真题的提示词（habitants, règles de vie, équipements）。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "les règles de vie", "pos": "expr", "zh": "（小区的）生活规约", "tier": "handout", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。", "why": "2024-12 那道真题的提示词，问的是楼里的规矩。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "les services disponibles", "pos": "expr", "zh": "可用的服务", "tier": "handout", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。", "why": "历年真题的括号提示词，2025-01 和 2025-02 两道都出现了。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "un apéritif", "pos": "nom", "zh": "餐前酒；小酌聚会", "tier": "handout", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "这条来自老师课后发的 T2 讲义（投递在 `L37/doc/`，但 T2 是 L38 教的）。**L38 课上没有讲到这一条**，所以它没有转录证据——它是老师亲手准备的材料，不是我补的。优先级排在课上讲过的词后面，但考场上用得到。 这是**历年真题的原始提示词**，不是老师临时想的。括号里的每一类都必须问到，所以这些词首先要能看懂。", "why": "两道真题的场景设定：邻居请你喝 apéritif de bienvenue（口语里常缩成 un apéro）。", "act": "handout", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "prendre un verre", "pos": "expr", "zh": "喝一杯；小聚", "tier": "class", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "Où peut-on prendre un verre avec les amis ?", "note": "这一条是**老师亲笔写在真题旁边的示范**，不是讲义里的现成词。他同时示范了另外两句：Avez-vous des restaurants chinois à me conseiller ? 和 Ça coûte cher ?", "why": "老师红笔把三种句式套到真题上时造的句：Où peut-on prendre un verre avec les amis ?", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}, {"lemma": "Ça coûte cher ?", "pos": "expr", "zh": "贵吗？", "tier": "class", "ref": "L38:oral-T2:past-prompts", "time": "", "ex": "", "note": "问价格是 T2 里一个独立的提问角度，L38 课上没提到，但历年真题的提示词里出现过（les tarifs）。", "why": "老师红笔示范的第三句，对应 les tarifs 那一类提示词。", "act": "memorize", "sug": "", "refs": ["L38:oral-T2:past-prompts"]}];
+const GROUPS = {"L38:opening-dictation:location": ["开课听写 · 18 个词", "L37 阅读 test 11 的词表重报。老师逐个报、逐个核对词义。"], "L38:writing-T1:recommander": ["写作 T1 · 推荐国家的选词", "partager 被否掉之后他给的两个词。"], "L38:writing-T1:monuments": ["写作 T1 · 三个角度的关键词", "名胜古迹 / 自然风光 / 文化，每刀一个词。"], "L38:writing-T1:specialites": ["写作 T1 · 唯一一次「把这个单词记下来」", "spécialités locales ＋ 动词 déguster。"], "L38:writing-T1:abroad": ["写作 T1 · 红笔纠错带出来的词", "每一条背后都有一处你写错的地方。"], "L38:writing-T1:ai-pass": ["写作 T1 · AI 批改独有（老师没碰）", "形近混淆，写作里会直接扣分。优先级最低。"], "L38:writing-T3:consolidation": ["写作 T3 · 万金油五点", "老师说「你第一个要背的是这些单词」。"], "L38:writing-T3:permettre-frames": ["写作 T3 · 论元结构（纸面才有）", "音频里被三路 ASR 全听成 back matter。"], "L38:writing-T3:cause": ["写作 T3 · 因果连词", "背四个就够，考点是位置。"], "L38:writing-T3:homework-topic": ["写作 T3 · 课后作业话题", "「写作和口语同时考，每年都考」。"], "L38:oral-T1:naissance": ["口语 T1 · 自我介绍纠错", ""], "L38:oral-T1:depuis-vs-il-y-a": ["口语 T1 · 唯一被标「非常重要」的一条", ""], "L38:oral-T1:ca-fait": ["口语 T1 · 要听懂的考官问句", "你三次卡壳全部卡在这里。"], "L38:oral-T1:hobbies": ["口语 T1 · 三个爱好，三种结构", ""], "L38:oral-T1:voyage": ["口语 T1 · 三道拓展题", "红色五角星那道优先。"], "L38:oral-T2:opening": ["口语 T2 · 礼貌开场三件套", "所有「问邻居」的题都能直接用。"], "L38:oral-T2:frames": ["口语 T2 · 三种提问句式", "前两句要脱口而出。"], "L38:oral-T2:lieu": ["口语 T2 · 三个「在附近」", ""], "L38:oral-T2:quartier": ["口语 T2 · 思维导图主题词", "课上老师只说了中文，这些法语来自他课后发的讲义。"], "L38:oral-T2:mindmap-handout": ["口语 T2 · 讲义补充（课上没讲）", ""], "L38:oral-T2:handout-framework": ["口语 T2 · 回应与收尾（课上完全没讲）", "T2 对话的后半段，之前整块是空的。"], "L38:oral-T2:past-prompts": ["口语 T2 · 历年真题的提示词", "8 个月至少考了 7 次，提示词换词不换类。"]};
+const TIERLBL = {class:'', handout:'讲义', ai:'AI'};
+function esc(s){return (s||'').replace(/[&<>]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;'}[c]));}
+(function render(){
+  const byRef = {};
+  VOCAB.forEach(v => (byRef[v.ref] = byRef[v.ref] || []).push(v));
+  const order = Object.keys(GROUPS);
+  const html = order.filter(r => byRef[r]).map(ref => {
+    const rows = byRef[ref], g = GROUPS[ref];
+    return '<div class="vgroup"><h4>' + esc(g[0]) + '<span class="cnt">' + rows.length + ' 条</span></h4>'
+      + (g[1] ? '<p class="sub">' + esc(g[1]) + '</p>' : '')
+      + rows.map(v =>
+          '<div class="vrow t-' + v.tier + '" data-t="' + v.tier + '">'
+          + '<span class="l">' + esc(v.lemma) + '</span>'
+          + '<span class="m">' + esc(v.zh) + '</span>'
+          + '<span class="stamp' + (v.tier === 'handout' ? ' paper' : '') + '">'
+          + (v.tier === 'class' ? esc((v.time || '').split(';')[0].trim()) : TIERLBL[v.tier]) + '</span>'
+          + (v.ex ? '<span class="vex">' + esc(v.ex) + '</span>' : '')
+          + '</div>').join('')
+      + '</div>';
+  }).join('');
+  document.getElementById('vlist').innerHTML = html;
+})();
+const on = {class:true, handout:true, ai:true};
+document.querySelectorAll('button.tier').forEach(b => b.addEventListener('click', () => {
+  const t = b.dataset.t;
+  on[t] = !on[t];
+  b.setAttribute('aria-pressed', String(on[t]));
+  document.querySelectorAll('.vrow').forEach(r => { r.hidden = !on[r.dataset.t]; });
+}));
+const links = [...document.querySelectorAll('nav.rail a')];
+const obs = new IntersectionObserver(es => es.forEach(e => {
+  if (!e.isIntersecting) return;
+  links.forEach(a => a.classList.toggle('on', a.getAttribute('href') === '#' + e.target.id));
+}), {rootMargin: '-10% 0px -80% 0px'});
+document.querySelectorAll('section[id]').forEach(s => obs.observe(s));
+</script>
